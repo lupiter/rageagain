@@ -75,8 +75,22 @@ const findMissingPlaylists = async () => {
       const special = /am|pm$/gi.test(teaserText) ? null : teaserText.trim()
 
       const dateString = cleanDate(title)
-      if (!dateString) return;
-      const date = chrono.parseDate(dateString)
+      if (!dateString) {
+        console.log(`${dateString} not a recognisable date string`)
+        return;
+      }
+
+      let referenceDate = new Date('2024-01-01')
+      if (!dateString.match(/202\d/)) {
+        console.log(`${dateString} has no year?`)
+        console.log(playlist)
+        // The one tracklist in 2023 without a year in the title
+        if (tracklistUrl == "https://www.abc.net.au/rage/playlist/friday-night-22-december-on-abc-tv/103241478") {
+          referenceDate = new Date('2023-12-22')
+        }
+      }
+
+      const date = chrono.parseDate(dateString, referenceDate)
 
       if (!date)
       return console.error(`No date found for playlist "${title}"`)
