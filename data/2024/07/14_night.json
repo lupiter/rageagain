@@ -1,0 +1,87 @@
+{
+  "title": "Sunday night 14 July 2024 on ABC Entertains",
+  "special": "The VAULT Hard Rock & Metal 1988",
+  "timeslot": "night",
+  "date": "2024-07-14",
+  "url": "https://www.abc.net.au/rage/playlist/sunday-night-14-july-2024-on-abc-entertains/104092916",
+  "tracks": [
+    {
+      "artist": "METALLICA",
+      "song": "One",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "CORONER",
+      "song": "Masked Jackal",
+      "label": "Shock",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ANTHRAX",
+      "song": "Antisocial",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SUICIDAL TENDENCIES",
+      "song": "Trip At The Brain",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "JANE'S ADDICTION",
+      "song": "Mountain Song",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LIVING COLOUR",
+      "song": "Cult Of Personality",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Sweet Child O' Mine",
+      "label": "BMG",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "L.A. GUNS",
+      "song": "One More Reason",
+      "label": null,
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KIX",
+      "song": "Cold Blood",
+      "label": "Atlantic",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "FREHLEY'S COMET",
+      "song": "Insane",
+      "label": "Atlantic",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Can I Play With Madness",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "OZZY OSBOURNE",
+      "song": "Miracle Man",
+      "label": "Epic",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "LITA FORD and OZZY OSBOURNE",
+      "song": "Close My Eyes Forever",
+      "label": "BMG",
+      "timeslot": "00:30:00"
+    }
+  ]
+}

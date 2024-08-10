@@ -1,0 +1,693 @@
+{
+  "title": "Saturday night 11 May 2024 on ABC TV",
+  "special": null,
+  "timeslot": "night",
+  "date": "2024-05-11",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-may-2024-on-abc-tv/103832780",
+  "tracks": [
+    {
+      "artist": "THE DEAD SOUTH",
+      "song": "In Hell I'll Be In Good Company",
+      "label": "Six Shooter Records",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Crying Lightning",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "KINGS OF LEON",
+      "song": "The Bucket",
+      "label": "BMG",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "VIAGRA BOYS",
+      "song": "Punk Rock Loser",
+      "label": "YEAR0001",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "PAUL SIMON",
+      "song": "Me And Julio Down By The Schoolyard",
+      "label": null,
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SUPERTRAMP",
+      "song": "The Logical Song",
+      "label": "A and M Records",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KANSAS",
+      "song": "Carry On Wayward Son",
+      "label": "CBS",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "Even Flow",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DANZIG",
+      "song": "Mother '93",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "FUGAZI",
+      "song": "Suggestion",
+      "label": "Independent",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "TV ON THE RADIO - LIVE",
+      "song": "Wolf Like Me",
+      "label": "Remote Control",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KING GIZZARD AND THE LIZARD WIZARD",
+      "song": "Gamma Knife / People Vultures",
+      "label": "Independent",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "Hotel Yorba",
+      "label": "Shock",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE B-52S",
+      "song": "Love Shack",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Song 2",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Just",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Juicebox",
+      "label": "SBME",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "AMY WINEHOUSE",
+      "song": "Rehab",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "STURGILL SIMPSON",
+      "song": "In Bloom",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WILLIE NELSON",
+      "song": "On The Road Again",
+      "label": "CBS",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CREEDENCE CLEARWATER REVIVAL",
+      "song": "Fortunate Son (Live at the Royal Albert Hall, 1970)",
+      "label": "Concord Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE DOORS",
+      "song": "People Are Strange",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Paranoid",
+      "label": "Vertigo",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOOL",
+      "song": "Stinkfist",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BAD RELIGION",
+      "song": "American Jesus",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STRIKE ANYWHERE",
+      "song": "Instinct",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE OFFSPRING",
+      "song": "The Kids Aren't Alright",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE DISTILLERS",
+      "song": "The Hunger",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Aerials",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BILLY TALENT",
+      "song": "Try Honestly",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MISFITS",
+      "song": "Scream",
+      "label": "Roadrunner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TRIVIUM",
+      "song": "Pull Harder On The Strings",
+      "label": "Roadrunner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SUM41",
+      "song": "The Hell Song",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Freak On A Leash",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LIMP BIZKIT",
+      "song": "Nookie",
+      "label": "MCA)",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Clint Eastwood",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "B.O.B.",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "C.R.E.A.M.",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DR DRE ft. SNOOP DOGG",
+      "song": "Still D.R.E.",
+      "label": "MCA)",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Californication",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE SMASHING PUMPKINS",
+      "song": "Empires",
+      "label": "Martha's Music",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LINKIN PARK",
+      "song": "Papercut",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SPOON",
+      "song": "Sister Jack",
+      "label": "Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Undone: The Sweater Song",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TIMBER TIMBRE",
+      "song": "Hot Dreams",
+      "label": "Dew Process",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JACK JOHNSON",
+      "song": "Better Together",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SUBLIME",
+      "song": "Bad Fish",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE BLACK KEYS",
+      "song": "Strange Times",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "COLD WAR KIDS",
+      "song": "Hospital Beds",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE SHINS",
+      "song": "Kissing The Lipless",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "WILLIAM CRIGHTON",
+      "song": "Jesus Blues",
+      "label": "ABC",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DEAD SOUTH",
+      "song": "Tiny Wooden Box",
+      "label": "Six Shooter Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DEAD SOUTH",
+      "song": "Chop Suey",
+      "label": "Six Shooter Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DEAD SOUTH",
+      "song": "People Are Strange",
+      "label": "Six Shooter Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DEAD SOUTH",
+      "song": "You Are My Sunshine",
+      "label": "Six Shooter Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DEAD SOUTH",
+      "song": "Diamond Ring",
+      "label": "Six Shooter Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DEAD SOUTH",
+      "song": "Boots",
+      "label": "Six Shooter Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE DEAD SOUTH",
+      "song": "Miss Mary",
+      "label": "Six Shooter Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE DEAD SOUTH",
+      "song": "Banjo Odyssey",
+      "label": "Six Shooter Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE DEAD SOUTH",
+      "song": "Honey You",
+      "label": "Six Shooter Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE DEAD SOUTH",
+      "song": "Yours To Keep",
+      "label": "Six Shooter Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE DEAD SOUTH",
+      "song": "Long Gone",
+      "label": "Six Shooter Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE DEAD SOUTH",
+      "song": "The Recap",
+      "label": "Six Shooter Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OLD CROW MEDICINE SHOW",
+      "song": "Tell It To Me",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OLD CROW MEDICINE SHOW",
+      "song": "Wagon Wheel",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OLD CROW MEDICINE SHOW",
+      "song": "I Hear Them All",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE POGUES",
+      "song": "Dirty Old Town",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE POGUES",
+      "song": "A Pair Of Brown Eyes",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "POGUES, THE and THE DUBLINERS",
+      "song": "The Irish Drover",
+      "label": "Festival",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ORVILLE PECK",
+      "song": "Summertime",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ORVILLE PECK",
+      "song": "No Glory In The West",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ORVILLE PECK",
+      "song": "The Curse of the Blackened Eye",
+      "label": "Columbia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MUMFORD and SONS",
+      "song": "Babel",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MUMFORD and SONS",
+      "song": "Little Lion Man",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MUMFORD and SONS",
+      "song": "I Will Wait",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "The Hardest Button To Button",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "Icky Thump",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "Conquest",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "I Just Don't Know What To Do With Myself",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "Dead Leaves And The Dirty Ground",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "IMAGINE DRAGONS ft. J BALVIN",
+      "song": "Eyes Closed",
+      "label": "Interscope Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DUA LIPA",
+      "song": "Illusion",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BAKAR",
+      "song": "Hell N Back (clean version)",
+      "label": "Black Butter Ltd.",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SOFI TUKKER",
+      "song": "Throw Some Ass (censored version)",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AVA MAX",
+      "song": "My Oh My",
+      "label": "Atlantic",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AMY SHARK",
+      "song": "Loving Me Lover",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TEDDY SWIMS",
+      "song": "The Door",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DOJA CAT ft. TEEZO TOUCHDOWN",
+      "song": "MASC (censored version)",
+      "label": "Columbia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MARK AMBOR",
+      "song": "Belong Together",
+      "label": "Hundred Day Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MICHAEL MARCAGI",
+      "song": "Scared To Start",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TATE McRAE",
+      "song": "Greedy",
+      "label": "RCA",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ARIANA GRANDE",
+      "song": "We Can't Be Friends (Wait For Your Love)",
+      "label": "Republic Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DASHA",
+      "song": "Austin",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TEDDY SWIMS",
+      "song": "Lose Control (Live)",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NOAH KAHAN",
+      "song": "Stick Season",
+      "label": "Mercury Records / Republic Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BENSON BOONE",
+      "song": "Beautiful Things",
+      "label": "Night Street Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SABRINA CARPENTER",
+      "song": "Espresso (clean version)",
+      "label": "Island Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT ft. POST MALONE",
+      "song": "Fortnight",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KAIIT",
+      "song": "Space",
+      "label": "Big Sis Energy Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NICK WARD",
+      "song": "Shooting Star (censored version)",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DOM DOLLA",
+      "song": "Saving Up",
+      "label": "Dom Dolla Music",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ANDREW GURRUWIWI BAND",
+      "song": "Yaa Djamarrkuli",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GRACIE ABRAMS",
+      "song": "Risk",
+      "label": "Interscope Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KUCKA",
+      "song": "Wasting Time (Til The End Of The World)",
+      "label": "Soothsayer",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GROND",
+      "song": "Yellow Mustard Shirt",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WASHED OUT",
+      "song": "The Hardest Part",
+      "label": "Sub Pop",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TELENOVA",
+      "song": "Power",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "REBEL YELL and CONG JOSIE",
+      "song": "The Heat",
+      "label": "Dinosaur City",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FANNING DEMPSEY NATIONAL PARK",
+      "song": "Disconnect",
+      "label": "Dew Process",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PETER BIBBY",
+      "song": "Terracotta Brick",
+      "label": "Spinning Top",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CRUMB",
+      "song": "The Bug",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE RUBENS",
+      "song": "Black Balloon",
+      "label": "Ivy League",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "Starburster (censored version)",
+      "label": "XL",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GUM / AMBROSE KENNY-SMITH",
+      "song": "Ill Times",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

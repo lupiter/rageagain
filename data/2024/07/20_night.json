@@ -1,0 +1,75 @@
+{
+  "title": "Saturday night 20 July 2024 on ABC Entertains",
+  "special": "Metallica special",
+  "timeslot": "night",
+  "date": "2024-07-20",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-20-july-2024-on-abc-entertains/104122482",
+  "tracks": [
+    {
+      "artist": "METALLICA",
+      "song": "One",
+      "label": "Mercury",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "The Unforgiven",
+      "label": "Mercury",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Wherever I May Roam",
+      "label": "Mercury",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "For Whom The Bell Tolls",
+      "label": "Mercury",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "The Memory Remains",
+      "label": "Mercury",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Mama Said",
+      "label": "Mercury",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Enter Sandman",
+      "label": "Mercury",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Fuel (Live on Recovery)",
+      "label": null,
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "St. Anger",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Sad But True",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Nothing Else Matters",
+      "label": "Mercury",
+      "timeslot": "01:00:00"
+    }
+  ]
+}

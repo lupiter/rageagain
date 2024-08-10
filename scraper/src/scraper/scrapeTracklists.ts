@@ -25,7 +25,8 @@ export const scraperV1 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistT
     while ($item.length) {
       const artist = $item.text().trim()
       const song = $item.next('em').text().trim()
-      const label = stripParens($item.next('em')[0].nextSibling.data?.trim())
+      const nextEm: cheerio.TagElement = $item.next('em')[0] as cheerio.TagElement
+      const label = stripParens(nextEm.nextSibling.data?.trim())
 
       tracks.push({
         artist,
@@ -69,7 +70,8 @@ export const scraperV2 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistT
       let song = $li.find('em').text().trim()
 
       // Find last non-empty child text node
-      let label = findLabel($li[0].children)
+      const tagLi = $li[0] as cheerio.TagElement
+      let label = findLabel(tagLi.children)
 
       // Fallback to text parser for some older pages.
       // For an example of a page that needs this see:
@@ -128,6 +130,6 @@ export const scrapeTracklist = async (tracklistUrl: string): Promise<PlaylistTra
     console.log(`Scraper v${result.scraper} found ${result.tracks.length} tracks at "${tracklistUrl}"`)
     return result.tracks
   } catch (e) {
-    throw new Error(e.message + ' at ' + tracklistUrl)
+    throw new Error(e + ' at ' + tracklistUrl)
   }
 }

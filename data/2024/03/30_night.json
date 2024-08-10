@@ -1,0 +1,603 @@
+{
+  "title": "Saturday night 30 March 2024 on ABC TV",
+  "special": null,
+  "timeslot": "night",
+  "date": "2024-03-30",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-30-march-2024-on-abc-tv/103647732",
+  "tracks": [
+    {
+      "artist": "HOLE",
+      "song": "Miss World",
+      "label": "DGC Records",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Bringing On The Heartbreak",
+      "label": "Polydor",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE CULT",
+      "song": "She Sells Sanctuary",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Rhinoceros",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "HUSKER DU",
+      "song": "Don't Want To Know If You Are Lonely",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE PIXIES",
+      "song": "Here Comes Your Man",
+      "label": "Shock",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Sliver",
+      "label": "MCA)",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Under The Milky Way",
+      "label": "Mushroom",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE LEMONHEADS",
+      "song": "Into Your Arms",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Away With The Pixies",
+      "label": "Shock",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PLACEBO",
+      "song": "Pure Morning",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Army Of Me",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE VERVE",
+      "song": "Bittersweet Symphony",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Unfinished Sympathy",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PRIMAL SCREAM",
+      "song": "Kowalski",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RUN DMC",
+      "song": "It's Tricky",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Gett Off",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "The Rockafeller Skank",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Setting Sun",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "That's Entertainment",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ECHO and THE BUNNYMEN",
+      "song": "The Cutter",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE SMITHS",
+      "song": "The Queen Is Dead",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HOODOO GURUS",
+      "song": "Bittersweet",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE RUNAWAYS",
+      "song": "Cherry Bomb",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Hanging On The Telephone",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "Dress",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GIRLS AGAINST BOYS",
+      "song": "Superfire",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ORANGE 9MM",
+      "song": "High Speed Changer",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BAD BRAINS",
+      "song": "Soul Craft",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS",
+      "song": "The Mercy Seat",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE DIRTY THREE",
+      "song": "Everything's Fucked",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE SAINTS",
+      "song": "Ghost Ships",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ANITA LANE",
+      "song": "Jesus Almost Got Me",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MAZZY STAR",
+      "song": "Fade Into You",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE CARPENTERS",
+      "song": "Superstar",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EAGLES",
+      "song": "Hotel California",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CARS",
+      "song": "Just What I Needed",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "IMPERIAL TEEN",
+      "song": "You're One",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MING TEA",
+      "song": "BBC",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEAD OR ALIVE",
+      "song": "You Spin Me Round (Like A Record)",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Paradise City",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "A.D.I.D.A.S.",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Come To Daddy",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ORBITAL",
+      "song": "Are We Here",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TRICKY",
+      "song": "Christian Sands",
+      "label": "Mercury",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JEFF BUCKLEY - LIVE IN CONCERT",
+      "song": "Grace",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE VELVET UNDERGROUND",
+      "song": "Venus In Furs",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Doll Parts",
+      "label": "Geffen",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Violet",
+      "label": "Geffen",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Gold Dust Woman",
+      "label": "Polydor",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Softer Softest",
+      "label": "MCA)",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Celebrity Skin",
+      "label": "Geffen",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Malibu",
+      "label": "Geffen",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Awful",
+      "label": "MCA)",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Be A Man",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Nothing Really Matters",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Anthem For The Year 2000",
+      "label": "Murmur",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Shazam",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LAURYN HILL",
+      "song": "Doo Wop (That Thing)",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JENNIFER LOVE HEWITT",
+      "song": "How Do I Deal With Love",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BRYAN ADAMS featuring MELANIE C",
+      "song": "When You're Gone",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BOYZONE",
+      "song": "No Matter What",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SHAWN MULLINS",
+      "song": "Lullaby",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SHANIA TWAIN",
+      "song": "That Don't Impress Me Much",
+      "label": "Mercury",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE OFFSPRING",
+      "song": "Pretty Fly (For A White Guy)",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "B Z featuring JOANNE",
+      "song": "Jackie",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "...Baby One More Time",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CHER",
+      "song": "Believe",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Praise You",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SONIC ANIMATION",
+      "song": "Theophilus Thistler",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GERLING - LIVE ON 10.30 SLOT",
+      "song": "Enter Space Capsule",
+      "label": "Festival",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TISM",
+      "song": "I'm Interested In Apathy (Live on The Factory, 1988)",
+      "label": "Elvis Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SHIHAD",
+      "song": "The General Electric",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Got The Life",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE SUPERJESUS",
+      "song": "Down Again",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CRUEL SEA",
+      "song": "The Honeymoon Is Over",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Prisoner Of Society",
+      "label": "MDS",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JEBEDIAH",
+      "song": "Leaving Home",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ASH",
+      "song": "Girl From Mars",
+      "label": "Mushroom",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EVEN",
+      "song": "Black Umbrella",
+      "label": "Rubber",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HEADLESS CHICKENS",
+      "song": "Cruise Control",
+      "label": "Mushroom",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "POWDERFINGER",
+      "song": "The Day You Come",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BIC RUNGA",
+      "song": "Sway",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KINGS OF LEON",
+      "song": "Mustang",
+      "label": "Capitol",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "VAMPIRE WEEKEND",
+      "song": "Classical",
+      "label": "Columbia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE DENT MAY ft. PEARL and OYSTERS",
+      "song": "Time Flies When You're Having Fun",
+      "label": "Carpark",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HELLCAT SPEEDRACER and MILLIE FORD",
+      "song": "Lovestruck",
+      "label": "Island Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TEENAGE DADS",
+      "song": "Weaponz",
+      "label": "Chugg Music",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PARSNIP",
+      "song": "Turn To Love",
+      "label": "Anti Fade Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FRED AGAIN... and LIL YACHTY and OVERMONO",
+      "song": "Stayinit",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "A. SWAYZE and THE GHOSTS",
+      "song": "Cool Cucumber",
+      "label": "Look Here! Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FOOL NELSON",
+      "song": "Alright",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DRUNK MUMS",
+      "song": "New Australia",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KHRUANGBIN",
+      "song": "May Ninth",
+      "label": "Dead Oceans / Night Time Stories",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FOREST CLAUDETTE",
+      "song": "Kobe Beef",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LIME CORDIALE",
+      "song": "The Big Reveal; Ou L'Hypocrite (censored version)",
+      "label": "Chugg Music",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KING STINGRAY",
+      "song": "Through The Trees",
+      "label": "Cooking Vinyl",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE RUBENS",
+      "song": "Liquid Gold",
+      "label": "Ivy League",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ANGUS and JULIA STONE",
+      "song": "Cape Forestier",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

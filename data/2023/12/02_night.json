@@ -1,0 +1,585 @@
+{
+  "title": "Saturday night 2 December 2023 on ABC TV",
+  "special": null,
+  "timeslot": "night",
+  "date": "2023-12-02",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-2-december-2023-on-abc-tv/103177670",
+  "tracks": [
+    {
+      "artist": "OLLIE OLSEN",
+      "song": "Win/Lose (Dogs In Space Soundtrack)",
+      "label": "Ghost",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MICHAEL HUTCHENCE",
+      "song": "Rooms For The Memories (Dogs In Space Soundtrack)",
+      "label": "Ghost",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MARIE HOY, OLLIE OLSEN and FRIENDS",
+      "song": "Shivers (Dogs In Space Soundtrack)",
+      "label": "Ghost",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Atmosphere",
+      "label": "Festival",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE FLAMING LIPS",
+      "song": "Do You Realize?? (Band version)",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Maps",
+      "label": "Modular",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "PRIMITIVE CALCULATORS",
+      "song": "I Can't Stop It",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE POP GROUP",
+      "song": "She Is Beyond Good and Evil",
+      "label": null,
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PSYCHIC TV",
+      "song": "Papal Breakdance",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THROBBING GRISTLE",
+      "song": "Discipline",
+      "label": "Fetish",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE BIRTHDAY PARTY",
+      "song": "Nick The Stripper",
+      "label": "Mushroom",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE CRAMPS - LIVE ON COUNTDOWN REVOLUTION",
+      "song": "Creature From The Black Leather Lagoon",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "Guided By Angels",
+      "label": "B2B Records / Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "ALAN VEGA",
+      "song": "Wipeout Beat",
+      "label": "MCA)",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THIRD EYE",
+      "song": "The Real Thing",
+      "label": "Fest/Mush",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SYLVESTER",
+      "song": "You Make Me Feel (Mighty Real)",
+      "label": "Fantasy",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DIAMANDA GALAS",
+      "song": "Double Barrelled Prayer",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WOMACK and WOMACK",
+      "song": "Teardrops",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DAFT PUNK featuring PHARRELL WILLIAMS",
+      "song": "Get Lucky",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "Fight The Power",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MAX Q",
+      "song": "Way Of The World",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Wuthering Heights",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Wild Is The Wind",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KC and THE SUNSHINE BAND",
+      "song": "Please Don't Go",
+      "label": "Epic",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE SAINTS",
+      "song": "Ghost Ships",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SPLIT ENZ",
+      "song": "Six Months In A Leaky Boat",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CABARET VOLTAIRE",
+      "song": "Sensoria",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GARY NUMAN",
+      "song": "My Name Is Ruin",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "I Hear Motion",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Wrote For Luck",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ADAMSKI",
+      "song": "Killer",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DIED PRETTY",
+      "song": "Winterland",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "I Wanna Be Adored",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ALEC EMPIRE",
+      "song": "Addicted To You",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MAX Q",
+      "song": "Sometimes",
+      "label": "CBS",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Unfinished Sympathy",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FEVER RAY",
+      "song": "If I Had A Heart",
+      "label": "MOS",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ARCA",
+      "song": "Nonbinary",
+      "label": "XL",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LADYTRON",
+      "song": "Destroy Everything You Touch",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Runaway",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SCOTT WALKER and SUNN O)))",
+      "song": "Brando",
+      "label": "4AD",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ROWLAND S HOWARD",
+      "song": "Shivers (Live on Studio 22)",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ROWLAND S HOWARD",
+      "song": "Exit Everything",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SOFT CELL",
+      "song": "Where The Heart Is",
+      "label": "Vertigo",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANTONY and THE JOHNSONS",
+      "song": "You Are My Sister",
+      "label": "Spunk/Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ZOLA JESUS",
+      "song": "Night",
+      "label": "Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LADYHAWKE",
+      "song": "My Delirium",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ROBYN",
+      "song": "With Every Heartbeat",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Oblivion",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NO",
+      "song": "Hyperreality (Live On Countdown Revolution, 1989)",
+      "label": "Ultimate Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SIGUE SIGUE SPUTNIK",
+      "song": "Love Missile F1-11",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "I Wanna Be Sedated",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PRIMITIVE GHOST",
+      "song": "Skin",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "VACUUM",
+      "song": "Dredd",
+      "label": "It Records / Heavy Machinery Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Come To Daddy",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Windowlicker",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MICK HARVEY and ANITA LANE",
+      "song": "Harley Davidson",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SIOUXSIE and THE BANSHEES",
+      "song": "Hong Kong Garden",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BILLY IDOL",
+      "song": "Eyes Without A Face",
+      "label": "Chrysalis",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ADALITA",
+      "song": "Rooms For The Memory 2023",
+      "label": "Psy-Harmonics / Public Opinion",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ECCO HOMO",
+      "song": "New York New York",
+      "label": "rooART",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ECCO HOMO",
+      "song": "Motorcycle Baby",
+      "label": "rooART",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MAX Q",
+      "song": "Monday Night By Satellite",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "OLLIE OLSEN and ROWLAND S. HOWARD",
+      "song": "Interviewed on Music Around Us, 1977",
+      "label": "ABC",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ROWLAND S HOWARD",
+      "song": "Golden Age Of Bloodshed",
+      "label": "Liberation",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SLEAFORD MODS",
+      "song": "West End Girls",
+      "label": "Rough Trade",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "REAL ESTATE",
+      "song": "Water Underground",
+      "label": "Domino",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TEENAGE DADS",
+      "song": "Tale Of A Man",
+      "label": "Chugg Music",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK FT. ROSALIA",
+      "song": "Oral",
+      "label": "One Little Independent Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MISO EXTRA",
+      "song": "2nd Floor",
+      "label": "Transgressive Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WISP",
+      "song": "Your Face",
+      "label": "Music Soup / Interscope Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HALO MAUD",
+      "song": "Terres Infinies",
+      "label": "Heavenly Recordings",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JOSEPHINE NETWORK",
+      "song": "Valerie",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LIMINAL",
+      "song": "I Live For You",
+      "label": "Red Satin Recordings",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FLIMSEY LOHAN",
+      "song": "Disco Business",
+      "label": "Peak Life",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JORDAN BRITON",
+      "song": "Make It So Easy (ft. JUNO)",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DRAX PROJECT",
+      "song": "Luxury",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HOLLY HUMBERSTONE",
+      "song": "Elvis Impersonators",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "YT DINGO",
+      "song": "Temptalien (feat. Emily _and_ Angela Wurramurra)",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LIME CORDIALE",
+      "song": "Pedestal",
+      "label": "Chugg Music",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THELMA PLUM",
+      "song": "We Don't Talk About It",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JEBEDIAH",
+      "song": "Rubberman",
+      "label": "Cooking Vinyl",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "COWBOY MALFOY",
+      "song": "Head Start",
+      "label": "Lustre",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BIIG PIIG",
+      "song": "Watch Me",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE SMILE",
+      "song": "Wall Of Eyes",
+      "label": "XL",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DEEPFAITH",
+      "song": "Daddy",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FRANK CARTER and THE RATTLESNAKES",
+      "song": "Brambles",
+      "label": "International Death Cult / AWAL",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WINKSY",
+      "song": "Sport",
+      "label": "Bonsai Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ANGUS LEGG",
+      "song": "Spaceship",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "REMA",
+      "song": "Trouble Maker",
+      "label": "Mavin Records / Virgin Music Australia",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "YUNGBLUD",
+      "song": "Happier (feat. Oli Sykes)",
+      "label": "Geffen Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "NOCTURNAL ANIMALS",
+      "song": "Panic Attack",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MANNEQUIN PUSSY",
+      "song": "Sometimes",
+      "label": "Epitaph",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HARLEY ALASKA",
+      "song": "Deja Vu",
+      "label": "Imperial",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "POGUES, THE ft. KIRSTY MacCOLL",
+      "song": "Fairytale of New York (censored version)",
+      "label": "Pogue Mahone Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE POGUES",
+      "song": "Dirty Old Town",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    }
+  ]
+}
