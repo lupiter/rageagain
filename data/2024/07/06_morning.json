@@ -1,9 +1,9 @@
 {
   "title": "Saturday morning 6 July 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-6-july-2024-on-abc-tv/104065698",
-  "special": "Saturday morning 6 July 2024 on ABC TV, Charts, The VAULT, Best New Music Videos, 3% guest program rage, NAIDOC Week Fire Special",
+  "special": null,
   "timeslot": "morning",
   "date": "2024-07-06",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-6-july-2024-on-abc-tv/104065698",
   "tracks": [
     {
       "artist": "NEWJEANS",
@@ -164,7 +164,7 @@
     {
       "artist": "GUM and AMBROSE KENNY-SMITH",
       "song": "Dud",
-      "label": "p(doom)",
+      "label": "doom)",
       "timeslot": "09:30:00"
     },
     {

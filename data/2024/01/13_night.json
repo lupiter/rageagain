@@ -1,9 +1,9 @@
 {
   "title": "Saturday night 13 January 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-night-13-january-2024-on-abc-tv/103315272",
-  "special": "Blink-182 guest programs rage",
+  "special": null,
   "timeslot": "night",
   "date": "2024-01-13",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-13-january-2024-on-abc-tv/103315272",
   "tracks": [
     {
       "artist": "BLINK 182",
@@ -44,7 +44,7 @@
     {
       "artist": "NIRVANA",
       "song": "Sliver",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "00:00:00"
     },
     {
@@ -98,7 +98,7 @@
     {
       "artist": "THE CANDYSKINS",
       "song": "Wembley",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "00:30:00"
     },
     {
@@ -146,7 +146,7 @@
     {
       "artist": "BECK",
       "song": "Devil's Haircut",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "01:00:00"
     },
     {
@@ -224,7 +224,7 @@
     {
       "artist": "ROCKET FROM THE CRYPT",
       "song": "Young Livers",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "01:30:00"
     },
     {
@@ -284,13 +284,13 @@
     {
       "artist": "BLINK 182",
       "song": "What's My Age Again?",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "02:00:00"
     },
     {
       "artist": "BLINK 182",
       "song": "All The Small Things",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "02:00:00"
     },
     {
@@ -626,7 +626,7 @@
     {
       "artist": "REEL BIG FISH",
       "song": "Sell Out",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "05:30:00"
     },
     {
@@ -644,7 +644,7 @@
     {
       "artist": "CHERRY POPPIN' DADDIES",
       "song": "Zoot Suit Riot",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "05:30:00"
     },
     {

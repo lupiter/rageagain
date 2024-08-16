@@ -1,9 +1,9 @@
 {
   "title": "Saturday night 18 May 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-may-2024-on-abc-tv/103863434",
-  "special": "Radio Birdman guest program rage",
+  "special": null,
   "timeslot": "night",
   "date": "2024-05-18",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-may-2024-on-abc-tv/103863434",
   "tracks": [
     {
       "artist": "RADIO BIRDMAN",
@@ -146,7 +146,7 @@
     {
       "artist": "ALAN VEGA",
       "song": "Wipeout Beat",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "01:00:00"
     },
     {
@@ -368,7 +368,7 @@
     {
       "artist": "ELASTICA",
       "song": "Connection",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "03:30:00"
     },
     {
@@ -404,7 +404,7 @@
     {
       "artist": "BECK",
       "song": "Devil's Haircut",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "04:00:00"
     },
     {
@@ -476,7 +476,7 @@
     {
       "artist": "THE SCIENTISTS",
       "song": "Blood Red River",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "05:00:00"
     },
     {

@@ -1,99 +1,333 @@
 {
-  "title": "Friday night 26 July 2024 on ABC Entertains",
-  "url": "https://www.abc.net.au/rage/playlist/friday-night-26-july-2024-on-abc-entertains/104148414",
-  "special": "Vault guest programmer: Grinspoon (1998)\n ",
+  "title": "Friday night 26 July 2024 on ABC TV",
+  "special": "John Mayall Tribute, New Music Show",
   "timeslot": "night",
   "date": "2024-07-26",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-26-july-2024-on-abc-tv/104148412",
   "tracks": [
     {
-      "artist": "GRINSPOON",
-      "song": "Sickfest",
-      "label": "Independent",
-      "timeslot": "23:30:00"
+      "artist": "JOHN MAYALL",
+      "song": "Interviewed on GTK (1972)",
+      "label": "ABC",
+      "timeslot": "01:30:00"
     },
     {
-      "artist": "BROS",
-      "song": "When Will I Be Famous?",
-      "label": "Sony",
-      "timeslot": "23:30:00"
+      "artist": "JOHN MAYALL",
+      "song": "At The Hordern Pavilion, Sydney (Live on GTK, 1973)",
+      "label": "ABC",
+      "timeslot": "02:00:00"
     },
     {
-      "artist": "THE PLUNDERERS",
-      "song": "Christo",
-      "label": "Independent",
-      "timeslot": "23:30:00"
+      "artist": "KACEY MUSGRAVES",
+      "song": "Cardinal",
+      "label": "Interscope Records",
+      "timeslot": "02:30:00"
     },
     {
-      "artist": "YELLO",
-      "song": "Oh Yeah",
-      "label": "Polydor",
-      "timeslot": "23:30:00"
+      "artist": "ROYEL OTIS",
+      "song": "Merry Mary Marry Me",
+      "label": "Ourness",
+      "timeslot": "02:30:00"
     },
     {
-      "artist": "P.I.L.",
-      "song": "Rise",
-      "label": "Virgin",
-      "timeslot": "00:00:00"
-    },
-    {
-      "artist": "STEVIE WRIGHT",
-      "song": "Evie (Parts I, II and III)",
-      "label": "Sony",
-      "timeslot": "00:00:00"
-    },
-    {
-      "artist": "THE EASYBEATS",
-      "song": "She's So Fine",
-      "label": "EMI",
-      "timeslot": "00:00:00"
-    },
-    {
-      "artist": "JANE'S ADDICTION",
-      "song": "Been Caught Stealing",
+      "artist": "JESSB ft. SISTER NANCY and SAMPA THE GREAT",
+      "song": "Power",
       "label": "Warner",
-      "timeslot": "00:00:00"
+      "timeslot": "02:30:00"
     },
     {
-      "artist": "M.A.R.R.S.",
-      "song": "Pump Up The Volume",
-      "label": "Virgin",
-      "timeslot": "00:00:00"
+      "artist": "ICE SPICE and CENTRAL CEE",
+      "song": "Did It First",
+      "label": "10k Projects / Capitol",
+      "timeslot": "02:30:00"
     },
     {
-      "artist": "SONIC YOUTH",
-      "song": "Teenage Riot",
-      "label": "Universal (MCA)",
-      "timeslot": "00:30:00"
+      "artist": "CHILDISH GAMBINO",
+      "song": "Lithonia",
+      "label": "Liberator",
+      "timeslot": "02:30:00"
     },
     {
-      "artist": "THE HARD-ONS",
-      "song": "Something About You",
-      "label": "Festival",
-      "timeslot": "00:30:00"
+      "artist": "SKELETEN",
+      "song": "Deep Scene",
+      "label": "Astral People",
+      "timeslot": "02:30:00"
     },
     {
-      "artist": "GRINSPOON",
-      "song": "Just Ace",
-      "label": "Universal (MCA)",
-      "timeslot": "00:30:00"
+      "artist": "FRED AGAIN.. and ANDERSON .PAAK ft. CHIKA",
+      "song": "Places To Be",
+      "label": "Atlantic",
+      "timeslot": "02:30:00"
     },
     {
-      "artist": "GRINSPOON",
-      "song": "Post Enebriated Anxiety",
-      "label": "Universal (MCA)",
-      "timeslot": "00:30:00"
+      "artist": "GRACIE ABRAMS",
+      "song": "I Love You, I'm Sorry",
+      "label": "Interscope Records",
+      "timeslot": "03:00:00"
     },
     {
-      "artist": "GRINSPOON",
-      "song": "Repeat",
-      "label": "Universal (MCA)",
-      "timeslot": "00:30:00"
+      "artist": "JOE GODDARD ft. FINDIA",
+      "song": "Destiny",
+      "label": "Domino",
+      "timeslot": "03:00:00"
     },
     {
-      "artist": "GRINSPOON",
-      "song": "Black Friday",
-      "label": "Universal (MCA)",
-      "timeslot": "00:30:00"
+      "artist": "PARIS HILTON ft. RINA SAWAYAMA",
+      "song": "I'm Free",
+      "label": "11:11 Media",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CHIFFON MAGNIFIQUE",
+      "song": "Anxietika",
+      "label": "4000 Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "The Feeling You Get",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DASTE.",
+      "song": "Atlas",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ONEFOUR",
+      "song": "Prove 'Em Wrong",
+      "label": "OneFour Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ARTEMAS",
+      "song": "Dirty Little Secret",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "3% ft. JESSICA MAUBOY",
+      "song": "Won't Stop",
+      "label": "1788 Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "COSMO'S MIDNIGHT ft. SPILL TAB",
+      "song": "Eating Heartache",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "IVEY",
+      "song": "Counting Sheep",
+      "label": "Island Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SOFI TUKKER",
+      "song": "Hey Homie",
+      "label": "Ultra",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "REX ORANGE COUNTY",
+      "song": "Alexander",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KHALID",
+      "song": "Adore U",
+      "label": "RCA",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JOHN SUMMIT ft. PAIGE CAVELL",
+      "song": "Tears",
+      "label": "Expert Only / Darkroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "AYESHA MADON",
+      "song": "Blame Me",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "A Complicated Truth",
+      "label": "Eleven: A Music Company",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GUM and AMBROSE KENNY-SMITH",
+      "song": "Dud",
+      "label": "doom)",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ELLA THOMPSON",
+      "song": "Let There Be Nothing",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SOLSA",
+      "song": "Phone",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PARTYNEXTDOOR",
+      "song": "No Chill",
+      "label": "OVO",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SNAKEHIPS and EARTHGANG",
+      "song": "Glimmer.",
+      "label": "Never Worry Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "EMILY WURRAMARA ft. TASMAN KEITH",
+      "song": "Lordy Lordy",
+      "label": "ABC",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "IN HEARTS WAKE ft. WINSTON McCALL",
+      "song": "The Flood (Justice)",
+      "label": "UNFD",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SPEED",
+      "song": "Don't Need",
+      "label": "Last Ride Records / Flatspot Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KING GIZZARD AND THE LIZARD WIZARD",
+      "song": "Le Risque",
+      "label": "doom)",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "People In The Streets",
+      "label": "Mom and Pop",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ELIZA and THE DELUSIONALS ft. BRIAN AUBERT",
+      "song": "Lately",
+      "label": "Cooking Vinyl Australia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TELENOVA",
+      "song": "Discotheque Inside My Head",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ORVILLE PECK and BECK",
+      "song": "Death Valley High",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "POLISH CLUB",
+      "song": "How Dare You Fall In Love In This City",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BUDJERAH",
+      "song": "Is It Ever Gonna Make Sense",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BUOYS",
+      "song": "Ahead Of Myself",
+      "label": "Arcadia Music",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "STOCKER",
+      "song": "Haunting",
+      "label": "Ditto Music",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MEG MAC ft. MATT CORBY",
+      "song": "Bricks (Live)",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ANDREW GURRIWIWI BAND",
+      "song": "Wata Mawi",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TORO Y MOI ft. KEVIN ABSTRACT",
+      "song": "Heaven",
+      "label": "Dead Oceans",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NICK WARD",
+      "song": "All Your Life",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "J-MILLA",
+      "song": "Boomerang",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EMILY WURRAMARA ft. TASMAN KEITH",
+      "song": "Lordy Lordy (clean version)",
+      "label": "ABC Music",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FOREST CLAUDETTE",
+      "song": "Moonlight",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TEENAGE DADS",
+      "song": "Boyfriend",
+      "label": "Chugg",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KAYPS and CALVIN BENNETT",
+      "song": "Buon Giorno (clean version)",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "Favourite",
+      "label": "XL",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "The Way",
+      "label": "Independent",
+      "timeslot": "05:30:00"
     }
   ]
 }

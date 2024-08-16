@@ -1,87 +1,111 @@
 {
-  "title": "Monday night 30 July 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/monday-night-30-july-2024-on-abc-tv/104148500",
-  "special": "Best New Music Videos\n ",
+  "title": "Tuesday night 30 July 2024 on ABC Entertains",
+  "special": "Sibling special",
   "timeslot": "night",
   "date": "2024-07-30",
+  "url": "https://www.abc.net.au/rage/playlist/tuesday-night-30-july-2024-on-abc-entertains/104148504",
   "tracks": [
     {
-      "artist": "EMPIRE OF THE SUN",
-      "song": "The Feeling You Get",
-      "label": "EMI",
-      "timeslot": "02:00:00"
+      "artist": "SISTER SLEDGE",
+      "song": "We Are Family",
+      "label": "Warner",
+      "timeslot": "23:00:00"
     },
     {
-      "artist": "DASTE.",
-      "song": "Atlas",
-      "label": "Independent",
-      "timeslot": "02:00:00"
+      "artist": "THE PROCLAIMERS",
+      "song": "I'm Gonna Be (500 Miles)",
+      "label": "Festival",
+      "timeslot": "23:00:00"
     },
     {
-      "artist": "CHILDISH GAMBINO",
-      "song": "Lithonia",
-      "label": "Liberator",
-      "timeslot": "02:00:00"
+      "artist": "HAIM",
+      "song": "Want You Back",
+      "label": "Universal",
+      "timeslot": "23:00:00"
     },
     {
-      "artist": "ARTEMAS",
-      "song": "Dirty Little Secret",
-      "label": "Independent",
-      "timeslot": "02:00:00"
+      "artist": "SPLIT ENZ",
+      "song": "I Got You",
+      "label": "Fest/Mush",
+      "timeslot": "23:00:00"
     },
     {
-      "artist": "ELIZA and THE DELUSIONALS ft. BRIAN AUBERT",
-      "song": "Lately",
-      "label": "Cooking Vinyl Australia",
-      "timeslot": "02:00:00"
+      "artist": "INXS",
+      "song": "Just Keep Walking",
+      "label": "Warner",
+      "timeslot": "23:30:00"
     },
     {
-      "artist": "JOE GODDARD ft. FINDIA",
-      "song": "Destiny",
-      "label": "Domino",
-      "timeslot": "02:30:00"
+      "artist": "BEACH BOYS",
+      "song": "Good Vibrations",
+      "label": "Reprise/Brother",
+      "timeslot": "23:30:00"
     },
     {
-      "artist": "EMILY WURRAMARA ft. TASMAN KEITH",
-      "song": "Lordy Lordy",
-      "label": "ABC",
-      "timeslot": "02:30:00"
+      "artist": "JACKSON 5",
+      "song": "ABC",
+      "label": "Universal",
+      "timeslot": "23:30:00"
     },
     {
-      "artist": "3% ft. JESSICA MAUBOY",
-      "song": "Won't Stop",
-      "label": "1788 Records",
-      "timeslot": "02:30:00"
+      "artist": "THE BEE GEES",
+      "song": "More Than A Woman",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
     },
     {
-      "artist": "CHIFFON MAGNIFIQUE",
-      "song": "Anxietika",
-      "label": "4000 Records",
-      "timeslot": "02:30:00"
+      "artist": "DEVO",
+      "song": "Whip It",
+      "label": "Warner",
+      "timeslot": "23:30:00"
     },
     {
-      "artist": "SKELETEN",
-      "song": "Deep Scene",
-      "label": "Astral People",
-      "timeslot": "02:30:00"
-    },
-    {
-      "artist": "KACEY MUSGRAVES",
-      "song": "Cardinal",
-      "label": "Interscope Records",
-      "timeslot": "02:30:00"
-    },
-    {
-      "artist": "COSMO'S MIDNIGHT ft. SPILL TAB",
-      "song": "Eating Heartache",
+      "artist": "AC/DC",
+      "song": "Highway To Hell (Live in the Netherlands, 1979)",
       "label": "Sony",
-      "timeslot": "02:30:00"
+      "timeslot": "23:30:00"
     },
     {
-      "artist": "REX ORANGE COUNTY",
-      "song": "Alexander",
+      "artist": "GOOD CHARLOTTE",
+      "song": "The Anthem",
       "label": "Sony",
-      "timeslot": "03:00:00"
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE VERONICAS",
+      "song": "4 Ever",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE BREEDERS",
+      "song": "Cannonball",
+      "label": "Shock",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Don't Look Back In Anger",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "TEGAN and SARA",
+      "song": "Yellow",
+      "label": "Mom and Pop",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE CORRS",
+      "song": "Dreams",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "ANGUS and JULIA STONE",
+      "song": "Paper Aeroplane",
+      "label": "Independent",
+      "timeslot": "00:00:00"
     }
   ]
 }

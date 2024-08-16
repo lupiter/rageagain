@@ -1,9 +1,9 @@
 {
   "title": "Saturday morning 9 December 2023 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9-december-2023-on-abc-tv/103206478",
-  "special": "Charts, The VAULT, Best New Music Videos, Mudhoney Program rage, rage Sub Pop Special",
+  "special": null,
   "timeslot": "morning",
   "date": "2023-12-09",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9-december-2023-on-abc-tv/103206478",
   "tracks": [
     {
       "artist": "DRAKE",
@@ -326,7 +326,7 @@
     {
       "artist": "THE SCIENTISTS",
       "song": "Blood Red River",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "11:00:00"
     },
     {
@@ -398,7 +398,7 @@
     {
       "artist": "NIRVANA",
       "song": "About A Girl",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "11:30:00"
     }
   ]

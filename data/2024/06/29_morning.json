@@ -1,9 +1,9 @@
 {
   "title": "Saturday morning 29 June 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-29-june-2024-on-abc-tv/104038174",
-  "special": "Charts, The VAULT, Best New Music Videos, Jimeoin guest programs rage, Comedy Special",
+  "special": null,
   "timeslot": "morning",
   "date": "2024-06-29",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-29-june-2024-on-abc-tv/104038174",
   "tracks": [
     {
       "artist": "POST MALONE and BLAKE SHELTON",
@@ -176,7 +176,7 @@
     {
       "artist": "GUM and AMBROSE KENNY-SMITH",
       "song": "Dud",
-      "label": "p(doom)",
+      "label": "doom)",
       "timeslot": "09:30:00"
     },
     {

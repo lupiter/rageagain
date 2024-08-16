@@ -1,9 +1,9 @@
 {
   "title": "Saturday morning 13 January 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-13-january-2024-on-abc-tv/103315270",
-  "special": "Charts, The Vault, Best New Music Videos, Blink-182 guest program rage, Warped Tour 1998 Special",
+  "special": null,
   "timeslot": "morning",
   "date": "2024-01-13",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-13-january-2024-on-abc-tv/103315270",
   "tracks": [
     {
       "artist": "DRAKE",
@@ -44,7 +44,7 @@
     {
       "artist": "RENEE RAPP and MEGAN THEE STALLION",
       "song": "Not My Fault (censored version)",
-      "label": "Interscope (Universal)",
+      "label": "Universal)",
       "timeslot": "06:00:00"
     },
     {
@@ -206,7 +206,7 @@
     {
       "artist": "CUCO",
       "song": "Edith",
-      "label": "Interscope (Universal)",
+      "label": "Universal)",
       "timeslot": "09:30:00"
     },
     {
@@ -326,7 +326,7 @@
     {
       "artist": "BECK",
       "song": "Devil's Haircut",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "10:30:00"
     },
     {
@@ -362,7 +362,7 @@
     {
       "artist": "NIRVANA",
       "song": "Sliver",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "11:00:00"
     },
     {

@@ -1,9 +1,9 @@
 {
   "title": "Saturday night 27 July 2024 on ABC Entertains",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-night-27-july-2024-on-abc-entertains/104148494",
-  "special": "rage 1980s Synthpop Special\n ",
+  "special": "rage 1980s Synthpop Special",
   "timeslot": "night",
   "date": "2024-07-27",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-27-july-2024-on-abc-entertains/104148494",
   "tracks": [
     {
       "artist": "NEW ORDER",
@@ -14,7 +14,7 @@
     {
       "artist": "EURYTHMICS",
       "song": "Sweet Dreams",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "00:00:00"
     },
     {

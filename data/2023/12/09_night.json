@@ -1,9 +1,9 @@
 {
   "title": "Saturday night 9 December 2023 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-night-9-december-2023-on-abc-tv/103206480",
-  "special": "Mudhoney Program rage",
+  "special": null,
   "timeslot": "night",
   "date": "2023-12-09",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-9-december-2023-on-abc-tv/103206480",
   "tracks": [
     {
       "artist": "MUDHONEY",
@@ -38,7 +38,7 @@
     {
       "artist": "THE SCIENTISTS",
       "song": "Blood Red River",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "00:00:00"
     },
     {
@@ -584,7 +584,7 @@
     {
       "artist": "NIRVANA",
       "song": "About A Girl",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "05:30:00"
     },
     {

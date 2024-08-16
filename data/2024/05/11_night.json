@@ -1,9 +1,9 @@
 {
   "title": "Saturday night 11 May 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-may-2024-on-abc-tv/103832780",
-  "special": "The Dead South guest program rage",
+  "special": null,
   "timeslot": "night",
   "date": "2024-05-11",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-may-2024-on-abc-tv/103832780",
   "tracks": [
     {
       "artist": "THE DEAD SOUTH",
@@ -212,7 +212,7 @@
     {
       "artist": "LIMP BIZKIT",
       "song": "Nookie",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "01:30:00"
     },
     {
@@ -236,7 +236,7 @@
     {
       "artist": "DR DRE ft. SNOOP DOGG",
       "song": "Still D.R.E.",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "02:00:00"
     },
     {

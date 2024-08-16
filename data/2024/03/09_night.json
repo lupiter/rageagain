@@ -1,9 +1,9 @@
 {
   "title": "Saturday night 9 March 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-night-9-march-2024-on-abc-tv/103566612",
-  "special": "Sharleen from Texas guest programs rage",
+  "special": null,
   "timeslot": "night",
   "date": "2024-03-09",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-9-march-2024-on-abc-tv/103566612",
   "tracks": [
     {
       "artist": "TEXAS",
@@ -230,7 +230,7 @@
     {
       "artist": "LOU REED - LIVE",
       "song": "Walk On The Wild Side",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "03:00:00"
     },
     {
@@ -356,7 +356,7 @@
     {
       "artist": "TEXAS",
       "song": "Summer Son",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "04:30:00"
     },
     {
@@ -464,7 +464,7 @@
     {
       "artist": "TEENAGE FANCLUB",
       "song": "Sparky's Dream",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "05:30:00"
     },
     {

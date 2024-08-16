@@ -1,224 +1,464 @@
 {
-  "title": "Saturday night 24 March 2024 on ABC TV (TASMANIA)",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-night-24-march-2024-on-abc-tv-tasmania/103622256",
-  "special": "Royel Otis guest program rage",
+  "title": "Saturday night 24 March 2024 on ABC TV",
+  "special": null,
   "timeslot": "night",
   "date": "2024-03-24",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-24-march-2024-on-abc-tv/103622254",
   "tracks": [
     {
       "artist": "ROYEL OTIS",
       "song": "Bull Breed",
       "label": "Ourness",
-      "timeslot": "02:30:00"
+      "timeslot": "00:00:00"
     },
     {
       "artist": "BLOC PARTY",
       "song": "Banquet",
       "label": "Fest/Mush",
-      "timeslot": "02:30:00"
+      "timeslot": "00:00:00"
     },
     {
       "artist": "ROYKSOPP",
       "song": "What Else Is There?",
       "label": "Virgin",
-      "timeslot": "02:30:00"
+      "timeslot": "00:00:00"
     },
     {
       "artist": "GRIMES",
       "song": "Oblivion",
       "label": "Independent",
-      "timeslot": "02:30:00"
+      "timeslot": "00:00:00"
     },
     {
       "artist": "KYLIE MINOGUE",
       "song": "Come Into My World",
       "label": "Fest/Mush",
-      "timeslot": "02:30:00"
+      "timeslot": "00:00:00"
     },
     {
       "artist": "MODJO",
       "song": "Lady (Hear Me Tonight)",
       "label": null,
-      "timeslot": "02:30:00"
+      "timeslot": "00:00:00"
     },
     {
       "artist": "MGMT",
       "song": "When You Die",
       "label": "Sony",
-      "timeslot": "02:30:00"
+      "timeslot": "00:00:00"
     },
     {
       "artist": "THE VINES",
       "song": "Winning Days",
       "label": "EMI",
-      "timeslot": "02:30:00"
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE VINES",
+      "song": "Outthaway",
+      "label": "EMI",
+      "timeslot": "00:30:00"
     },
     {
       "artist": "POND",
       "song": "Paint Me Silver",
       "label": "EMI",
-      "timeslot": "03:00:00"
+      "timeslot": "00:30:00"
     },
     {
-      "artist": "SONIC YOUTH",
-      "song": "Incinerate",
-      "label": "Universal",
-      "timeslot": "03:00:00"
+      "artist": "ROYEL OTIS",
+      "song": "Murder On The Dancefloor (On triple j's Like A Version)",
+      "label": "Ourness",
+      "timeslot": "00:30:00"
     },
     {
-      "artist": "SMASHING PUMPKINS",
-      "song": "1979",
-      "label": "Virgin",
-      "timeslot": "03:00:00"
+      "artist": "TEXAS",
+      "song": "Say What You Want",
+      "label": "Mercury",
+      "timeslot": "00:30:00"
     },
     {
-      "artist": "THE CRANBERRIES",
-      "song": "Dreams",
-      "label": "Island Records",
-      "timeslot": "03:00:00"
+      "artist": "BAT FOR LASHES",
+      "song": "What's A Girl To Do",
+      "label": "Spunk",
+      "timeslot": "00:30:00"
     },
     {
       "artist": "DAVID BOWIE",
       "song": "Life On Mars?",
       "label": "Independent",
-      "timeslot": "03:00:00"
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Wuthering Heights",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Lullaby",
+      "label": "Warner",
+      "timeslot": "00:30:00"
     },
     {
       "artist": "NICK CAVE and THE BAD SEEDS",
       "song": "15 Feet Of Pure White Snow",
       "label": "Virgin",
-      "timeslot": "03:00:00"
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "A Town Called Malice",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "I Wanna Be Adored",
+      "label": "BMG",
+      "timeslot": "01:00:00"
     },
     {
       "artist": "IDLES",
       "song": "Dancer",
       "label": "Liberator",
-      "timeslot": "03:00:00"
+      "timeslot": "01:00:00"
     },
     {
       "artist": "ARCTIC MONKEYS",
       "song": "View From The Afternoon",
       "label": "Virgin",
-      "timeslot": "03:30:00"
+      "timeslot": "01:00:00"
     },
     {
       "artist": "THE STROKES",
       "song": "Someday",
       "label": "BMG",
-      "timeslot": "03:30:00"
-    },
-    {
-      "artist": "YEAH YEAH YEAHS",
-      "song": "Maps",
-      "label": "Modular",
-      "timeslot": "03:30:00"
-    },
-    {
-      "artist": "SINEAD O'CONNOR",
-      "song": "Nothing Compares 2 U",
-      "label": "EMI",
-      "timeslot": "03:30:00"
-    },
-    {
-      "artist": "NATALIE IMBRUGLIA",
-      "song": "Torn",
-      "label": "BMG",
-      "timeslot": "03:30:00"
-    },
-    {
-      "artist": "PARIS TEXAS",
-      "song": "Everybody's Safe Until",
-      "label": "Independent",
-      "timeslot": "03:30:00"
-    },
-    {
-      "artist": "FONTAINES D.C.",
-      "song": "I Love You",
-      "label": "Partisan Records",
-      "timeslot": "03:30:00"
-    },
-    {
-      "artist": "CAR SEAT HEADREST",
-      "song": "Drunk Drivers / Killer Whales",
-      "label": "Matador Records",
-      "timeslot": "04:00:00"
-    },
-    {
-      "artist": "Q",
-      "song": "Take Me Where Your Heart Is",
-      "label": "Sony",
-      "timeslot": "04:00:00"
-    },
-    {
-      "artist": "DMA'S",
-      "song": "Delete",
-      "label": "Illusive",
-      "timeslot": "04:00:00"
-    },
-    {
-      "artist": "MAC DEMARCO",
-      "song": "My Kind Of Woman",
-      "label": "Captured Tracks",
-      "timeslot": "04:00:00"
-    },
-    {
-      "artist": "JUNGLE",
-      "song": "Casio",
-      "label": "XL",
-      "timeslot": "04:00:00"
+      "timeslot": "01:00:00"
     },
     {
       "artist": "THE LEMON TWIGS",
       "song": "As Long As We're Together",
       "label": "Remote Control",
-      "timeslot": "04:00:00"
+      "timeslot": "01:00:00"
     },
     {
       "artist": "ANGEL OLSEN",
       "song": "Shut Up Kiss Me",
       "label": "Inertia",
-      "timeslot": "04:30:00"
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CHAI",
+      "song": "Donuts Mind If I Do",
+      "label": "Sub Pop",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KING KRULE",
+      "song": "Dum Surfer",
+      "label": "XL",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Incinerate",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "1979",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE CRANBERRIES",
+      "song": "Dreams",
+      "label": "Island Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Maps",
+      "label": "Modular",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SINEAD O'CONNOR",
+      "song": "Nothing Compares 2 U",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NATALIE IMBRUGLIA",
+      "song": "Torn",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "Q",
+      "song": "Take Me Where Your Heart Is",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "Delete",
+      "label": "Illusive",
+      "timeslot": "02:00:00"
     },
     {
       "artist": "UNKLE",
       "song": "Rabbit In Your Headlights",
       "label": "Mercury",
-      "timeslot": "04:30:00"
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KING KRULE",
+      "song": "A Lizard State",
+      "label": "XL",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEATH GRIPS",
+      "song": "Guillotine (censored version)",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "Grace",
+      "label": "Liberator",
+      "timeslot": "02:30:00"
     },
     {
       "artist": "GENESIS OWUSU",
       "song": "Survivor",
       "label": "Ourness",
-      "timeslot": "04:30:00"
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "The Heart Part 5",
+      "label": "Interscope Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MAC DEMARCO",
+      "song": "My Kind Of Woman",
+      "label": "Captured Tracks",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CHILDISH GAMBINO",
+      "song": "Feels Like Summer",
+      "label": "Liberator / Glassnote Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JUNGLE",
+      "song": "Casio",
+      "label": "XL",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BOMFUNK MCS",
+      "song": "Freestyler",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Bad Girls",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KALI",
+      "song": "Area Codes",
+      "label": "Atlantic",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PARIS TEXAS",
+      "song": "Everybody's Safe Until",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "I Love You",
+      "label": "Partisan Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CAR SEAT HEADREST",
+      "song": "Drunk Drivers / Killer Whales",
+      "label": "Matador Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ROYEL OTIS",
+      "song": "Foam",
+      "label": "Ourness",
+      "timeslot": "03:00:00"
     },
     {
       "artist": "ROYEL OTIS",
       "song": "Fried Rice",
       "label": "Ourness",
-      "timeslot": "04:30:00"
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ROYEL OTIS",
+      "song": "Adored",
+      "label": "Ourness",
+      "timeslot": "03:30:00"
     },
     {
       "artist": "ROYEL OTIS",
       "song": "Heading For The Door",
       "label": "Ourness",
-      "timeslot": "04:30:00"
+      "timeslot": "03:30:00"
     },
     {
       "artist": "ROYEL OTIS",
       "song": "Kool Aid",
       "label": "Ourness",
-      "timeslot": "04:30:00"
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ROYEL OTIS",
+      "song": "I Wanna Dance With You",
+      "label": "Ourness",
+      "timeslot": "03:30:00"
     },
     {
       "artist": "ROYEL OTIS",
       "song": "Going Kokomo",
       "label": "Ourness",
-      "timeslot": "04:30:00"
+      "timeslot": "03:30:00"
     },
     {
       "artist": "ROYEL OTIS",
       "song": "Sofa King",
       "label": "Ourness",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ROYEL OTIS",
+      "song": "Oysters In My Pocket",
+      "label": "Ourness",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ROYEL OTIS",
+      "song": "Motels",
+      "label": "Ourness",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ROYEL OTIS",
+      "song": "Without U",
+      "label": "Ourness / House Anxiety",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ROYEL OTIS",
+      "song": "Only One",
+      "label": "Ourness",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "Danny Nedelko",
+      "label": "Partisan Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "Mother",
+      "label": "Balley Records / Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "Stendhal Syndrome",
+      "label": "Balley Records / Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "Well Done",
+      "label": "Balley Records / Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE VINES",
+      "song": "Highly Evolved",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE VINES",
+      "song": "Ride",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE VINES",
+      "song": "Get Free",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GENESIS OWUSU",
+      "song": "Black Dogs!",
+      "label": "Ourness",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GENESIS OWUSU",
+      "song": "Stay Blessed",
+      "label": "Ourness",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TASMAN KEITH ft. GENESIS OWUSU",
+      "song": "Cheque",
+      "label": "AWAL",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KIRIN J CALLINAN",
+      "song": "It's The Truth",
+      "label": "Worse Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KIRIN J. CALLINAN",
+      "song": "The Whole Of The Moon",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KIRIN J. CALLINAN ft. ALEX CAMERON, _and_ JIMMY BARNES",
+      "song": "Big Enough",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALEX CAMERON",
+      "song": "She's Mine",
+      "label": "Secretly Canadian",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALEX CAMERON",
+      "song": "Mongrel",
+      "label": "Inertia",
       "timeslot": "04:30:00"
     },
     {

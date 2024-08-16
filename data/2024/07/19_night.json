@@ -1,9 +1,9 @@
 {
   "title": "Friday night 19 July 2024 on ABC Entertains",
-  "url": "https://www.abc.net.au/rage/playlist/friday-night-19-july-2024-on-abc-entertains/104122480",
-  "special": "Vault guest programmer: Andre 3000 (2004)\n ",
+  "special": null,
   "timeslot": "night",
   "date": "2024-07-19",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-19-july-2024-on-abc-entertains/104122480",
   "tracks": [
     {
       "artist": "OUTKAST",
@@ -56,7 +56,7 @@
     {
       "artist": "NIRVANA",
       "song": "Smells Like Teen Spirit",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "00:00:00"
     },
     {

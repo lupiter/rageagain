@@ -1,9 +1,9 @@
 {
   "title": "Saturday night 30 March 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-night-30-march-2024-on-abc-tv/103647732",
-  "special": "Hole guest program rage (1999)",
+  "special": null,
   "timeslot": "night",
   "date": "2024-03-30",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-30-march-2024-on-abc-tv/103647732",
   "tracks": [
     {
       "artist": "HOLE",
@@ -44,7 +44,7 @@
     {
       "artist": "NIRVANA",
       "song": "Sliver",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "00:30:00"
     },
     {
@@ -308,7 +308,7 @@
     {
       "artist": "HOLE",
       "song": "Softer Softest",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "03:30:00"
     },
     {
@@ -326,7 +326,7 @@
     {
       "artist": "HOLE",
       "song": "Awful",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "04:00:00"
     },
     {

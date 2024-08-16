@@ -1,9 +1,9 @@
 {
   "title": "Sunday night 14 April 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/sunday-night-14-april-2024-on-abc-tv/103702800",
   "special": "The VAULT Bob Clearmountain",
   "timeslot": "night",
   "date": "2024-04-14",
+  "url": "https://www.abc.net.au/rage/playlist/sunday-night-14-april-2024-on-abc-tv/103702800",
   "tracks": [
     {
       "artist": "CHIC",
@@ -272,7 +272,7 @@
     {
       "artist": "SEMISONIC",
       "song": "Closing Time",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "03:30:00"
     }
   ]

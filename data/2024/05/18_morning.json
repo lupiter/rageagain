@@ -1,9 +1,9 @@
 {
   "title": "Saturday morning 18 May 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-may-2024-on-abc-tv/103863432",
-  "special": "Charts, The VAULT, Best New Music Videos, Radio Birdman guest programs rage, Punk Pioneers special",
+  "special": null,
   "timeslot": "morning",
   "date": "2024-05-18",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-may-2024-on-abc-tv/103863432",
   "tracks": [
     {
       "artist": "MEGHAN TRAINOR",
@@ -290,7 +290,7 @@
     {
       "artist": "ELASTICA",
       "song": "Connection",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "10:30:00"
     },
     {
@@ -356,7 +356,7 @@
     {
       "artist": "THE SCIENTISTS",
       "song": "Blood Red River",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "11:30:00"
     },
     {

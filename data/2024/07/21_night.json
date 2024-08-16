@@ -1,687 +1,93 @@
 {
-  "title": "Saturday night 21 July 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-night-21-july-2024-on-abc-tv/104122474",
-  "special": "Olympics special",
+  "title": "Sunday night 21 July 2024 on ABC Entertains",
+  "special": "The VAULT Howard Greenhalgh",
   "timeslot": "night",
   "date": "2024-07-21",
+  "url": "https://www.abc.net.au/rage/playlist/sunday-night-21-july-2024-on-abc-entertains/104122484",
   "tracks": [
     {
-      "artist": "VANGELIS",
-      "song": "Chariots of Fire",
-      "label": "Polydor",
-      "timeslot": "23:30:00"
-    },
-    {
-      "artist": "THE POINTER SISTERS",
-      "song": "Jump (For My Love)",
+      "artist": "LOVE and ROCKETS",
+      "song": "So Alive",
       "label": "BMG",
       "timeslot": "23:30:00"
     },
     {
-      "artist": "ASIA",
-      "song": "Only Time Will Tell",
-      "label": "Geffen",
+      "artist": "THE JESUS and MARY CHAIN",
+      "song": "Head On",
+      "label": "MCA)",
       "timeslot": "23:30:00"
     },
     {
-      "artist": "NEW ORDER",
-      "song": "World In Motion",
-      "label": "Festival",
-      "timeslot": "23:30:00"
-    },
-    {
-      "artist": "KRAFTWERK",
-      "song": "Tour De France",
-      "label": "EMI",
-      "timeslot": "23:30:00"
-    },
-    {
-      "artist": "THE CHEMICAL BROTHERS",
-      "song": "Elektrobank",
-      "label": "Virgin",
-      "timeslot": "23:30:00"
-    },
-    {
-      "artist": "AVICII",
-      "song": "Broken Arrows",
-      "label": "Universal",
-      "timeslot": "00:00:00"
-    },
-    {
-      "artist": "TAKE THAT",
-      "song": "The Flood",
-      "label": "Universal",
-      "timeslot": "00:00:00"
-    },
-    {
-      "artist": "WHITNEY HOUSTON",
-      "song": "One Moment In Time",
-      "label": "Arista",
-      "timeslot": "00:00:00"
-    },
-    {
-      "artist": "GLORIA ESTEFAN",
-      "song": "Reach",
-      "label": "Sony",
-      "timeslot": "00:00:00"
-    },
-    {
-      "artist": "TINA ARENA",
-      "song": "The Flame",
-      "label": "Columbia",
-      "timeslot": "00:00:00"
-    },
-    {
-      "artist": "QUEEN - LIVE",
-      "song": "We Will Rock You",
-      "label": "EMI",
-      "timeslot": "00:00:00"
-    },
-    {
-      "artist": "SURVIVOR",
-      "song": "Eye Of The Tiger",
-      "label": "EMI",
-      "timeslot": "00:00:00"
-    },
-    {
-      "artist": "JOHN FOGERTY",
-      "song": "Centerfield",
+      "artist": "FUZZBOX",
+      "song": "Walking On Thin Ice",
       "label": "Warner",
-      "timeslot": "00:00:00"
+      "timeslot": "23:30:00"
     },
     {
-      "artist": "KURTIS BLOW",
-      "song": "Basketball",
-      "label": "Polydor",
-      "timeslot": "00:30:00"
-    },
-    {
-      "artist": "OLLIE _and_ JERRY",
-      "song": "Breakin'... There's No Stopping Us",
-      "label": null,
-      "timeslot": "00:30:00"
-    },
-    {
-      "artist": "LUKE MILLION",
-      "song": "Arnold",
-      "label": "Modular",
-      "timeslot": "00:30:00"
-    },
-    {
-      "artist": "TONI BASIL",
-      "song": "Mickey",
-      "label": "Sony",
-      "timeslot": "00:30:00"
-    },
-    {
-      "artist": "STEPHEN CUMMINGS",
-      "song": "Gymnasium",
-      "label": "Warner",
-      "timeslot": "00:30:00"
-    },
-    {
-      "artist": "MICK JAGGER",
-      "song": "Let's Work",
-      "label": null,
-      "timeslot": "00:30:00"
-    },
-    {
-      "artist": "WEIRD AL YANKOVIC",
-      "song": "Sports Song",
-      "label": "Sony",
-      "timeslot": "00:30:00"
-    },
-    {
-      "artist": "REGURGITATOR",
-      "song": "Crush The Losers",
-      "label": "Warner",
-      "timeslot": "00:30:00"
-    },
-    {
-      "artist": "GREEN DAY",
-      "song": "Nice Guys Finish Last",
-      "label": "Festival",
-      "timeslot": "01:00:00"
-    },
-    {
-      "artist": "N*E*R*D",
-      "song": "Rock Star",
-      "label": "Virgin",
-      "timeslot": "01:00:00"
-    },
-    {
-      "artist": "NOTORIOUS B.I.G. feat PUFF DADDY and MASE",
-      "song": "Mo Money Mo Problems",
-      "label": "BMG",
-      "timeslot": "01:00:00"
-    },
-    {
-      "artist": "BLINK 182",
-      "song": "Josie (Everything's Gonna Be Fine)",
-      "label": "MDS",
-      "timeslot": "01:00:00"
-    },
-    {
-      "artist": "SUM41",
-      "song": "In Too Deep",
-      "label": "Universal",
-      "timeslot": "01:00:00"
-    },
-    {
-      "artist": "FALL OUT BOY featuring DEMI LOVATO",
-      "song": "Irresistible",
-      "label": "Universal",
-      "timeslot": "01:00:00"
-    },
-    {
-      "artist": "A DAY TO REMEMBER",
-      "song": "I'm Made Of Wax, Larry, What Are You Made Of?",
-      "label": "Victory Records",
-      "timeslot": "01:00:00"
-    },
-    {
-      "artist": "TISM",
-      "song": "Greg, The Stop Sign!!",
+      "artist": "COCTEAU TWINS",
+      "song": "Heaven Or Las Vegas",
       "label": "Shock",
-      "timeslot": "01:00:00"
+      "timeslot": "23:30:00"
     },
     {
-      "artist": "WARWICK CAPPER",
-      "song": "I Only Take What's Mine",
-      "label": "Independent",
-      "timeslot": "01:30:00"
-    },
-    {
-      "artist": "DREAM WIFE",
-      "song": "Sports!",
-      "label": "Lucky Number / Inertia",
-      "timeslot": "01:30:00"
-    },
-    {
-      "artist": "PANIC! AT THE DISCO",
-      "song": "Victorious",
-      "label": "DCD2 / Fueled by Ramen",
-      "timeslot": "01:30:00"
-    },
-    {
-      "artist": "VIAGRA BOYS",
-      "song": "Sports",
-      "label": "YEAR0001",
-      "timeslot": "01:30:00"
-    },
-    {
-      "artist": "BABYMETAL",
-      "song": "Karate",
+      "artist": "BIG AUDIO DYNAMITE II",
+      "song": "Rush",
       "label": "Sony",
-      "timeslot": "01:30:00"
+      "timeslot": "23:30:00"
     },
     {
-      "artist": "RAMMSTEIN",
-      "song": "Stripped",
-      "label": "Universal (MCA)",
-      "timeslot": "01:30:00"
-    },
-    {
-      "artist": "AIR",
-      "song": "Kelly Watch The Stars",
-      "label": "Virgin",
-      "timeslot": "01:30:00"
-    },
-    {
-      "artist": "VAMPIRE WEEKEND",
-      "song": "Giving Up The Gun",
-      "label": "Remote Control",
-      "timeslot": "01:30:00"
-    },
-    {
-      "artist": "COURTNEY BARNETT",
-      "song": "Avant Gardener",
-      "label": "Independent",
-      "timeslot": "02:00:00"
-    },
-    {
-      "artist": "OLLY MURS _and_ LOUISA JOHNSON",
-      "song": "Unpredictable",
-      "label": "Sony",
-      "timeslot": "02:00:00"
-    },
-    {
-      "artist": "MARTIN SOLVEIG and DRAGONETTE",
-      "song": "Hello",
-      "label": "MOS",
-      "timeslot": "02:00:00"
-    },
-    {
-      "artist": "TIM DELUXE",
-      "song": "It Just Won't Do",
-      "label": "Universal",
-      "timeslot": "02:00:00"
-    },
-    {
-      "artist": "NINA SIMONE",
-      "song": "Sinnerman (Felix Da Housecat mix)",
-      "label": "Universal",
-      "timeslot": "02:00:00"
-    },
-    {
-      "artist": "RUN DMC vs JASON NEVINS",
-      "song": "It's Like That",
-      "label": "MDS",
-      "timeslot": "02:00:00"
-    },
-    {
-      "artist": "BOMFUNK MCS",
-      "song": "Freestyler",
-      "label": "Sony",
-      "timeslot": "02:00:00"
-    },
-    {
-      "artist": "DIRTY VEGAS",
-      "song": "Days Go By",
+      "artist": "PET SHOP BOYS",
+      "song": "Absolutely Fabulous",
       "label": "EMI",
-      "timeslot": "02:30:00"
+      "timeslot": "23:30:00"
     },
     {
-      "artist": "ESKIMO JOE",
-      "song": "From The Sea",
-      "label": "Fest/Mush",
-      "timeslot": "02:30:00"
+      "artist": "SNAP",
+      "song": "Rhythm Is A Dancer",
+      "label": "BMG",
+      "timeslot": "23:30:00"
     },
     {
-      "artist": "BOMBAY BICYCLE CLUB",
-      "song": "Luna",
-      "label": "Island Records",
-      "timeslot": "02:30:00"
-    },
-    {
-      "artist": "BANOFFEE",
-      "song": "With Her",
-      "label": "Remote Control",
-      "timeslot": "02:30:00"
-    },
-    {
-      "artist": "JACK JOHNSON",
-      "song": "You And Your Heart",
-      "label": "Universal",
-      "timeslot": "02:30:00"
-    },
-    {
-      "artist": "XAVIER RUDD",
-      "song": "Follow The Sun",
-      "label": "Universal",
-      "timeslot": "02:30:00"
-    },
-    {
-      "artist": "OCEAN ALLEY",
-      "song": "Touch Back Down",
-      "label": "Independent",
-      "timeslot": "02:30:00"
-    },
-    {
-      "artist": "CHRISTOPHER CROSS",
-      "song": "Sailing",
-      "label": "Warner",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "ENYA",
-      "song": "Orinoco Flow",
-      "label": "Warner",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "ROD STEWART",
-      "song": "Sailing",
-      "label": "Warner",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "JUSTIN BIEBER",
-      "song": "Anyone",
-      "label": "Universal",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "ED SHEERAN",
-      "song": "Shape Of You",
-      "label": "Warner",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "MAROON 5",
-      "song": "One More Night",
-      "label": "Universal",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "IMAGINE DRAGONS",
-      "song": "Believer",
-      "label": "Universal",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "IGGY POP",
-      "song": "American Valhalla",
-      "label": "Loma Vista Recordings",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "AUDIOSLAVE",
-      "song": "Doesn't Remind Me",
-      "label": "Universal",
-      "timeslot": "03:30:00"
-    },
-    {
-      "artist": "ALEX CLARE",
-      "song": "Too Close",
-      "label": "Universal",
-      "timeslot": "03:30:00"
-    },
-    {
-      "artist": "THUNDERCAT",
-      "song": "Them Changes",
-      "label": "Brainfeeder",
-      "timeslot": "03:30:00"
-    },
-    {
-      "artist": "THE FLAMING LIPS",
-      "song": "Race For The Prize",
-      "label": "Warner",
-      "timeslot": "03:30:00"
-    },
-    {
-      "artist": "10CC",
-      "song": "Dreadlock Holiday",
+      "artist": "SOUNDGARDEN",
+      "song": "Black Hole Sun",
       "label": "Polydor",
-      "timeslot": "03:30:00"
+      "timeslot": "00:00:00"
     },
     {
-      "artist": "OLIVIA NEWTON-JOHN",
-      "song": "Physical",
-      "label": "Fest/Mush",
-      "timeslot": "03:30:00"
-    },
-    {
-      "artist": "DIANA ROSS",
-      "song": "Work That Body",
-      "label": "Capitol",
-      "timeslot": "03:30:00"
-    },
-    {
-      "artist": "RICKY MARTIN",
-      "song": "The Cup Of Life",
+      "artist": "SUEDE",
+      "song": "The Wild Ones",
       "label": "Sony",
-      "timeslot": "04:00:00"
+      "timeslot": "00:00:00"
     },
     {
-      "artist": "JENNIFER LOPEZ",
-      "song": "Let's Get Loud",
-      "label": "Sony",
-      "timeslot": "04:00:00"
+      "artist": "SNEAKER PIMPS",
+      "song": "Post Modern Sleaze",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
     },
     {
-      "artist": "MARIAH CAREY",
-      "song": "Fantasy",
-      "label": "Sony",
-      "timeslot": "04:00:00"
+      "artist": "ORCHESTRAL MANOEUVRES IN THE DARK",
+      "song": "Universal",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
     },
     {
-      "artist": "U2",
-      "song": "Stuck In A Moment You Can't Get Out Of",
-      "label": "Universal",
-      "timeslot": "04:00:00"
+      "artist": "GEORGE MICHAEL",
+      "song": "Jesus To A Child",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
     },
     {
-      "artist": "FREDDIE MERCURY and MONTSERRAT CABALLE",
-      "song": "Barcelona",
-      "label": "Sony",
-      "timeslot": "04:00:00"
+      "artist": "LIGHTHOUSE FAMILY",
+      "song": "Raincloud",
+      "label": "Polydor",
+      "timeslot": "00:00:00"
     },
     {
-      "artist": "QUEEN",
-      "song": "We Are The Champions",
+      "artist": "THE DIVINE COMEDY",
+      "song": "I've Been To A Marvellous Party",
       "label": "EMI",
-      "timeslot": "04:00:00"
-    },
-    {
-      "artist": "DARUDE",
-      "song": "Sandstorm",
-      "label": "Central Station",
-      "timeslot": "04:00:00"
-    },
-    {
-      "artist": "B. REAL, BUSTA RHYMES, COOLIO, LL COOL J",
-      "song": "Hit 'Em High (The Monstars' Anthem) (B. REAL, BUSTA RHYMES, COOLIO, LL COOL J, METHOD MAN)",
-      "label": "Warner",
-      "timeslot": "04:00:00"
-    },
-    {
-      "artist": "BRIGGS ft. GREG HOLDEN",
-      "song": "Life Is Incredible (explicit)",
-      "label": "Island Records",
-      "timeslot": "04:30:00"
-    },
-    {
-      "artist": "KATY PERRY ft. NICKI MINAJ",
-      "song": "Swish Swish",
-      "label": "EMI",
-      "timeslot": "04:30:00"
-    },
-    {
-      "artist": "KANYE WEST",
-      "song": "The New Workout Plan",
-      "label": "Universal",
-      "timeslot": "04:30:00"
-    },
-    {
-      "artist": "MASON vs PRINCESS SUPERSTAR",
-      "song": "Perfect Exceeder",
-      "label": "Vicious/Central",
-      "timeslot": "04:30:00"
-    },
-    {
-      "artist": "TONES and I",
-      "song": "Dance Monkey",
-      "label": "Lemon Tree Music / Sony",
-      "timeslot": "04:30:00"
-    },
-    {
-      "artist": "DUA LIPA",
-      "song": "Physical",
-      "label": "Warner",
-      "timeslot": "04:30:00"
-    },
-    {
-      "artist": "EMILY WURRAMARA ft. TASMAN KEITH",
-      "song": "Lordy Lordy (clean version)",
-      "label": "ABC Music",
-      "timeslot": "05:00:00"
-    },
-    {
-      "artist": "TEENAGE DADS",
-      "song": "Boyfriend",
-      "label": "Chugg",
-      "timeslot": "05:00:00"
-    },
-    {
-      "artist": "KAYPS and CALVIN BENNETT",
-      "song": "Buon Giorno (clean version)",
-      "label": "Independent",
-      "timeslot": "05:00:00"
-    },
-    {
-      "artist": "MGMT",
-      "song": "People In The Streets",
-      "label": "Mom and Pop",
-      "timeslot": "05:00:00"
-    },
-    {
-      "artist": "SARAH BLASKO",
-      "song": "The Way",
-      "label": "Independent",
-      "timeslot": "05:00:00"
-    },
-    {
-      "artist": "NICK WARD",
-      "song": "All Your Life",
-      "label": "EMI",
-      "timeslot": "05:00:00"
-    },
-    {
-      "artist": "GUM and AMBROSE KENNY-SMITH",
-      "song": "Dud",
-      "label": "p(doom)",
-      "timeslot": "05:00:00"
-    },
-    {
-      "artist": "PROGRAM",
-      "song": "Sparks",
-      "label": "Anti Fade Records",
-      "timeslot": "05:00:00"
-    },
-    {
-      "artist": "AGUNG MANGO",
-      "song": "The Moth Prefers The Moon",
-      "label": "Picked Last",
-      "timeslot": "05:30:00"
-    },
-    {
-      "artist": "JESSB ft. SISTER NANCY and SAMPA THE GREAT",
-      "song": "Power",
-      "label": "Warner",
-      "timeslot": "05:30:00"
-    },
-    {
-      "artist": "ROYEL OTIS",
-      "song": "Merry Mary Marry Me",
-      "label": "Ourness",
-      "timeslot": "05:30:00"
-    },
-    {
-      "artist": "ELLA THOMPSON",
-      "song": "Let There Be Nothing",
-      "label": "Independent",
-      "timeslot": "05:30:00"
-    },
-    {
-      "artist": "FAIRTRADE NARCOTICS",
-      "song": "Jojoba",
-      "label": "Independent",
-      "timeslot": "05:30:00"
-    },
-    {
-      "artist": "ARMLOCK",
-      "song": "Fear",
-      "label": "Run For Cover Records",
-      "timeslot": "05:30:00"
-    },
-    {
-      "artist": "COLDPLAY",
-      "song": "feelslikeimfallinginlove",
-      "label": "Geffen",
-      "timeslot": "05:30:00"
-    },
-    {
-      "artist": "SYCCO",
-      "song": "Swarm",
-      "label": "Future Classic",
-      "timeslot": "05:30:00"
-    },
-    {
-      "artist": "TELENOVA",
-      "song": "Discotheque Inside My Head",
-      "label": "EMI",
-      "timeslot": "05:30:00"
-    },
-    {
-      "artist": "THE BUOYS",
-      "song": "Ahead Of Myself",
-      "label": "Arcadia Music",
-      "timeslot": "06:00:00"
-    },
-    {
-      "artist": "3% ft. JESSICA MAUBOY",
-      "song": "Won't Stop",
-      "label": "1788 Records",
-      "timeslot": "06:00:00"
-    },
-    {
-      "artist": "SYCCO",
-      "song": "Swarm",
-      "label": "Future Classic",
-      "timeslot": "06:00:00"
-    },
-    {
-      "artist": "J-MILLA",
-      "song": "Boomerang",
-      "label": "Independent",
-      "timeslot": "06:00:00"
-    },
-    {
-      "artist": "CHARLI XCX",
-      "song": "360 (clean version)",
-      "label": "Warner",
-      "timeslot": "06:00:00"
-    },
-    {
-      "artist": "ICE SPICE and CENTRAL CEE",
-      "song": "Did It First (censored version)",
-      "label": "10k Projects / Capitol",
-      "timeslot": "06:00:00"
-    },
-    {
-      "artist": "BILLIE EILISH",
-      "song": "Lunch",
-      "label": "Interscope Records",
-      "timeslot": "06:00:00"
-    },
-    {
-      "artist": "KENDRICK LAMAR",
-      "song": "Not Like Us (clean version)",
-      "label": "Interscope Records",
-      "timeslot": "06:00:00"
-    },
-    {
-      "artist": "ANDREW GURRIWIWI BAND",
-      "song": "Wata Mawi",
-      "label": "Independent",
-      "timeslot": "06:30:00"
-    },
-    {
-      "artist": "MEG MAC ft. MATT CORBY",
-      "song": "Bricks (Live)",
-      "label": "EMI",
-      "timeslot": "06:30:00"
-    },
-    {
-      "artist": "ELSY WAMEYO ft. YWAYA TAJIRI",
-      "song": "Conquer",
-      "label": "Allbreed",
-      "timeslot": "06:30:00"
-    },
-    {
-      "artist": "OCEAN ALLEY",
-      "song": "Drinks And Cigars",
-      "label": "Independent",
-      "timeslot": "06:30:00"
-    },
-    {
-      "artist": "SKEGSS",
-      "song": "Spaceman",
-      "label": "Loma Vista",
-      "timeslot": "06:30:00"
-    },
-    {
-      "artist": "POLISH CLUB",
-      "song": "How Dare You Fall In Love In This City",
-      "label": "Independent",
-      "timeslot": "06:30:00"
-    },
-    {
-      "artist": "ORVILLE PECK and BECK",
-      "song": "Death Valley High",
-      "label": "Warner",
-      "timeslot": "06:30:00"
+      "timeslot": "00:30:00"
     }
   ]
 }

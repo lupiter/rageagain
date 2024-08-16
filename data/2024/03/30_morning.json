@@ -1,9 +1,9 @@
 {
   "title": "Saturday morning 30 March 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-30-march-2024-on-abc-tv/103647730",
-  "special": "Charts, VAULT, Best New Music Videos, Hole guest program rage (1999), Big Day Out 1999 Special",
+  "special": null,
   "timeslot": "morning",
   "date": "2024-03-30",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-30-march-2024-on-abc-tv/103647730",
   "tracks": [
     {
       "artist": "BILLIE EILISH",
@@ -302,7 +302,7 @@
     {
       "artist": "NIRVANA",
       "song": "Sliver",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "11:00:00"
     },
     {
@@ -332,7 +332,7 @@
     {
       "artist": "HOLE",
       "song": "Celebrity Skin",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "11:00:00"
     },
     {
@@ -374,7 +374,7 @@
     {
       "artist": "POWDERFINGER",
       "song": "Passenger",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "11:30:00"
     }
   ]

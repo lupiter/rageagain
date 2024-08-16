@@ -1,9 +1,9 @@
 {
   "title": "Saturday night 2 December 2023 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-night-2-december-2023-on-abc-tv/103177670",
-  "special": "Ollie Olsen Programs rage",
+  "special": null,
   "timeslot": "night",
   "date": "2023-12-02",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-2-december-2023-on-abc-tv/103177670",
   "tracks": [
     {
       "artist": "OLLIE OLSEN",
@@ -86,7 +86,7 @@
     {
       "artist": "ALAN VEGA",
       "song": "Wipeout Beat",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "01:00:00"
     },
     {

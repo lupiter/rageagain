@@ -1,9 +1,9 @@
 {
   "title": "Saturday morning 4 May 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-4-may-2024-on-abc-tv/103802690",
-  "special": "Charts, The VAULT, Best New Music Videos, Lydia Lunch & Joseph Keckler guest program rage, Spoken Word Special",
+  "special": null,
   "timeslot": "morning",
   "date": "2024-05-04",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-4-may-2024-on-abc-tv/103802690",
   "tracks": [
     {
       "artist": "TEDDY SWIMS",
@@ -254,7 +254,7 @@
     {
       "artist": "ALAN VEGA",
       "song": "Wipeout Beat",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "10:30:00"
     },
     {

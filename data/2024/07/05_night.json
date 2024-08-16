@@ -1,105 +1,429 @@
 {
-  "title": "Friday night 5 July 2024 on ABC Entertains",
-  "url": "https://www.abc.net.au/rage/playlist/friday-night-5-july-2024-on-abc-entertains/104065702",
-  "special": "Vault Guest Programmer: Florence Welch from Florence + The Machine (2010)",
+  "title": "Friday night 5 July 2024 on ABC TV",
+  "special": "New Music Show",
   "timeslot": "night",
   "date": "2024-07-05",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-5-july-2024-on-abc-tv/104038172",
   "tracks": [
     {
-      "artist": "FLORENCE and THE MACHINE",
-      "song": "You've Got The Love",
-      "label": "Universal",
-      "timeslot": "23:30:00"
+      "artist": "ROYEL OTIS",
+      "song": "Merry Mary Marry Me",
+      "label": "Ourness",
+      "timeslot": "01:30:00"
     },
     {
-      "artist": "GRACE JONES",
-      "song": "Pull Up To The Bumper",
-      "label": "Festival",
-      "timeslot": "23:30:00"
-    },
-    {
-      "artist": "CRYSTAL CASTLES",
-      "song": "Crimewave",
-      "label": "Shock",
-      "timeslot": "23:30:00"
-    },
-    {
-      "artist": "FLEETWOOD MAC",
-      "song": "Tusk",
-      "label": "Warner",
-      "timeslot": "23:30:00"
-    },
-    {
-      "artist": "FUCK BUTTONS",
-      "song": "Bright Tomorrow",
-      "label": "ATP",
-      "timeslot": "00:00:00"
-    },
-    {
-      "artist": "CASS McCOMBS",
-      "song": "Dreams Come True Girl",
+      "artist": "TELENOVA",
+      "song": "Discotheque Inside My Head",
       "label": "EMI",
-      "timeslot": "00:00:00"
+      "timeslot": "01:30:00"
     },
     {
-      "artist": "PJ HARVEY",
-      "song": "Dress",
-      "label": "Shock",
-      "timeslot": "00:00:00"
+      "artist": "FOSTER THE PEOPLE",
+      "song": "Lost in Space",
+      "label": "Atlantic",
+      "timeslot": "01:30:00"
     },
     {
-      "artist": "CLIPSE featuring PHARRELL",
-      "song": "Mr Me Too",
-      "label": "SBME",
-      "timeslot": "00:00:00"
+      "artist": "EMILY WURRAMURRA ft. TASMAN KEITH",
+      "song": "Lordy Lordy",
+      "label": "ABC",
+      "timeslot": "01:30:00"
     },
     {
-      "artist": "CAT POWER",
-      "song": "Cross Bones Style",
-      "label": "MDS",
-      "timeslot": "00:00:00"
+      "artist": "PEGGY GOU",
+      "song": "Lobster Telephone",
+      "label": "XL",
+      "timeslot": "01:30:00"
     },
     {
-      "artist": "OTIS REDDING",
-      "song": "Satisfaction",
-      "label": "Warner",
-      "timeslot": "00:00:00"
+      "artist": "LONGPLAYER",
+      "song": "My Dream Of You",
+      "label": "RMD Productions",
+      "timeslot": "01:30:00"
     },
     {
-      "artist": "MGMT",
-      "song": "Electric Feel",
-      "label": "SBME",
-      "timeslot": "00:00:00"
+      "artist": "SPEED",
+      "song": "Don't Need",
+      "label": "Last Ride Records / Flatspot Records",
+      "timeslot": "02:00:00"
     },
     {
-      "artist": "THE XX",
-      "song": "Crystalised",
-      "label": "Remote Control",
-      "timeslot": "00:00:00"
+      "artist": "STAND ATLANTIC ft. POLARIS",
+      "song": "Criminal",
+      "label": "Hopeless Records",
+      "timeslot": "02:00:00"
     },
     {
-      "artist": "BON IVER - TRIPLE J TV",
-      "song": "Creature Fear",
-      "label": "Inertia",
-      "timeslot": "00:30:00"
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "U Should Not Be Doing That",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
     },
     {
-      "artist": "EURYTHMICS",
-      "song": "Sweet Dreams",
-      "label": "Universal (MCA)",
-      "timeslot": "00:30:00"
+      "artist": "CHUEY and MELITA",
+      "song": "Destiny",
+      "label": "Independent",
+      "timeslot": "02:00:00"
     },
     {
-      "artist": "FLORENCE and THE MACHINE",
-      "song": "Dog Days Are Over",
-      "label": "Universal",
-      "timeslot": "00:30:00"
+      "artist": "MILKY CHANCE",
+      "song": "Naked And Alive",
+      "label": "Muggelig Records",
+      "timeslot": "02:00:00"
     },
     {
-      "artist": "FLORENCE and THE MACHINE",
-      "song": "Kiss With A Fist",
-      "label": "Universal",
-      "timeslot": "00:30:00"
+      "artist": "KELI HOLIDAY",
+      "song": "Lowdown",
+      "label": "GYROstream",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ZION GARCIA",
+      "song": "Film Star Prelude",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEDDY RAYS",
+      "song": "Hold On",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GUM and AMBROSE KENNY-SMITH",
+      "song": "Dud",
+      "label": "doom)",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "OCEAN ALLEY",
+      "song": "Drinks And Cigars",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "3% ft. JESSICA MAUBOY",
+      "song": "Won't Stop",
+      "label": "1788 Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FRED AGAIN.. and ANDERSON .PAAK ft. CHIKA",
+      "song": "Places To Be",
+      "label": "Atlantic",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PARTIBOI69",
+      "song": "Double Drop",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CONFIDENCE MAN",
+      "song": "I Can't Lose You",
+      "label": "I OH YOU",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TIFFI",
+      "song": "Cold Medicine",
+      "label": "One Day / Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JAMIE XX",
+      "song": "Treat Each Other Right",
+      "label": "Young",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TORO Y MOI",
+      "song": "Tuesday",
+      "label": "Dead Oceans",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LIME CORDIALE",
+      "song": "Cold Treatment",
+      "label": "Chugg",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FOREST CLAUDETTE",
+      "song": "Moonlight",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HALEY HOLGATE",
+      "song": "Better With You",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BECKAH AMANI",
+      "song": "Sober",
+      "label": "Atlantic",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FAIRTRADE NARCOTICS",
+      "song": "Cerulean",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ROMY",
+      "song": "Always Forever",
+      "label": "Young",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE KID LAROI",
+      "song": "Girls",
+      "label": "Columbia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "REMI WOLF",
+      "song": "Motorcycle",
+      "label": "Island Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ICE SPICE",
+      "song": "Phatt Butt",
+      "label": "10k Projects",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "AZTEC FLOW ft LIL SPACELY",
+      "song": "Wish You Me",
+      "label": "Tical Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LATTO",
+      "song": "Big Mama",
+      "label": "RCA",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LISA",
+      "song": "Rockstar",
+      "label": "RCA",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PETER BIBBY",
+      "song": "Bin Boy",
+      "label": "Spinning Top",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BEING DEAD",
+      "song": "Firefighters",
+      "label": "Bayonet Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DON WEST",
+      "song": "Small Change",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KOADY",
+      "song": "Prozac",
+      "label": "Omiya",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "WILLARIS K.",
+      "song": "Backbackback",
+      "label": "Soothsayer",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KAMASI WASHINGTON ft. GEORGE CLINTON and D SMOKE",
+      "song": "Get Lit",
+      "label": "Young",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GOLD FANG",
+      "song": "OTW",
+      "label": "NLV Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KAI CULT",
+      "song": "Listening",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DOGWORLD",
+      "song": "777",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BILLIAM",
+      "song": "Maid Dress",
+      "label": "Legless Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FAT DOG",
+      "song": "I Am The King",
+      "label": "Domino",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CLAY J GLADSTONE",
+      "song": "Death By Idle Hands",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "REDHOOK ft. ALPHA WOLF",
+      "song": "Cannibal",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BARKAA",
+      "song": "Preach",
+      "label": "Island Australia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KAYPS and CALVIN BENNETT",
+      "song": "Buon Giorno",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RAYE",
+      "song": "Genesis.",
+      "label": "Human Re Sources",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TOVE LO and SG LEWIS",
+      "song": "Heat",
+      "label": "Rage",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MEGAN THEE STALLION",
+      "song": "BOA",
+      "label": "Hot Girl Productions",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EVES KARYDAS",
+      "song": "Hair Down",
+      "label": "Rage",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FANNING DEMPSEY NATIONAL PARK",
+      "song": "The Deluge",
+      "label": "Dew Process",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "OLD MERVS",
+      "song": "What You've Lost",
+      "label": "Dew Process",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CRACK CLOUD",
+      "song": "The Medium",
+      "label": "Jagjaguwar",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JNR.",
+      "song": "2Close",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ALMOST MONDAY",
+      "song": "Can't Slow Down",
+      "label": "Hollywood Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Cherry Blossom",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TRENTEMOLLER",
+      "song": "Dreamweavers",
+      "label": "In My Room",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PARTY DOZEN",
+      "song": "The Big Man Upstairs",
+      "label": "GRUPO",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ZION GARCIA",
+      "song": "HIVA",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FOOL NELSON",
+      "song": "Fading",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LOST CASUAL ft. DREA",
+      "song": "Woman",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "POLISH CLUB",
+      "song": "Heavyweight",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "METZ",
+      "song": "No Reservation / Love Comes Crashing",
+      "label": "Sub Pop",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ALLDAY ft. CUB SPORT",
+      "song": "Miss You Still",
+      "label": "Dew Process",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SURF TRASH",
+      "song": "Healin The Feelin",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NEWJEANS",
+      "song": "Right Now",
+      "label": "BigHit",
+      "timeslot": "05:30:00"
     }
   ]
 }

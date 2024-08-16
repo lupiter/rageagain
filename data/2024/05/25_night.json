@@ -1,9 +1,9 @@
 {
   "title": "Saturday night 25 May 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-may-2024-on-abc-tv/103890818",
-  "special": "Donny Benét guest programs rage",
+  "special": null,
   "timeslot": "night",
   "date": "2024-05-25",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-may-2024-on-abc-tv/103890818",
   "tracks": [
     {
       "artist": "DONNY BENET",
@@ -200,7 +200,7 @@
     {
       "artist": "ALAN VEGA",
       "song": "Wipeout Beat",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "01:30:00"
     },
     {

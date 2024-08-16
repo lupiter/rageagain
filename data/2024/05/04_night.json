@@ -1,9 +1,9 @@
 {
   "title": "Saturday night 4 May 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-may-2024-on-abc-tv/103802692",
-  "special": "Lydia Lunch & Joseph Keckler guest program rage",
+  "special": null,
   "timeslot": "night",
   "date": "2024-05-04",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-may-2024-on-abc-tv/103802692",
   "tracks": [
     {
       "artist": "LYDIA LUNCH",
@@ -92,7 +92,7 @@
     {
       "artist": "BB KING and TRACY CHAPMAN",
       "song": "The Thrill Is Gone",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "00:30:00"
     },
     {
@@ -104,7 +104,7 @@
     {
       "artist": "ALAN VEGA",
       "song": "Wipeout Beat",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "00:30:00"
     },
     {
@@ -170,7 +170,7 @@
     {
       "artist": "MONSTER MAGNET",
       "song": "Power Trip",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "01:30:00"
     },
     {
@@ -320,13 +320,13 @@
     {
       "artist": "ROLLINS BAND",
       "song": "Liar",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "03:30:00"
     },
     {
       "artist": "LOU REED - LIVE",
       "song": "Walk On The Wild Side",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "03:30:00"
     },
     {
@@ -380,7 +380,7 @@
     {
       "artist": "ERIC B and RAKIM",
       "song": "Paid In Full",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "04:00:00"
     },
     {

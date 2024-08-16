@@ -1,9 +1,9 @@
 {
   "title": "Saturday night 16 March 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-night-16-march-2024-on-abc-tv/103594882",
-  "special": "Gaz Coombes guest programs rage",
+  "special": null,
   "timeslot": "night",
   "date": "2024-03-16",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-16-march-2024-on-abc-tv/103594882",
   "tracks": [
     {
       "artist": "GAZ COOMBES",
@@ -254,7 +254,7 @@
     {
       "artist": "TEENAGE FANCLUB",
       "song": "What You Do To Me",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "02:30:00"
     },
     {
@@ -452,13 +452,13 @@
     {
       "artist": "STONE ROSES",
       "song": "She Bangs The Drums",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "04:30:00"
     },
     {
       "artist": "STONE ROSES",
       "song": "Fools Gold",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "04:30:00"
     },
     {
@@ -524,7 +524,7 @@
     {
       "artist": "THE CHARLATANS",
       "song": "One To Another",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "05:30:00"
     },
     {
@@ -536,7 +536,7 @@
     {
       "artist": "ELASTICA",
       "song": "Stutter",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "05:30:00"
     },
     {

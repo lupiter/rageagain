@@ -1,9 +1,9 @@
 {
   "title": "Friday night 7 June 2024 on ABC Entertains",
-  "url": "https://www.abc.net.au/rage/playlist/friday-night-7-june-2024-on-abc-entertains/103953404",
-  "special": "Vault Guest Programmer: Tom Morello (2006)",
+  "special": null,
   "timeslot": "night",
   "date": "2024-06-07",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-7-june-2024-on-abc-entertains/103953404",
   "tracks": [
     {
       "artist": "AUDIOSLAVE",
@@ -20,7 +20,7 @@
     {
       "artist": "TOOL",
       "song": "Sober",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "23:30:00"
     },
     {

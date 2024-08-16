@@ -1,9 +1,9 @@
 {
   "title": "Saturday morning 9 March 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9-march-2024-on-abc-tv/103566610",
-  "special": "Charts, VAULT, Best New Music Videos, Sharleen from Texas guest programs rage, Scottish 90s Special",
+  "special": null,
   "timeslot": "morning",
   "date": "2024-03-09",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9-march-2024-on-abc-tv/103566610",
   "tracks": [
     {
       "artist": "TAYLOR SWIFT",
@@ -326,7 +326,7 @@
     {
       "artist": "TEENAGE FANCLUB",
       "song": "Sparky's Dream",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "11:30:00"
     },
     {

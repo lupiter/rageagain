@@ -1,9 +1,9 @@
 {
   "title": "Saturday night 20 April 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-night-20-april-2024-on-abc-tv/103746818",
-  "special": "Braxe + Falcon guest program rage",
+  "special": null,
   "timeslot": "night",
   "date": "2024-04-20",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-20-april-2024-on-abc-tv/103746818",
   "tracks": [
     {
       "artist": "STARDUST",
@@ -134,7 +134,7 @@
     {
       "artist": "NEW RADICALS",
       "song": "You Get What You Give",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "01:00:00"
     },
     {

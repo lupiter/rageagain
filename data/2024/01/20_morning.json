@@ -1,9 +1,9 @@
 {
   "title": "Saturday morning 20 January 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-20-january-2024-on-abc-tv/103370006",
-  "special": "Charts, The Vault, Best New Music Videos, Courtney Barnett guest programs rage [repeat], rage Laneway Lineup Special",
+  "special": null,
   "timeslot": "morning",
   "date": "2024-01-20",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-20-january-2024-on-abc-tv/103370006",
   "tracks": [
     {
       "artist": "JENNIFER LOPEZ",
@@ -26,7 +26,7 @@
     {
       "artist": "RENEE RAPP and MEGAN THEE STALLION",
       "song": "Not My Fault (censored version)",
-      "label": "Interscope (Universal)",
+      "label": "Universal)",
       "timeslot": "06:00:00"
     },
     {

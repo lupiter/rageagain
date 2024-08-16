@@ -1,9 +1,9 @@
 {
   "title": "Saturday morning 2 March 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2-march-2024-on-abc-tv/103535266",
-  "special": "Charts, VAULT, Classic Like A Version, Best New Music Videos, Courtney Act guest programs rage, Mardi Gras Special",
+  "special": null,
   "timeslot": "morning",
   "date": "2024-03-02",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2-march-2024-on-abc-tv/103535266",
   "tracks": [
     {
       "artist": "SELENA GOMEZ",
@@ -128,7 +128,7 @@
     {
       "artist": "EURYTHMICS",
       "song": "Sweet Dreams",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "09:00:00"
     },
     {

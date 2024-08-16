@@ -1,141 +1,105 @@
 {
-  "title": "Monday night 23 July 2024 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/monday-night-23-july-2024-on-abc-tv/104122478",
-  "special": "Best New Music Videos\n ",
+  "title": "Tuesday night 23 July 2024 on ABC Entertains",
+  "special": "Olympics special",
   "timeslot": "night",
   "date": "2024-07-23",
+  "url": "https://www.abc.net.au/rage/playlist/tuesday-night-23-july-2024-on-abc-entertains/104122488",
   "tracks": [
     {
-      "artist": "POLISH CLUB",
-      "song": "How Dare You Fall In Love In This City",
-      "label": "Independent",
-      "timeslot": "02:00:00"
-    },
-    {
-      "artist": "KING GIZZARD AND THE LIZARD WIZARD",
-      "song": "Le Risque",
-      "label": "p(doom)",
-      "timeslot": "02:00:00"
-    },
-    {
-      "artist": "ELIZA and THE DELUSIONALS ft. BRIAN AUBERT",
-      "song": "Lately",
-      "label": "Cooking Vinyl Australia",
-      "timeslot": "02:00:00"
-    },
-    {
-      "artist": "EMILY WURRAMARA ft. TASMAN KEITH",
-      "song": "Lordy Lordy",
-      "label": "ABC",
-      "timeslot": "02:00:00"
-    },
-    {
-      "artist": "ICE SPICE and CENTRAL CEE",
-      "song": "Did It First",
-      "label": "Ditto Music",
-      "timeslot": "02:30:00"
-    },
-    {
-      "artist": "THE BUOYS",
-      "song": "Ahead Of Myself",
-      "label": "Arcadia Music",
-      "timeslot": "02:30:00"
-    },
-    {
-      "artist": "FANNING DEMPSEY NATIONAL PARK",
-      "song": "The Deluge",
-      "label": "Dew Process",
-      "timeslot": "02:30:00"
-    },
-    {
-      "artist": "EGOISM",
-      "song": "Sydney",
-      "label": "Independent",
-      "timeslot": "02:30:00"
-    },
-    {
-      "artist": "STOCKER",
-      "song": "Haunting",
-      "label": "Spinnin' Records",
-      "timeslot": "02:30:00"
-    },
-    {
-      "artist": "SKELETEN",
-      "song": "Deep Scene",
-      "label": "Astral People",
-      "timeslot": "02:30:00"
-    },
-    {
-      "artist": "ZION GARCIA",
-      "song": "Film Star Prelude",
-      "label": "Independent",
-      "timeslot": "02:30:00"
-    },
-    {
-      "artist": "3% ft. JESSICA MAUBOY",
-      "song": "Won't Stop",
-      "label": "1788 Records",
-      "timeslot": "02:30:00"
-    },
-    {
-      "artist": "TOMMY RICHMAN",
-      "song": "Million Dollar Baby",
-      "label": "PULSE Records",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "AYESHA MADON",
-      "song": "Blame Me",
-      "label": "Independent",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "ORVILLE PECK and BECK",
-      "song": "Death Valley High",
-      "label": "Warner",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "BUDJERAH",
-      "song": "Is It Ever Gonna Make Sense",
-      "label": "Warner",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "ANNIE HAMILTON",
-      "song": "Slut Era",
-      "label": "Independent",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "FRED AGAIN.. and ANDERSON .PAAK ft. CHIKA",
-      "song": "Places To Be",
-      "label": "Atlantic",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "ELSY WAMEYO ft. YWAYA TAJIRI",
-      "song": "Conquer",
-      "label": "Allbreed",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "MEG MAC ft. MATT CORBY",
-      "song": "Bricks (Live)",
-      "label": "EMI",
-      "timeslot": "03:00:00"
-    },
-    {
-      "artist": "FOREST CLAUDETTE",
-      "song": "Moonlight",
+      "artist": "WEIRD AL YANKOVIC",
+      "song": "Sports Song",
       "label": "Sony",
-      "timeslot": "03:30:00"
+      "timeslot": "23:00:00"
     },
     {
-      "artist": "ANDREW GURRIWIWI BAND",
-      "song": "Wata Mawi",
-      "label": "Independent",
-      "timeslot": "03:30:00"
+      "artist": "SUM41",
+      "song": "In Too Deep",
+      "label": "Universal",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "REGURGITATOR",
+      "song": "Crush The Losers",
+      "label": "Warner",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Elektrobank",
+      "label": "Virgin",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "NINA SIMONE",
+      "song": "Sinnerman (Felix Da Housecat mix)",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "KURTIS BLOW",
+      "song": "Basketball",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "OLLIE _and_ JERRY",
+      "song": "Breakin'... There's No Stopping Us",
+      "label": null,
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "song": "Shape Of You",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "AVICII",
+      "song": "Broken Arrows",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG and DRAGONETTE",
+      "song": "Hello",
+      "label": "MOS",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "From The Sea",
+      "label": "Fest/Mush",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "TAKE THAT",
+      "song": "The Flood",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "Tour De France",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "WHITNEY HOUSTON",
+      "song": "One Moment In Time",
+      "label": "Arista",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "VANGELIS",
+      "song": "Chariots of Fire",
+      "label": "Polydor",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE POINTER SISTERS",
+      "song": "Jump (For My Love)",
+      "label": "BMG",
+      "timeslot": "00:00:00"
     }
   ]
 }

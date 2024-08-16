@@ -1,9 +1,9 @@
 {
   "title": "Friday night 12 July 2024 on ABC Entertains",
-  "url": "https://www.abc.net.au/rage/playlist/friday-night-12-july-2024-on-abc-entertains/104092908",
-  "special": "Vault Guest Programmer: Lamb Of God (2009)",
+  "special": null,
   "timeslot": "night",
   "date": "2024-07-12",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-12-july-2024-on-abc-entertains/104092908",
   "tracks": [
     {
       "artist": "THE BIRTHDAY PARTY - LIVE",
@@ -50,7 +50,7 @@
     {
       "artist": "NIRVANA",
       "song": "Heart-Shaped Box",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "00:00:00"
     },
     {

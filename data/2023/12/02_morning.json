@@ -1,9 +1,9 @@
 {
   "title": "Saturday morning 2 December 2023 on ABC TV",
-  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2-december-2023-on-abc-tv/103177668",
-  "special": "Charts, The Vault, Best New Music Videos, Ollie Olsen Programs rage, rage Post-Punk Special",
+  "special": null,
   "timeslot": "morning",
   "date": "2023-12-02",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2-december-2023-on-abc-tv/103177668",
   "tracks": [
     {
       "artist": "OLIVIA RODRIGO",
@@ -260,7 +260,7 @@
     {
       "artist": "ALAN VEGA",
       "song": "Wipeout Beat",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "10:30:00"
     },
     {
@@ -338,7 +338,7 @@
     {
       "artist": "SCIENTISTS, THE - LIVE ON COUNTDOWN",
       "song": "Last Night",
-      "label": "Universal (MCA)",
+      "label": "MCA)",
       "timeslot": "11:30:00"
     },
     {
