@@ -22,7 +22,7 @@ window.onYouTubePlayerAPIReady = () => {
   new YT.Player('player', {
     height: '315',
     width: '560',
-    videoId: 'U6VrAyhRFkg', // RAGE Intro Video ID
+    videoId: 'ZzxKW6O8sNM', // RAGE Intro Video ID
     playerVars: {
       autoplay: 0,
       showinfo: 0,

@@ -4,6 +4,7 @@ dist/
 
 .env
 .cache/
+.parcel-cache/
 
 .vscode/*
 !.vscode/tasks.json
