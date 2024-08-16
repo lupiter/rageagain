@@ -1,0 +1,393 @@
+{
+  "title": "Saturday morning 10 February 2024 on ABC TV",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-10-february-2024-on-abc-tv/103450382",
+  "special": "Charts, The Vault, Best New Music Videos, Retro Month",
+  "timeslot": "morning",
+  "date": "2024-02-10",
+  "tracks": [
+    {
+      "artist": "DAVID KUSHNER",
+      "song": "Skin And Bones",
+      "label": "Miserable Music Group",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DANNII MINOGUE and AUTONE",
+      "song": "Thinking 'Bout Us",
+      "label": "Central Station",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LUKE COMBS",
+      "song": "Fast Car (Live)",
+      "label": "River House Artists",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OCEAN ALLEY",
+      "song": "Confidence",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PAUL RUSSELL",
+      "song": "Say Cheese",
+      "label": "Arista",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TYLA",
+      "song": "Truth or Dare",
+      "label": "FAX Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ZACH BRYAN",
+      "song": "Something In The Orange",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ARIANA GRANDE",
+      "song": "Yes, And? (clean version)",
+      "label": "Republic Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DOM DOLLA",
+      "song": "Saving Up",
+      "label": "Dom Dolla Music",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BENSON BOONE",
+      "song": "Beautiful Things",
+      "label": "Night Street Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TEDDY SWIMS",
+      "song": "Lose Control (Live)",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SOPHIE ELLIS BEXTOR",
+      "song": "Murder On The Dancefloor",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DOJA CAT",
+      "song": "Paint The Town Red (censored version)",
+      "label": "Columbia",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TATE McRAE",
+      "song": "Greedy",
+      "label": "RCA",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JACK HARLOW",
+      "song": "Lovin On Me (censored version)",
+      "label": "Atlantic",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "NOAH KAHAN",
+      "song": "Stick Season",
+      "label": "Mercury Records / Republic Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "All I Want Is You",
+      "label": "Mercury",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "Brilliant Disguise",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PATTI SMITH",
+      "song": "People Have The Power",
+      "label": "BMG",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "IN TUA NUA",
+      "song": "Somebody To Love",
+      "label": "Island Records",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "LLOYD COLE AND THE COMMOTIONS",
+      "song": "Cut Me Down",
+      "label": "Polydor",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THOMPSON TWINS",
+      "song": "King For A Day",
+      "label": "Arista",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "STEVE WINWOOD",
+      "song": "Valerie",
+      "label": "Island Records",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "HIATUS KAIYOTE",
+      "song": "Dare (On triple j's Like A Version)",
+      "label": "Sony",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "TELENOVA",
+      "song": "Teardrop",
+      "label": "EMI",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "JESS RIBEIRO",
+      "song": "Everything Is Now",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE RUBENS",
+      "song": "Liquid Gold",
+      "label": "Ivy League",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "ELSY WAMEYO",
+      "song": "Sinner",
+      "label": "Insanity Records",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "OLYMPIA",
+      "song": "Try Be Good",
+      "label": "Reach Around Records",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "KIRIN J CALLINAN",
+      "song": "It's The Truth",
+      "label": "Worse Records",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "POND",
+      "song": "Neon River",
+      "label": "Spinning Top",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "EMILY WURRAMARA",
+      "song": "Magic Woman Dancing",
+      "label": "ABC Music",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "COTERIE",
+      "song": "Paradise",
+      "label": "Massive Records",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "3% ft. TIA GOSTELOW",
+      "song": "Sleezy Steezy Cool",
+      "label": "1788 Records",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "PURPLE DISCO MACHINE and ASDIS",
+      "song": "Beat Of Your Heart",
+      "label": "Sweat It Out",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "JUSTICE ft. TAME IMPALA",
+      "song": "One Night/All Night",
+      "label": "Ed Banger / Because",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "FAT WHITE FAMILY",
+      "song": "Bullet Of Dignity (censored version)",
+      "label": "Domino",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "NO MONEY ENTERPRISE",
+      "song": "Through The Storm (clean version)",
+      "label": "Wembley Records",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "NORTHEAST PARTY HOUSE",
+      "song": "Wish We Could (censored version)",
+      "label": "Sony",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "AUSTRALIAN CRAWL",
+      "song": "Runaway Girls (On Countdown, 1982)",
+      "label": "EMI",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "TOTO COELO",
+      "song": "I Eat Cannibals",
+      "label": "Independent",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "DEXY'S MIDNIGHT RUNNERS",
+      "song": "Come On Eileen",
+      "label": "Polygram",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "GOANNA",
+      "song": "Solid Rock (Live on Countdown, 1982)",
+      "label": "Warner",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "JOHN COUGAR MELLENCAMP",
+      "song": "Jack _and_ Diane",
+      "label": "WEA",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE POINTER SISTERS",
+      "song": "I'm So Excited",
+      "label": "BMG",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "MI-SEX",
+      "song": "Down The Line (Making Love On The Telephone) (Live On Countdown, 1982)",
+      "label": "CBS",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "PSYCHEDELIC FURS",
+      "song": "Love My Way",
+      "label": "Sony",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "DRAGON",
+      "song": "Ramona (On Countdown, 1982)",
+      "label": "EMI",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "WENDY STAPLETON",
+      "song": "Interviewed on Countdown, 1982",
+      "label": "ABC",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "WENDY and THE ROCKETTS",
+      "song": "Have You Been Telling Me Lies",
+      "label": "Mushroom",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "COUNTDOWN REVOLUTION",
+      "song": "Segment on Fashion, 1989",
+      "label": "ABC",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SIOUXSIE and THE BANSHEES",
+      "song": "The Passenger",
+      "label": "Polydor",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "HOODOO GURUS",
+      "song": "Another World",
+      "label": "BMG",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "LIVING COLOUR",
+      "song": "Countdown Revolution Ident, 1989",
+      "label": "ABC",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "LIVING COLOUR",
+      "song": "Glamour Boys",
+      "label": "MCA",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "PUBLIC IMAGE LTD",
+      "song": "Warrior (On Countdown Revolution, 1989)",
+      "label": "Virgin",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "PET SHOP BOYS",
+      "song": "West End Girls",
+      "label": "EMI",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "MARTIN PLAZA",
+      "song": "Concrete and Clay",
+      "label": "Warner",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "MARTIN PLAZA from MENTAL AS ANYTHING",
+      "song": "Interviewed On Countdown, 1986",
+      "label": "ABC",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "PSEUDO ECHO",
+      "song": "Love An Adventure (On Countdown, 1986)",
+      "label": "RCA",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Close To Me",
+      "label": "Warner",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DIVINYLS",
+      "song": "Sleeping Beauty (On Countdown, 1986)",
+      "label": "Chrysalis",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "And She Was",
+      "label": "EMI",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "GANGAJANG",
+      "song": "Sounds Of Then (On Countdown, 1986)",
+      "label": "Truetone Records",
+      "timeslot": "11:30:00"
+    }
+  ]
+}

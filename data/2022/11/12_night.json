@@ -1,0 +1,645 @@
+{
+  "title": "Saturday night 12 November 2022 on ABC TV",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-12-november-2022-on-abc-tv/101645156",
+  "special": "Spiderbait guest program rage",
+  "timeslot": "night",
+  "date": "2022-11-12",
+  "tracks": [
+    {
+      "artist": "SPIDERBAIT",
+      "song": "F**ken Awesome",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SCREAMFEEDER",
+      "song": "Hi C's",
+      "label": "Shock",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "FUR",
+      "song": "Jimmy Rogers",
+      "label": "Shock",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "VOIID",
+      "song": "Sour",
+      "label": "Independent",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Ice",
+      "label": "Shock",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "ADALITA",
+      "song": "Hot Air",
+      "label": "Liberation",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BODY TYPE",
+      "song": "Palms",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DIVINYLS",
+      "song": "Science Fiction",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE SPAZZYS",
+      "song": "Paco Doesn't Love Me",
+      "label": "Shock",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "B(IF)TEK",
+      "song": "We Think You're Dishy",
+      "label": "Murmur",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "OLIVIA NEWTON-JOHN",
+      "song": "Xanadu (Live On Countdown, 1980)",
+      "label": "Jet Records",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "RENEE GEYER",
+      "song": "Say I Love You",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE GO-BETWEENS",
+      "song": "Streets Of Your Town",
+      "label": "Universal (MCA)",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SISTER JANET MEAD",
+      "song": "The Lord's Prayer",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HELEN REDDY",
+      "song": "I Am Woman",
+      "label": "Capitol",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SHARON O'NEILL",
+      "song": "Waiting For You",
+      "label": "CBS",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ANITA LANE",
+      "song": "The Next Man That I See",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LITTLE UGLY GIRLS",
+      "song": "Jimmeh",
+      "label": "Chapter Music",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MOD CON",
+      "song": "Do It Right Margo",
+      "label": "Future Popes",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STONEFIELD",
+      "song": "Sleep",
+      "label": "Flightless",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FLYYING COLOURS",
+      "song": "It's Tomorrow Now",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MOODY BEACHES",
+      "song": "Guns",
+      "label": "Poison City",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BLOODS",
+      "song": "Feelings",
+      "label": "Share It Music",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "Hertz",
+      "label": "B2B Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DO RE MI",
+      "song": "Man Overboard",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PAT WILSON",
+      "song": "Bop Girl",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TINA ARENA",
+      "song": "Chains",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MARCIA HINES",
+      "song": "Fire and Rain",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "VIKA and LINDA",
+      "song": "Raise Your Hand",
+      "label": "Bloodlines",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NGAIIRE",
+      "song": "Once",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THELMA PLUM",
+      "song": "Better In Blak",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SAMPA THE GREAT",
+      "song": "Final Form",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MALLRAT",
+      "song": "Groceries",
+      "label": "Dew Process",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RUBY FIELDS",
+      "song": "R.E.G.O",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "G FLIP",
+      "song": "About You",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MEG MAC",
+      "song": "Is It Worth Being Sad?",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JULIA JACKLIN",
+      "song": "Body",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HOPE D",
+      "song": "Second",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MIA DYSON",
+      "song": "When The Moment Comes",
+      "label": "SGC Media",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALI BARTER",
+      "song": "Girlie Bits",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "We Won't Run",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CABLE TIES",
+      "song": "Sandcastles",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TONES AND I",
+      "song": "Eyes Don't Lie",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Chandelier",
+      "label": "Inertia Recordings / Monkey Puzzle",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MONTAIGNE",
+      "song": "Now (In Space)",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT",
+      "song": "Rae Street",
+      "label": "Milk! Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LANIE LANE",
+      "song": "To The Horses",
+      "label": "Ivy League",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MAJOR LEAGUES",
+      "song": "Good Love",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ALICE SKYE",
+      "song": "Friends With Feelings",
+      "label": "CAAMA",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ALPINE",
+      "song": "Hands",
+      "label": "Ivy League",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KASEY CHAMBERS",
+      "song": "Not Pretty Enough",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HTRK",
+      "song": "Fascinator",
+      "label": "Mistletone",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JEN CLOHER",
+      "song": "Hold My Hand",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Riffer",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Calypso",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Hot Water and Milk",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Joyce's Hut",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Buy Me A Pony",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Run",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Old Man Sam",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "I Gotta Know",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Jesus",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Monty",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Sam Gribbles",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Shazam",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Plastic",
+      "label": "Universal (MCA)",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Gloken Pop",
+      "label": "Universal (MCA)",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Outta My Head",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Four On The Floor",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Arse Huggin' Pants",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Spanish Galleon",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Black Betty",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Tonite",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "On My Way",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "STORK",
+      "song": "Cane Toad",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Plastic Loveless Letter",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PARTY DOZEN ft. NICK CAVE",
+      "song": "Macca The Mutt",
+      "label": "GRUPO",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CAMP COPE",
+      "song": "The Opener (Live At Sydney Opera House)",
+      "label": "Poison City",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TASMAN KEITH",
+      "song": "Love Too Soon",
+      "label": "AWAL",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROYEL OTIS",
+      "song": "Bull Breed",
+      "label": "Ourness",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PHIL FRESH ft. RISSA",
+      "song": "On The Low",
+      "label": "Mozaic Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "1300",
+      "song": "Foreign Language (censored version)",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SAMPA THE GREAT ft. DENZEL CURRY",
+      "song": "Lane (clean version)",
+      "label": "Loma Vista",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GENESIS OWUSU",
+      "song": "GTFO (censored version)",
+      "label": "Ourness",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FLIGHT FACILITIES featuring GISELLE",
+      "song": "Crave You",
+      "label": "KAOS",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "VAN SHE",
+      "song": "Kelly",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "Are You The One?",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CONFIDENCE MAN",
+      "song": "Feels Like A Different Thing",
+      "label": "I OH YOU",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KING STINGRAY",
+      "song": "Milkumana",
+      "label": "Cooking Vinyl",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "YOTHU YINDI",
+      "song": "Djapana",
+      "label": "Mushroom",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JOJI",
+      "song": "Die For You",
+      "label": "88Rising",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE MURLOCS",
+      "song": "Living Under A Rock (Live)",
+      "label": "Uncle Murl",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BILLIAM",
+      "song": "Fell In Love With A Monster",
+      "label": "Warttmann Inc.",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PORCELAIN SOCIETY",
+      "song": "Ophanim",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "AGUNG MANGO ft. MAMMOTH",
+      "song": "foRRest (censored version)",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GOLDEN FEATURES",
+      "song": "Vigil",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OLIVER TREE and ROBIN SCHULZ",
+      "song": "Miss You",
+      "label": "Atlantic",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JEN CLOHER",
+      "song": "Mana Takatapui",
+      "label": "Milk! Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "VALLIS ALPS",
+      "song": "Set It Off, Set It Right",
+      "label": "The Orchard Music",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BABITHA",
+      "song": "Only Fair",
+      "label": "Spunk",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "Everyboy's Saying Thursday's The Weekend",
+      "label": "I OH YOU",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PRICIE",
+      "song": "Big Girls",
+      "label": "Sweat It Out",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HATCHIE",
+      "song": "Nosedive",
+      "label": "Ivy League",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PARTIBOI69 ft. CHRIST DILLINGER",
+      "song": "Hoe",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CAMP COPE",
+      "song": "Sing Your Heart Out",
+      "label": "Poison City Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Wolf",
+      "label": "Secretly Canadian",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

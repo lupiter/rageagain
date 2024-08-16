@@ -1,0 +1,87 @@
+{
+  "title": "Sunday night 23 April 2023 on ABC TV",
+  "url": "https://www.abc.net.au/rage/playlist/sunday-night-23-april-2023-on-abc-tv/102253454",
+  "special": "The VAULT",
+  "timeslot": "night",
+  "date": "2023-04-23",
+  "tracks": [
+    {
+      "artist": "BLONDIE",
+      "song": "Call Me",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LOVERBOY",
+      "song": "Turn Me Loose",
+      "label": "CBS",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "STYX",
+      "song": "Too Much Time On My Hands",
+      "label": "A_and_M Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Hello America",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WHITESNAKE",
+      "song": "Fool For Your Loving",
+      "label": "Mirage",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GILLAN",
+      "song": "Sleeping On The Job",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PAT BENATAR",
+      "song": "You Better Run",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THIN LIZZY",
+      "song": "Chinatown",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ZZ TOP",
+      "song": "I Thank You (live on BBC's The Old Grey Whistle Test, 1980)",
+      "label": "BBC",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Ace Of Spades",
+      "label": "Festival",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GIRLSCHOOL",
+      "song": "Emergency",
+      "label": "Bronze",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JUDAS PRIEST",
+      "song": "Breaking The Law",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BLACK SABBATH - LIVE",
+      "song": "Die Young",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    }
+  ]
+}

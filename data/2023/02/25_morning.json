@@ -1,0 +1,399 @@
+{
+  "title": "Saturday morning 25 February 2023 on ABC TV",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-25-february-2023-on-abc-tv/102021140",
+  "special": "Charts, The VAULT, Best New Music Videos, Sydney WorldPride Special",
+  "timeslot": "morning",
+  "date": "2023-02-25",
+  "tracks": [
+    {
+      "artist": "FLUME ft. MAY-A",
+      "song": "Say Nothing",
+      "label": "Future Classic",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE WEEKND",
+      "song": "Nothing Is Lost (You Give Me Strength)",
+      "label": "20th Century Studios",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LOST FREQUENCIES ft. ELLEY DUHE and X AMBASSADORS",
+      "song": "Back To You",
+      "label": "Epic",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DAVID GUETTA and BEBE REXHA",
+      "song": "I'm Good (Blue) (censored version)",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MEGHAN TRAINOR",
+      "song": "Made You Look",
+      "label": "Epic",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JAX JONES and CALUM SCOTT",
+      "song": "Whistle",
+      "label": "Etc Etc",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LINKIN PARK",
+      "song": "Lost",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE KID LAROI",
+      "song": "Love Again",
+      "label": "Columbia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ONEREPUBLIC",
+      "song": "I Ain't Worried",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OLIVER TREE and ROBIN SCHULZ",
+      "song": "Miss You",
+      "label": "Atlantic",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HARRY STYLES",
+      "song": "As It Was",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "COI LERAY ft. DJ SMALLZ 732",
+      "song": "Players (Jersey Club Remix) (censored version)",
+      "label": "Uptown Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MIGUEL",
+      "song": "Sure Thing (censored version)",
+      "label": "Jive",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "Anti-Hero (fat-free version)",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SAM SMITH ft. KIM PETRAS",
+      "song": "Unholy (censored version)",
+      "label": "Capitol",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "RAYE ft. 070 SHAKE",
+      "song": "Escapism. (extra censored version)",
+      "label": "Human Re Sources",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MILEY CYRUS",
+      "song": "Flowers (censored version)",
+      "label": "Columbia",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "UNDERWORLD",
+      "song": "Born Slippy",
+      "label": "Sony",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "TRIPLE X",
+      "song": "X-Files Theme",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "ROBERT MILES",
+      "song": "Children",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "EVERYTHING BUT THE GIRL",
+      "song": "Wrong",
+      "label": "Virgin",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "TODD TERRY ft. MARTHA WASH AND JOCELYN BROWN",
+      "song": "Keep On Jumpin'",
+      "label": "Logic Records",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "UMBOZA",
+      "song": "Cry India",
+      "label": "Positiva",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "GRETTA RAY",
+      "song": "The Deepest Sighs, the Frankest Shadows (On triple j's Like A Version)",
+      "label": "Welcome To Ballarat",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "GORILLAZ ft. ADELEYE OMOTAYO",
+      "song": "Silent Running",
+      "label": "Parlophone",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE LEMON TWIGS",
+      "song": "Any Time Of Day",
+      "label": "Captured Tracks",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "SAN CISCO",
+      "song": "Lost Without You",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "OCEAN ALLEY",
+      "song": "West Coast",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "MILKU",
+      "song": "Diamonds xx",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "BENEE",
+      "song": "Green Honda (censored version)",
+      "label": "Mercury",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "HAZ and MILOUX ft. DIGGY DUPE",
+      "song": "What U Do",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "CUCO",
+      "song": "Best Disaster",
+      "label": "Interscope Records",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "FIDLAR",
+      "song": "Centipede (censored version)",
+      "label": "Liberator",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "100 GECS",
+      "song": "Hollywood Baby",
+      "label": "Atlantic",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "PACIFIC AVENUE",
+      "song": "Spin Me Like Your Records (censored version)",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "DZ DEATHRAYS",
+      "song": "King B (new version)",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE UNKNOWNS",
+      "song": "Shot Down",
+      "label": "Bargain Bin Records",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "CLEA",
+      "song": "I Wanna Be Alive",
+      "label": "Dew Process",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "UNKNOWN MORTAL ORCHESTRA",
+      "song": "Layla",
+      "label": "Jagjaguwar",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ELIOTT",
+      "song": "Tell Me",
+      "label": "Island Australia",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "JACK RIVER and GENESIS OWUSU",
+      "song": "Endless Summer",
+      "label": "I OH YOU",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "MAGICIAN, THE and THE ASTON SHUFFLE",
+      "song": "Differences",
+      "label": "Potion Records",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "True Colors",
+      "label": "Sony",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE COMMUNARDS",
+      "song": "Don't Leave Me This Way",
+      "label": "Polydor",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ERASURE",
+      "song": "Chains Of Love",
+      "label": "Mute Records",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "CLAUDJA BARRY",
+      "song": "(Boogie Woogie) Dancin' Shoes",
+      "label": "Lollipop Records",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE VILLAGE PEOPLE",
+      "song": "Y.M.C.A.",
+      "label": "BMG",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "SYLVESTER",
+      "song": "You Make Me Feel (Mighty Real)",
+      "label": "Fantasy",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ABBA",
+      "song": "Gimme Gimme Gimme",
+      "label": "Mercury",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "CHAKA KHAN",
+      "song": "This Is My Night",
+      "label": "Warner",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "PETER ALLEN",
+      "song": "I Go To Rio",
+      "label": "Universal",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "GLORIA GAYNOR",
+      "song": "I Will Survive",
+      "label": "Polydor",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "RU PAUL",
+      "song": "Supermodel",
+      "label": "Mushroom",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "PET SHOP BOYS",
+      "song": "Absolutely Fabulous",
+      "label": "EMI",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SCISSOR SISTERS",
+      "song": "Take Your Mama Out",
+      "label": "Universal",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "TEGAN AND SARA",
+      "song": "Closer",
+      "label": "Warner",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "MUNA",
+      "song": "I Know A Place",
+      "label": "Sony",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "You Need To Calm Down",
+      "label": "Universal",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE VERONICAS",
+      "song": "Untouched",
+      "label": "Warner",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "LIZZO",
+      "song": "About Damn Time (censored version)",
+      "label": "Nice Life",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "PUSSYCAT DOLLS featuring SNOOP DOGG",
+      "song": "Buttons",
+      "label": "Universal",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Better The Devil You Know",
+      "label": "Mushroom",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "GEORGE MICHAEL",
+      "song": "Too Funky",
+      "label": "Sony",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ELTON JOHN",
+      "song": "I'm Still Standing",
+      "label": "Polydor",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "OLIVIA NEWTON-JOHN",
+      "song": "Magic (Live On Countdown, 1980)",
+      "label": "Jet Records",
+      "timeslot": "11:30:00"
+    }
+  ]
+}

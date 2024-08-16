@@ -1,0 +1,57 @@
+{
+  "title": "Monday night 5 June 2023 ABC TV",
+  "url": "https://www.abc.net.au/rage/playlist/monday-night-5-june-2023-abc-tv/102434878",
+  "special": "Best New Music Videos",
+  "timeslot": "night",
+  "date": "2023-06-05",
+  "tracks": [
+    {
+      "artist": "SAN CISCO",
+      "song": "Honeycomb",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE BELAIR LIP BOMBS",
+      "song": "Gimme Gimme",
+      "label": "Cousin Will Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MIDDLE KIDS",
+      "song": "Bootleg Firecracker",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ALEX LAHEY",
+      "song": "On The Way Down",
+      "label": "Liberation",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GIMMY",
+      "song": "Sweat (An Australian Summer)",
+      "label": "Third Eye Stimuli Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MO'JU",
+      "song": "Swan Song",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JUNGLE GIANTS, THE ft. RENEE",
+      "song": "Rakata",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ARLO PARKS",
+      "song": "Devotion",
+      "label": "Transgressive",
+      "timeslot": "03:00:00"
+    }
+  ]
+}

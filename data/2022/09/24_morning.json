@@ -1,0 +1,387 @@
+{
+  "title": "Saturday morning 24 September 2022 on ABC TV",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-24-september-2022-on-abc-tv/101468720",
+  "special": "Charts, The VAULT, Best New Music Videos, Sampa The Great guest programs rage, Spoken Word Special",
+  "timeslot": "morning",
+  "date": "2022-09-24",
+  "tracks": [
+    {
+      "artist": "BLACKPINK",
+      "song": "Shut Down",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LISA VERONICA",
+      "song": "Cruisin' On My Own",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JESSIE VERONICA",
+      "song": "Seeing Stars (censored version)",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LEWIS CAPALDI",
+      "song": "Forget Me",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LUKE COMBS",
+      "song": "When It Rains It Pours",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ZACH BRYAN",
+      "song": "Something In The Orange",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LF SYSTEM",
+      "song": "Afraid To Feel",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LIZZO",
+      "song": "About Damn Time (censored version)",
+      "label": "Nice Life",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "POST MALONE and DOJA CAT",
+      "song": "I Like You (A Happier Song) (censored version)",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "STEVE LACY",
+      "song": "Bad Habit (censored version)",
+      "label": "RCA",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "NICKY YOURE and DAZY",
+      "song": "Sunroof",
+      "label": "Thirty Knots",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ELIZA ROSE and INTERPLANETARY CRIMINAL",
+      "song": "B.O.T.A. (Baddest Of Them All) (censored version)",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Heat Waves",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HARRY STYLES",
+      "song": "As It Was",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ONEREPUBLIC",
+      "song": "I Ain't Worried",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "NICKI MINAJ",
+      "song": "Super Freaky Girl (censored version)",
+      "label": "Republic Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DAVID GUETTA and BEBE REXHA",
+      "song": "I'm Good (Blue) (censored version)",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE CARPENTERS",
+      "song": "Close To You",
+      "label": "Polydor",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "AXIOM",
+      "song": "Little Ray Of Sunshine",
+      "label": "EMI",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "JOHN LENNON",
+      "song": "Instant Karma",
+      "label": "EMI",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "BADFINGER",
+      "song": "Come and Get It",
+      "label": "Apple Records",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "MUNGO JERRY",
+      "song": "In The Summertime",
+      "label": "Festival",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "CREEDENCE CLEARWATER REVIVAL",
+      "song": "Looking Out My Back Door",
+      "label": "Festival",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SHOCKING BLUE",
+      "song": "Venus",
+      "label": "BMG",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "CAT STEVENS",
+      "song": "Lady D'Arbanville",
+      "label": "Festival",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "GANG OF YOUTHS",
+      "song": "Blood (On triple j's Like A Version)",
+      "label": "Mosy Recordings",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PHOENIX ft. EZRA KOENIG",
+      "song": "Tonight",
+      "label": "Glassnote Records",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "CATE LE BON",
+      "song": "Typical Love",
+      "label": "Mexican Summer",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "MALLRAT",
+      "song": "To You",
+      "label": "Dew Process",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "RUBY GILL",
+      "song": "I'm Gonna Die With This Frown On My Face",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "BOY and BEAR",
+      "song": "Just To Be Kind",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "TELENOVA",
+      "song": "Stained Glass Love",
+      "label": "Pointer Recordings",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "OCEAN ALLEY",
+      "song": "Home",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "GOLDEN FEATURES",
+      "song": "Vigil",
+      "label": "Warner",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "RHYSICS",
+      "song": "Together Now",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE BUOYS",
+      "song": "Red Flags",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE MURLOCS",
+      "song": "Bellarine Ballerina",
+      "label": "Uncle Murl",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "MURA MASA ft. ERIKA DE CASIER",
+      "song": "E-Motions",
+      "label": "Universal",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ELIZA ROSE and INTERPLANETARY CRIMINAL",
+      "song": "B.O.T.A. (Baddest Of Them All) (censored version)",
+      "label": "Warner",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE VOVOS",
+      "song": "Jessica Day",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "OBONGJAYAR",
+      "song": "Sugar (censored version)",
+      "label": "September Recordings",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "MEMPHIS LK",
+      "song": "Whip",
+      "label": "Dot Dash",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "MONTAIGNE",
+      "song": "sickcrydie",
+      "label": "Wonderlick",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "SAMPA THE GREAT",
+      "song": "Final Form (censored version)",
+      "label": "Independent",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "Get Ur Freak On",
+      "label": "Warner",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "All Falls Down",
+      "label": "Universal",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "B.O.B.",
+      "label": "BMG",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "N.E.R.D. ft. RIHANNA",
+      "song": "Lemon (clean)",
+      "label": "Sony",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "JAMIROQUAI",
+      "song": "Virtual Insanity",
+      "label": "Sony",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ROSALIA",
+      "song": "Malamente",
+      "label": "Sony",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "TLC",
+      "song": "No Scrubs",
+      "label": "BMG",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Paper Planes",
+      "label": "Remote Control",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "ANGELIQUE KIDJO",
+      "song": "Agolo",
+      "label": "Mercury",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE ROOTS featuring ERYKAH BADU",
+      "song": "You Got Me",
+      "label": "Universal (MCA)",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "LAURYN HILL",
+      "song": "Doo Wop (That Thing)",
+      "label": "Sony",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "JANET JACKSON",
+      "song": "Got 'Til It's Gone",
+      "label": "Virgin",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SAMPA THE GREAT ft. DENZEL CURRY",
+      "song": "Lane (clean version)",
+      "label": "Loma Vista",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "GRACE JONES",
+      "song": "Private Life",
+      "label": "EMI",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "LOU REED",
+      "song": "Dirty Boulevarde",
+      "label": "Warner",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BRIGHT EYES",
+      "song": "At The Bottom Of Everything",
+      "label": "Stomp",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "LAURIE ANDERSON",
+      "song": "O Superman",
+      "label": "Warner",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ERIC B and RAKIM",
+      "song": "Paid In Full",
+      "label": "Universal (MCA)",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Parklife",
+      "label": "EMI",
+      "timeslot": "11:30:00"
+    }
+  ]
+}

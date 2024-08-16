@@ -1,0 +1,363 @@
+{
+  "title": "Saturday morning 5 November 2022 on ABC TV",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-5-november-2022-on-abc-tv/101616816",
+  "special": "Charts, The VAULT, Best New Music Videos,Eskimo Joe guest program rage, Ausmusic Month Special",
+  "timeslot": "morning",
+  "date": "2022-11-05",
+  "tracks": [
+    {
+      "artist": "HARRY STYLES",
+      "song": "Music For A Sushi Restaurant",
+      "label": "Columbia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "5 SECONDS OF SUMMER ft. SIERRA DEATON",
+      "song": "Older (clean version)",
+      "label": "BMG",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ADELE",
+      "song": "I Drink Wine",
+      "label": "Columbia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "Lift Me Up",
+      "label": "Roc Nation",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CHLOE and LATTO",
+      "song": "For The Night (censored version)",
+      "label": "Columbia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NICKY YOURE and DAZY",
+      "song": "Sunroof",
+      "label": "Thirty Knots",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NICKI MINAJ",
+      "song": "Super Freaky Girl (censored version)",
+      "label": "Republic Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HARRY STYLES",
+      "song": "As It Was",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ELIZA ROSE and INTERPLANETARY CRIMINAL",
+      "song": "B.O.T.A. (Baddest Of Them All)",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "STEVE LACY",
+      "song": "Bad Habit (censored version)",
+      "label": "RCA",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ONEREPUBLIC",
+      "song": "I Ain't Worried",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DAVID GUETTA and BEBE REXHA",
+      "song": "I'm Good (Blue) (censored version)",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "Bejeweled",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SAM SMITH ft. KIM PETRAS",
+      "song": "Unholy (censored version)",
+      "label": "Capitol",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "Anti-Hero (fat-free version)",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "U.S. Forces",
+      "label": "Sony",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "The One Thing",
+      "label": "Warner",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "EUROGLIDERS",
+      "song": "Without You",
+      "label": "Independent",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Hey Little Girl",
+      "label": "Chrysalis",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "IGNATIUS JONES",
+      "song": "Like A Ghost",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Almost With You",
+      "label": "EMI",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PAUL KELLY and THE DOTS",
+      "song": "Alive And Well",
+      "label": "Mushroom",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PRESS CLUB",
+      "song": "When You Were Young (On triple j's Like A Version)",
+      "label": "Independent",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "BBNO$ and YUNG GRAVY",
+      "song": "Touch Grass (clean version)",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "PARTIBOI69 ft. CHRIST DILLINGER",
+      "song": "Hoe",
+      "label": "Universal",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "NIC CESTER",
+      "song": "Did I Just Fall In Love",
+      "label": "Davoli Studio Milano",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "TELENOVA",
+      "song": "Stained Glass Love",
+      "label": "Pointer Recordings",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "PORCELAIN SOCIETY",
+      "song": "Ophanim",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "LASTLINGS",
+      "song": "Get What You Want",
+      "label": "Liberation",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "WEYES BLOOD",
+      "song": "Grapevine",
+      "label": "Sub Pop",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "GOLDEN FEATURES ft. RROMARIN",
+      "song": "Touch",
+      "label": "Warner",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "GRENTPEREZ",
+      "song": "Ego (censored version)",
+      "label": "Fast Friends",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "CIVIC",
+      "song": "End Of The Line",
+      "label": "Cooking Vinyl",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "LAURA JEAN",
+      "song": "A Funny Thing Happened",
+      "label": "Chapter Music",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "SERENA STRANGER",
+      "song": "Fool",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Wolf",
+      "label": "Secretly Canadian",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BAD//DREEMS",
+      "song": "Jack",
+      "label": "Ivy League",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "CHRISTINE AND THE QUEENS",
+      "song": "La Chanson Du Chevalier",
+      "label": "Because Music",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "HARRY STYLES",
+      "song": "Music For A Sushi Restaurant",
+      "label": "Columbia",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "Everyboy's Saying Thursday's The Weekend",
+      "label": "I OH YOU",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "From The Sea",
+      "label": "Fest/Mush",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "NO ZU",
+      "song": "Ui Yia Uia",
+      "label": "Chapter Music",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "MICHAEL KIWANUKA",
+      "song": "Cold Little Heart",
+      "label": "Polydor",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "BILL WITHERS",
+      "song": "Ain't No Sunshine",
+      "label": "Sony",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Just",
+      "label": "EMI",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Need You Tonight/Mediate",
+      "label": "Warner",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "GEORGE MICHAEL",
+      "song": "Faith",
+      "label": "Sony",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Chandelier",
+      "label": "Inertia Recordings / Monkey Puzzle",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "We Are The People",
+      "label": "EMI",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "LITTLE BIRDY",
+      "song": "Relapse",
+      "label": "Virgin",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "G FLIP",
+      "song": "Bring Me Home",
+      "label": "Independent",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "Black Fingernails Red Wine",
+      "label": "Warner",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "END OF FASHION",
+      "song": "O Yeah",
+      "label": "EMI",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "ISABELLA MANFREDI ft. PRICIE",
+      "song": "Naive",
+      "label": "Island Records",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "FLUME ft. EMMA LOUISE",
+      "song": "Hollow",
+      "label": "Future Classic",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "HIATUS KAIYOTE ft. ARTHUR VEROCAI",
+      "song": "Get Sun",
+      "label": "Brainfeeder",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "TESKEY BROTHERS, THE ft. EMMA DONOVAN",
+      "song": "Get Back To The Land",
+      "label": "Ivy League",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE TRIFFIDS",
+      "song": "Wide Open Road",
+      "label": "Mushroom",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "HOODOO GURUS",
+      "song": "1,000 Miles Away",
+      "label": "BMG",
+      "timeslot": "11:30:00"
+    }
+  ]
+}

@@ -1,0 +1,633 @@
+{
+  "title": "Saturday night 13 May 2023 on ABC TV",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-13-may-2023-on-abc-tv/102339082",
+  "special": "Kate Ceberano guest programs rage",
+  "timeslot": "night",
+  "date": "2023-05-13",
+  "tracks": [
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Brave (My Life Is A Symphony version)",
+      "label": "ABC Music",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Heart Of Glass",
+      "label": "Chrysalis",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Atomic",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "IKE and TINA TURNER",
+      "song": "River Deep Mountain High",
+      "label": "Festival",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "PATTI SMITH",
+      "song": "Because The Night",
+      "label": "BMG",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MARIANNE FAITHFULL",
+      "song": "Ballad of Lucy Jordan",
+      "label": "Festival",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "ROBERTA FLACK",
+      "song": "The First Time Ever I Saw Your Face",
+      "label": "Atlantic",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DONNA SUMMER",
+      "song": "I Feel Love",
+      "label": "Casablanca",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "RENEE GEYER - Live at the 1975 Music Industry...",
+      "song": "It's A Man's Man's World",
+      "label": "RCA",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE STRANGLERS",
+      "song": "Golden Brown",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Babooshka",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "STRAY CATS",
+      "song": "Stray Cat Strut",
+      "label": "Fest/Mush",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE PRETENDERS",
+      "song": "Talk Of The Town",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "JOAN ARMATRADING",
+      "song": "Me Myself I",
+      "label": "A and M Records",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "EURYTHMICS",
+      "song": "Love Is A Stranger",
+      "label": "BMG",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "GRACE JONES",
+      "song": "Pull Up To The Bumper",
+      "label": "Festival",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SIOUXSIE and THE BANSHEES",
+      "song": "Spellbound",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FLEETWOOD MAC",
+      "song": "Gypsy",
+      "label": "WEA",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DIVINYLS",
+      "song": "Science Fiction",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GRACE JONES",
+      "song": "I've Seen That Face Before (Libertango)",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SHEILA E",
+      "song": "Glamorous Life",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "This Woman's Work",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE B-52'S",
+      "song": "Roam",
+      "label": "Reprise Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WENDY and LISA",
+      "song": "Strung Out",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KD LANG and ROY ORBISON",
+      "song": "Crying",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KD LANG",
+      "song": "Constant Craving",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Teardrop",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MAZZY STAR",
+      "song": "Fade Into You",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "Good Fortune",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ELASTICA",
+      "song": "Connection",
+      "label": "Universal (MCA)",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FIONA APPLE",
+      "song": "Sleep To Dream",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Can't Get You Out Of My Head",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NIKKA COSTA",
+      "song": "Like A Feather",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GOLDFRAPP",
+      "song": "Happiness",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Buttons",
+      "label": "Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AMY WINEHOUSE",
+      "song": "Back To Black",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LILY ALLEN",
+      "song": "The Fear",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FEIST",
+      "song": "The Bad In Each Other",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DAVID GUETTA featuring KELLY ROWLAND",
+      "song": "When Love Takes Over",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DAVID GUETTA featuring SIA",
+      "song": "She Wolf (Falling To Pieces)",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FLORENCE and THE MACHINE",
+      "song": "Shake It Out",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ADELE",
+      "song": "Rolling In The Deep",
+      "label": "Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LAURA MARLING",
+      "song": "Master Hunter",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LANA DEL REY",
+      "song": "High By The Beach",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LANA DEL REY",
+      "song": "Video Games",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LONDON GRAMMAR",
+      "song": "Wasting My Young Years",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "Guided By Angels",
+      "label": "B2B Records / Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CHARLOTTE GAINSBOURG",
+      "song": "Deadly Valentine",
+      "label": "Because Music",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AGNES",
+      "song": "24 Hours",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DUA LIPA ft. DABABY",
+      "song": "Levitating",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JANELLE MONAE featuring BIG BOI",
+      "song": "Tightrope",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JESSIE WARE",
+      "song": "Free Yourself",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MILEY CYRUS",
+      "song": "Flowers",
+      "label": "Columbia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Time To Think",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Lush Life",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Love Dimension",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Bedroom Eyes",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Since You've Been Gone",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Change",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "That's What I Call Love",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Nature Boy",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "See Right Through",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Love And Affection",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Pash",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Love Is Alive",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "True Romantic",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Yes",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "I Won't Let You Down",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Higher and Higher",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Unchained Melody",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "She Will Be Loved",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Magnet",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO, STEVE KILBEY AND SEAN SENNETT",
+      "song": "Monument City Lights, 1973",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MONNIE",
+      "song": "Bored",
+      "label": "Seven Seven",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GRENTPEREZ",
+      "song": "When The Day Is Done",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "OCEAN ALLEY",
+      "song": "Lapwing",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HARRY STYLES",
+      "song": "Satellite",
+      "label": "Columbia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CONFIDENCE MAN and DANIEL AVERY",
+      "song": "On _and_ On (Again)",
+      "label": "Liberation",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NICHOLAS ALLBROOK",
+      "song": "Commodore",
+      "label": "Spinning Top",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SURELY SHIRLEY",
+      "song": "Honeymoon Island",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GUS DAPPERTON and BENEE",
+      "song": "Don't Let Me Down",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ELIOTT",
+      "song": "Control",
+      "label": "Island Australia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NOAH DILLON",
+      "song": "Drip Dry (censored version)",
+      "label": "Dew Process",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BELAIR LIP BOMBS",
+      "song": "Say My Name",
+      "label": "Cousin Will Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE GROGANS",
+      "song": "Nowhere To Be",
+      "label": "C.W. Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GUM ft. AMBROSE KENNY-SMITH",
+      "song": "Minor Setback",
+      "label": "Spinning Top",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TESSA FLEUR",
+      "song": "Death By Black Hole",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LITTLE DRAGON",
+      "song": "Kenneth",
+      "label": "Ninja Tune",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ARLO PARKS",
+      "song": "Blades",
+      "label": "Transgressive",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "A Child's Question, August",
+      "label": "Partisan Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TIA GOSTELOW",
+      "song": "Sour",
+      "label": "Lovely Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JUNO",
+      "song": "Come Thru",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MUNA",
+      "song": "One That Got Away",
+      "label": "Saddest Factory",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DIDIRRI",
+      "song": "You Know What's Good For You",
+      "label": "Liberation",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CLEA",
+      "song": "Exit Game",
+      "label": "Dew Process",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CASH SAVAGE and THE LAST DRINKS",
+      "song": "$600 Short On Rent",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BAD//DREEMS",
+      "song": "New Breeze",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WILLIE J and THE BAD HOOKS",
+      "song": "Sinner",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE EMPTY THREATS",
+      "song": "Evil Eye",
+      "label": "Dinosaur City",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PACIFIC AVENUE",
+      "song": "Strawberry Daydreams",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "Forever",
+      "label": "I OH YOU",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE SMASHING PUMPKINS",
+      "song": "Empires",
+      "label": "Martha's Music",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BODY TYPE",
+      "song": "Weekend",
+      "label": "Poison City",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ROYEL OTIS",
+      "song": "Going Kokomo (censored version)",
+      "label": "Ourness",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

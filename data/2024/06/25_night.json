@@ -1,0 +1,87 @@
+{
+  "title": "Tuesday night 25 June 2024 on ABC Entertains",
+  "url": "https://www.abc.net.au/rage/playlist/tuesday-night-25-june-2024-on-abc-entertains/104008850",
+  "special": "Rain Special",
+  "timeslot": "night",
+  "date": "2024-06-25",
+  "tracks": [
+    {
+      "artist": "PRINCE",
+      "song": "Purple Rain",
+      "label": "Warner",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "EURYTHMICS",
+      "song": "Here Comes The Rain Again",
+      "label": "BMG",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "November Rain",
+      "label": "BMG",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DRAGON",
+      "song": "Rain",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE GO-BETWEENS",
+      "song": "Spring Rain",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE WEATHERGIRLS",
+      "song": "It's Raining Men",
+      "label": "Festival",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "RIHANNA featuring JAY-Z",
+      "song": "Umbrella",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "The Rain (Supa Dupa Fly)",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Only Happy When It Rains",
+      "label": "Mushroom",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LINKIN PARK",
+      "song": "In The End",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "TATU",
+      "song": "All The Things She Said",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "TRAVIS",
+      "song": "Why Does It Always Rain On Me?",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "Delicate",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    }
+  ]
+}

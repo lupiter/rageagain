@@ -1,0 +1,381 @@
+{
+  "title": "Saturday morning 10 December 2022 on ABC TV",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-10-december-2022-on-abc-tv/101756208",
+  "special": "Charts, The VAULT, Best New Music Videos, Art Rock Special",
+  "timeslot": "morning",
+  "date": "2022-12-10",
+  "tracks": [
+    {
+      "artist": "LIL UZI VERT",
+      "song": "Just Wanna Rock (censored version)",
+      "label": "Atlantic",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LIZZO",
+      "song": "About Damn Time (censored version)",
+      "label": "Nice Life",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RM and YOUJEEN",
+      "song": "Wild Flower",
+      "label": "Bighit Music",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LATTO",
+      "song": "Big Energy (censored version)",
+      "label": "RCA",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "REMA and SELENA GOMEZ",
+      "song": "Calm Down",
+      "label": "Mavin Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "Lift Me Up",
+      "label": "Roc Nation",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ELIZA ROSE and INTERPLANETARY CRIMINAL",
+      "song": "B.O.T.A. (Baddest Of Them All) (censored version)",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HARRY STYLES",
+      "song": "As It Was",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "STEVE LACY",
+      "song": "Bad Habit (censored version)",
+      "label": "RCA",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ONEREPUBLIC",
+      "song": "I Ain't Worried",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DRAKE and 21 SAVAGE",
+      "song": "Rich Flex (censored version)",
+      "label": "OVO",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "OLIVER TREE and ROBIN SCHULZ",
+      "song": "Miss You",
+      "label": "Atlantic",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DAVID GUETTA and BEBE REXHA",
+      "song": "I'm Good (Blue) (censored version)",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MEGHAN TRAINOR",
+      "song": "Made You Look",
+      "label": "Epic",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SAM SMITH ft. KIM PETRAS",
+      "song": "Unholy (censored version)",
+      "label": "Capitol",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "Anti-Hero (fat-free version)",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ZZ TOP",
+      "song": "Sharp Dressed Man",
+      "label": "Warner",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "ACCEPT",
+      "song": "Balls To The Wall",
+      "label": "SBME",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "I Got Mine",
+      "label": "Festival",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Looks That Kill",
+      "label": "Warner",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "TWISTED SISTER",
+      "song": "You Can't Stop Rock and Roll",
+      "label": "Polydor",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Flight Of Icarus",
+      "label": "EMI",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "METHYL ETHEL",
+      "song": "Frontier Psychiatrist / Dribble (On triple j's Like A Version)",
+      "label": "Independent",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PNAU and TROYE SIVAN",
+      "song": "You Know What I Need",
+      "label": "Etc Etc",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "DZ DEATHRAYS",
+      "song": "Paranoid (censored version)",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "MATT CORBY",
+      "song": "Problems",
+      "label": "Island Australia",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "A.GIRL",
+      "song": "Do It Again",
+      "label": "Volkanik",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "KID PHARAOH",
+      "song": "British Museum",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "JEN CLOHER",
+      "song": "Being Human",
+      "label": "Milk! Records",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "DASTE.",
+      "song": "Butterfly (So Free)",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "WILDFIRE MANWURRK",
+      "song": "Mararradj",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "CUB SPORT",
+      "song": "Replay",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "LIME CORDIALE",
+      "song": "Colin (censored version)",
+      "label": "Chugg",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "A.S.O.",
+      "song": "Go On",
+      "label": "Low Lying Records",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "Broken",
+      "label": "Domino",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "MEGAN THEE STALLION",
+      "song": "Her (censored version)",
+      "label": "Certified Entertainment",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BIIG PIIG",
+      "song": "This Is What They Meant",
+      "label": "Sony",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "song": "New Shoes (censored version)",
+      "label": "RCA",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE UNKNOWNS",
+      "song": "Thinking About You",
+      "label": "Bargain Bin Records",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Lux Aeterna",
+      "label": "Blackened Recordings",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "Virginia Plain",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "Love Is The Drug",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "BRYAN FERRY",
+      "song": "Interviewed On Countdown",
+      "label": "ABC",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "Same Old Scene (Live On Countdown, 1981)",
+      "label": "ABC",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "Jealous Guy",
+      "label": "Polydor",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "BRYAN FERRY",
+      "song": "Interviewed On Rock Arena, 1988 (Part Three)",
+      "label": "ABC",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "More Than This",
+      "label": "Polygram",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "Avalon",
+      "label": "Polydor",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE VELVET UNDERGROUND",
+      "song": "Venus In Furs",
+      "label": "Warner",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Heroes",
+      "label": "EMI",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BRIAN ENO and JOHN CALE",
+      "song": "One Word",
+      "label": "Warner",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "EINSTURZENDE NEUBAUTEN",
+      "song": "Blume",
+      "label": "Mushroom",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Hyperballad",
+      "label": "Polydor",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Jigsaw Falling Into Place",
+      "label": "Remote Control",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "LAURIE ANDERSON",
+      "song": "O Superman",
+      "label": "Warner",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Time",
+      "label": "Polydor",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "YES",
+      "song": "Madrigal",
+      "label": "Atlantic",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "SPLIT ENZ",
+      "song": "Late Last Night",
+      "label": "Festival",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "TALK TALK",
+      "song": "Life's What You Make It",
+      "label": "EMI",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Once In A Lifetime",
+      "label": "Warner",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Countdown Ident, 1980",
+      "label": "ABC",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Running Up That Hill",
+      "label": "EMI",
+      "timeslot": "11:30:00"
+    }
+  ]
+}
