@@ -1,0 +1,429 @@
+{
+  "title": "Friday night 24 May 2024 on ABC TV",
+  "special": "New Music Show",
+  "timeslot": "night",
+  "date": "2024-05-24",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-24-may-2024-on-abc-tv/103890814",
+  "tracks": [
+    {
+      "artist": "BILLIE EILISH",
+      "song": "Lunch",
+      "label": "Interscope Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SKEGSS",
+      "song": "Spaceman",
+      "label": "Loma Vista",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "REMI WOLF",
+      "song": "Toro",
+      "label": "Island Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HOZIER",
+      "song": "Too Sweet",
+      "label": "Rubyworks / Columbia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "U Should Not Be Doing That",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FUKHED",
+      "song": "No C No A",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BATTLESNAKE",
+      "song": "The Key Of Solomon",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SOLSA",
+      "song": "Work",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "Y.O.G.A. and AVIVA",
+      "song": "Rodeo",
+      "label": "Hoedown Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SIS",
+      "song": "Bow To Your Wilderness",
+      "label": "Native Cat Recordings",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KAT EDWARDS",
+      "song": "Waiting Room",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ICE SPICE",
+      "song": "Gimme A Light",
+      "label": "Dolo Entertainment",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MY CHERIE",
+      "song": "Darkness and Gold",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BEABADOOBEE",
+      "song": "Take A Bite",
+      "label": "Dirty Hit",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ELSY WAMEYO",
+      "song": "UMVA",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "POST MALONE ft. MORGAN WALLEN",
+      "song": "I Had Some Help",
+      "label": "Mercury Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "D4VD",
+      "song": "Feel It",
+      "label": "Interscope Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CHARLI XCX",
+      "song": "360",
+      "label": "Atlantic",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KAIIT",
+      "song": "Space",
+      "label": "Big Sis Energy Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GUM / AMBROSE KENNY-SMITH",
+      "song": "Ill Times",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EARTH TONGUE",
+      "song": "Out Of This Hell",
+      "label": "Stolen Body Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "REBEL YELL and CONG JOSIE",
+      "song": "The Heat",
+      "label": "Dinosaur City",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FUNGAS",
+      "song": "The Man Who Held It All Together",
+      "label": "New Brain Communications",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BETH GIBBONS",
+      "song": "Lost Changes",
+      "label": "Domino",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "WASHED OUT",
+      "song": "The Hardest Part",
+      "label": "Sub Pop",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KUCKA",
+      "song": "Wasting Time (Til The End Of The World)",
+      "label": "Soothsayer",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CHILDISH GAMBINO ft. YOUNG NUDY",
+      "song": "Little Foot Big Foot",
+      "label": "Liberator",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DUNE RATS",
+      "song": "Cheapskate",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CHEAP-SKATE",
+      "song": "Cellphone",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ODETTE",
+      "song": "Reverence",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LAST DINOSAURS",
+      "song": "Wait Your Turn",
+      "label": "Nettwerk Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PHOEBE GO",
+      "song": "Stupid",
+      "label": "AWAL",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ANDREW GURRUWIWI BAND",
+      "song": "Yaa Djamarrkuli",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ELIZA and THE DELUSIONALS",
+      "song": "Falling For You",
+      "label": "Cooking Vinyl",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JADA WEAZEL",
+      "song": "Send My Love",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "WILLOW",
+      "song": "run!",
+      "label": "Three Six Zero Recordings",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "YUNG GRAVY",
+      "song": "Clementine",
+      "label": "Republic Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE MYSTERINES",
+      "song": "Sink Ya Teeth",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GRACIE ABRAMS",
+      "song": "Risk",
+      "label": "Interscope Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FANNING DEMPSEY NATIONAL PARK",
+      "song": "Disconnect",
+      "label": "Dew Process",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JORDIE LANE",
+      "song": "The Changing Weather",
+      "label": "Blood Thinner Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JOHNNY HUNTER",
+      "song": "Frustration",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SOFI TUKKER",
+      "song": "Throw Some Ass",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE SOUTHERN RIVER BAND",
+      "song": "Vice City III",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KIRIN J CALLINAN ft. ARIEL PINK",
+      "song": "Can't F*ck The F*cker",
+      "label": "Worse Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "Starburster",
+      "label": "XL",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FLIGHT FACILITIES ft. ENUMCLAW",
+      "song": "Days Of The Week",
+      "label": "Future Classic",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "IPOD",
+      "song": "Friend Crush",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DOLORRES and PEI",
+      "song": "Allora Chi?",
+      "label": "Ditto Music",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MABEL and SHYGIRL",
+      "song": "Look At My Body (Pt. II)",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ROLE MODEL",
+      "song": "Deeply Still In Love",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AL SPEERS",
+      "song": "Cowboy",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HIGHSCHOOL",
+      "song": "Heaven's Gate",
+      "label": "PIAS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Heavy Metal",
+      "label": "Weirder Together",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SALUTE ft. RINA SAWAYAMA",
+      "song": "Saving Flowers",
+      "label": "Ninja Tune",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HOCKEY DAD",
+      "song": "Safety Pin",
+      "label": "Farmer And The Owl",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ANGUS and JULIA STONE",
+      "song": "Down To The Sea",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE RUBENS",
+      "song": "Black Balloon",
+      "label": "Ivy League",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ORVIILLE PECK and NOAH CYRUS",
+      "song": "How Far Will We Take It?",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "Starburster (censored version)",
+      "label": "XL",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "3%",
+      "song": "Coming Home",
+      "label": "1788 Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ALLDAY ft. CUB SPORT",
+      "song": "Miss You Still",
+      "label": "Dew Process",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PETER BIBBY",
+      "song": "Terracotta Brick",
+      "label": "Spinning Top",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RADIO FREE ALICE",
+      "song": "2010",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BUOYS",
+      "song": "Check Mate",
+      "label": "Arcadia Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "STAND ATLANTIC",
+      "song": "Love U Anyway",
+      "label": "Hopeless Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AMY SHARK",
+      "song": "Loving Me Lover",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Music On The Radio",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CONG JOSIE",
+      "song": "1300 Scorpio",
+      "label": "It Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BODYSYNC",
+      "song": "Rock It",
+      "label": "Buddies Inc.",
+      "timeslot": "05:30:00"
+    }
+  ]
+}

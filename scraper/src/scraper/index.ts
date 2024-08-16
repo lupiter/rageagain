@@ -1,5 +1,5 @@
-import findMissingPlaylists from "./findMissingPlaylists"
-import { scrapeTracklist } from "./scrapeTracklists"
+import findMissingPlaylists from "./findMissingPlaylistsNew"
+import { scrapeTracklist } from "./scrapeTracklistsNew"
 import { dateFormat } from "../lib/DateHelpers"
 import writePlaylistFile from "../lib/writePlaylistFile"
 
@@ -13,7 +13,6 @@ export const scrapeLatest = async () => {
   for (const missingPlaylist of missingPlaylists) {
     try {
       const tracks = await scrapeTracklist(missingPlaylist.url)
-
       await writePlaylistFile(missingPlaylist.date, {
         title: missingPlaylist.title,
         special: missingPlaylist.special,
@@ -23,7 +22,7 @@ export const scrapeLatest = async () => {
         tracks: tracks
       })
     } catch (e) {
-      console.error('Failed to process playlist: ' + missingPlaylist.title + ' at ' + missingPlaylist.url)
+      console.error('Failed to process playlist: ' + missingPlaylist.title + ' at ' + missingPlaylist.url + " - " + e)
     }
   }
 

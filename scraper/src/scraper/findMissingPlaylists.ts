@@ -27,6 +27,9 @@ const findMissingPlaylists = async () => {
 
   let currentDate = chrono.parseDate(latestPlaylist.date)
 
+  if (!currentDate)
+    throw new Error(`Couldn't extract a date from ${latestPlaylist.date}`)
+
   // We use a for loop here to limit the number of possible
   // requests in a single run, and to prevent any infinite
   // loop if for some reason the external server returns
