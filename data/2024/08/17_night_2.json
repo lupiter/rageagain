@@ -1,0 +1,675 @@
+{
+  "title": "Saturday night 17 August 2024 on ABC TV",
+  "special": null,
+  "timeslot": "night",
+  "date": "2024-08-17",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-august-2024-on-abc-tv/104236320",
+  "tracks": [
+    {
+      "artist": "ALLDAY",
+      "song": "You Always Know The DJ",
+      "label": "Remote Control",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE VERVE",
+      "song": "The Drugs Don't Work",
+      "label": "Virgin",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Under The Bridge",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE DANDY WARHOLS",
+      "song": "You Were The Last High",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE STREETS",
+      "song": "Blinded By The Lights",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "REDMAN/METHOD MAN",
+      "song": "How High",
+      "label": "Mercury",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Intergalactic",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SUGABABES",
+      "song": "Push The Button",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SUGAR RAY",
+      "song": "Every Morning",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE ROOTS",
+      "song": "The Seed",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE CRANBERRIES",
+      "song": "Dreams",
+      "label": "Isl& Records",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE SMITHS",
+      "song": "How Soon Is Now",
+      "label": "Festival",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE SPECIALS",
+      "song": "Ghost Town",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Cigarettes Will Kill You",
+      "label": "Modular",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Disarm",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE SHINS",
+      "song": "New Slang",
+      "label": "Fest/Mush",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Someday",
+      "label": "BMG",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "Security",
+      "label": "B2B Records / Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "WHITESNAKE",
+      "song": "Here I Go Again",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SHERYL CROW",
+      "song": "If It Makes You Happy",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE ANGELS",
+      "song": "We've Got to Get Out Of This Place",
+      "label": "Mushroom",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "AUSTRALIAN CRAWL",
+      "song": "Errol",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Once In A Lifetime",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "A FLOCK OF SEAGULLS",
+      "song": "I Ran",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "More Than This",
+      "label": "Polygram",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "REO SPEEDWAGON",
+      "song": "Keep On Loving You",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BEE GEES",
+      "song": "How Deep Is Your Love",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "VAN MORRISON",
+      "song": "Have I Told You Lately",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ALL SAINTS",
+      "song": "Pure Shores",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SIMPLY RED",
+      "song": "Sunrise",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WILLIE NELSON",
+      "song": "You Were Always On My Mind",
+      "label": "CBS",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TOM PETTY & THE HEARTBREAKERS",
+      "song": "Learning To Fly",
+      "label": "MCA",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "STEVIE WONDER",
+      "song": "Do I Do",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TAKE THAT",
+      "song": "Back For Good",
+      "label": "RCA",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "You Can't Always Get What You Want",
+      "label": "Decca",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Tumbling Dice",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WEYES BLOOD",
+      "song": "Seven Words",
+      "label": "Mexican Summer",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "(SANDY) ALEX G",
+      "song": "Southern Sky",
+      "label": "Domino",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SKY FERREIRA",
+      "song": "Everything Is Embarrassing",
+      "label": "Capitol",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "After All These Years",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SPACEY JANE",
+      "song": "Lots Of Nothing",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "REAL ESTATE",
+      "song": "Talking Backwards",
+      "label": "Secretly Canadian",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE BEATNUTS",
+      "song": "Do You Believe",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TALIB KWELI",
+      "song": "Listen",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BUSTA RHYMES",
+      "song": "Gimme Some Mo'",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SEAN KINGSTON",
+      "song": "Beautiful Girls",
+      "label": "SBME",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NICKI MINAJ",
+      "song": "Super Bass",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "UGK featuring OUTKAST",
+      "song": "Int'l Players Anthem (I Choose You)",
+      "label": "Jive",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "T.I. featuring RIHANNA",
+      "song": "Live Your Life",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SKEPTA featuring JME",
+      "song": "That's Not Me",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "2 PAC",
+      "song": "Thugz Mansion",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "C.R.E.A.M.",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BOOGIE DOWN PRODUCTIONS",
+      "song": "Criminal Minded",
+      "label": "B-Boy Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RICK ROSS featuring LIL WAYNE",
+      "song": "Thug Cry",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ALLDAY ft. CUB SPORT",
+      "song": "Miss You Still",
+      "label": "Dew Process",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SOLANGE",
+      "song": "Cranes In The Sky",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "070 SHAKE",
+      "song": "Skin And Bones",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SZA",
+      "song": "Snooze",
+      "label": "Top Dawg / RCA",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "STORMZY ft. FREDO",
+      "song": "Toxic Trait",
+      "label": "Hashtag Merky Music",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "YOUNG THUG",
+      "song": "Best Friend",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ALLDAY",
+      "song": "Wonder Drug",
+      "label": "Ultra Music / Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ALLDAY",
+      "song": "Eyes On The Prize",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ALLDAY",
+      "song": "Stolen Cars",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ALLDAY",
+      "song": "Access",
+      "label": "Dew Process / Isl& Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "VERONICAS, THE ft. ALLDAY",
+      "song": "Life Of The Party",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ALLDAY ft. THE VERONICAS",
+      "song": "Restless",
+      "label": "Wind-Up Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALLDAY",
+      "song": "Void",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JXN ft. ALLDAY & FOSSA BEATS",
+      "song": "Outta Space",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALLDAY",
+      "song": "Lungs",
+      "label": "ONETWO Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MALLRAT ft. ALLDAY",
+      "song": "UFO",
+      "label": "Dew Process",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALLDAY",
+      "song": "Raceway",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALLDAY ft. JAPANESE WALLPAPER",
+      "song": "In Motion",
+      "label": "OneTwo / UNFD",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALLDAY ft. NYNE",
+      "song": "Sides",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ASTA ft ALLDAY",
+      "song": "Dynamite",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALLDAY",
+      "song": "Right Now",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALLDAY featuring SUNNI COLÓN",
+      "song": "Wolves",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALLDAY featuring BRADY JAMES",
+      "song": "Girl In The Sun",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALLDAY",
+      "song": "Claude Monet",
+      "label": "OneTwo",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RY featuring ALLDAY",
+      "song": "Working Late",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALLDAY X C1",
+      "song": "The City",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALLDAY X C 1",
+      "song": "So Good",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Out Of Space",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Intergalactic",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JUSTICE",
+      "song": "Civilization",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Starlight",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Crystalline",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FIONA APPLE",
+      "song": "Across The Universe",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "OK GO",
+      "song": "Upside Down & Inside Out",
+      "label": "Paracadute",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "The Scientist",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Under The Milky Way",
+      "label": "Mushroom",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Space Oddity",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Put Yourself In My Place",
+      "label": "Mushroom",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BABYLON ZOO",
+      "song": "Spaceman",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "OINGO BOINGO",
+      "song": "Weird Science",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THOMAS DOLBY",
+      "song": "She Blinded Me With Science",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KIAN",
+      "song": "Ultraviolet",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FOLK BITCH TRIO",
+      "song": "God's A Different Sword",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JADE",
+      "song": "Angel Of My Dreams",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LIME CORDIALE",
+      "song": "Strangers",
+      "label": "Chugg Music",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "VLOSSOM",
+      "song": "Burn3r",
+      "label": "Etc Etc",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PANDA BEAR & SONIC BOOM",
+      "song": "Peligro (Danger) ft. MARIACHI 2000 de CUTHBERTO PEREZ",
+      "label": "Domino",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "Here's The Thing (censored version)",
+      "label": "XL",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GUT HEALTH",
+      "song": "Cool Moderator",
+      "label": "Highly Contagious / AWAL",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "VINTED VINEER",
+      "song": "The Space Between",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DICE",
+      "song": "Masquerade",
+      "label": "Tone City Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THELMA PLUM",
+      "song": "Nobody's Baby",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ANGIE McMAHON",
+      "song": "Just Like North",
+      "label": "Gracie Music",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CHASING GHOSTS",
+      "song": "Amnesia Everybody",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SKEGSS",
+      "song": "Out Of My Head",
+      "label": "Loma Vista",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE ft. BEBE REXHA & TOVE LO",
+      "song": "My Oh My",
+      "label": "BMG",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CHARLI XCX ft. BILLIE EILISH",
+      "song": "Guess (censored version)",
+      "label": "Atlantic",
+      "timeslot": "06:30:00"
+    }
+  ]
+}
