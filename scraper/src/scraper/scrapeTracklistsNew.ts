@@ -1,5 +1,4 @@
-import cheerio from 'cheerio'
-
+import { load as cheerioLoad } from 'cheerio'
 import downloadPage from '../lib/downloadPage'
 import { PlaylistTrack } from '../Types'
 import { militaryTime } from '../lib/DateHelpers'
@@ -8,7 +7,7 @@ import { militaryTime } from '../lib/DateHelpers'
 export const scrapeTracklist = async (tracklistUrl: string): Promise<PlaylistTrack[]> => {
   const html = await downloadPage(tracklistUrl)
 
-  const $ = cheerio.load(html)
+  const $ = cheerioLoad(html)
 
   const content = $('#content')
   const headers = content.find('h2')

@@ -1,4 +1,4 @@
-import cheerio from 'cheerio'
+import { load as cheerioLoad } from 'cheerio'
 import * as chrono from 'chrono-node'
 import downloadPage from '../lib/downloadPage'
 import { ArchivePlaylist } from '../Types'
@@ -67,7 +67,7 @@ export const parseDate = (str: string, referenceDate?: Date) => {
 export const extractData = (html: string, referenceDate: Date) => {
   const result: ArchivePlaylist[] = []
 
-  const $ = cheerio.load(html)
+  const $ = cheerioLoad(html)
   const $lis = $('li')
 
   $lis.toArray().forEach(li => {
