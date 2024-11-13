@@ -1,0 +1,555 @@
+{
+  "title": "Friday night 27 September 2024 on ABC TV",
+  "special": "New Music Show",
+  "timeslot": "night",
+  "date": "2024-09-27",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-27-september-2024-on-abc-tv/104406272",
+  "tracks": [
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "Big Dreams",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Show Pony",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SAN CISCO",
+      "song": "Family Trust",
+      "label": "Island City Records",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BILLY STRINGS",
+      "song": "Seven Weeks In County",
+      "label": "Reprise",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "EMILY WURRAMARA ft. ARRINGARRI",
+      "song": "STFAFM",
+      "label": "ABC Music",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "FANNING DEMPSEY NATIONAL PARK",
+      "song": "Blood",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "HANNAH BREWER",
+      "song": "Headspins",
+      "label": "Dollar Shop Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LIQUID CONTOURS",
+      "song": "March Madness",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FIRST BEIGE",
+      "song": "Shallow",
+      "label": "Community Music",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MAYBE HUGO",
+      "song": "Fall In Line",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SASAMI",
+      "song": "Slugger",
+      "label": "Domino",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CAPT RAZZ",
+      "song": "I Eat Pressure For Breakfast",
+      "label": "Legless Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TERRYS, THE ft. NOOKY",
+      "song": "Ghosts Of Bendigo",
+      "label": "Westway Collective",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "G2G",
+      "song": "Bloodmeat",
+      "label": "Lulus Sonic Disc Club",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PORCELAIN BOY",
+      "song": "(I Could Have Loved You In) 2019",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HACHIKU",
+      "song": "Tell Your Friends You Love Them",
+      "label": "Marathon",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SURF TRASH",
+      "song": "Tappin Into Magic",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "POLTERGEIST 9000",
+      "song": "Doppleganger",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ARCA & TOKISCHA",
+      "song": "Chama",
+      "label": "XL",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "REDHOOK ft. HOLDING ABSENCE",
+      "song": "Dr. Frankenstein",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "VOID OF VISION",
+      "song": "Neurotic",
+      "label": "UNFD",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DEVAURA",
+      "song": "Kamikaze",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ICE SPICE",
+      "song": "Popa",
+      "label": "Dolo Entertainment / 10K Projects",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CENTRAL CEE & RAYE",
+      "song": "Moi",
+      "label": "Columbia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TEDDY SWIMS",
+      "song": "Bad Dreams",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "YAEJI",
+      "song": "booboo",
+      "label": "XL",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "A$AP ROCKY",
+      "song": "Tailor Swif",
+      "label": "A$AP Rocky Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DENZEL KENNEDY",
+      "song": "ijustwannadance",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TEEN JESUS AND THE JEAN TEASERS",
+      "song": "Please Me ft. THE LINDA LINDAS",
+      "label": "Domestic La La",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KIAN",
+      "song": "My Release",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE ARMED",
+      "song": "New! Christianity",
+      "label": "Sargent House",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FLIGHT ACADEMY ft. CG",
+      "song": "48 Degrees",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Happy Like You",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LL COOL J ft. EMINEM",
+      "song": "Murdergram Deux",
+      "label": "LL COOL J, Inc.",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "COLDWAVE",
+      "song": "The Ants",
+      "label": "P.A.K. Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AMY SHARK",
+      "song": "Gone",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JET",
+      "song": "Hurry Hurry",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MOGWAI",
+      "song": "God Gets You Back",
+      "label": "Rock Action",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MITCH SANTIAGO",
+      "song": "Home And In Love",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CLIPPING.",
+      "song": "Run It",
+      "label": "Sub Pop",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "OCEAN GROVE",
+      "song": "Raindrop",
+      "label": "ODDWORLD Records / Sharptone Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "UNDEATH",
+      "song": "Disputatious Malignancy",
+      "label": "Prosthetic Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NERVE, SONGER, D DOUBLE E",
+      "song": "Tonkz",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RUFUS DU SOL",
+      "song": "Break My Love",
+      "label": "Rose Avenue / Reprise Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KATY PERRY ft. DOECHII",
+      "song": "I'm His, He's Mine",
+      "label": "Capitol",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "Craters",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GUT HEALTH",
+      "song": "Cool Moderator",
+      "label": "Highly Contagious / AWAL",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JUPiTA",
+      "song": "REAL! Not everything is...",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "YOURS TRULY",
+      "song": "Back 2 U",
+      "label": "UNFD",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LINKIN PARK",
+      "song": "The Emptiness Machine",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ECCA VANDAL",
+      "song": "Bleed But Never Die",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NATHAN HUI-YI",
+      "song": "No Regrets",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SABRINA CARPENTER",
+      "song": "Taste",
+      "label": "Island Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NICE BISCUIT",
+      "song": "Love That Takes You Up",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SUKI WATERHOUSE",
+      "song": "Model, Actress, Whatever",
+      "label": "Sub Pop",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SURELY SHIRLEY",
+      "song": "Lavender Blues",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MEGAN THEE STALLION ft. RM",
+      "song": "Neva Play",
+      "label": "Hot Girl Productions",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CHARLI XCX ft. BILLIE EILISH",
+      "song": "Guess",
+      "label": "Atlantic",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GEORDIE GREEP",
+      "song": "Holy, Holy",
+      "label": "Rough Trade",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ANNIE HAMILTON",
+      "song": "On Your Mind",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OLD MERVS",
+      "song": "Forget It",
+      "label": "Dew Process",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DIZZY DAYS",
+      "song": "Something About It",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TATE McRAE",
+      "song": "It's Ok, I'm Ok",
+      "label": "RCA",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BAKER BOY",
+      "song": "King",
+      "label": "Island Australia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DUMMY",
+      "song": "Blue Dada + Opaline Bubbletear",
+      "label": "Trouble In Mind",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TALL JUAN ft. MAC DeMARCO",
+      "song": "Talking To Myself",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "Here's The Thing",
+      "label": "XL",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MAMMOTH.",
+      "song": "Simon Says",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TIFFI",
+      "song": "Poison",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SYCCO",
+      "song": "Meant To Be",
+      "label": "Future Classic",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AWA MBAYE",
+      "song": "Paranoia",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DREGG",
+      "song": "Butterscotch Biscuits",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CHASING GHOSTS",
+      "song": "Amnesia Everybody",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PEKING DUK ft. FEYI",
+      "song": "Stop The Music",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JUNGLE",
+      "song": "Let's Go Back",
+      "label": "Caiola Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DON WEST",
+      "song": "Friends",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MAGDALENA BAY",
+      "song": "That's My Floor",
+      "label": "Mom & Pop",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MIKO MAL",
+      "song": "On Tap",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COTERIE ft. SAVAGE",
+      "song": "One More Chance",
+      "label": "Massive Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KING STINGRAY",
+      "song": "Cat 5 (Cyclone)",
+      "label": "Cooking Vinyl Australia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FINNEAS",
+      "song": "Cleats",
+      "label": "Interscope Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CATHY DIVER",
+      "song": "Getaway",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SKELETEN",
+      "song": "Love Enemy",
+      "label": "Astral People",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Audacious",
+      "label": "Domino",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GRENTPEREZ & BENNY SINGS",
+      "song": "Fuzzy Feeling",
+      "label": "AWAL",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BENEE",
+      "song": "Sad Boiii",
+      "label": "Republic Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CONFIDENCE MAN",
+      "song": "So What",
+      "label": "I OH YOU",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE WEEKND",
+      "song": "Dancing In The Flames",
+      "label": "Republic Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PARTY DOZEN",
+      "song": "Coup De Gronk",
+      "label": "GRUPO",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PIPE-EYE",
+      "song": "Lords Of Lithium",
+      "label": "doom)",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "Chewing Gum (censored version)",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    }
+  ]
+}

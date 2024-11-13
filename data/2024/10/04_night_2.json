@@ -1,0 +1,519 @@
+{
+  "title": "Friday night 4 October 2024 on ABC TV",
+  "special": "New Music Show",
+  "timeslot": "night",
+  "date": "2024-10-04",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-4-october-2024-on-abc-tv/104435026",
+  "tracks": [
+    {
+      "artist": "CONFIDENCE MAN",
+      "song": "So What",
+      "label": "I OH YOU",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PARTY DOZEN",
+      "song": "Coup De Gronk",
+      "label": "GRUPO",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ROYEL OTIS",
+      "song": "If Our Love Is Dead",
+      "label": "Ourness",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RAHIM C REDCAR",
+      "song": "DEEP HOLES",
+      "label": "Because Music",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TIERRA WHACK",
+      "song": "MOOVIES",
+      "label": "Interscope Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FRENZEE",
+      "song": "100C",
+      "label": "Poison City",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SCROTAL VICE",
+      "song": "K-Hole",
+      "label": "Scrotal Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHASING GHOSTS",
+      "song": "Ten Feet Tall",
+      "label": "Believe Music",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JESHI ft. LEILAH",
+      "song": "Hurricane",
+      "label": "Because Music",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MILKU",
+      "song": "Emergency Contact",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CARLA WEHBE",
+      "song": "Life's An Awful Mess",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JEROME FARAH",
+      "song": "Can't Drive Stick",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "REDHOOK ft. HOLDING ABSENCE",
+      "song": "Dr. Frankenstein",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KAITLYN AURELIA SMITH & JOE GODDARD",
+      "song": "Neptunes",
+      "label": "Domino / Smugglers Way",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "Y.O.G.A. ft. KAYLEE BELL & BLAKE O'CONNOR",
+      "song": "Down In Boots",
+      "label": "Hoedown Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DASHA",
+      "song": "Bye Bye Bye",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BILLY STRINGS",
+      "song": "Seven Weeks In County",
+      "label": "Reprise",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RILEY FROM EARTH",
+      "song": "Was It Worth It",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AITCH",
+      "song": "FWG (F**k With Gang)",
+      "label": "F**k With Gang",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TRAVIS SCOTT",
+      "song": "Mo City Flexologist",
+      "label": "Epic",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DON WEST",
+      "song": "Friends",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GRENTPEREZ & BENNY SINGS",
+      "song": "Fuzzy Feeling",
+      "label": "AWAL",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CUSTARD ft. SERENA RYDER",
+      "song": "Someday",
+      "label": "ABC Music",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CAPT RAZZ",
+      "song": "I Eat Pressure For Breakfast",
+      "label": "Legless Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MAGDALENA BAY",
+      "song": "That's My Floor",
+      "label": "Mom & Pop",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SCHOOLBOY Q",
+      "song": "THank god 4 me",
+      "label": "Top Dawg Entertainment",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LEON FANOURAKIS & TAKA PERRY",
+      "song": "BELIEVE ft. RAMENGVRL, SOKODOMO, & YNG MARTYR",
+      "label": "Pretty Good Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PEKING DUK ft. FEYI",
+      "song": "Stop The Music",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HEAVY MOSS",
+      "song": "Star",
+      "label": "doom)",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "COTERIE ft. SAVAGE",
+      "song": "One More Chance",
+      "label": "Massive Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SKELETEN",
+      "song": "Love Enemy",
+      "label": "Astral People",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CENTRAL CEE & RAYE",
+      "song": "Moi",
+      "label": "Columbia",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "VOID OF VISION",
+      "song": "Neurotic",
+      "label": "UNFD",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "COLDWAVE",
+      "song": "The Ants",
+      "label": "P.A.K. Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GUT HEALTH",
+      "song": "Cool Moderator",
+      "label": "Highly Contagious / AWAL",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SMOL FISH",
+      "song": "Get Over It",
+      "label": "Sidequest",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FIRST BEIGE",
+      "song": "Shallow",
+      "label": "Community Music",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FINNEAS",
+      "song": "Cleats",
+      "label": "Interscope Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BENEE",
+      "song": "Sad Boiii",
+      "label": "Republic Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FLIGHT ACADEMY ft. CG",
+      "song": "48 Degrees",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JUNGLE",
+      "song": "Let's Go Back",
+      "label": "Caiola Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE WEEKND",
+      "song": "Dancing In The Flames",
+      "label": "Republic Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TERRYS, THE ft. NOOKY",
+      "song": "Ghosts Of Bendigo",
+      "label": "Westway Collective",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NERVE, SONGER, D DOUBLE E",
+      "song": "Tonkz",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KING STINGRAY",
+      "song": "Cat 5 (Cyclone)",
+      "label": "Cooking Vinyl Australia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PIPE-EYE",
+      "song": "Lords Of Lithium",
+      "label": "doom)",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "EMILY WURRAMARA ft. ARRINGARRI",
+      "song": "STFAFM",
+      "label": "ABC Music",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVAURA",
+      "song": "Kamikaze",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "G2G",
+      "song": "Bloodmeat",
+      "label": "Lulus Sonic Disc Club",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "AMYL & THE SNIFFERS",
+      "song": "Chewing Gum",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE ARMED",
+      "song": "New! Christianity",
+      "label": "Sargent House",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "UNDEATH",
+      "song": "Disputatious Malignancy",
+      "label": "Prosthetic Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LL COOL J ft. EMINEM",
+      "song": "Murdergram Deux",
+      "label": "LL COOL J, Inc.",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ARCA & TOKISCHA",
+      "song": "Chama",
+      "label": "XL",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CLIPPING.",
+      "song": "Run It",
+      "label": "Sub Pop",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LINKIN PARK",
+      "song": "The Emptiness Machine",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ICE SPICE",
+      "song": "Popa",
+      "label": "Dolo Entertainment / 10K Projects",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIKO MAL",
+      "song": "On Tap",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SOFI TUKKER ft. KAH-LO",
+      "song": "Woof",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "A$AP ROCKY",
+      "song": "Tailor Swif",
+      "label": "A$AP Rocky Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HAYLEY MARY",
+      "song": "Eighteen",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OCEAN GROVE",
+      "song": "Raindrop",
+      "label": "ODDWORLD Records / Sharptone Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CHARLIE NEEDS BRACES",
+      "song": "Dyarrubin",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FRANZ FERDIN&",
+      "song": "Audacious",
+      "label": "Domino",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PORCELAIN BOY",
+      "song": "(I Could Have Loved You In) 2019",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ECCA V&AL",
+      "song": "Bleed But Never Die",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SUKI WATERHOUSE",
+      "song": "Model, Actress, Whatever",
+      "label": "Sub Pop",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MEGAN THEE STALLION ft. RM",
+      "song": "Neva Play",
+      "label": "Hot Girl Productions",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NICE BISCUIT",
+      "song": "Love That Takes You Up",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BILLY STRINGS",
+      "song": "Seven Weeks In County (censored version)",
+      "label": "Reprise",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AMYL & THE SNIFFERS",
+      "song": "Big Dreams",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Show Pony",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SAN CISCO",
+      "song": "Family Trust",
+      "label": "Isl& City Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FANNING DEMPSEY NATIONAL PARK",
+      "song": "Blood",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MAYBE HUGO",
+      "song": "Fall In Line",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HACHIKU",
+      "song": "Tell Your Friends You Love Them",
+      "label": "Marathon",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LIQUID CONTOURS",
+      "song": "March Madness",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TEEN JESUS & THE JEAN TEASERS",
+      "song": "Please Me ft. THE LINDA LINDAS",
+      "label": "Domestic La La",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "YAEJI",
+      "song": "booboo",
+      "label": "XL",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SURF TRASH",
+      "song": "Tappin Into Magic",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HANNAH BREWER",
+      "song": "Headspins",
+      "label": "Dollar Shop Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "POLTERGEIST 9000",
+      "song": "Doppleganger",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "REDHOOK ft. HOLDING ABSENCE",
+      "song": "Dr. Frankenstein (clean version)",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SASAMI",
+      "song": "Slugger",
+      "label": "Domino",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KIAN",
+      "song": "My Release",
+      "label": null,
+      "timeslot": "05:30:00"
+    }
+  ]
+}

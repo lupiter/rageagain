@@ -1,0 +1,471 @@
+{
+  "title": "Friday night 30 August 2024 on ABC TV",
+  "special": "New Music Show",
+  "timeslot": "night",
+  "date": "2024-08-30",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-30-august-2024-on-abc-tv/104293306",
+  "tracks": [
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "Chewing Gum",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SOUTH SUMMIT",
+      "song": "Catacombs",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHARLI XCX ft. BILLIE EILISH",
+      "song": "Guess",
+      "label": "Atlantic",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SABRINA CARPENTER",
+      "song": "Taste",
+      "label": "Island Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE KILLERS",
+      "song": "Bright Lights",
+      "label": "Island Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HOZIER",
+      "song": "Nobody's Soldier",
+      "label": "Columbia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NICK WARD",
+      "song": "Control",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ECCA VANDAL",
+      "song": "Bleed But Never Die",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "EMINEM ft. JELLY ROLL",
+      "song": "Somebody Save Me",
+      "label": "Interscope Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "POLTERGEIST 9000",
+      "song": "Doppleganger",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DREGG",
+      "song": "Butterscotch Biscuits",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GEORDIE GREEP",
+      "song": "Holy, Holy",
+      "label": "Rough Trade",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "EMILY WURRAMARA ft. ARRINGARRI",
+      "song": "STFAFM",
+      "label": "ABC Music",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ABSTRACT CRIMEWAVE and DUNGEN",
+      "song": "Flyga Fram",
+      "label": "Red Eye Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HELLCAT SPEEDRACER ft. DZ DEATHRAYS",
+      "song": "Daybreak",
+      "label": "Island Australia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NERVE, SONGER, D DOUBLE E",
+      "song": "Tonkz",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TRAVIS SCOTT",
+      "song": "Drugs You Should Try It",
+      "label": "Cactus Jack Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JADE",
+      "song": "Angel Of My Dreams",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE HARD QUARTET",
+      "song": "Rio's Song",
+      "label": "Matador Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GUT HEALTH",
+      "song": "Stiletto",
+      "label": "AWAL",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "In The Modern World",
+      "label": "XL",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ARTEMAS",
+      "song": "Dirty Little Secret",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LEON FANOURAKIS and TAKA PERRY",
+      "song": "Express",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HANUMANKIND ft. KALMI",
+      "song": "Big Dawgs",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MAGNETS",
+      "song": "All About You",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SKEGSS",
+      "song": "Out Of My Head",
+      "label": "Loma Vista",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LIME CORDIALE",
+      "song": "Strangers",
+      "label": "Chugg Music",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HARD-ONS",
+      "song": "Buzz Buzz Buzz",
+      "label": "Cheersquad Records _and_ Tapes",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "OCEAN GROVE",
+      "song": "Raindrop",
+      "label": "ODDWORLD Records / Sharptone Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ORANSSI PAZUZU",
+      "song": "Valotus",
+      "label": "Nuclear Blast",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "QUAVO and LENNY KRAVITZ",
+      "song": "Fly",
+      "label": "Quality Control Music",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ORVILLE PECK and BECK",
+      "song": "Death Valley High",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KING GIZZARD AND THE LIZARD WIZARD",
+      "song": "Le Risque",
+      "label": "doom)",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LUCIUS ft. ADAM GRANDUCIEL",
+      "song": "Old Tape",
+      "label": "Fantasy",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SYCCO",
+      "song": "Meant To Be",
+      "label": "Future Classic",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THATBOYKWAME",
+      "song": "1Light",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "EGOISM",
+      "song": "Getting Older",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LADY GAGA and BRUNO MARS",
+      "song": "Die With A Smile",
+      "label": "Interscope Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TELENOVA",
+      "song": "Discotheque Inside My Head",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "STRAIGHT ARROWS",
+      "song": "Peakin'",
+      "label": "Rice Is Nice",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE ft. BEBE REXHA and TOVE LO",
+      "song": "My Oh My",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "The Feeling You Get",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CHASE and STATUS, STORMZY",
+      "song": "Backbone",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FOLK BITCH TRIO",
+      "song": "God's A Different Sword",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THELMA PLUM",
+      "song": "Nobody's Baby",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ADDISON RAE",
+      "song": "Diet Pepsi",
+      "label": "Columbia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CUMGIRL8",
+      "song": "Karma Police",
+      "label": "4AD",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE LINDA LINDAS",
+      "song": "Yo Me Estreso",
+      "label": "Epitaph",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PANDA BEAR and SONIC BOOM",
+      "song": "Peligro (Danger) ft. MARIACHI 2000 de CUTHBERTO PEREZ",
+      "label": "Domino",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FINNEAS",
+      "song": "For Cryin' Out Loud",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MAC DeMARCO and RYAN PARIS",
+      "song": "Still What I'm Looking For",
+      "label": "Mac's Record Label",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ROYEL OTIS",
+      "song": "Merry Mary Marry Me",
+      "label": "Ourness",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE LAST DINNER PARTY",
+      "song": "The Feminine Urge",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SLOWLY SLOWLY",
+      "song": "All Time",
+      "label": "Nettwerk Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CHILDISH GAMBINO",
+      "song": "Lithonia",
+      "label": "Liberator",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "REDHOOK",
+      "song": "Pyromaniac",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "POLISH CLUB",
+      "song": "How Dare You Fall In Love In This City",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DASTE.",
+      "song": "Atlas",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "VLOSSOM",
+      "song": "Burn3r",
+      "label": "Etc Etc",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KIAN",
+      "song": "Ultraviolet",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "POST MALONE ft. LUKE COMBS",
+      "song": "Guy For That",
+      "label": "Mercury Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NICK WARD",
+      "song": "Control",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EMILY WURRAMARA ft. ARRINGARRI",
+      "song": "STFAFM (censored version)",
+      "label": "ABC Music",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "Bothering Me",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LISA ft. ROSALIA",
+      "song": "New Woman",
+      "label": "RCA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GUT HEALTH",
+      "song": "Cool Moderator",
+      "label": "Highly Contagious / AWAL",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COTERIE ft. SAVAGE",
+      "song": "One More Chance",
+      "label": "Massive Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "People In The Streets",
+      "label": "Mom and Pop",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE HARD QUARTET",
+      "song": "Earth Hater",
+      "label": "Matador Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CLAIRO",
+      "song": "Juna",
+      "label": "Clairo Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DON WEST",
+      "song": "Small Change",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CHASING GHOSTS",
+      "song": "Amnesia Everybody",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TIFFI",
+      "song": "Poison",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BEABADOOBEE",
+      "song": "Beaches",
+      "label": "Dirty Hit",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "G2G",
+      "song": "Pop Song",
+      "label": "Lulus Sonic Disc Club",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE SMILE",
+      "song": "Don't Get Me Started",
+      "label": "XL",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "Here's The Thing (censored version)",
+      "label": "XL",
+      "timeslot": "05:30:00"
+    }
+  ]
+}

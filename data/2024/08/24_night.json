@@ -1,0 +1,99 @@
+{
+  "title": "Saturday night 24 August 2024 on ABC Entertains",
+  "special": "Breakdance special",
+  "timeslot": "night",
+  "date": "2024-08-24",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-24-august-2024-on-abc-entertains/104264120",
+  "tracks": [
+    {
+      "artist": "BREAK MACHINE",
+      "song": "Street Dance",
+      "label": "Mercury",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "OLLIE & JERRY",
+      "song": "Breakin'... There's No Stopping Us",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ROCK STEADY CREW",
+      "song": "Hey You",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JUNGLE",
+      "song": "Platoon",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DIRTY VEGAS",
+      "song": "Days Go By",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SKINNY PUPPY",
+      "song": "Pro-test",
+      "label": "Metropolis",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FREESTYLERS featuring TENOR FLY",
+      "song": "B-Boy Stance",
+      "label": "MDS",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FREESTYLERS",
+      "song": "Push Up",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BOMFUNK MCS",
+      "song": "Freestyler",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS featuring Q-TIP",
+      "song": "Galvanize",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RUDIMENTAL featuring JOHN NEWMAN & ALEX CLARE",
+      "song": "Not Giving In",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BAKER BOY",
+      "song": "Marryuna",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "Work It",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "Gossip Folks",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RUN DMC vs JASON NEVINS",
+      "song": "It's Like That",
+      "label": "MDS",
+      "timeslot": "01:30:00"
+    }
+  ]
+}

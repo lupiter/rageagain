@@ -1,0 +1,75 @@
+{
+  "title": "Friday night 4 October 2024 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2024-10-04",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-4-october-2024-on-abc-entertains/104435028",
+  "tracks": [
+    {
+      "artist": "THE BETA BAND",
+      "song": "Inner Meet Me",
+      "label": "Modular",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "NAUGHTY BY NATURE",
+      "song": "Craziest",
+      "label": "Liberation",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Silver Rocket",
+      "label": "BMG",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "TOKYO SKA PARADISE ORCHESTRA",
+      "song": "Jungle Boogie",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Come To Daddy",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LINKIN PARK",
+      "song": "In The End",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE CARPENTERS",
+      "song": "Superstar",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "LUKE VIBERT",
+      "song": "I Love Acid",
+      "label": "Creative Vibes",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DEUS",
+      "song": "Little Arithmetics",
+      "label": "Mercury",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE GO! TEAM",
+      "song": "Bottle Rocket",
+      "label": "Shock",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE GO! TEAM",
+      "song": "Grip Like A Vice",
+      "label": "Shock",
+      "timeslot": "00:30:00"
+    }
+  ]
+}

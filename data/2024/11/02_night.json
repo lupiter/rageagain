@@ -1,0 +1,27 @@
+{
+  "title": "Saturday night 2 November 2024 on ABC Entertains",
+  "special": "Countdown special",
+  "timeslot": "night",
+  "date": "2024-11-02",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-2-november-2024-on-abc-entertains/104541530",
+  "tracks": [
+    {
+      "artist": "COUNTDOWN",
+      "song": "July 13, 1980 (248: Ramones)",
+      "label": "ABC",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "Blitzkrieg Bop",
+      "label": "Philips",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "I Wanna Be Sedated",
+      "label": "Festival",
+      "timeslot": "00:30:00"
+    }
+  ]
+}

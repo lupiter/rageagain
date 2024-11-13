@@ -1,0 +1,99 @@
+{
+  "title": "Tuesday night 15 October 2024 on ABC Entertains",
+  "special": "Back to School special",
+  "timeslot": "night",
+  "date": "2024-10-15",
+  "url": "https://www.abc.net.au/rage/playlist/tuesday-night-15-october-2024-on-abc-entertains/104470274",
+  "tracks": [
+    {
+      "artist": "TWISTED SISTER",
+      "song": "I Wanna Rock",
+      "label": "Warner",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "THE RUNAWAYS",
+      "song": "School Days",
+      "label": "Mercury",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "VAN HALEN",
+      "song": "Hot For Teacher",
+      "label": "Warner",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "Rock 'N' Roll High School",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Smokin' In The Boys Room",
+      "label": "Elektra",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "School's Out",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Another Brick In The Wall",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "PAUL SIMON",
+      "song": "Me And Julio Down By The Schoolyard",
+      "label": null,
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "WHEATUS",
+      "song": "Teenage Dirtbag",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "Josie (Everything's Gonna Be Fine)",
+      "label": "MDS",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MY CHEMICAL ROMANCE",
+      "song": "I'm Not OK (I Promise)",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Roses",
+      "label": "BMG",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "...Baby One More Time",
+      "label": "Mushroom",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BUSTED",
+      "song": "What I Go To School For",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "VITAMIN C",
+      "song": "Graduation (Friends Forever)",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    }
+  ]
+}
