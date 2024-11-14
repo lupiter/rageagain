@@ -28,4 +28,6 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: cd api && npm ci
+    - run: cd api && npm run generate-types
+    - run: cd api && npm run types
     - run: cd api && npm test

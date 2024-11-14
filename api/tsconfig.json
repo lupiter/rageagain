@@ -1,17 +1,17 @@
 {
   "compilerOptions": {
     "outDir": "./dist",
-    "module": "commonjs",
+    "module": "NodeNext",
     "target": "esnext",
-    "lib": ["esnext", "webworker"],
+    "lib": ["esnext"],
     "alwaysStrict": true,
     "strict": true,
     "preserveConstEnums": true,
-    "moduleResolution": "node",
+    "moduleResolution": "NodeNext",
     "sourceMap": true,
     "esModuleInterop": true,
-    "allowJs": true,
-    "types": ["@cloudflare/workers-types"]
+    "allowJs": false,
+    "types": ["@cloudflare/workers-types", "mocha"]
   },
   "include": [
     "./src/*.ts",
@@ -20,7 +20,13 @@
     "./src/**/*.ts",
     "./src/**/*.js",
     "./test/**/*.ts",
-    "./node_modules/@cloudflare/workers-types/index.d.ts"
+    "./node_modules/@cloudflare/workers-types/index.d.ts",
+    "test/handler.test.ts"
   ],
+  "ts-node": {
+    "moduleTypes": {
+      "*.ts": "cjs"
+    }
+  },
   "exclude": ["node_modules/", "dist/"]
 }

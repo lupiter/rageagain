@@ -1,6 +1,6 @@
-import * as scraper from "../third-party/youtube-scrape"
-import * as cache from "./youtubeCache"
-import { MusicVideoHost, MusicVideoInfo, MusicVideoProvider, MusicVideoProviderSource } from "../types"
+import * as scraper from "../third-party/youtube-scrape.js"
+import * as cache from "./youtubeCache.js"
+import { MusicVideoHost, MusicVideoInfo, MusicVideoProvider, MusicVideoProviderSource } from "../types.js"
 
 function isErrorResponse(response: scraper.Response | scraper.ErrorResponse): response is scraper.ErrorResponse {
   return (response as scraper.ErrorResponse).error !== undefined;
