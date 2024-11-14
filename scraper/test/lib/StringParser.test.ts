@@ -3,10 +3,10 @@ import { stripParens, parseTrackString } from "../../src/lib/StringParsers.js"
 
 describe('stripParens', () => {
   it('correctly strips outer parens', () => {
-    expect(stripParens('(TEST)')).be('TEST')
-    expect(stripParens('  (TEST)  ')).be('TEST')
-    expect(stripParens('(Test String)')).be('Test String')
-    expect(stripParens('(TE(ST) String)')).be('TE(ST) String')
+    expect(stripParens('(TEST)')).equals('TEST')
+    expect(stripParens('  (TEST)  ')).equals('TEST')
+    expect(stripParens('(Test String)')).equals('Test String')
+    expect(stripParens('(TE(ST) String)')).equals('TE(ST) String')
   })
 })
 

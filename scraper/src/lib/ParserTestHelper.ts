@@ -24,5 +24,5 @@ export const testParser = (
   // fs.writeFileSync(jsonPath, JSON.stringify(result, null, 2))
   const expected = JSON.parse(fs.readFileSync(jsonPath, "utf8"));
 
-  expect(result).equals(expected);
+  expect(result).equal(expected);
 };
