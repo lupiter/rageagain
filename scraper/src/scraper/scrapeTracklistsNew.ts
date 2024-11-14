@@ -1,7 +1,7 @@
 import { load as cheerioLoad } from 'cheerio'
-import downloadPage from '../lib/downloadPage'
-import { PlaylistTrack } from '../Types'
-import { militaryTime } from '../lib/DateHelpers'
+import downloadPage from '../lib/downloadPage.js'
+import { PlaylistTrack } from '../Types.js'
+import { militaryTime } from '../lib/DateHelpers.js'
 
 
 export const scrapeTracklist = async (tracklistUrl: string): Promise<PlaylistTrack[]> => {
@@ -24,7 +24,7 @@ export const scrapeTracklist = async (tracklistUrl: string): Promise<PlaylistTra
       const [_bullet, artist, song] = li.children()
       const text = li.text()
       const matches = text.match(/\(([^\(]+)\)$/)
-      const label = matches == null ? null : matches[1]
+      const label = matches == null ? undefined : matches[1]
 
       return {
         artist: $(artist).text().trim(),

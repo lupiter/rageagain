@@ -2,17 +2,16 @@
   "name": "rageagain-scraper",
   "version": "1.0.0",
   "description": "RageAgain Scraper",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "jest",
     "debug": "tsc && node --inspect ./dist/index.js",
-    "start": "tsc && node ./dist/index.js"
+    "start": "tsx ./src/index.ts",
+    "types": "tsc",
+    "test": "mocha './test/**/*.{spec,test}.ts'"
   },
   "author": "Patrick Galbraith",
   "license": "AGPL-3.0-only",
   "dependencies": {
-    "@types/jest": "^29.5.14",
-    "@types/normalize-path": "^3.0.2",
     "cheerio": "^1.0.0",
     "chrono-node": "^2.7.7",
     "fast-glob": "^3.3.2",
@@ -20,11 +19,16 @@
     "normalize-path": "^3.0.0"
   },
   "devDependencies": {
+    "@types/chai": "^5.0.1",
     "@types/cheerio": "^0.22.35",
+    "@types/mocha": "^10.0.9",
     "@types/node": "^22.9.0",
     "@types/node-fetch": "^2.6.12",
-    "jest": "^29.7.0",
-    "ts-jest": "^29.2.5",
+    "@types/normalize-path": "^3.0.2",
+    "@types/service-worker-mock": "^2.0.4",
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2",
+    "tsx": "^4.19.2",
     "typescript": "^5.6.3"
   }
 }

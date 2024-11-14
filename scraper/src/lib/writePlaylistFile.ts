@@ -1,8 +1,8 @@
 import fs from 'fs'
 import path from 'path'
 import { promisify } from 'util'
-import { DATA_DIRECTORY } from '../Constants'
-import { Playlist } from '../Types'
+import { DATA_DIRECTORY } from '../Constants.js'
+import { Playlist } from '../Types.js'
 
 const writeFile = promisify(fs.writeFile)
 const fileExists = promisify(fs.exists)

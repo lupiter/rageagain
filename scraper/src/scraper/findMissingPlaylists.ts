@@ -1,9 +1,9 @@
 import fs from 'fs'
 import { promisify } from "util"
 import * as chrono from 'chrono-node'
-import { DATA_INDEX_PATH } from "../Constants"
-import { ArchivePlaylist, DataIndex } from '../Types'
-import { scrapeMonth } from './scrapeMonthlyArchives'
+import { DATA_INDEX_PATH } from "../Constants.js"
+import { ArchivePlaylist, DataIndex } from '../Types.js'
+import { scrapeMonth } from './scrapeMonthlyArchives.js'
 
 const readFile = promisify(fs.readFile)
 

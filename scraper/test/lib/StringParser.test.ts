@@ -1,11 +1,12 @@
-import { stripParens, parseTrackString } from "../../lib/StringParsers"
+import { expect } from 'chai'
+import { stripParens, parseTrackString } from "../../src/lib/StringParsers.js"
 
 describe('stripParens', () => {
   it('correctly strips outer parens', () => {
-    expect(stripParens('(TEST)')).toBe('TEST')
-    expect(stripParens('  (TEST)  ')).toBe('TEST')
-    expect(stripParens('(Test String)')).toBe('Test String')
-    expect(stripParens('(TE(ST) String)')).toBe('TE(ST) String')
+    expect(stripParens('(TEST)')).be('TEST')
+    expect(stripParens('  (TEST)  ')).be('TEST')
+    expect(stripParens('(Test String)')).be('Test String')
+    expect(stripParens('(TE(ST) String)')).be('TE(ST) String')
   })
 })
 
@@ -56,7 +57,7 @@ describe('parseTrackString', () => {
     ]
 
     for (let test of tests) {
-      expect(parseTrackString(test[0])).toEqual(test[1])
+      expect(parseTrackString(test[0])).equals(test[1])
     }
   })
 })

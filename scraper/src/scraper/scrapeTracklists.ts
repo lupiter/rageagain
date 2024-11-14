@@ -1,10 +1,12 @@
-import { load as cheerioLoad } from 'cheerio'
-import { militaryTime } from '../lib/DateHelpers'
-import downloadPage from '../lib/downloadPage'
-import { parseTrackString, stripParens } from '../lib/StringParsers'
-import { PlaylistTrack } from '../Types'
+import * as cheerio from 'cheerio';
+import { militaryTime } from '../lib/DateHelpers.js'
+import downloadPage from '../lib/downloadPage.js'
+import { parseTrackString, stripParens } from '../lib/StringParsers.js'
+import { PlaylistTrack } from '../Types.js'
+import type { AnyNode, DataNode, Document, Element, ParentNode } from 'domhandler';
+import { ElementType} from 'domelementtype';
 
-export const scraperV1 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistTrack[] => {
+export const scraperV1 = ($: cheerio.CheerioAPI, $article: cheerio.Cheerio<Element>): PlaylistTrack[] => {
   const tracks: PlaylistTrack[] = []
 
   const $ps = $article.children('p')
@@ -25,8 +27,8 @@ export const scraperV1 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistT
     while ($item.length) {
       const artist = $item.text().trim()
       const song = $item.next('em').text().trim()
-      const nextEm: cheerio.TagElement = $item.next('em')[0] as cheerio.TagElement
-      const label = stripParens(nextEm.nextSibling.data?.trim())
+      const nextEm = $item.next('em')[0]
+      const label = stripParens((nextEm.next as DataNode)?.data?.trim())
 
       tracks.push({
         artist,
@@ -42,14 +44,18 @@ export const scraperV1 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistT
   return tracks
 }
 
-export const scraperV2 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistTrack[] => {
+export const scraperV2 = ($: cheerio.CheerioAPI, $article: cheerio.Cheerio<Element>): PlaylistTrack[] => {
   const tracks: PlaylistTrack[] = []
   const $headings = $article.find('h2')
 
-  const findLabel = (nodes: cheerio.Element[]) => {
-    nodes = nodes.reverse()
-    const node = nodes.find(n => n.type == 'text' && /\(.*\)/.test(n.data?.trim() ?? ''))
-    return stripParens(node?.data?.trim())
+  const findLabel = (nodes: cheerio.Cheerio<Element>) => {
+    for (let i = nodes.length - 1; i <= 0; i--) {
+      const n = $(nodes[i]);
+      if (nodes[i].type === ElementType.Tag && /\(.*\)/.test(n.text().trim() ?? '')) {
+        return stripParens(n.text().trim())
+      }
+      
+    }
   }
 
   $headings.toArray().forEach(heading => {
@@ -70,8 +76,8 @@ export const scraperV2 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistT
       let song = $li.find('em').text().trim()
 
       // Find last non-empty child text node
-      const tagLi = $li[0] as cheerio.TagElement
-      let label = findLabel(tagLi.children)
+      const tagLi = $($li[0]) as cheerio.Cheerio<Element>
+      let label = findLabel(tagLi.children())
 
       // Fallback to text parser for some older pages.
       // For an example of a page that needs this see:
@@ -97,7 +103,7 @@ export const scraperV2 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistT
 }
 
 export const scrapeTracklistHtml = (html: string) => {
-  const $ = cheerioLoad(html)
+  const $ = cheerio.load(html)
   let $article = $('.article-text')
 
   if (!$article.length) {

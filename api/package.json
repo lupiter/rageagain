@@ -9,7 +9,7 @@
     "build": "webpack",
     "dev": "NODE_ENV=development npm run build",
     "format": "prettier --write '**/*.{ts,js,css,json,md}'",
-    "test": "mocha '**/*.{spec,test}.ts'",
+    "test": "mocha './test/**/*.{spec,test}.ts'",
     "types": "tsc"
   },
   "author": "Patrick Galbraith",

@@ -1,7 +1,7 @@
 import { load as cheerioLoad } from 'cheerio'
 import * as chrono from 'chrono-node'
-import downloadPage from '../lib/downloadPage'
-import { ArchivePlaylist } from '../Types'
+import downloadPage from '../lib/downloadPage.js'
+import { ArchivePlaylist } from '../Types.js'
 
 /**
  * Downloads HTML of archive page.
@@ -78,9 +78,9 @@ export const extractData = (html: string, referenceDate: Date) => {
 
     const timeslot =
       title.toLowerCase().includes('night') ? 'night' :
-      title.toLowerCase().includes('morning') ? 'morning' : null
+      title.toLowerCase().includes('morning') ? 'morning' : undefined
 
-    const special = /am|pm$/gi.test(teaserText) ? null : teaserText
+    const special = /am|pm$/gi.test(teaserText) ? undefined : teaserText
 
     const date = parseDate(title, referenceDate)
 

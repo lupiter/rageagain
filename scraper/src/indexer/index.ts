@@ -3,8 +3,8 @@ import glob from 'fast-glob'
 import path from 'path'
 import normalize from 'normalize-path'
 import { promisify } from 'util'
-import { DataIndex, Playlist } from '../Types'
-import { DATA_DIRECTORY, DATA_INDEX_PATH } from '../Constants'
+import { DataIndex, Playlist } from '../Types.js'
+import { DATA_DIRECTORY, DATA_INDEX_PATH } from '../Constants.js'
 
 const readFile = promisify(fs.readFile)
 const writeFile = promisify(fs.writeFile)

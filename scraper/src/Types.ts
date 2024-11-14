@@ -1,31 +1,31 @@
 export type ArchivePlaylist = {
   title: string
   url: string
-  special: string | null
-  timeslot: string | null
+  special?: string
+  timeslot?: string
   date: Date
 }
 
 export type PlaylistTrack = {
   artist: string
   song: string
-  label: string | null
-  timeslot: string | null
+  label?: string
+  timeslot?: string
   countdown?: number
 }
 
 export type Playlist = {
   title: string
-  special: string | null
-  timeslot: string | null
+  special?: string
+  timeslot?: string
   date: string
   url: string
   tracks: PlaylistTrack[]
 }
 
 export type IndexedPlaylist = {
-  special: string | null
-  timeslot: string | null
+  special?: string
+  timeslot?: string
   date: string
   path: string
   url?: string

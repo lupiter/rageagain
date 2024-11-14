@@ -3,8 +3,8 @@ import glob from 'fast-glob'
 import path from 'path'
 import normalize from 'normalize-path'
 import { promisify } from 'util'
-import { DATA_DIRECTORY } from '../Constants'
-import { Playlist, PlaylistTrack } from '../Types'
+import { DATA_DIRECTORY } from '../Constants.js'
+import { Playlist, PlaylistTrack } from '../Types.js'
 
 const readFile = promisify(fs.readFile)
 const writeFile = promisify(fs.writeFile)
@@ -29,7 +29,7 @@ export const generateTop200 = async () => {
       } else {
         tracks[key] = {
           ...track,
-          timeslot: null,
+          timeslot: undefined,
           count: 0
         }
       }

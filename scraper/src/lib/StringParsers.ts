@@ -3,9 +3,9 @@
  * E.g. "(Example)" becomes "Example".
  * @param str Source string
  */
-export const stripParens = (str: string | null | undefined) => {
+export const stripParens = (str: string | null | undefined): string | undefined => {
   const res = str?.trim().match(/\((.*)\)/)
-  return res && res.length > 1 && res[1] ? res[1] : null
+  return res && res.length > 1 && res[1] ? res[1] : undefined
 }
 
 /**

@@ -1,7 +1,7 @@
-import findMissingPlaylists from "./findMissingPlaylistsNew"
-import { scrapeTracklist } from "./scrapeTracklistsNew"
-import { dateFormat } from "../lib/DateHelpers"
-import writePlaylistFile from "../lib/writePlaylistFile"
+import findMissingPlaylists from "./findMissingPlaylistsNew.js"
+import { scrapeTracklist } from "./scrapeTracklistsNew.js"
+import { dateFormat } from "../lib/DateHelpers.js"
+import writePlaylistFile from "../lib/writePlaylistFile.js"
 
 export const scrapeLatest = async () => {
   console.log('Scrape started')

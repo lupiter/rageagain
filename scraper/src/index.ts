@@ -1,6 +1,6 @@
-import { reindex } from "./indexer"
-import { scrapeLatest } from "./scraper"
-import { generateTop200 } from "./top200"
+import { reindex } from "./indexer/index.js"
+import { scrapeLatest } from "./scraper/index.js"
+import { generateTop200 } from "./top200/index.js"
 
 (async () => {
   console.log('Starting scrape...')
