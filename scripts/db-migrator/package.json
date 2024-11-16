@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "mysql-promise": "^5.0.0",
-    "mysql2": "^2.2.5"
+    "mysql2": "^3.9.8"
   }
 }
