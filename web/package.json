@@ -2,7 +2,7 @@
   "name": "rageagain-web",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "source": "index.html",
   "directories": {
     "lib": "lib"
   },
@@ -12,15 +12,18 @@
   },
   "author": "Patrick Galbraith",
   "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "@swc/helpers": "^0.5.15"
+  },
   "devDependencies": {
-    "@types/jquery": "^3.5.5",
-    "@types/youtube": "0.0.41",
-    "autoprefixer": "^9.8.6",
-    "cssnano": "^7.0.5",
-    "parcel": "^2.12.0",
-    "postcss": "^8.4.41",
+    "@types/jquery": "^3.5.32",
+    "@types/youtube": "0.1.0",
+    "autoprefixer": "^10.4.20",
+    "cssnano": "^7.0.6",
+    "parcel": "^2.13.0",
+    "postcss": "^8.4.49",
     "postcss-import": "^16.1.0",
-    "typescript": "^5.5.4"
+    "typescript": "^5.6.3"
   },
   "alias": {
     "jquery": false
