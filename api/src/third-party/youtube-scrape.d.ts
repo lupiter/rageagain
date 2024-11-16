@@ -40,13 +40,9 @@ export interface Response {
   nextPageToken: string
 }
 
-export interface ErrorResponse {
-  error: string
-}
-
-export function youtube(query: string): Promise<Response | ErrorResponse>
+export function youtube(query: string): Promise<Response>
 export function youtube(
   query: undefined,
   key: string,
   pageToken: string,
-): Promise<Response | ErrorResponse>
+): Promise<Response>

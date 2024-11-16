@@ -46,7 +46,7 @@ export async function youtube(query, key, pageToken) {
             )
             return resolve(json)
           }
-          resolve({ error: error })
+          reject({ error: error })
         },
       )
     } else {
@@ -87,7 +87,7 @@ export async function youtube(query, key, pageToken) {
 
           return resolve(json)
         }
-        resolve({ error: error })
+        reject({ error: error })
       })
     }
   })

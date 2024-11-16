@@ -1,4 +1,4 @@
-import type { Response } from '../third-party/youtube-scrape.js'
+import type { Response } from '../third-party/youtube-scrape/youtube-scrape.js'
 
 export type CachedResponse = {
   v: number // Version
