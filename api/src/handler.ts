@@ -32,7 +32,8 @@ function getCorsHeaders(request: Request): Headers {
 }
 
 async function handleMusicVideoSearchRequest(
-  request: Request, env: Env,
+  request: Request,
+  env: Env,
 ): Promise<Response> {
   const { searchParams } = new URL(request.url)
 
@@ -48,7 +49,10 @@ async function handleMusicVideoSearchRequest(
   })
 }
 
-async function handleDataRequest(request: Request, env: Env): Promise<Response> {
+async function handleDataRequest(
+  request: Request,
+  env: Env,
+): Promise<Response> {
   const { pathname } = new URL(request.url)
   const pathParts = pathname.replace('..', '').match(/\/data\/(.*)/)
 
@@ -97,7 +101,10 @@ function handleOptionsRequest(request: Request): Response {
   })
 }
 
-export async function handleRequest(request: Request, env: Env): Promise<Response> {
+export async function handleRequest(
+  request: Request,
+  env: Env,
+): Promise<Response> {
   try {
     if (request.method === 'OPTIONS') {
       // Handle CORS preflight requests

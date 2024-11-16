@@ -20,7 +20,6 @@ export type MusicVideoProvider = (
   env: Env,
 ) => Promise<MusicVideoInfo[]>
 
-
 export interface Env {
   YOUTUBE_REQUESTS: KVNamespace
   GITHUB_DATA: KVNamespace

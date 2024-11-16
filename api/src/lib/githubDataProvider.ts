@@ -1,4 +1,4 @@
-import { Env } from "../types.js"
+import { Env } from '../types.js'
 
 const baseUrl =
   'https://raw.githubusercontent.com/lupiter/rageagain/refs/heads/master/data/'

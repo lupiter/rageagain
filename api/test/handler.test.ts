@@ -7,7 +7,7 @@ describe('handler responds to request', () => {
 
   beforeEach(() => {
     fakeEnv = {
-      YOUTUBE_REQUESTS:  undefined,
+      YOUTUBE_REQUESTS: undefined,
       GITHUB_DATA: undefined,
     } as unknown as Env
   })
@@ -20,7 +20,7 @@ describe('handler responds to request', () => {
         'https://api.ragereplay.com/api/musicvideosearch?song=never%20gonna%20give%20you%20up&artist=Rick%20Astley',
         { method: 'GET' },
       ),
-      fakeEnv
+      fakeEnv,
     )
     expect(result.status).to.eq(200)
     const json = (await result.json()) as any
@@ -33,7 +33,7 @@ describe('handler responds to request', () => {
         'https://api.ragereplay.com/api/musicvideosearch?artist=THE STEMS - LIVE ON COUNTDOWN&song=Sad Girl',
         { method: 'GET' },
       ),
-      fakeEnv
+      fakeEnv,
     )
     expect(result.status).to.eq(200)
     const json = (await result.json()) as any
@@ -45,7 +45,7 @@ describe('handler responds to request', () => {
       new Request('https://api.ragereplay.com/api/data/2020/02/01_night.json', {
         method: 'GET',
       }),
-      fakeEnv
+      fakeEnv,
     )
     expect(result.status).to.eq(200)
     const json = (await result.json()) as any
@@ -54,28 +54,32 @@ describe('handler responds to request', () => {
 
   it('OPTIONS Request', async () => {
     const result = await handleRequest(
-      new Request('https://api.ragereplay.com/', { method: 'OPTIONS' }), fakeEnv
+      new Request('https://api.ragereplay.com/', { method: 'OPTIONS' }),
+      fakeEnv,
     )
     expect(result.status).to.eq(200)
   })
 
   it('GET Request: not found', async () => {
     const result = await handleRequest(
-      new Request('https://api.ragereplay.com/', { method: 'GET' }), fakeEnv
+      new Request('https://api.ragereplay.com/', { method: 'GET' }),
+      fakeEnv,
     )
     expect(result.status).to.eq(404)
   })
 
   it('Not Found Request', async () => {
     const result = await handleRequest(
-      new Request('https://api.ragereplay.com/unknown/', { method: 'GET' }), fakeEnv
+      new Request('https://api.ragereplay.com/unknown/', { method: 'GET' }),
+      fakeEnv,
     )
     expect(result.status).to.eq(404)
   })
 
   it('Invalid DELETE Request', async () => {
     const result = await handleRequest(
-      new Request('https://api.ragereplay.com//', { method: 'DELETE' }), fakeEnv
+      new Request('https://api.ragereplay.com//', { method: 'DELETE' }),
+      fakeEnv,
     )
     expect(result.status).to.eq(405)
   })

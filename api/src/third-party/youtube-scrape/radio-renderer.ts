@@ -5,7 +5,7 @@ export interface RadioRenderer {
     thumbnails: { url: string }[]
   }
   videoCountText: {
-    runs: {text: string}[]
+    runs: { text: string }[]
   }
   playlistId: string
   title: {
