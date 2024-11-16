@@ -1,5 +1,7 @@
-import { handleRequest } from './handler'
+import { handleRequest } from './handler.js'
 
-addEventListener('fetch', (event) => {
-  event.respondWith(handleRequest(event.request))
-})
+export default {
+  async fetch(request): Promise<Response> {
+    return handleRequest(request);
+  }
+} satisfies ExportedHandler;

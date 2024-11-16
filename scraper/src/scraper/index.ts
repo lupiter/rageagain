@@ -1,30 +1,37 @@
-import findMissingPlaylists from "./findMissingPlaylistsNew"
-import { scrapeTracklist } from "./scrapeTracklistsNew"
-import { dateFormat } from "../lib/DateHelpers"
-import writePlaylistFile from "../lib/writePlaylistFile"
+import findMissingPlaylists from "./findMissingPlaylistsNew.js";
+import { scrapeTracklist } from "./scrapeTracklistsNew.js";
+import { dateFormat } from "../lib/DateHelpers.js";
+import writePlaylistFile from "../lib/writePlaylistFile.js";
 
 export const scrapeLatest = async () => {
-  console.log('Scrape started')
+  console.log("Scrape started");
 
-  const missingPlaylists = await findMissingPlaylists()
+  const missingPlaylists = await findMissingPlaylists();
 
-  console.log(`Found ${missingPlaylists.length} missing playlists`)
+  console.log(`Found ${missingPlaylists.length} missing playlists`);
 
   for (const missingPlaylist of missingPlaylists) {
     try {
-      const tracks = await scrapeTracklist(missingPlaylist.url)
+      const tracks = await scrapeTracklist(missingPlaylist.url);
       await writePlaylistFile(missingPlaylist.date, {
         title: missingPlaylist.title,
         special: missingPlaylist.special,
         timeslot: missingPlaylist.timeslot,
         date: dateFormat(missingPlaylist.date),
         url: missingPlaylist.url,
-        tracks: tracks
-      })
+        tracks: tracks,
+      });
     } catch (e) {
-      console.error('Failed to process playlist: ' + missingPlaylist.title + ' at ' + missingPlaylist.url + " - " + e)
+      console.error(
+        "Failed to process playlist: " +
+          missingPlaylist.title +
+          " at " +
+          missingPlaylist.url +
+          " - " +
+          e,
+      );
     }
   }
 
-  console.log('Scrape finished')
-}
+  console.log("Scrape finished");
+};

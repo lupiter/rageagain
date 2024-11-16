@@ -3,10 +3,12 @@
  * E.g. "(Example)" becomes "Example".
  * @param str Source string
  */
-export const stripParens = (str: string | null | undefined) => {
-  const res = str?.trim().match(/\((.*)\)/)
-  return res && res.length > 1 && res[1] ? res[1] : null
-}
+export const stripParens = (
+  str: string | null | undefined,
+): string | undefined => {
+  const res = str?.trim().match(/\((.*)\)/);
+  return res && res.length > 1 && res[1] ? res[1] : undefined;
+};
 
 /**
  * Parse string containing track information in the format
@@ -14,33 +16,33 @@ export const stripParens = (str: string | null | undefined) => {
  * @param source Track name
  */
 export const parseTrackString = (source: string) => {
-  source = source.trim()
+  source = source.trim();
 
-  const [_, track, label] = source.match(/(.*)\((.*)\)$/) ?? []
-  const segments = track?.trim().split(' ') ?? []
-  const joiners = ['ft.', 'ft', '_and_', 'and']
+  const [_, track, label] = source.match(/(.*)\((.*)\)$/) ?? [];
+  const segments = track?.trim().split(" ") ?? [];
+  const joiners = ["ft.", "ft", "_and_", "and"];
 
-  let artist: string[] = []
-  let song: string[] = []
+  let artist: string[] = [];
+  let song: string[] = [];
 
   for (let index = 0; index < segments.length; index++) {
-    const segment = segments[index]
+    const segment = segments[index];
 
     // We always assume the first segment is part of the artist name
     if (index === 0) {
-      artist.push(segment)
-      continue
+      artist.push(segment);
+      continue;
     }
 
     // We always assume the last segment is part of the song name
     if (index === segments.length - 1) {
-      song.push(segment)
-      continue
+      song.push(segment);
+      continue;
     }
 
     if (joiners.includes(segment)) {
-      artist.push(segment)
-      continue
+      artist.push(segment);
+      continue;
     }
 
     if (
@@ -51,16 +53,16 @@ export const parseTrackString = (source: string) => {
       // Or the segment is just a number
       (+segment).toString() === segment
     ) {
-      song.push(segment)
-      continue
+      song.push(segment);
+      continue;
     }
 
-    artist.push(segment)
+    artist.push(segment);
   }
 
   return {
-    artist: artist.join(' '),
-    song: song.join(' '),
-    label: label ?? ''
-  }
-}
+    artist: artist.join(" "),
+    song: song.join(" "),
+    label: label ?? "",
+  };
+};

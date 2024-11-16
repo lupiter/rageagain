@@ -1,8 +1,8 @@
-import getYoutubeVideos from "./lib/youtubeProvider"
-import getDataFromGithub from "./lib/githubDataProvider"
+import getYoutubeVideos from "./lib/youtubeProvider.js"
+import getDataFromGithub from "./lib/githubDataProvider.js"
 
 const allowedOrigins = [
-  /^https?:\/\/(www\.)?rageagain.com$/,
+  /^https?:\/\/(www\.)?ragereplay.com$/,
   /^https?:\/\/localhost$/,
   /^https?:\/\/localhost:.*$/
 ]
@@ -54,11 +54,24 @@ async function handleDataRequest(request: Request): Promise<Response> {
   if (!pathParts || (pathParts && !pathParts[0]))
     return new Response('Empty data path param', { status: 400 })
 
-  const data = await getDataFromGithub(pathParts[0])
+  try {
+    const data = await getDataFromGithub(pathParts[0])
 
-  return new Response(data, {
-    headers: getCorsHeaders(request)
-  })
+    return new Response(data, {
+      headers: getCorsHeaders(request)
+    })
+  } catch (e) {
+    if (typeof e === "number") {
+      return new Response("There was a problem with the upstream request", {
+        status: e
+      })
+    } else {
+      return new Response("500 Server error", {
+        status: 500
+      })
+    }
+    
+  }
 }
 
 function handleOptionsRequest(request: Request): Response {
@@ -109,6 +122,6 @@ export async function handleRequest(request: Request): Promise<Response> {
       })
     }
   } catch (e) {
-    return new Response(`Something went wrong: "${e.message}"`, { status: 500 })
+    return new Response(`Something went wrong: "${e}"`, { status: 500 })
   }
 }

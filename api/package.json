@@ -1,5 +1,6 @@
 {
   "name": "rageagain-server",
+  "type": "module",
   "version": "1.0.0",
   "description": "Rageagain server",
   "main": "index.js",
@@ -8,25 +9,25 @@
     "build": "webpack",
     "dev": "NODE_ENV=development npm run build",
     "format": "prettier --write '**/*.{ts,js,css,json,md}'",
-    "test:clean": "rimraf ./transpiled/src ./transpiled/test",
-    "test": "npm run test:clean && npm run transpile && mocha --require source-map-support/register --recursive transpiled/test",
-    "transpile": "tsc --project ./test"
+    "test": "mocha './test/**/*.{spec,test}.ts'",
+    "types": "tsc"
   },
   "author": "Patrick Galbraith",
   "license": "AGPL-3.0-only",
   "devDependencies": {
-    "@cloudflare/workers-types": "^2.0.0",
-    "@types/chai": "^4.2.11",
-    "@types/mocha": "^7.0.2",
-    "chai": "^4.2.0",
-    "mocha": "^8.2.1",
-    "prettier": "^2.0.5",
-    "rimraf": "^3.0.2",
+    "@cloudflare/workers-types": "^4.20241112.0",
+    "@types/chai": "^5.0.1",
+    "@types/mocha": "^10.0.9",
+    "@types/service-worker-mock": "^2.0.4",
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2",
+    "prettier": "^3.3.3",
+    "rimraf": "^6.0.1",
     "service-worker-mock": "^2.0.5",
-    "ts-loader": "^7.0.5",
-    "typescript": "^3.9.5",
-    "webpack": "^4.44.2",
-    "webpack-cli": "^3.3.12"
-  },
-  "dependencies": {}
+    "ts-loader": "^9.5.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
+  }
 }
