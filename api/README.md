@@ -36,9 +36,8 @@ For information on how to preview and publish your worker, please see the [Wrang
 
 To publish to production:
 
-
 ```
-wrangler publish --env production
+wrangler publish
 ```
 
 ## 🤢 Issues

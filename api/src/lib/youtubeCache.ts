@@ -1,8 +1,8 @@
-import type { Response } from "../third-party/youtube-scrape.js"
+import type { Response } from '../third-party/youtube-scrape.js'
 
 export type CachedResponse = {
-  v: number,             // Version
-  ts: number,            // Timestamp
+  v: number // Version
+  ts: number // Timestamp
   data: Response // Response Data
 }
 
@@ -15,7 +15,7 @@ export const set = (key: string, data: Response): Promise<void> => {
   const wrappedData = {
     v: 1,
     ts: Date.now(),
-    data
+    data,
   }
 
   if (typeof YOUTUBE_REQUESTS === 'undefined') {

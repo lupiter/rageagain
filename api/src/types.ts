@@ -1,10 +1,10 @@
 export enum MusicVideoProviderSource {
-  imvdb = "imvdb",
-  ytscraper = "ytscraper"
+  imvdb = 'imvdb',
+  ytscraper = 'ytscraper',
 }
 
 export enum MusicVideoHost {
-  youtube = "youtube"
+  youtube = 'youtube',
 }
 
 export type MusicVideoInfo = {
@@ -14,4 +14,7 @@ export type MusicVideoInfo = {
   title?: string
 }
 
-export type MusicVideoProvider = (artist: string, song: string) => Promise<MusicVideoInfo[]>
+export type MusicVideoProvider = (
+  artist: string,
+  song: string,
+) => Promise<MusicVideoInfo[]>
