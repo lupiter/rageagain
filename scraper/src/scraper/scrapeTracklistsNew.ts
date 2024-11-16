@@ -28,7 +28,7 @@ export const scrapeTracklist = async (
         const [_bullet, artist, song] = li.children();
         const text = li.text();
         const matches = text.match(/\(([^\(]+)\)$/);
-        const label = matches == null ? undefined : matches[1];
+        const label = matches == null ? null : matches[1];
 
         return {
           artist: $(artist).text().trim(),

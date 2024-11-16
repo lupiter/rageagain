@@ -29,7 +29,7 @@ export const generateTop200 = async () => {
       } else {
         tracks[key] = {
           ...track,
-          timeslot: undefined,
+          timeslot: null,
           count: 0,
         };
       }

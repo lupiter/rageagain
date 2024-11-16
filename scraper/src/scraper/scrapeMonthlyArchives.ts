@@ -92,7 +92,7 @@ export const extractData = (html: string, referenceDate: Date) => {
         ? tracklistUrl
         : "https://www.abc.net.au" + tracklistUrl,
       special,
-      timeslot,
+      timeslot: timeslot ? timeslot : null,
       date,
     });
   });
