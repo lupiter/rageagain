@@ -1,0 +1,87 @@
+{
+  "title": "Sunday night 17 November 2024 on ABC Entertains",
+  "special": "Countdown special",
+  "timeslot": "night",
+  "date": "2024-11-17",
+  "url": "https://www.abc.net.au/rage/playlist/sunday-night-17-november-2024-on-abc-entertains/104601356",
+  "tracks": [
+    {
+      "artist": "COUNTDOWN",
+      "song": "What Is Countdown? (1974 promo)",
+      "label": "ABC",
+      "timeslot": "22:00:00"
+    },
+    {
+      "artist": "SKYHOOKS",
+      "song": "Livin' In The '70s (Live on Countdown with Grant Goldman Intro, 1974)",
+      "label": "Mushroom / ABC",
+      "timeslot": "22:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "(Baby) Please Don't Go",
+      "label": "EMI",
+      "timeslot": "22:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Hammer Horror (Live on Countdown, 1978)",
+      "label": "EMI",
+      "timeslot": "22:00:00"
+    },
+    {
+      "artist": "IGGY POP - ON COUNTDOWN",
+      "song": "I'm Bored (Including Interview on Countdown, 1979)",
+      "label": "Virgin",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "MICK JAGGER",
+      "song": "Interviewed on Countdown, 1980",
+      "label": "ABC",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Emotional Rescue",
+      "label": "Sony",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "OLIVIA NEWTON-JOHN",
+      "song": "Xanadu (Live On Countdown, 1980)",
+      "label": "Jet Records",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "DEVO - ON COUNTDOWN",
+      "song": "Interview with Molly Meldrum (1981)",
+      "label": "ABC",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "DEVO - LIVE ON COUNTDOWN",
+      "song": "Whip It",
+      "label": "Warner",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "GRACE JONES - LIVE ON COUNTDOWN",
+      "song": "Slave To The Rhythm",
+      "label": "EMI",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "JOHN FARNHAM",
+      "song": "You're The Voice (Live on Countdown, 1986)",
+      "label": null,
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "THE STEMS - LIVE ON COUNTDOWN",
+      "song": "Sad Girl",
+      "label": "ABC",
+      "timeslot": "23:00:00"
+    }
+  ]
+}

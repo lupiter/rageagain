@@ -33053,6 +33053,55 @@
       "date": "2024-11-14",
       "path": "2024/11/14_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-14-november-2024-on-abc-entertains/104586264"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2024-11-15",
+      "path": "2024/11/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-15-november-2024-on-abc-entertains/104601346"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2024-11-15",
+      "path": "2024/11/15_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-15-november-2024-on-abc-tv/104601344"
+    },
+    {
+      "special": "Charts, The VAULT, Best New Music Videos, Countdown 50th Birthday Special, Ausmusic Month special",
+      "timeslot": "morning",
+      "date": "2024-11-16",
+      "path": "2024/11/16_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-16-november-2024-on-abc-tv/104601348"
+    },
+    {
+      "special": "Ausmusic special",
+      "timeslot": "night",
+      "date": "2024-11-16",
+      "path": "2024/11/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-16-november-2024-on-abc-entertains/104601352"
+    },
+    {
+      "special": "Countdown 50th Birthday Special",
+      "timeslot": "night",
+      "date": "2024-11-16",
+      "path": "2024/11/16_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-16-november-2024-on-abc-tv/104601350"
+    },
+    {
+      "special": "Countdown special",
+      "timeslot": "night",
+      "date": "2024-11-17",
+      "path": "2024/11/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-17-november-2024-on-abc-entertains/104601356"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2024-11-17",
+      "path": "2024/11/17_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-17-november-2024-on-abc-tv/104601354"
     }
   ]
 }
