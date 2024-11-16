@@ -9,6 +9,4 @@ kv_namespaces = [
     { binding = "YOUTUBE_REQUESTS", id = "35b4ecc13bc649fa80f08ac30a43c5b9" },
     { binding = "GITHUB_DATA", id = "b3096dff62d64cd19877bcc6eac4676d" }
 ]
-# wrangler.toml (wrangler v3.79.0^)
-[observability.logs]
-enabled = true
+observability.enabled = true

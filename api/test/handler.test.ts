@@ -10,7 +10,7 @@ describe('handler responds to request', () => {
       ),
     )
     expect(result.status).to.eq(200)
-    const json = await result.json() as any
+    const json = (await result.json()) as any
     expect(json.length).to.eq(19)
   })
 
@@ -22,17 +22,19 @@ describe('handler responds to request', () => {
       ),
     )
     expect(result.status).to.eq(200)
-    const json = await result.json() as any
+    const json = (await result.json()) as any
     expect(json.length).to.eq(19)
   })
 
   it('GET Request: data', async () => {
     const result = await handleRequest(
-      new Request('https://api.ragereplay.com/api/data/2020/02/01_night.json', { method: 'GET' }),
+      new Request('https://api.ragereplay.com/api/data/2020/02/01_night.json', {
+        method: 'GET',
+      }),
     )
     expect(result.status).to.eq(200)
-    const json = await result.json() as any
-    expect(json["date"]).to.eq("2020-02-01")
+    const json = (await result.json()) as any
+    expect(json['date']).to.eq('2020-02-01')
   })
 
   it('OPTIONS Request', async () => {
