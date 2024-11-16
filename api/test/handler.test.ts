@@ -12,7 +12,9 @@ describe('handler responds to request', () => {
     } as unknown as Env
   })
 
-  it('GET Request: music video', async () => {
+  // Youtube tests are for debugging only, we don't want to run them on CI as they flake a lot
+
+  xit('GET Request: music video', async () => {
     const result = await handleRequest(
       new Request(
         'https://api.ragereplay.com/api/musicvideosearch?song=never%20gonna%20give%20you%20up&artist=Rick%20Astley',
@@ -25,7 +27,7 @@ describe('handler responds to request', () => {
     expect(json.length).to.eq(19)
   })
 
-  it('GET Request: music video with odd artist', async () => {
+  xit('GET Request: music video with odd artist', async () => {
     const result = await handleRequest(
       new Request(
         'https://api.ragereplay.com/api/musicvideosearch?artist=THE STEMS - LIVE ON COUNTDOWN&song=Sad Girl',
