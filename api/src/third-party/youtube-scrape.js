@@ -136,7 +136,7 @@ function parseChannelRenderer(renderer) {
         "url": `https://www.youtube.com${renderer.navigationEndpoint.commandMetadata.webCommandMetadata.url}`,
         "snippet": renderer.descriptionSnippet ? renderer.descriptionSnippet.runs.reduce(comb, "") : "",
         "thumbnail_src": renderer.thumbnail.thumbnails[renderer.thumbnail.thumbnails.length - 1].url,
-        "video_count": renderer.videoCountText ? renderer.videoCountText.runs.reduce(comb, "") : "",
+        "video_count": renderer.videoCountText && renderer.videoCountText.runs ? renderer.videoCountText.runs.reduce(comb, "") : "",
         "subscriber_count": renderer.subscriberCountText ? renderer.subscriberCountText.simpleText : "0 subscribers",
         "verified": renderer.ownerBadges &&
                     renderer.ownerBadges.some(badge => badge.metadataBadgeRenderer.style.indexOf("VERIFIED") > -1) ||

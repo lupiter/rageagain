@@ -122,6 +122,6 @@ export async function handleRequest(request: Request): Promise<Response> {
       })
     }
   } catch (e) {
-    return new Response(`Something went wrong: "${e}"`, { status: 500 })
+    return new Response(`Something went wrong: "${e}"`, { status: 500, headers: getCorsHeaders(request) })
   }
 }

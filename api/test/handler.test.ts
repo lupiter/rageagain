@@ -14,6 +14,18 @@ describe('handler responds to request', () => {
     expect(json.length).to.eq(19)
   })
 
+  it('GET Request: music video with odd artist', async () => {
+    const result = await handleRequest(
+      new Request(
+        'https://api.ragereplay.com/api/musicvideosearch?artist=THE STEMS - LIVE ON COUNTDOWN&song=Sad Girl',
+        { method: 'GET' },
+      ),
+    )
+    expect(result.status).to.eq(200)
+    const json = await result.json() as any
+    expect(json.length).to.eq(19)
+  })
+
   it('GET Request: data', async () => {
     const result = await handleRequest(
       new Request('https://api.ragereplay.com/api/data/2020/02/01_night.json', { method: 'GET' }),
