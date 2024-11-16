@@ -283,7 +283,7 @@ const onTrackChange = function ({ current: curTrack }: TrackListEvents['change']
   $('.artist').text(curTrack.artist)
   $('.track').text(curTrack.song)
 
-  document.title = `${curTrack.song} by ${curTrack.artist} | RAGEagain`
+  document.title = `${curTrack.song} by ${curTrack.artist} | Rage Replay`
 
   if (curTrack.label) {
     $('.tracklabel').text('(' + curTrack.label + ')')

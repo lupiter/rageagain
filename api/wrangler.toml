@@ -1,16 +1,11 @@
-name = "rageagain-dev"
-type = "webpack"
-account_id = "3182c92fb67a3893aa91d143bc6c8e57"
-workers_dev = true
-webpack_config = "webpack.config.js"
-kv_namespaces = [
-    { binding = "YOUTUBE_REQUESTS", id = "be42270946734636abc4a21e210a20ba", preview_id = "be42270946734636abc4a21e210a20ba" },
-    { binding = "GITHUB_DATA", id = "161674bec31e4ca193f3717ae27f491d", preview_id = "161674bec31e4ca193f3717ae27f491d" }
-]
+name = "ragereplay"
+account_id = "8fd10c75b5fa0ac0dad3a76f1c1cfb0c"
+workers_dev = false
+main = "src/index.ts"
+compatibility_date = "2024-11-16"
 
-[env.production]
-name = "rageagain"
+route = { pattern = "api.ragereplay.com", custom_domain = true}
 kv_namespaces = [
-    { binding = "YOUTUBE_REQUESTS", id = "59fe223a01f04d649649211ab4869fc4" },
-    { binding = "GITHUB_DATA", id = "161674bec31e4ca193f3717ae27f491d" }
+    { binding = "YOUTUBE_REQUESTS", id = "35b4ecc13bc649fa80f08ac30a43c5b9" },
+    { binding = "GITHUB_DATA", id = "b3096dff62d64cd19877bcc6eac4676d" }
 ]

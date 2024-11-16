@@ -6,8 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "wrangler dev",
-    "build": "webpack",
-    "dev": "NODE_ENV=development npm run build",
+    "deploy": "wrangler deploy",
     "format": "prettier --write '**/*.{ts,js,css,json,md}'",
     "test": "mocha './test/**/*.{spec,test}.ts'",
     "types": "tsc"
@@ -28,6 +27,7 @@
     "tsx": "^4.19.2",
     "typescript": "^5.6.3",
     "webpack": "^5.96.1",
-    "webpack-cli": "^5.1.4"
+    "webpack-cli": "^5.1.4",
+    "wrangler": "^3.87.0"
   }
 }
