@@ -33,7 +33,7 @@ export const scraperV1 = ($: cheerio.CheerioAPI, $article: cheerio.Cheerio<Eleme
       tracks.push({
         artist,
         song,
-        label,
+        label: label ? label : null,
         timeslot: militaryTime(timeslot) ?? ''
       })
 
@@ -48,10 +48,10 @@ export const scraperV2 = ($: cheerio.CheerioAPI, $article: cheerio.Cheerio<Eleme
   const tracks: PlaylistTrack[] = []
   const $headings = $article.find('h2')
 
-  const findLabel = (nodes: cheerio.Cheerio<Element>) => {
-    for (let i = nodes.length - 1; i <= 0; i--) {
+  const findLabel = (nodes: cheerio.Cheerio<AnyNode>): string | undefined => {
+    for (let i = nodes.length - 1; i >= 0; i--) {
       const n = $(nodes[i]);
-      if (nodes[i].type === ElementType.Tag && /\(.*\)/.test(n.text().trim() ?? '')) {
+      if (nodes[i] && (nodes[i].type === ElementType.Tag || nodes[i].type === ElementType.Text) && /\(.*\)/.test(n.text().trim() ?? '')) {
         return stripParens(n.text().trim())
       }
       
@@ -77,7 +77,7 @@ export const scraperV2 = ($: cheerio.CheerioAPI, $article: cheerio.Cheerio<Eleme
 
       // Find last non-empty child text node
       const tagLi = $($li[0]) as cheerio.Cheerio<Element>
-      let label = findLabel(tagLi.children())
+      let label = findLabel(tagLi.contents())
 
       // Fallback to text parser for some older pages.
       // For an example of a page that needs this see:
@@ -93,7 +93,7 @@ export const scraperV2 = ($: cheerio.CheerioAPI, $article: cheerio.Cheerio<Eleme
       tracks.push({
         artist,
         song,
-        label,
+        label : label ? label : null,
         timeslot: militaryTime(timeslot) ?? ''
       })
     })

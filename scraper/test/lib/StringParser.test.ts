@@ -57,7 +57,7 @@ describe('parseTrackString', () => {
     ]
 
     for (let test of tests) {
-      expect(parseTrackString(test[0])).equals(test[1])
+      expect(parseTrackString(test[0])).deep.equals(test[1])
     }
   })
 })

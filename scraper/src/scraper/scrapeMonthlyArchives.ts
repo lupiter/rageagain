@@ -80,7 +80,7 @@ export const extractData = (html: string, referenceDate: Date) => {
       title.toLowerCase().includes('night') ? 'night' :
       title.toLowerCase().includes('morning') ? 'morning' : undefined
 
-    const special = /am|pm$/gi.test(teaserText) ? undefined : teaserText
+    const special = /am|pm$/gi.test(teaserText) ? null : teaserText
 
     const date = parseDate(title, referenceDate)
 
