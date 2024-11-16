@@ -7,16 +7,10 @@ const __dirname = dirname(__filename);
 
 export const testParser = (
   fileName: string,
-  extractFn: (data: string) => any
+  extractFn: (data: string) => any,
 ) => {
-  const htmlPath = path.join(
-    __dirname,
-    `../../test/fixtures/${fileName}.html`
-  );
-  const jsonPath = path.join(
-    __dirname,
-    `../../test/fixtures/${fileName}.json`
-  );
+  const htmlPath = path.join(__dirname, `../../test/fixtures/${fileName}.html`);
+  const jsonPath = path.join(__dirname, `../../test/fixtures/${fileName}.json`);
 
   const html = fs.readFileSync(htmlPath, "utf8");
 

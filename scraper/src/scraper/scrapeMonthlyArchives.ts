@@ -1,7 +1,7 @@
-import { load as cheerioLoad } from 'cheerio'
-import * as chrono from 'chrono-node'
-import downloadPage from '../lib/downloadPage.js'
-import { ArchivePlaylist } from '../Types.js'
+import { load as cheerioLoad } from "cheerio";
+import * as chrono from "chrono-node";
+import downloadPage from "../lib/downloadPage.js";
+import { ArchivePlaylist } from "../Types.js";
 
 /**
  * Downloads HTML of archive page.
@@ -9,25 +9,24 @@ import { ArchivePlaylist } from '../Types.js'
  * @param month Month
  */
 export const getArchiveHTML = async (year: number, month: number) => {
-  const monthStr = month.toString().padStart(2, '0')
-  const url = `https://www.abc.net.au/rage/playlist/pagination/search/archive/9471432?month=${year}-${monthStr}&view=findarchive.ajax&pageNum=`
+  const monthStr = month.toString().padStart(2, "0");
+  const url = `https://www.abc.net.au/rage/playlist/pagination/search/archive/9471432?month=${year}-${monthStr}&view=findarchive.ajax&pageNum=`;
 
-  const requestLimit = 15
-  let result = ''
+  const requestLimit = 15;
+  let result = "";
 
   // Loop through pageNums until server returns empty response
   for (let pageNum = 1; pageNum <= requestLimit; pageNum++) {
-    const current = await downloadPage(url + pageNum)
+    const current = await downloadPage(url + pageNum);
 
-    if (!current.trim())
-      break
+    if (!current.trim()) break;
 
-    result += current
+    result += current;
   }
 
   // Return concatenation of all responses
-  return result
-}
+  return result;
+};
 
 /**
  * Removes garbage from title string.
@@ -36,19 +35,18 @@ export const getArchiveHTML = async (year: number, month: number) => {
  * @param str
  */
 const cleanDate = (str: string) => {
-  str = str.toLowerCase()
-           .replace(/ ?night ?/, ' ')
-           .replace(/ ?morning ?/, ' ')
+  str = str
+    .toLowerCase()
+    .replace(/ ?night ?/, " ")
+    .replace(/ ?morning ?/, " ");
 
-  if (str.includes(' on'))
-    str = str.substring(0, str.indexOf(' on'))
+  if (str.includes(" on")) str = str.substring(0, str.indexOf(" on"));
 
   // There a couple of invalid playlist titles that only contain a timeslot
-  if (/[0-9]+:[0-9]+[ap]m - [0-9]+:[0-9]+[ap]m/.test(str))
-    return null
+  if (/[0-9]+:[0-9]+[ap]m - [0-9]+:[0-9]+[ap]m/.test(str)) return null;
 
-  return str
-}
+  return str;
+};
 
 /**
  * Attempts to extract date from playlist title string.
@@ -56,59 +54,64 @@ const cleanDate = (str: string) => {
  * @param referenceDate Used for relative dates.
  */
 export const parseDate = (str: string, referenceDate?: Date) => {
-  const cleanStr = cleanDate(str)
-  return cleanStr ? chrono.parseDate(cleanStr, referenceDate) : null
-}
+  const cleanStr = cleanDate(str);
+  return cleanStr ? chrono.parseDate(cleanStr, referenceDate) : null;
+};
 
 /**
  * Extracts data from archive page HTML.
  * @param html Archive page HTML
  */
 export const extractData = (html: string, referenceDate: Date) => {
-  const result: ArchivePlaylist[] = []
+  const result: ArchivePlaylist[] = [];
 
-  const $ = cheerioLoad(html)
-  const $lis = $('li')
+  const $ = cheerioLoad(html);
+  const $lis = $("li");
 
-  $lis.toArray().forEach(li => {
-    const $li = $(li)
-    const title = $li.find('.description > h3').text().trim()
-    const tracklistUrl = $li.find('.description > h3 > a').attr('href') ?? ''
-    const teaserText = $li.find('.teaser-text').text().trim()
+  $lis.toArray().forEach((li) => {
+    const $li = $(li);
+    const title = $li.find(".description > h3").text().trim();
+    const tracklistUrl = $li.find(".description > h3 > a").attr("href") ?? "";
+    const teaserText = $li.find(".teaser-text").text().trim();
 
-    const timeslot =
-      title.toLowerCase().includes('night') ? 'night' :
-      title.toLowerCase().includes('morning') ? 'morning' : undefined
+    const timeslot = title.toLowerCase().includes("night")
+      ? "night"
+      : title.toLowerCase().includes("morning")
+        ? "morning"
+        : undefined;
 
-    const special = /am|pm$/gi.test(teaserText) ? null : teaserText
+    const special = /am|pm$/gi.test(teaserText) ? null : teaserText;
 
-    const date = parseDate(title, referenceDate)
+    const date = parseDate(title, referenceDate);
 
-    if (!date)
-      return console.error(`No date found for playlist "${title}"`)
+    if (!date) return console.error(`No date found for playlist "${title}"`);
 
     result.push({
       title,
-      url: tracklistUrl.startsWith('https://www.abc.net.au/') ? tracklistUrl : 'https://www.abc.net.au' + tracklistUrl,
+      url: tracklistUrl.startsWith("https://www.abc.net.au/")
+        ? tracklistUrl
+        : "https://www.abc.net.au" + tracklistUrl,
       special,
       timeslot,
-      date
-    })
-  })
+      date,
+    });
+  });
 
-  return result
-}
+  return result;
+};
 
 /**
  * Scrapes data from specified year and month from RAGE archive webpage.
  * @param year Year
  * @param month Month
  */
-export const scrapeMonth = async (year: number, month: number): Promise<ArchivePlaylist[]> => {
-  const html = await getArchiveHTML(year, month)
+export const scrapeMonth = async (
+  year: number,
+  month: number,
+): Promise<ArchivePlaylist[]> => {
+  const html = await getArchiveHTML(year, month);
 
-  if (!html.trim())
-    return []
+  if (!html.trim()) return [];
 
-  return extractData(html, new Date(year, month - 1, 1, 0, 0, 0, 0))
-}
+  return extractData(html, new Date(year, month - 1, 1, 0, 0, 0, 0));
+};
