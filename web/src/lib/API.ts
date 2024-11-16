@@ -1,7 +1,7 @@
 import { SourceInfo } from "../Types"
 
 //const baseUrl = 'http://localhost:8787/api/' // Default local dev url of ../api project
-const baseUrl = 'https://rageagain.pjgalbraith.workers.dev/api/' // Must have trailing slash
+const baseUrl = 'https://api.ragereplay.com/api/' // Must have trailing slash
 
 export const getTrackSources = (artist: string, song: string): Promise<SourceInfo[]> => {
   return new Promise((resolve, reject) => {

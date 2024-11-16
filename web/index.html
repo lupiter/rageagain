@@ -2,16 +2,16 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>RAGEagain</title>
+  <title>Rage Replay</title>
 
   <meta name="description"
     content="Since 1998 rage has posted all their episode playlists online. This website combines these playlists with YouTube allowing you to travel back through time and re-experience rage's recent history.">
   <meta name="author" content="Patrick Galbraith">
 
-  <meta property="og:title" content="RAGEagain" />
-  <meta property="og:url" content="https://www.rageagain.com" />
-  <meta property="og:site_name" content="RAGEagain" />
-  <meta property="og:image" content="https://www.rageagain.com/static/img/fbthumb.jpg" />
+  <meta property="og:title" content="Rage Replay" />
+  <meta property="og:url" content="https://ragereplay.com" />
+  <meta property="og:site_name" content="Rage Replay" />
+  <meta property="og:image" content="https://ragereplay.com/static/img/fbthumb.jpg" />
 
   <link href="./static/css/index.css" rel="stylesheet">
 
@@ -36,7 +36,7 @@
           src="static/img/channel-btn.png" /></a>
       <a href="javascript:void(0)" class="active now-playing-button" rel="tooltip" title="now playing"
         data-placement="bottom"><img src="static/img/now-playing-btn.png" /></a>
-      <a href="#about-modal" data-toggle="modal" class="add-channel-button" rel="tooltip" title="about rageagain"
+      <a href="#about-modal" data-toggle="modal" class="add-channel-button" rel="tooltip" title="about ragereplay"
         data-placement="bottom"><img src="static/img/about-btn.png" /></a>
     </div>
     <div id="nav-center">
@@ -99,9 +99,10 @@
   <div class="modal hide fade" id="about-modal" role="dialog" aria-hidden="true">
     <div class="modal-header">
       <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-      <h3>RAGEagain</h3>
+      <h3>Rage Replay</h3>
     </div>
     <div class="modal-body">
+      <p>Based on <a href="https://www.rageagain.com/">RAGEAgain</a></p>
       <p><a href="http://www.abc.net.au/rage" target="_blank">Rage</a> is a popular all-night Australian music video
         program broadcast on ABC1 on Friday nights, Saturday mornings and Saturday nights. It was first screened on the
         weekend of Friday, 17 April 1987.</p>
@@ -117,7 +118,8 @@
       <p>
         <strong>Playlists:</strong>
         <span data-playlist-count>loading...</span><br><br>
-        <a href="https://github.com/patrickgalbraith/rageagain/" target="_blank">View project on Github</a>
+        <a href="https://github.com/patrickgalbraith/rageagain/" target="_blank">View <em>original</em> project on Github</a>
+        <a href="https://github.com/lupiter/rageagain/" target="_blank">View this project on Github</a>
       </p>
       <br>
       <div style="float:left;">
@@ -129,32 +131,13 @@
         <span class='st_email_large' displayText='Email'></span>
       </div>
       <div style="float:right; text-align: right">
-        <a href="http://www.pjgalbraith.com" target="_blank"><img src="static/img/sig.png" title="Created by Patrick Galbraith"
-            alt="Created by Patrick Galbraith" /></a><br>
-        <span style="font-size:10px; margin-right: 5px"><a href="http://www.pjgalbraith.com">VIEW MY OTHER
-            WORKS</a></span>
+        Original by <a href="http://www.pjgalbraith.com" target="_blank">Patrick Galbraith</a>
       </div>
     </div>
     <div class="modal-footer">
       <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
     </div>
   </div>
-
-  <!-- =============== -->
-  <!--     SCRIPTS     -->
-
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-34407646-1']);
-    _gaq.push(['_setDomainName', 'rageagain.com']);
-    _gaq.push(['_trackPageview']);
-
-    (function () {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
 
   <script>
     var $buoop = {required:{e:-4,f:-3,o:-3,s:-1,c:-3},insecure:true,unsupported:true,api:2020.12 };
