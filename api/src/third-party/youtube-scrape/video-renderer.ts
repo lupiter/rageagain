@@ -1,5 +1,4 @@
-import { Uploader } from '../youtube-scrape.js'
-import { comb, NavigationEndpoint } from './yt-types.js'
+import { comb, NavigationEndpoint, Uploader } from './yt-types.js'
 
 export interface VideoRenderer {
   videoId: string
