@@ -94,7 +94,7 @@ export async function youtube({
     }
 
     return response
-  } else {
+  } else if (query) {
     let url = `https://www.youtube.com/results?q=${encodeURIComponent(query)}`
 
     let resp = await fetch(url)
