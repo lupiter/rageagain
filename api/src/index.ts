@@ -1,4 +1,4 @@
-import { handleRequest } from './handler'
+import { handleRequest } from './handler.js'
 
 export default {
   async fetch(request): Promise<Response> {
