@@ -143,6 +143,7 @@ export async function youtube({
 
     return response
   }
+  return response
 }
 
 interface Content {

@@ -6,14 +6,15 @@ import {
   MusicVideoProvider,
   MusicVideoProviderSource,
 } from '../types.js'
+import { Env } from '../types.js'
 
-const search = async (query: string): Promise<scraper.Response> => {
-  const cachedResponse = await cache.get(query)
+const search = async (query: string, env: Env): Promise<scraper.Response> => {
+  const cachedResponse = await cache.get(query, env)
   if (cachedResponse) return cachedResponse.data
 
   const response = await scraper.youtube({ query })
   if (response && response.results && response.results.length)
-    await cache.set(query, response)
+    await cache.set(query, response, env)
 
   return response
 }
@@ -21,10 +22,11 @@ const search = async (query: string): Promise<scraper.Response> => {
 const provider: MusicVideoProvider = async (
   artist: string,
   song: string,
+  env: Env,
 ): Promise<MusicVideoInfo[]> => {
   const finalResult: MusicVideoInfo[] = []
   const query = `${artist} - ${song} music video`
-  const response = await search(query)
+  const response = await search(query, env)
 
   response.results.forEach((result) => {
     if (!result.video) return

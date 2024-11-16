@@ -1,5 +1,6 @@
 import getYoutubeVideos from './lib/youtubeProvider.js'
 import getDataFromGithub from './lib/githubDataProvider.js'
+import { Env } from './types.js'
 
 const allowedOrigins = [
   /^https?:\/\/(www\.)?ragereplay.com$/,
@@ -31,7 +32,7 @@ function getCorsHeaders(request: Request): Headers {
 }
 
 async function handleMusicVideoSearchRequest(
-  request: Request,
+  request: Request, env: Env,
 ): Promise<Response> {
   const { searchParams } = new URL(request.url)
 
@@ -40,14 +41,14 @@ async function handleMusicVideoSearchRequest(
 
   if (!artist || !song) return new Response('Missing param', { status: 400 })
 
-  const videoInfoList = await getYoutubeVideos(artist, song)
+  const videoInfoList = await getYoutubeVideos(artist, song, env)
 
   return new Response(JSON.stringify(videoInfoList), {
     headers: getCorsHeaders(request),
   })
 }
 
-async function handleDataRequest(request: Request): Promise<Response> {
+async function handleDataRequest(request: Request, env: Env): Promise<Response> {
   const { pathname } = new URL(request.url)
   const pathParts = pathname.replace('..', '').match(/\/data\/(.*)/)
 
@@ -55,7 +56,7 @@ async function handleDataRequest(request: Request): Promise<Response> {
     return new Response('Empty data path param', { status: 400 })
 
   try {
-    const data = await getDataFromGithub(pathParts[0])
+    const data = await getDataFromGithub(pathParts[0], env)
 
     return new Response(data, {
       headers: getCorsHeaders(request),
@@ -96,7 +97,7 @@ function handleOptionsRequest(request: Request): Response {
   })
 }
 
-export async function handleRequest(request: Request): Promise<Response> {
+export async function handleRequest(request: Request, env: Env): Promise<Response> {
   try {
     if (request.method === 'OPTIONS') {
       // Handle CORS preflight requests
@@ -105,9 +106,9 @@ export async function handleRequest(request: Request): Promise<Response> {
       const { pathname } = new URL(request.url)
 
       if (/\/api\/musicvideosearch\/?/.test(pathname)) {
-        return await handleMusicVideoSearchRequest(request)
+        return await handleMusicVideoSearchRequest(request, env)
       } else if (/\/api\/data\/?/.test(pathname)) {
-        return await handleDataRequest(request)
+        return await handleDataRequest(request, env)
       } else {
         return new Response(null, {
           status: 404,

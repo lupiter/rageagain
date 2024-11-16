@@ -1,4 +1,5 @@
 import type { Response } from '../third-party/youtube-scrape/youtube-scrape.js'
+import { Env } from '../types.js'
 
 export type CachedResponse = {
   v: number // Version
@@ -11,19 +12,19 @@ export type CachedResponse = {
  * @param key Storage key
  * @param data Data object
  */
-export const set = (key: string, data: Response): Promise<void> => {
+export const set = (key: string, data: Response, env: Env): Promise<void> => {
   const wrappedData = {
     v: 1,
     ts: Date.now(),
     data,
   }
 
-  if (typeof YOUTUBE_REQUESTS === 'undefined') {
+  if (typeof env.YOUTUBE_REQUESTS === 'undefined') {
     console.log('KV Namespace YOUTUBE_REQUESTS is not registered')
     return Promise.resolve()
   }
 
-  return YOUTUBE_REQUESTS.put(key, JSON.stringify(wrappedData))
+  return env.YOUTUBE_REQUESTS.put(key, JSON.stringify(wrappedData))
 }
 
 /**
@@ -31,11 +32,11 @@ export const set = (key: string, data: Response): Promise<void> => {
  * or returns null if not found.
  * @param key Storage key
  */
-export const get = (key: string): Promise<CachedResponse | null> => {
-  if (typeof YOUTUBE_REQUESTS === 'undefined') {
+export const get = (key: string, env: Env): Promise<CachedResponse | null> => {
+  if (typeof env.YOUTUBE_REQUESTS === 'undefined') {
     console.log('KV Namespace YOUTUBE_REQUESTS is not registered')
     return Promise.resolve(null)
   }
 
-  return YOUTUBE_REQUESTS.get<CachedResponse>(key, 'json')
+  return env.YOUTUBE_REQUESTS.get<CachedResponse>(key, 'json')
 }
