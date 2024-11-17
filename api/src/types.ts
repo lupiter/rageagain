@@ -1,6 +1,7 @@
 export enum MusicVideoProviderSource {
   imvdb = 'imvdb',
   ytscraper = 'ytscraper',
+  ytapi = 'ytapi',
 }
 
 export enum MusicVideoHost {
@@ -22,5 +23,7 @@ export type MusicVideoProvider = (
 
 export interface Env {
   YOUTUBE_REQUESTS: KVNamespace
+  YOUTUBE_API_REQUESTS: KVNamespace
   GITHUB_DATA: KVNamespace
+  GOOGLE_API_KEY: string
 }

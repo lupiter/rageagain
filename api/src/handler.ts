@@ -1,4 +1,4 @@
-import getYoutubeVideos from './lib/youtubeProvider.js'
+import getYoutubeVideos from './lib/youtube-api/provider.js'
 import getDataFromGithub from './lib/githubDataProvider.js'
 import { Env } from './types.js'
 
