@@ -1,7 +1,8 @@
+import { Env } from './types.js'
 import { handleRequest } from './handler.js'
 
 export default {
-  async fetch(request): Promise<Response> {
-    return handleRequest(request);
-  }
-} satisfies ExportedHandler;
+  async fetch(request, env, ctx): Promise<Response> {
+    return handleRequest(request, env)
+  },
+} satisfies ExportedHandler<Env>
