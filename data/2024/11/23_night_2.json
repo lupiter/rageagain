@@ -1,0 +1,669 @@
+{
+  "title": "Saturday night 23 November 2024 on ABC TV",
+  "special": null,
+  "timeslot": "night",
+  "date": "2024-11-23",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-23-november-2024-on-abc-tv/104637918",
+  "tracks": [
+    {
+      "artist": "ICEHOUSE",
+      "song": "Electric Blue",
+      "label": "Festival",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE EASYBEATS",
+      "song": "Sorry",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE BEE GEES",
+      "song": "Spicks and Specks",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE ANGELS",
+      "song": "Marseilles (Live on GTK)",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DADDY COOL",
+      "song": "This Day Tonight, December 1971",
+      "label": null,
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DADDY COOL",
+      "song": "Come Back Again (Live at Ridgetop Pop Festival, 1974)",
+      "label": null,
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "It's A Long Way To The Top",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Saturday Night",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Bow River",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Saturday Night",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Heroes",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Space Oddity",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "QUEEN ft. DAVID BOWIE",
+      "song": "Under Pressure",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DIVINYLS",
+      "song": "Pleasure and Pain",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DIVINYLS",
+      "song": "Boys In Town",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE PRETENDERS",
+      "song": "Talk Of The Town",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "Pump It Up",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "(I Don't Want To Go To) Chelsea",
+      "label": "Shock",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BABY ANIMALS",
+      "song": "One Word",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HALL and OATES",
+      "song": "Kiss On My List",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WINGS",
+      "song": "Maybe I'm Amazed",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Running Up That Hill",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Man With A Child In His Eyes",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Babooshka",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE KINKS",
+      "song": "You Really Got Me",
+      "label": "Fest/Mush",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE KINKS",
+      "song": "Waterloo Sunset",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Lust For Life",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Games Without Frontiers",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Biko",
+      "label": "Charisma",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SUPERTRAMP",
+      "song": "Dreamer",
+      "label": "A and M Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "T REX",
+      "song": "Get It On",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SIMPLE MINDS",
+      "song": "Love Song",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Controversy",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Sign O' The Times",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Psycho Killer",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Once In A Lifetime",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "XTC",
+      "song": "Senses Working Overtime",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "XTC",
+      "song": "Are You Receiving Me?",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BOOM CRASH OPERA",
+      "song": "Great Wall",
+      "label": "WEA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JONI MITCHELL",
+      "song": "A Case Of You (Live In London, 1983)",
+      "label": "Reprise Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LOU REED",
+      "song": "Perfect Day",
+      "label": "RCA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PINK FLOYD - LIVE",
+      "song": "Comfortably Numb",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Rapture",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Union City Blue",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Picture This",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BOB MARLEY",
+      "song": "Waiting In Vain",
+      "label": "Fest/Mush",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BOB MARLEY",
+      "song": "No Woman No Cry",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BOB MARLEY",
+      "song": "Exodus",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TOM PETTY and THE HEARTBREAKERS",
+      "song": "Don't Come Around Here",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TOM PETTY and THE HEARTBREAKERS",
+      "song": "Learning To Fly",
+      "label": "MCA",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JET",
+      "song": "Look What You've Done",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FLOWERS",
+      "song": "Can't Help Myself",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FLOWERS",
+      "song": "We Can Get Together",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FLOWERS",
+      "song": "Walls",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FLOWERS",
+      "song": "Icehouse",
+      "label": "Chrysalis",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Great Southern Land",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Hey Little Girl",
+      "label": "Chrysalis",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Glam",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Street Cafe",
+      "label": "Chrysalis",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Taking The Town",
+      "label": "Chrysalis",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Don't Believe Anymore",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Dusty Pages",
+      "label": "Chrysalis",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "No Promises",
+      "label": "Chrysalis",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Cross The Border",
+      "label": "Chrysalis",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Mr Big",
+      "label": "Festival",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Crazy",
+      "label": "Chrysalis",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Man Of Colours",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Love In Motion",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Touch The Fire",
+      "label": "Chrysalis",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Miss Divine",
+      "label": "Diva Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Anything Is Possible",
+      "label": "Diva Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Satellite",
+      "label": "Diva Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ICEHOUSE - LIVE ON COUNTDOWN",
+      "song": "Baby You're So Strange",
+      "label": "Chrysalis",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ICEHOUSE - LIVE ON COUNTDOWN",
+      "song": "Can't Help Myself",
+      "label": "Chrysalis",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "IVA DAVIES from ICEHOUSE",
+      "song": "Interviewed on Countdown Revolution, 1989",
+      "label": "ABC",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Touch The Fire (On Countdown Revolution, 1989)",
+      "label": "Festival",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "YUKIHIRO TAKAHASHI",
+      "song": "Walking To The Beat",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Can't Get You Out Of My Head",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MAGNETS",
+      "song": "Speak",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LIME CORDIALE",
+      "song": "When I'm Losing It",
+      "label": "Chugg Music",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LE SHIV",
+      "song": "I'm Fine, I've Said Too Much, But How Are You?",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SKELETEN",
+      "song": "Love Enemy",
+      "label": "Astral People",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PARTY DOZEN",
+      "song": "Coup De Gronk",
+      "label": "GRUPO",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LAST DINOSAURS",
+      "song": "Paranoia Paradise",
+      "label": "Los Dinos / Nettwerk",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROYEL OTIS",
+      "song": "Heading For The Door",
+      "label": "Ourness",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DR. SURE'S UNUSUAL PRACTICE",
+      "song": "Celebration",
+      "label": "Marthouse Records / Ertse Theke Tontraeger",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MALLRAT",
+      "song": "Hocus Pocus",
+      "label": "Dew Process",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "OLYMPIA",
+      "song": "Everybody Leaves",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KING STINGRAY",
+      "song": "Cat 5 (Cyclone)",
+      "label": "Cooking Vinyl Australia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GUM and AMBROSE KENNY-SMITH",
+      "song": "Dud",
+      "label": "doom)",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ALEKSIAH",
+      "song": "24",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HACHIKU",
+      "song": "Tell Your Friends You Love Them",
+      "label": "Marathon",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BENEE",
+      "song": "Animal",
+      "label": "Republic Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TYLER, THE CREATOR",
+      "song": "Noid (censored version)",
+      "label": "Columbia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BLISS N ESO",
+      "song": "Feeling Fly (clean version)",
+      "label": "Flight Deck",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BARLEY PASSABLE",
+      "song": "Sell My Soul",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DUST",
+      "song": "New High",
+      "label": "Kanine Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ANNA LUNOE",
+      "song": "The Seed",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TEENAGE DADS",
+      "song": "Boarding Pass",
+      "label": "Chugg Music",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Night Or Day",
+      "label": "Domino",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KIM DEAL",
+      "song": "Nobody Loves You More",
+      "label": "4AD",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CHARLIE NEEDS BRACES",
+      "song": "This Land",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PETER BIBBY",
+      "song": "Stinking Rich (clean version)",
+      "label": "Spinning Top",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GRENTPEREZ",
+      "song": "2DK (clean version)",
+      "label": "AWAL",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE MAES",
+      "song": "Loretta",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HELLCAT SPEEDRACER",
+      "song": "The One",
+      "label": "Island Australia",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "Bug (censored version)",
+      "label": "XL",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE TERRYS",
+      "song": "Ziggy's Mine",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MEMPHIS LK and DJ BORING",
+      "song": "Don't Touch Me Baby",
+      "label": "Dot Dash",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HEADWRECK",
+      "song": "LOW BLOW! (clean version)",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

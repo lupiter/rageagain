@@ -33137,6 +33137,55 @@
       "date": "2024-11-21",
       "path": "2024/11/21_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-21-november-2024-on-abc-entertains/104615342"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2024-11-22",
+      "path": "2024/11/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-22-november-2024-on-abc-entertains/104637908"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2024-11-22",
+      "path": "2024/11/22_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-22-november-2024-on-abc-tv/104637906"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2024-11-23",
+      "path": "2024/11/23_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-23-november-2024-on-abc-tv/104637916"
+    },
+    {
+      "special": "Countdown special",
+      "timeslot": "night",
+      "date": "2024-11-23",
+      "path": "2024/11/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-23-november-2024-on-abc-entertains/104637920"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2024-11-23",
+      "path": "2024/11/23_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-23-november-2024-on-abc-tv/104637918"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2024-11-24",
+      "path": "2024/11/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-24-november-2024-on-abc-entertains/104637924"
+    },
+    {
+      "special": "The VAULT Oz Pop + Rock '92",
+      "timeslot": "night",
+      "date": "2024-11-24",
+      "path": "2024/11/24_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-24-november-2024-on-abc-tv/104637922"
     }
   ]
 }
