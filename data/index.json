@@ -14703,111 +14703,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2015-05-01",
-      "path": "2015/05/01_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4227802.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2015-05-02",
-      "path": "2015/05/02_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4227827.htm"
-    },
-    {
-      "special": "Millencolin",
-      "timeslot": "night",
-      "date": "2015-05-02",
-      "path": "2015/05/02_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4227815.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2015-05-08",
-      "path": "2015/05/08_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4232190.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2015-05-09",
-      "path": "2015/05/09_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4232388.htm"
-    },
-    {
-      "special": "Glass Animals",
-      "timeslot": "night",
-      "date": "2015-05-09",
-      "path": "2015/05/09_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4227815.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2015-05-15",
-      "path": "2015/05/15_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4236576.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2015-05-16",
-      "path": "2015/05/16_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4236591.htm"
-    },
-    {
-      "special": "Spandau Ballet",
-      "timeslot": "night",
-      "date": "2015-05-16",
-      "path": "2015/05/16_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4236585.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2015-05-22",
-      "path": "2015/05/22_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4240982.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2015-05-23",
-      "path": "2015/05/23_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4240984.htm"
-    },
-    {
-      "special": "Jebediah",
-      "timeslot": "night",
-      "date": "2015-05-23",
-      "path": "2015/05/23_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4240988.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2015-05-29",
-      "path": "2015/05/29_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4244821.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2015-05-30",
-      "path": "2015/05/30_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4245254.htm"
-    },
-    {
-      "special": "A$AP Ferg",
-      "timeslot": "night",
-      "date": "2015-05-30",
-      "path": "2015/05/30_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4245247.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2015-06-05",
       "path": "2015/06/05_night.json",
       "url": "http://www.abc.net.au/rage/archive/s4249912.htm"
@@ -15077,6 +14972,111 @@
       "date": "2015-08-29",
       "path": "2015/08/29_night.json",
       "url": "http://www.abc.net.au/rage/archive/s4302165.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2015-05-01",
+      "path": "2015/05/01_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4227802.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2015-05-02",
+      "path": "2015/05/02_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4227827.htm"
+    },
+    {
+      "special": "Millencolin",
+      "timeslot": "night",
+      "date": "2015-05-02",
+      "path": "2015/05/02_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4227815.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2015-05-08",
+      "path": "2015/05/08_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4232190.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2015-05-09",
+      "path": "2015/05/09_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4232388.htm"
+    },
+    {
+      "special": "Glass Animals",
+      "timeslot": "night",
+      "date": "2015-05-09",
+      "path": "2015/05/09_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4227815.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2015-05-15",
+      "path": "2015/05/15_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4236576.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2015-05-16",
+      "path": "2015/05/16_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4236591.htm"
+    },
+    {
+      "special": "Spandau Ballet",
+      "timeslot": "night",
+      "date": "2015-05-16",
+      "path": "2015/05/16_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4236585.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2015-05-22",
+      "path": "2015/05/22_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4240982.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2015-05-23",
+      "path": "2015/05/23_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4240984.htm"
+    },
+    {
+      "special": "Jebediah",
+      "timeslot": "night",
+      "date": "2015-05-23",
+      "path": "2015/05/23_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4240988.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2015-05-29",
+      "path": "2015/05/29_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4244821.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2015-05-30",
+      "path": "2015/05/30_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4245254.htm"
+    },
+    {
+      "special": "A$AP Ferg",
+      "timeslot": "night",
+      "date": "2015-05-30",
+      "path": "2015/05/30_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4245247.htm"
     },
     {
       "special": null,
