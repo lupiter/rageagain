@@ -1,0 +1,27 @@
+{
+  "title": "Saturday night 30 November 2024 on ABC Entertains",
+  "special": "Countdown special",
+  "timeslot": "night",
+  "date": "2024-11-30",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-30-november-2024-on-abc-entertains/104664084",
+  "tracks": [
+    {
+      "artist": "COUNTDOWN",
+      "song": "September 3, 1978 (166: Daryl Cotton)",
+      "label": "ABC",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "DARRYL COTTON",
+      "song": "Nice Girls (Live On Countdown)",
+      "label": "Rage",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "DARRYL COTTON",
+      "song": "Little Red Book (Live On Countdown)",
+      "label": "Rage",
+      "timeslot": "23:00:00"
+    }
+  ]
+}
