@@ -33270,6 +33270,41 @@
       "date": "2024-12-01",
       "path": "2024/12/01_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-1-december-2024-on-abc-tv/104664086"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2024-12-02",
+      "path": "2024/12/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-2-december-2024-on-abc-entertains/104673016"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2024-12-02",
+      "path": "2024/12/02_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-2-december-2024-on-abc-tv/104673014"
+    },
+    {
+      "special": "Ausmusic Month special",
+      "timeslot": "night",
+      "date": "2024-12-03",
+      "path": "2024/12/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-3-december-2024-on-abc-entertains/104673018"
+    },
+    {
+      "special": "The VAULT Wheatley Records",
+      "timeslot": "night",
+      "date": "2024-12-04",
+      "path": "2024/12/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-4-december-2024-on-abc-entertains/104673020"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2024-12-05",
+      "path": "2024/12/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-5-december-2024-on-abc-entertains/104673022"
     }
   ]
 }

@@ -1,0 +1,87 @@
+{
+  "title": "Monday night 2 December 2024 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2024-12-02",
+  "url": "https://www.abc.net.au/rage/playlist/monday-night-2-december-2024-on-abc-entertains/104673016",
+  "tracks": [
+    {
+      "artist": "SARAH BLASKO",
+      "song": "All I Want",
+      "label": "Dew Process/UMA",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Once In A Lifetime",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SADE",
+      "song": "Your Love Is King",
+      "label": "Epic",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "OLIVIA NEWTON JOHN",
+      "song": "Magic",
+      "label": "Festival / Mushroom",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SIMPLY RED",
+      "song": "Holding Back The Years",
+      "label": "WEA",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PHIL COLLINS",
+      "song": "Against All Odds",
+      "label": "Atlantic",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PAUL MCCARTNEY",
+      "song": "So Bad",
+      "label": "Parlophone",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "The Power And The Passion",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "GOLDFRAPP",
+      "song": "Utopia",
+      "label": "Fest/Mush",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "FEVER RAY",
+      "song": "When I Grow Up",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "YOUTH GROUP",
+      "song": "Skeleton Jar",
+      "label": "Ivy League/Slanted",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PETER BJORN and JOHN",
+      "song": "Young Folks",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "The Way",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    }
+  ]
+}
