@@ -33354,6 +33354,41 @@
       "date": "2024-12-08",
       "path": "2024/12/08_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-8-december-2024-on-abc-tv/104694244"
+    },
+    {
+      "special": "rage Mullet special [REPEAT]",
+      "timeslot": "night",
+      "date": "2024-12-09",
+      "path": "2024/12/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-9-december-2024-on-abc-entertains/104704340"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2024-12-09",
+      "path": "2024/12/09_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-9-december-2024-on-abc-tv/104704338"
+    },
+    {
+      "special": "rage Mullet special: Party In The Back",
+      "timeslot": "night",
+      "date": "2024-12-10",
+      "path": "2024/12/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-10-december-2024-on-abc-entertains/104704342"
+    },
+    {
+      "special": "The VAULT 1984 Soundtrack",
+      "timeslot": "night",
+      "date": "2024-12-11",
+      "path": "2024/12/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-11-december-2024-on-abc-entertains/104704344"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2024-12-12",
+      "path": "2024/12/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-12-december-2024-on-abc-entertains/104704346"
     }
   ]
 }
