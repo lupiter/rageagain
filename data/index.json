@@ -33389,6 +33389,55 @@
       "date": "2024-12-12",
       "path": "2024/12/12_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-12-december-2024-on-abc-entertains/104704346"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2024-12-13",
+      "path": "2024/12/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-13-december-2024-on-abc-entertains/104722816"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2024-12-13",
+      "path": "2024/12/13_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-13-december-2024-on-abc-tv/104722812"
+    },
+    {
+      "special": "Charts, The VAULT, Best New Music Videos, rage FIFTY 2024 Preview Special",
+      "timeslot": "morning",
+      "date": "2024-12-14",
+      "path": "2024/12/14_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-14-december-2024-on-abc-tv/104722818"
+    },
+    {
+      "special": "rage Progeny Special",
+      "timeslot": "night",
+      "date": "2024-12-14",
+      "path": "2024/12/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-14-december-2024-on-abc-entertains/104722822"
+    },
+    {
+      "special": "rage FIFTY 2024 Special, Best of the rest Special",
+      "timeslot": "night",
+      "date": "2024-12-14",
+      "path": "2024/12/14_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-14-december-2024-on-abc-tv/104722820"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2024-12-15",
+      "path": "2024/12/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-15-december-2024-on-abc-entertains/104722824"
+    },
+    {
+      "special": "The VAULT 1998 Dance",
+      "timeslot": "night",
+      "date": "2024-12-15",
+      "path": "2024/12/15_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-15-december-2024-on-abc-tv/104722814"
     }
   ]
 }
