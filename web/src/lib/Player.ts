@@ -51,27 +51,36 @@ export default class Player {
   }
 
   onPlayerStateChange = (event: YT.OnStateChangeEvent) => {
-    console.log('Player state change', event.data)
+    switch (event.data) {
+      case YT.PlayerState.PLAYING:
+        console.log("Player state change: playing");
+        this.startPlayhead()
+        this.emitter.emit('playing', {event})
+        break;
+      case YT.PlayerState.ENDED:
+        console.log("Player state change: ended");
+        this.stopPlayhead()
+        this.emitter.emit('ended', {event})
+        break;
+      case YT.PlayerState.PAUSED:
+        console.log("Player state change: paused");
+        this.stopPlayhead()
+        this.emitter.emit('paused', {event})
+        break;
+      case YT.PlayerState.BUFFERING:
+        console.log("Player state change: buffering");
+        this.stopPlayhead()
+        this.emitter.emit('buffering', {event})
+        break;
+      case YT.PlayerState.CUED:
+        console.log("Player state change: cued");
+        this.emitter.emit('cued', {event})
+        break;
+      case YT.PlayerState.UNSTARTED:
+        console.log("Player state change: unstarted");
 
-    /////// PLAYING ///////
-    if (event.data == YT.PlayerState.PLAYING) {
-      this.startPlayhead()
-      this.emitter.emit('playing', {event})
-      /////// ENDED ///////
-    } else if (event.data == YT.PlayerState.ENDED) {
-      this.stopPlayhead()
-      this.emitter.emit('ended', {event})
-      /////// PAUSED ///////
-    } else if (event.data == YT.PlayerState.PAUSED) {
-      this.stopPlayhead()
-      this.emitter.emit('paused', {event})
-      /////// BUFFERING ///////
-    } else if (event.data == YT.PlayerState.BUFFERING) {
-      this.stopPlayhead()
-      this.emitter.emit('buffering', {event})
-      /////// CUED ///////
-    } else if (event.data == YT.PlayerState.CUED) {
-      this.emitter.emit('cued', {event})
+      default:
+        break;
     }
   }
 
