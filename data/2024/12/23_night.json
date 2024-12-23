@@ -1,0 +1,87 @@
+{
+  "title": "Monday night 23 December 2024 on ABC Entertains",
+  "special": "Best of the Guests 2024",
+  "timeslot": "night",
+  "date": "2024-12-23",
+  "url": "https://www.abc.net.au/rage/playlist/playlist-monday-night-23-december-2024-on-abc-entertainstemplate/104735558",
+  "tracks": [
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Let's Dance",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SUPERGRASS",
+      "song": "Pumping On Your Stereo",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "TOWNES VAN ZANDT",
+      "song": "Waiting Around To Die",
+      "label": null,
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "OLYMPIA",
+      "song": "Smoke Signals",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BARKAA",
+      "song": "For My Tittas",
+      "label": "Bad Apples Music",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DOJA CAT",
+      "song": "Attention",
+      "label": "RCA",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "U Should Not Be Doing That",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Bow River",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "CHRISTINE ANU",
+      "song": "My Island Home",
+      "label": "Mushroom",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Since I Left You",
+      "label": "Modular",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SHAKIRA",
+      "song": "Whenever, Wherever",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EMILY WURRAMARA ft. TASMAN KEITH",
+      "song": "Lordy Lordy (clean version)",
+      "label": "ABC Music",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE ANGELS",
+      "song": "Marseilles (Live on GTK)",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    }
+  ]
+}

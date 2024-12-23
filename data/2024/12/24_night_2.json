@@ -1,0 +1,51 @@
+{
+  "title": "Tuesday night 24 December 2024 on ABC TV",
+  "special": "Christmas Special",
+  "timeslot": "night",
+  "date": "2024-12-24",
+  "url": "https://www.abc.net.au/rage/playlist/tuesday-night-24-december-2024-on-abc-tv/104735506",
+  "tracks": [
+    {
+      "artist": "THE BEACH BOYS",
+      "song": "Little Saint Nick",
+      "label": "Capital Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Must Be Santa",
+      "label": "Columbia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE and BING CROSBY",
+      "song": "Little Drummer Boy",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PAUL MCCARTNEY",
+      "song": "Wonderful Christmastime",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "How To Make Gravy",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "All I Want For Christmas Is You",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "WHAM!",
+      "song": "Last Christmas",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    }
+  ]
+}
