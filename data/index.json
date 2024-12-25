@@ -33552,6 +33552,27 @@
       "url": "https://www.abc.net.au/rage/playlist/tuesday-night-24-december-2024-on-abc-tv/104735506"
     },
     {
+      "special": "Christmas Special",
+      "timeslot": "morning",
+      "date": "2024-12-25",
+      "path": "2024/12/25_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-morning-25-december-2024-on-abc-tv/104735508"
+    },
+    {
+      "special": "Christmas Special",
+      "timeslot": "night",
+      "date": "2024-12-25",
+      "path": "2024/12/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-25-december-2024-on-abc-entertains/104735566"
+    },
+    {
+      "special": "Christmas Special",
+      "timeslot": "night",
+      "date": "2024-12-25",
+      "path": "2024/12/25_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-25-december-2024-on-abc-tv/104736890"
+    },
+    {
       "special": "The VAULT Evan Bernard",
       "timeslot": "night",
       "date": "2024-12-26",
