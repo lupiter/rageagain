@@ -1,0 +1,87 @@
+{
+  "title": "Monday night 30 December 2024 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2024-12-30",
+  "url": "https://www.abc.net.au/rage/playlist/monday-night-30-december-2024-on-abc-entertains/104735766",
+  "tracks": [
+    {
+      "artist": "GARBAGE",
+      "song": "Stupid Girl",
+      "label": "Mushroom",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "JURASSIC 5",
+      "song": "What's Golden",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "NENEH CHERRY",
+      "song": "Buffalo Stance",
+      "label": "Virgin",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "Electric Feel",
+      "label": "SBME",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Hey Ya",
+      "label": "BMG",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "I Bet You Look Good On The Dancefloor",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LAURYN HILL",
+      "song": "Everything Is Everything",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SIOUXSIE and THE BANSHEES",
+      "song": "Spellbound",
+      "label": "Independent",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "The Taste Of Ink",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Doll Parts",
+      "label": "Geffen",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "AT THE DRIVE-IN",
+      "song": "One Armed Scissor",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Duality",
+      "label": "Roadrunner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SKULKER",
+      "song": "Strawberry Deluxe",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    }
+  ]
+}
