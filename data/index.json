@@ -33669,6 +33669,41 @@
       "date": "2025-01-02",
       "path": "2025/01/02_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-2-january-2025-on-abc-entertains/104735772"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-01-03",
+      "path": "2025/01/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-january-2025-on-abc-entertains/104737836"
+    },
+    {
+      "special": "Best of Features & Wild Ones",
+      "timeslot": "night",
+      "date": "2025-01-03",
+      "path": "2025/01/03_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-january-2025-on-abc-tv/104737834"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2025-01-04",
+      "path": "2025/01/04_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-4-january-2025-on-abc-tv/104737842"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-01-04",
+      "path": "2025/01/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-january-2025-on-abc-tv/104737862"
+    },
+    {
+      "special": "The VAULT Wrap Records",
+      "timeslot": "night",
+      "date": "2025-01-05",
+      "path": "2025/01/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-5-january-2025-on-abc-tv/104737870"
     }
   ]
 }
