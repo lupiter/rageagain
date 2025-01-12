@@ -13716,90 +13716,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2014-07-04",
-      "path": "2014/07/04_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4039620.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2014-07-05",
-      "path": "2014/07/05_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4039633.htm"
-    },
-    {
-      "special": "Busby Marou",
-      "timeslot": "night",
-      "date": "2014-07-05",
-      "path": "2014/07/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4039625.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-07-11",
-      "path": "2014/07/11_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4044322.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2014-07-12",
-      "path": "2014/07/12_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4044328.htm"
-    },
-    {
-      "special": "Aborted",
-      "timeslot": "night",
-      "date": "2014-07-12",
-      "path": "2014/07/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4044331.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-07-18",
-      "path": "2014/07/18_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4049259.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2014-07-19",
-      "path": "2014/07/19_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4049260.htm"
-    },
-    {
-      "special": "Irvine Welsh",
-      "timeslot": "night",
-      "date": "2014-07-19",
-      "path": "2014/07/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4049263.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-07-25",
-      "path": "2014/07/25_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4053284.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2014-07-26",
-      "path": "2014/07/26_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4053287.htm"
-    },
-    {
-      "special": "The Cameo Special",
-      "timeslot": "night",
-      "date": "2014-07-26",
-      "path": "2014/07/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4053288.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2014-06-06",
       "path": "2014/06/06_night.json",
       "url": "http://www.abc.net.au/rage/archive/s4020406.htm"
@@ -13880,6 +13796,90 @@
       "date": "2014-06-28",
       "path": "2014/06/28_night.json",
       "url": "http://www.abc.net.au/rage/archive/s4034820.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-07-04",
+      "path": "2014/07/04_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4039620.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2014-07-05",
+      "path": "2014/07/05_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4039633.htm"
+    },
+    {
+      "special": "Busby Marou",
+      "timeslot": "night",
+      "date": "2014-07-05",
+      "path": "2014/07/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4039625.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-07-11",
+      "path": "2014/07/11_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4044322.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2014-07-12",
+      "path": "2014/07/12_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4044328.htm"
+    },
+    {
+      "special": "Aborted",
+      "timeslot": "night",
+      "date": "2014-07-12",
+      "path": "2014/07/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4044331.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-07-18",
+      "path": "2014/07/18_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4049259.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2014-07-19",
+      "path": "2014/07/19_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4049260.htm"
+    },
+    {
+      "special": "Irvine Welsh",
+      "timeslot": "night",
+      "date": "2014-07-19",
+      "path": "2014/07/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4049263.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-07-25",
+      "path": "2014/07/25_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4053284.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2014-07-26",
+      "path": "2014/07/26_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4053287.htm"
+    },
+    {
+      "special": "The Cameo Special",
+      "timeslot": "night",
+      "date": "2014-07-26",
+      "path": "2014/07/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4053288.htm"
     },
     {
       "special": null,
@@ -33746,6 +33746,69 @@
       "date": "2025-01-08",
       "path": "2025/01/08_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/wednesday-night-8-january-2025-on-abc-tv/104788288"
+    },
+    {
+      "special": "rage Charts",
+      "timeslot": "night",
+      "date": "2025-01-09",
+      "path": "2025/01/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-9-january-2025-on-abc-entertains/104800422"
+    },
+    {
+      "special": "Best of Features & Wild Ones",
+      "timeslot": "night",
+      "date": "2025-01-09",
+      "path": "2025/01/09_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-9-january-2025-on-abc-tv/104800420"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-01-10",
+      "path": "2025/01/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-january-2025-on-abc-entertains/104805522"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-01-10",
+      "path": "2025/01/10_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-january-2025-on-abc-tv/104805520"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2025-01-11",
+      "path": "2025/01/11_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-11-january-2025-on-abc-tv/104735174"
+    },
+    {
+      "special": "Seattle Special",
+      "timeslot": "night",
+      "date": "2025-01-11",
+      "path": "2025/01/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-january-2025-on-abc-entertains/104805530"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-01-11",
+      "path": "2025/01/11_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-january-2025-on-abc-tv/104805526"
+    },
+    {
+      "special": "New Music Show [REPEAT]",
+      "timeslot": "night",
+      "date": "2025-01-12",
+      "path": "2025/01/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-12-january-2025-on-abc-entertains/104805550"
+    },
+    {
+      "special": "The VAULT Compass Point Studios",
+      "timeslot": "night",
+      "date": "2025-01-12",
+      "path": "2025/01/12_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-12-january-2025-on-abc-tv/104805528"
     }
   ]
 }
