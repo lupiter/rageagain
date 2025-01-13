@@ -33809,6 +33809,41 @@
       "date": "2025-01-12",
       "path": "2025/01/12_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-12-january-2025-on-abc-tv/104805528"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-01-13",
+      "path": "2025/01/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-13-january-2025-on-abc-entertains/104811332"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2025-01-13",
+      "path": "2025/01/13_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-13-january-2025-on-abc-tv/104811330"
+    },
+    {
+      "special": "rage London special",
+      "timeslot": "night",
+      "date": "2025-01-14",
+      "path": "2025/01/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-14-january-2025-on-abc-entertains/104811334"
+    },
+    {
+      "special": "The VAULT Compass Point Studios",
+      "timeslot": "night",
+      "date": "2025-01-15",
+      "path": "2025/01/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-15-january-2025-on-abc-entertains/104811336"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2025-01-16",
+      "path": "2025/01/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-16-january-2025-on-abc-entertains/104811338"
     }
   ]
 }
