@@ -33844,6 +33844,55 @@
       "date": "2025-01-16",
       "path": "2025/01/16_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-16-january-2025-on-abc-entertains/104811338"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-01-17",
+      "path": "2025/01/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-january-2025-on-abc-entertains/104826598"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-01-17",
+      "path": "2025/01/17_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-january-2025-on-abc-tv/104826596"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2025-01-18",
+      "path": "2025/01/18_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-january-2025-on-abc-tv/104826600"
+    },
+    {
+      "special": "Women Who Rock special",
+      "timeslot": "night",
+      "date": "2025-01-18",
+      "path": "2025/01/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-january-2025-on-abc-entertains/104826604"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-01-18",
+      "path": "2025/01/18_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-january-2025-on-abc-tv/104826602"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-01-19",
+      "path": "2025/01/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-january-2025-on-abc-entertains/104826608"
+    },
+    {
+      "special": "The VAULT 1998",
+      "timeslot": "night",
+      "date": "2025-01-19",
+      "path": "2025/01/19_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-january-2025-on-abc-tv/104826606"
     }
   ]
 }
