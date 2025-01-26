@@ -1,0 +1,519 @@
+{
+  "title": "Saturday night 25 January 2025 on ABC TV",
+  "special": null,
+  "timeslot": "night",
+  "date": "2025-01-25",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-january-2025-on-abc-tv/104856990",
+  "tracks": [
+    {
+      "artist": "OUTKAST",
+      "song": "Ms Jackson",
+      "label": "BMG",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Little Red Corvette",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Raspberry Beret",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Kiss",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HERBIE HANCOCK",
+      "song": "Rockit",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Bonita Applebum",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Electric Relaxation",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Can I Kick It?",
+      "label": "Jive",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Award Tour",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE PHARCYDE",
+      "song": "Drop",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NAUGHTY BY NATURE",
+      "song": "Holiday",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DR DRE and SNOOP DOGG",
+      "song": "Dre Day",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GRANDMASTER FLASH and THE FURIOUS FIVE",
+      "song": "The Message",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ICE CUBE",
+      "song": "Wicked",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DAS EFX",
+      "song": "They Want EFX",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "C.R.E.A.M.",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GEORGE CLINTON",
+      "song": "Atomic Dog",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EDDY GRANT",
+      "song": "Electric Avenue",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LL COOL J",
+      "song": "Mama Said Knock You Out",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LL COOL J",
+      "song": "Phenomenon",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "2 PAC",
+      "song": "Keep Your Head Up",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CYPRESS HILL",
+      "song": "What's Your Number",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NO DOUBT",
+      "song": "Just A Girl",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Slow",
+      "label": "Fest/Mush",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BEYONCE featuring JAY-Z",
+      "song": "Crazy In Love",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PETE ROCK and C L SMOOTH",
+      "song": "They Reminisce Over You",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "A-HA",
+      "song": "Take On Me",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BANANARAMA",
+      "song": "Cruel Summer",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE HUMAN LEAGUE",
+      "song": "Human",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Whip It",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Rock The Casbah",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Sledgehammer",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JOE JACKSON",
+      "song": "Steppin' Out",
+      "label": "Fest/Mush",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BILLY JOEL",
+      "song": "Uptown Girl",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MEN AT WORK",
+      "song": "Downunder",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE HIVES",
+      "song": "Hate To Say I Told You So",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE HIVES",
+      "song": "Main Offender",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "7 Nation Army",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Smells Like Teen Spirit",
+      "label": "MCA)",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Heart-Shaped Box",
+      "label": "MCA)",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Black Hole Sun",
+      "label": "Polydor",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Hey Ya",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Player's Ball",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "The Way You Move",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Roses",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "B.O.B.",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "So Fresh, So Clean",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "The Whole World",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Southernplayalisticadillacmusik",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Elevators (Me and You)",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "ATLiens",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Rosa Parks",
+      "label": "LaFace Records / Arista",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Prototype",
+      "label": "BMG",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Morris Brown",
+      "label": "SBME",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KELIS featuring ANDRE 3000",
+      "song": "Millionaire",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "OUTKAST featuring PATTI LABELLE",
+      "song": "GhettoMusick",
+      "label": "BMG",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "OUTKAST featuring KILLER MIKE and SLEEPY BROWN",
+      "song": "Land Of A Million Drums",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE MOODY BLUES",
+      "song": "Nights In White Satin",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CAPTAIN and TENNILLE",
+      "song": "Do That To Me One More Time",
+      "label": "Casablanca",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE MAMAS and THE PAPAS",
+      "song": "California Dreamin'",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JETHRO TULL",
+      "song": "Lap Of Luxury",
+      "label": "Chrysalis",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Stairway To Heaven",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "POGUES, THE ft. KIRSTY MacCOLL",
+      "song": "Fairytale of New York (censored version)",
+      "label": "Pogue Mahone Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MEN AT WORK",
+      "song": "Downunder",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TOTO",
+      "song": "Africa",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "STING",
+      "song": "They Dance Alone",
+      "label": "A and M Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FUTURE",
+      "song": "Mask Off (clean)",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LIZZO",
+      "song": "Good As Hell (second version)",
+      "label": "Atlantic",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KING GIZZARD AND THE LIZARD WIZARD",
+      "song": "Trapdoor",
+      "label": "Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PARCELS",
+      "song": "Lightenup",
+      "label": "Kitsune Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JUNGLE",
+      "song": "Keep Me Satisfied",
+      "label": "AWAL",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DE PORSAL",
+      "song": "Punch",
+      "label": "BDK Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ALIEN WEAPONRY",
+      "song": "Mau Moko",
+      "label": "Napalm Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE HORRORS",
+      "song": "More Than Life",
+      "label": "Fiction Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SAME PAINS",
+      "song": "candle memory",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KALOPSIA",
+      "song": "Earthbound",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LUCY DACUS",
+      "song": "Ankles",
+      "label": "Geffen Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MUMFORD and SONS",
+      "song": "RUSHMERE",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HEIDI MONTAG",
+      "song": "I'll Do It",
+      "label": "Pratt Productions / Primary Wave",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MALLRAT",
+      "song": "Pavement",
+      "label": "Dew Process / Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CASUAL FAN",
+      "song": "Mercy Me",
+      "label": "bunk",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JAPANESE BREAKFAST",
+      "song": "Orlando In Love",
+      "label": "Dead Oceans",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ANDREW GURRUWIWI BAND",
+      "song": "Go To Sleep (The Legend of Namini Ban' Ban')",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "VIAGRA BOYS",
+      "song": "Man Made of Meat",
+      "label": "Shrimp Enterprises",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "STELLA",
+      "song": "Adagio",
+      "label": "Sub Pop",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

@@ -9866,90 +9866,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2010-11-05",
-      "path": "2010/11/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3058588.htm"
-    },
-    {
-      "special": "The Last Kinection",
-      "timeslot": "morning",
-      "date": "2010-11-06",
-      "path": "2010/11/06_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3058590.htm"
-    },
-    {
-      "special": "The Last Kinection",
-      "timeslot": "night",
-      "date": "2010-11-06",
-      "path": "2010/11/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3058593.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-11-12",
-      "path": "2010/11/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3064973.htm"
-    },
-    {
-      "special": "Angus & Julia Stone",
-      "timeslot": "morning",
-      "date": "2010-11-13",
-      "path": "2010/11/13_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3064984.htm"
-    },
-    {
-      "special": "Angus & Julia Stone",
-      "timeslot": "night",
-      "date": "2010-11-13",
-      "path": "2010/11/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3064994.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-11-19",
-      "path": "2010/11/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3071513.htm"
-    },
-    {
-      "special": "Midnight Juggernauts",
-      "timeslot": "morning",
-      "date": "2010-11-20",
-      "path": "2010/11/20_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3071515.htm"
-    },
-    {
-      "special": "Midnight Juggernauts",
-      "timeslot": "night",
-      "date": "2010-11-20",
-      "path": "2010/11/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3071516.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-11-26",
-      "path": "2010/11/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3077533.htm"
-    },
-    {
-      "special": "Parkway Drive",
-      "timeslot": "morning",
-      "date": "2010-11-27",
-      "path": "2010/11/27_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3077539.htm"
-    },
-    {
-      "special": "Parkway Drive",
-      "timeslot": "night",
-      "date": "2010-11-27",
-      "path": "2010/11/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3077542.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2010-12-03",
       "path": "2010/12/03_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3084117.htm"
@@ -10037,6 +9953,90 @@
       "date": "2010-12-31",
       "path": "2010/12/31_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3104298.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-11-05",
+      "path": "2010/11/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3058588.htm"
+    },
+    {
+      "special": "The Last Kinection",
+      "timeslot": "morning",
+      "date": "2010-11-06",
+      "path": "2010/11/06_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3058590.htm"
+    },
+    {
+      "special": "The Last Kinection",
+      "timeslot": "night",
+      "date": "2010-11-06",
+      "path": "2010/11/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3058593.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-11-12",
+      "path": "2010/11/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3064973.htm"
+    },
+    {
+      "special": "Angus & Julia Stone",
+      "timeslot": "morning",
+      "date": "2010-11-13",
+      "path": "2010/11/13_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3064984.htm"
+    },
+    {
+      "special": "Angus & Julia Stone",
+      "timeslot": "night",
+      "date": "2010-11-13",
+      "path": "2010/11/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3064994.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-11-19",
+      "path": "2010/11/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3071513.htm"
+    },
+    {
+      "special": "Midnight Juggernauts",
+      "timeslot": "morning",
+      "date": "2010-11-20",
+      "path": "2010/11/20_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3071515.htm"
+    },
+    {
+      "special": "Midnight Juggernauts",
+      "timeslot": "night",
+      "date": "2010-11-20",
+      "path": "2010/11/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3071516.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-11-26",
+      "path": "2010/11/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3077533.htm"
+    },
+    {
+      "special": "Parkway Drive",
+      "timeslot": "morning",
+      "date": "2010-11-27",
+      "path": "2010/11/27_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3077539.htm"
+    },
+    {
+      "special": "Parkway Drive",
+      "timeslot": "night",
+      "date": "2010-11-27",
+      "path": "2010/11/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3077542.htm"
     },
     {
       "special": null,
@@ -33928,6 +33928,55 @@
       "date": "2025-01-23",
       "path": "2025/01/23_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-23-january-2025-on-abc-entertains/104837590"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-01-24",
+      "path": "2025/01/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-24-january-2025-on-abc-entertains/104856986"
+    },
+    {
+      "special": "David Lynch Tribute Special, New Music Show",
+      "timeslot": "night",
+      "date": "2025-01-24",
+      "path": "2025/01/24_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-24-january-2025-on-abc-tv/104856984"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2025-01-25",
+      "path": "2025/01/25_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-25-january-2025-on-abc-tv/104856988"
+    },
+    {
+      "special": "Double J's Hottest 100 of 2004 Special",
+      "timeslot": "night",
+      "date": "2025-01-25",
+      "path": "2025/01/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-january-2025-on-abc-entertains/104856992"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-01-25",
+      "path": "2025/01/25_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-january-2025-on-abc-tv/104856990"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-01-26",
+      "path": "2025/01/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-26-january-2025-on-abc-entertains/104856996"
+    },
+    {
+      "special": "The VAULT 1996 Hip Hop",
+      "timeslot": "night",
+      "date": "2025-01-26",
+      "path": "2025/01/26_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-26-january-2025-on-abc-tv/104856994"
     }
   ]
 }
