@@ -8081,62 +8081,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2009-02-06",
-      "path": "2009/02/06.json",
-      "url": "http://www.abc.net.au/rage/archive/s2484186.htm"
-    },
-    {
-      "special": "MGMT Guest Program",
-      "timeslot": null,
-      "date": "2009-02-07",
-      "path": "2009/02/07.json",
-      "url": "http://www.abc.net.au/rage/archive/s2484202.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-02-13",
-      "path": "2009/02/13.json",
-      "url": "http://www.abc.net.au/rage/archive/s2490710.htm"
-    },
-    {
-      "special": "Mark Ronson",
-      "timeslot": null,
-      "date": "2009-02-14",
-      "path": "2009/02/14.json",
-      "url": "http://www.abc.net.au/rage/archive/s2490724.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-02-20",
-      "path": "2009/02/20.json",
-      "url": "http://www.abc.net.au/rage/archive/s2496807.htm"
-    },
-    {
-      "special": "The Drones",
-      "timeslot": null,
-      "date": "2009-02-21",
-      "path": "2009/02/21.json",
-      "url": "http://www.abc.net.au/rage/archive/s2496816.htm"
-    },
-    {
-      "special": "2008 Triple J Hottest 100 Countdown",
-      "timeslot": null,
-      "date": "2009-02-27",
-      "path": "2009/02/27.json",
-      "url": "http://www.abc.net.au/rage/archive/s2503025.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-02-28",
-      "path": "2009/02/28.json",
-      "url": "http://www.abc.net.au/rage/archive/s2503045.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2009-01-02",
       "path": "2009/01/02.json",
       "url": "http://www.abc.net.au/rage/archive/s2457424.htm"
@@ -8203,6 +8147,62 @@
       "date": "2009-01-31",
       "path": "2009/01/31.json",
       "url": "http://www.abc.net.au/rage/archive/s2478237.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-02-06",
+      "path": "2009/02/06.json",
+      "url": "http://www.abc.net.au/rage/archive/s2484186.htm"
+    },
+    {
+      "special": "MGMT Guest Program",
+      "timeslot": null,
+      "date": "2009-02-07",
+      "path": "2009/02/07.json",
+      "url": "http://www.abc.net.au/rage/archive/s2484202.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-02-13",
+      "path": "2009/02/13.json",
+      "url": "http://www.abc.net.au/rage/archive/s2490710.htm"
+    },
+    {
+      "special": "Mark Ronson",
+      "timeslot": null,
+      "date": "2009-02-14",
+      "path": "2009/02/14.json",
+      "url": "http://www.abc.net.au/rage/archive/s2490724.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-02-20",
+      "path": "2009/02/20.json",
+      "url": "http://www.abc.net.au/rage/archive/s2496807.htm"
+    },
+    {
+      "special": "The Drones",
+      "timeslot": null,
+      "date": "2009-02-21",
+      "path": "2009/02/21.json",
+      "url": "http://www.abc.net.au/rage/archive/s2496816.htm"
+    },
+    {
+      "special": "2008 Triple J Hottest 100 Countdown",
+      "timeslot": null,
+      "date": "2009-02-27",
+      "path": "2009/02/27.json",
+      "url": "http://www.abc.net.au/rage/archive/s2503025.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-02-28",
+      "path": "2009/02/28.json",
+      "url": "http://www.abc.net.au/rage/archive/s2503045.htm"
     },
     {
       "special": null,
@@ -13527,6 +13527,90 @@
     {
       "special": null,
       "timeslot": "night",
+      "date": "2014-04-04",
+      "path": "2014/04/04_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3978662.htm"
+    },
+    {
+      "special": "Ball Park Music",
+      "timeslot": "morning",
+      "date": "2014-04-05",
+      "path": "2014/04/05_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3978670.htm"
+    },
+    {
+      "special": "Ball Park Music",
+      "timeslot": "night",
+      "date": "2014-04-05",
+      "path": "2014/04/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3978708.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-04-11",
+      "path": "2014/04/11_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3983807.htm"
+    },
+    {
+      "special": "The Scientists",
+      "timeslot": "morning",
+      "date": "2014-04-12",
+      "path": "2014/04/12_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3983897.htm"
+    },
+    {
+      "special": "The Scientists",
+      "timeslot": "night",
+      "date": "2014-04-12",
+      "path": "2014/04/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3983809.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-04-18",
+      "path": "2014/04/18_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3988280.htm"
+    },
+    {
+      "special": "Dan Sultan",
+      "timeslot": "morning",
+      "date": "2014-04-19",
+      "path": "2014/04/19_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3988281.htm"
+    },
+    {
+      "special": "Dan Sultan",
+      "timeslot": "night",
+      "date": "2014-04-19",
+      "path": "2014/04/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3988282.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-04-25",
+      "path": "2014/04/25_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3991603.htm"
+    },
+    {
+      "special": "The Jezabels",
+      "timeslot": "morning",
+      "date": "2014-04-26",
+      "path": "2014/04/26_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3991604.htm"
+    },
+    {
+      "special": "The Jezabels",
+      "timeslot": "night",
+      "date": "2014-04-26",
+      "path": "2014/04/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3991607.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
       "date": "2014-05-02",
       "path": "2014/05/02_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3996805.htm"
@@ -13796,90 +13880,6 @@
       "date": "2014-07-26",
       "path": "2014/07/26_night.json",
       "url": "http://www.abc.net.au/rage/archive/s4053288.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-04-04",
-      "path": "2014/04/04_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3978662.htm"
-    },
-    {
-      "special": "Ball Park Music",
-      "timeslot": "morning",
-      "date": "2014-04-05",
-      "path": "2014/04/05_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3978670.htm"
-    },
-    {
-      "special": "Ball Park Music",
-      "timeslot": "night",
-      "date": "2014-04-05",
-      "path": "2014/04/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3978708.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-04-11",
-      "path": "2014/04/11_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3983807.htm"
-    },
-    {
-      "special": "The Scientists",
-      "timeslot": "morning",
-      "date": "2014-04-12",
-      "path": "2014/04/12_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3983897.htm"
-    },
-    {
-      "special": "The Scientists",
-      "timeslot": "night",
-      "date": "2014-04-12",
-      "path": "2014/04/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3983809.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-04-18",
-      "path": "2014/04/18_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3988280.htm"
-    },
-    {
-      "special": "Dan Sultan",
-      "timeslot": "morning",
-      "date": "2014-04-19",
-      "path": "2014/04/19_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3988281.htm"
-    },
-    {
-      "special": "Dan Sultan",
-      "timeslot": "night",
-      "date": "2014-04-19",
-      "path": "2014/04/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3988282.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-04-25",
-      "path": "2014/04/25_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3991603.htm"
-    },
-    {
-      "special": "The Jezabels",
-      "timeslot": "morning",
-      "date": "2014-04-26",
-      "path": "2014/04/26_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3991604.htm"
-    },
-    {
-      "special": "The Jezabels",
-      "timeslot": "night",
-      "date": "2014-04-26",
-      "path": "2014/04/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3991607.htm"
     },
     {
       "special": null,
