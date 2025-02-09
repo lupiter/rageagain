@@ -34096,6 +34096,55 @@
       "date": "2025-02-06",
       "path": "2025/02/06_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-6-february-2025-on-abc-entertains/104890800"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-02-07",
+      "path": "2025/02/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-7-february-2025-on-abc-entertains/104911152"
+    },
+    {
+      "special": "Marianne Faithful Tribute Special, New Music Show",
+      "timeslot": "night",
+      "date": "2025-02-07",
+      "path": "2025/02/07_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-7-february-2025-on-abc-tv/104911150"
+    },
+    {
+      "special": "Retro Month: 70s Countdown & Other Rarities, End Of The 70s Special",
+      "timeslot": "morning",
+      "date": "2025-02-08",
+      "path": "2025/02/08_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-8-february-2025-on-abc-tv/104911156"
+    },
+    {
+      "special": "Retro Month: 70s Countdown & Other Rarities, End Of The 70s Special",
+      "timeslot": "morning",
+      "date": "2025-02-08",
+      "path": "2025/02/08_morning_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-8-february-2025-on-abc-tv/104911154"
+    },
+    {
+      "special": "Laneway Headliners Special",
+      "timeslot": "night",
+      "date": "2025-02-08",
+      "path": "2025/02/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-february-2025-on-abc-entertains/104911158"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-02-09",
+      "path": "2025/02/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-9-february-2025-on-abc-entertains/104911160"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-02-09",
+      "path": "2025/02/09_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-9-february-2025-on-abc-tv/104911068"
     }
   ]
 }
