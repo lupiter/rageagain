@@ -34320,6 +34320,41 @@
       "date": "2025-02-23",
       "path": "2025/02/23_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-23-february-2025-on-abc-tv/104967386"
+    },
+    {
+      "special": "Retro Month: 50 years of triple j",
+      "timeslot": "night",
+      "date": "2025-02-24",
+      "path": "2025/02/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-24-february-2025-on-abc-entertains/104974504"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2025-02-24",
+      "path": "2025/02/24_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-24-february-2025-on-abc-tv/104974502"
+    },
+    {
+      "special": "Hot 100 of 1989 special",
+      "timeslot": "night",
+      "date": "2025-02-25",
+      "path": "2025/02/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-25-february-2025-on-abc-entertains/104974506"
+    },
+    {
+      "special": "The VAULT Big Day Out 2000",
+      "timeslot": "night",
+      "date": "2025-02-26",
+      "path": "2025/02/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-26-february-2025-on-abc-entertains/104974508"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2025-02-27",
+      "path": "2025/02/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-27-february-2025-on-abc-entertains/104974510"
     }
   ]
 }
