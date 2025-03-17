@@ -13427,6 +13427,90 @@
       "url": "http://www.abc.net.au/rage/archive/s3954610.htm"
     },
     {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-04-04",
+      "path": "2014/04/04_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3978662.htm"
+    },
+    {
+      "special": "Ball Park Music",
+      "timeslot": "morning",
+      "date": "2014-04-05",
+      "path": "2014/04/05_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3978670.htm"
+    },
+    {
+      "special": "Ball Park Music",
+      "timeslot": "night",
+      "date": "2014-04-05",
+      "path": "2014/04/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3978708.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-04-11",
+      "path": "2014/04/11_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3983807.htm"
+    },
+    {
+      "special": "The Scientists",
+      "timeslot": "morning",
+      "date": "2014-04-12",
+      "path": "2014/04/12_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3983897.htm"
+    },
+    {
+      "special": "The Scientists",
+      "timeslot": "night",
+      "date": "2014-04-12",
+      "path": "2014/04/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3983809.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-04-18",
+      "path": "2014/04/18_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3988280.htm"
+    },
+    {
+      "special": "Dan Sultan",
+      "timeslot": "morning",
+      "date": "2014-04-19",
+      "path": "2014/04/19_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3988281.htm"
+    },
+    {
+      "special": "Dan Sultan",
+      "timeslot": "night",
+      "date": "2014-04-19",
+      "path": "2014/04/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3988282.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-04-25",
+      "path": "2014/04/25_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3991603.htm"
+    },
+    {
+      "special": "The Jezabels",
+      "timeslot": "morning",
+      "date": "2014-04-26",
+      "path": "2014/04/26_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3991604.htm"
+    },
+    {
+      "special": "The Jezabels",
+      "timeslot": "night",
+      "date": "2014-04-26",
+      "path": "2014/04/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3991607.htm"
+    },
+    {
       "special": "LE1F Guest Programs Mardi Gras",
       "timeslot": "morning",
       "date": "2014-03-01",
@@ -13523,90 +13607,6 @@
       "date": "2014-03-29",
       "path": "2014/03/29_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3973927.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-04-04",
-      "path": "2014/04/04_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3978662.htm"
-    },
-    {
-      "special": "Ball Park Music",
-      "timeslot": "morning",
-      "date": "2014-04-05",
-      "path": "2014/04/05_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3978670.htm"
-    },
-    {
-      "special": "Ball Park Music",
-      "timeslot": "night",
-      "date": "2014-04-05",
-      "path": "2014/04/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3978708.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-04-11",
-      "path": "2014/04/11_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3983807.htm"
-    },
-    {
-      "special": "The Scientists",
-      "timeslot": "morning",
-      "date": "2014-04-12",
-      "path": "2014/04/12_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3983897.htm"
-    },
-    {
-      "special": "The Scientists",
-      "timeslot": "night",
-      "date": "2014-04-12",
-      "path": "2014/04/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3983809.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-04-18",
-      "path": "2014/04/18_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3988280.htm"
-    },
-    {
-      "special": "Dan Sultan",
-      "timeslot": "morning",
-      "date": "2014-04-19",
-      "path": "2014/04/19_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3988281.htm"
-    },
-    {
-      "special": "Dan Sultan",
-      "timeslot": "night",
-      "date": "2014-04-19",
-      "path": "2014/04/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3988282.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-04-25",
-      "path": "2014/04/25_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3991603.htm"
-    },
-    {
-      "special": "The Jezabels",
-      "timeslot": "morning",
-      "date": "2014-04-26",
-      "path": "2014/04/26_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3991604.htm"
-    },
-    {
-      "special": "The Jezabels",
-      "timeslot": "night",
-      "date": "2014-04-26",
-      "path": "2014/04/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3991607.htm"
     },
     {
       "special": null,
@@ -34593,6 +34593,41 @@
       "date": "2025-03-16",
       "path": "2025/03/16_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-16-march-2025-on-abc-tv/105045778"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-03-17",
+      "path": "2025/03/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-17-march-2025-on-abc-entertains/105063096"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2025-03-17",
+      "path": "2025/03/17_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-17-march-2025-on-abc-tv/105063094"
+    },
+    {
+      "special": "Texas special",
+      "timeslot": "night",
+      "date": "2025-03-18",
+      "path": "2025/03/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-18-march-2025-on-abc-entertains/105063098"
+    },
+    {
+      "special": "The VAULT Director Floria Sigismondi",
+      "timeslot": "night",
+      "date": "2025-03-19",
+      "path": "2025/03/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-19-march-2025-on-abc-entertains/105063100"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2025-03-20",
+      "path": "2025/03/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-20-march-2025-on-abc-entertains/105063102"
     }
   ]
 }
