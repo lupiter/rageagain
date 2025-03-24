@@ -7960,62 +7960,6 @@
       "url": "http://www.abc.net.au/rage/archive/s2406579.htm"
     },
     {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-12-05",
-      "path": "2008/12/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s2426183.htm"
-    },
-    {
-      "special": "Ready For My Close Up Special",
-      "timeslot": null,
-      "date": "2008-12-06",
-      "path": "2008/12/06.json",
-      "url": "http://www.abc.net.au/rage/archive/s2426178.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-12-12",
-      "path": "2008/12/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s2426171.htm"
-    },
-    {
-      "special": "The Grates",
-      "timeslot": null,
-      "date": "2008-12-13",
-      "path": "2008/12/13.json",
-      "url": "http://www.abc.net.au/rage/archive/s2444923.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-12-19",
-      "path": "2008/12/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s2450996.htm"
-    },
-    {
-      "special": "Blackalicious",
-      "timeslot": null,
-      "date": "2008-12-20",
-      "path": "2008/12/20.json",
-      "url": "http://www.abc.net.au/rage/archive/s2450999.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-12-26",
-      "path": "2008/12/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s2454592.htm"
-    },
-    {
-      "special": "Best Of rage Guest Programmers 2008",
-      "timeslot": null,
-      "date": "2008-12-27",
-      "path": "2008/12/27.json",
-      "url": "http://www.abc.net.au/rage/archive/s2454603.htm"
-    },
-    {
       "special": "Muph & Plutonic",
       "timeslot": null,
       "date": "2008-11-01",
@@ -8077,6 +8021,62 @@
       "date": "2008-11-29",
       "path": "2008/11/29.json",
       "url": "http://www.abc.net.au/rage/archive/s2432261.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-12-05",
+      "path": "2008/12/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s2426183.htm"
+    },
+    {
+      "special": "Ready For My Close Up Special",
+      "timeslot": null,
+      "date": "2008-12-06",
+      "path": "2008/12/06.json",
+      "url": "http://www.abc.net.au/rage/archive/s2426178.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-12-12",
+      "path": "2008/12/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s2426171.htm"
+    },
+    {
+      "special": "The Grates",
+      "timeslot": null,
+      "date": "2008-12-13",
+      "path": "2008/12/13.json",
+      "url": "http://www.abc.net.au/rage/archive/s2444923.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-12-19",
+      "path": "2008/12/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s2450996.htm"
+    },
+    {
+      "special": "Blackalicious",
+      "timeslot": null,
+      "date": "2008-12-20",
+      "path": "2008/12/20.json",
+      "url": "http://www.abc.net.au/rage/archive/s2450999.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-12-26",
+      "path": "2008/12/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s2454592.htm"
+    },
+    {
+      "special": "Best Of rage Guest Programmers 2008",
+      "timeslot": null,
+      "date": "2008-12-27",
+      "path": "2008/12/27.json",
+      "url": "http://www.abc.net.au/rage/archive/s2454603.htm"
     },
     {
       "special": null,
@@ -34677,6 +34677,41 @@
       "date": "2025-03-23",
       "path": "2025/03/23_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-23-march-2025-on-abc-tv/105069822"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-03-24",
+      "path": "2025/03/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-24-march-2025-on-abc-entertains/104805524"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2025-03-24",
+      "path": "2025/03/24_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-24-march-2025-on-abc-tv/105089684"
+    },
+    {
+      "special": "Snow special",
+      "timeslot": "night",
+      "date": "2025-03-25",
+      "path": "2025/03/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-25-march-2025-on-abc-entertains/105089686"
+    },
+    {
+      "special": "The VAULT 1985: hits & deep cuts",
+      "timeslot": "night",
+      "date": "2025-03-26",
+      "path": "2025/03/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-26-march-2025-on-abc-entertains/105089688"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2025-03-27",
+      "path": "2025/03/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-27-march-2025-on-abc-entertains/105089690"
     }
   ]
 }

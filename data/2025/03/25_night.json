@@ -1,0 +1,87 @@
+{
+  "title": "Tuesday night 25 March 2025 on ABC Entertains",
+  "special": "Snow special",
+  "timeslot": "night",
+  "date": "2025-03-25",
+  "url": "https://www.abc.net.au/rage/playlist/tuesday-night-25-march-2025-on-abc-entertains/105089686",
+  "tracks": [
+    {
+      "artist": "BRYAN ADAMS",
+      "song": "Run To You",
+      "label": "A and M Records",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Pictures Of You",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ABBA",
+      "song": "Chiquitita",
+      "label": "Mercury",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "STEPS",
+      "song": "Heartbeat",
+      "label": "Mushroom",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "KRIS KROSS",
+      "song": "Jump",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ALANIS MORISSETTE",
+      "song": "Ironic",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "EVANESCENCE",
+      "song": "Lithium",
+      "label": "SBME",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LADYTRON",
+      "song": "Destroy Everything You Touch",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE ARCADE FIRE",
+      "song": "Neighbourhood #3 (Power Out)",
+      "label": "Spunk/Inertia",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LIME CORDIALE",
+      "song": "When I'm Losing It",
+      "label": "Chugg Music",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MY CHEMICAL ROMANCE",
+      "song": "Welcome To The Black Parade",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "YUNGBLUD",
+      "song": "Hello Heaven, Hello",
+      "label": null,
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BRING ME THE HORIZON",
+      "song": "Shadow Moses",
+      "label": "Epitaph Records",
+      "timeslot": "00:30:00"
+    }
+  ]
+}
