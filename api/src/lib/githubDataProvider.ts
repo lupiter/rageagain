@@ -22,6 +22,8 @@ const provider = async (path: string, env: Env): Promise<string> => {
     typeof env.GITHUB_DATA !== 'undefined'
   ) {
     await env.GITHUB_DATA.put(path, bodyText, { expirationTtl: 60 * 60 * 24 })
+  } else if (response.status >= 300 || response.status < 200) {
+    // it was a redirect or error
     console.error(response.status, bodyText, baseUrl + path)
     return Promise.reject(response.status)
   }
