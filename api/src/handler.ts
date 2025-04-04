@@ -57,7 +57,10 @@ async function handleDataRequest(
   const pathParts = pathname.replace('..', '').match(/\/data\/(.*)/)
 
   if (!pathParts || (pathParts && !pathParts[0]))
-    return new Response('Empty data path param', { status: 400 })
+    return new Response('Empty data path param', {
+      status: 400,
+      headers: getCorsHeaders(request),
+    })
 
   try {
     const data = await getDataFromGithub(pathParts[0], env)
@@ -66,15 +69,16 @@ async function handleDataRequest(
       headers: getCorsHeaders(request),
     })
   } catch (e) {
-    if (typeof e === 'number') {
-      return new Response('There was a problem with the upstream request', {
-        status: e,
-      })
-    } else {
-      return new Response('500 Server error', {
-        status: 500,
-      })
-    }
+    const status = typeof e === 'number' ? e : 500
+    const message =
+      typeof e === 'number'
+        ? 'There was a problem with the upstream request'
+        : '500 Server error'
+
+    return new Response(message, {
+      status,
+      headers: getCorsHeaders(request),
+    })
   }
 }
 
