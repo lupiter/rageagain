@@ -267,6 +267,11 @@ body > .tooltip {
   opacity       : 0.4;
 }
 
+#specials a:visited,
+#episodes a:visited {
+  color: grey;
+}
+
 #year-dropdown ul.dropdown-menu {
   max-height: 50vh;
   overflow-y: auto;

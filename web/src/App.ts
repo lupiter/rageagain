@@ -24,13 +24,15 @@ window.onYouTubePlayerAPIReady = () => {
     width: '560',
     videoId: 'ZzxKW6O8sNM', // RAGE Intro Video ID
     playerVars: {
+      fs: 0,
       autoplay: 0,
       showinfo: 0,
       controls: 0,
       disablekb: 1,
       iv_load_policy: 3,
       modestbranding: 1,
-      rel: 0
+      rel: 0,
+      loop: 0,
     },
     events: {
       onReady: player.onPlayerReady,
@@ -77,6 +79,10 @@ const init = () => {
       }
     }
   })
+
+  window.onhashchange = function() {
+    router.navigate(window.location.hash);
+  }
 
   // EPISODE/SPECIAL TAB
   $('body').on('click', '.nav .skip-to-year', function (_e) {
@@ -143,6 +149,18 @@ const init = () => {
     player.togglePause()
   })
 
+  if (!document.fullscreenEnabled) {
+    $('.player-fullscreen').hide();
+  } else {
+    $('.player-fullscreen').on('click', function (_e) {
+      if (document.fullscreenElement) {
+        document.exitFullscreen()
+      } else {
+        document.documentElement.requestFullscreen({ navigationUI: 'hide' })
+      }
+    })
+  }
+
   ///// EVENTS /////
   trackList.on('change', onTrackChange)
   trackList.on('finished', () => changeTab('episodeList'))
@@ -206,7 +224,7 @@ const init = () => {
   router.start('/home')
 }
 
-const loadPlaylist = function (id: string, callback: (id: string) => void) {
+const loadPlaylist = async function (id: string, callback: (id: string) => void) {
   if (typeof id == 'undefined') {
     throw "RageAgain.loadPlaylist() id is undefined."
   }
@@ -219,8 +237,10 @@ const loadPlaylist = function (id: string, callback: (id: string) => void) {
     return
   }
 
-  getPlaylist(path).then(data => {
-    $('#fullscreen-loader').hide()
+  try {
+    const data = await getPlaylist(path);
+
+      $('#fullscreen-loader').hide()
 
     if (!data || !data.tracks) {
       alert('Failed to load selected playlist. No tracks found.')
@@ -240,7 +260,9 @@ const loadPlaylist = function (id: string, callback: (id: string) => void) {
       .append('<span class="label label-important now-playing-label">p</span>')
 
     changeTab('nowPlaying')
-  })
+  } catch (error) {
+    console.error('Failed to load playlist', error)
+  }
 }
 
 const initTooltips = () => {
@@ -297,7 +319,7 @@ const onTrackChange = function ({ current: curTrack }: TrackListEvents['change']
     .delay(8000)
     .fadeOut()
 
-  if (!player.isPlaying()) {
+  if (player.getState() == YT.PlayerState.UNSTARTED) {
     player.play()
   }
 }
