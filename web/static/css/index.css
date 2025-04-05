@@ -184,7 +184,8 @@ header #nav-right>p {
   position  : absolute;
   opacity   : 0.8;
   display   : none;
-  background: url('../img/overlay-full.png') repeat;
+  /* background: url('../img/overlay-full.png') repeat; */
+  background: #04214c;
   z-index   : 50;
 }
 
