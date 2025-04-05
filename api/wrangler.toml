@@ -11,3 +11,4 @@ kv_namespaces = [
     { binding = "YOUTUBE_API_REQUESTS", id = "b2791e9b57e2450b830b79ab8c6f3cfe"}
 ]
 observability.enabled = true
+keep_vars = true
