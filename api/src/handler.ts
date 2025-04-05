@@ -40,13 +40,23 @@ async function handleMusicVideoSearchRequest(
   const artist = searchParams.get('artist')
   const song = searchParams.get('song')
 
-  if (!artist || !song) return new Response('Missing param', { status: 400 })
-
-  const videoInfoList = await getYoutubeVideos(artist, song, env)
-
-  return new Response(JSON.stringify(videoInfoList), {
+  if (!artist || !song) return new Response('Missing param', { 
+    status: 400,
     headers: getCorsHeaders(request),
   })
+
+  try {
+    const videoInfoList = await getYoutubeVideos(artist, song, env)
+
+    return new Response(JSON.stringify(videoInfoList), {
+      headers: getCorsHeaders(request),
+    })
+  } catch (e) {
+    return new Response('500 Server error', {
+      status: 500,
+      headers: getCorsHeaders(request),
+    })
+  }
 }
 
 async function handleDataRequest(
