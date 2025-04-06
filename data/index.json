@@ -7897,69 +7897,6 @@
       "url": "http://www.abc.net.au/rage/archive/s2375119.htm"
     },
     {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-10-03",
-      "path": "2008/10/03.json",
-      "url": "http://www.abc.net.au/rage/archive/s2381369.htm"
-    },
-    {
-      "special": "MSTRKRFT",
-      "timeslot": null,
-      "date": "2008-10-04",
-      "path": "2008/10/04.json",
-      "url": "http://www.abc.net.au/rage/archive/s2381374.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-10-10",
-      "path": "2008/10/10.json",
-      "url": "http://www.abc.net.au/rage/archive/s2387523.htm"
-    },
-    {
-      "special": "The Kooks",
-      "timeslot": null,
-      "date": "2008-10-11",
-      "path": "2008/10/11.json",
-      "url": "http://www.abc.net.au/rage/archive/s2387547.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-10-17",
-      "path": "2008/10/17.json",
-      "url": "http://www.abc.net.au/rage/archive/s2393911.htm"
-    },
-    {
-      "special": "Anton Newcombe from The Brian Jonestown Massacre",
-      "timeslot": null,
-      "date": "2008-10-18",
-      "path": "2008/10/18.json",
-      "url": "http://www.abc.net.au/rage/archive/s2393919.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-10-24",
-      "path": "2008/10/24.json",
-      "url": "http://www.abc.net.au/rage/archive/s2400101.htm"
-    },
-    {
-      "special": "Pnau",
-      "timeslot": null,
-      "date": "2008-10-25",
-      "path": "2008/10/25.json",
-      "url": "http://www.abc.net.au/rage/archive/s2400102.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-10-31",
-      "path": "2008/10/31.json",
-      "url": "http://www.abc.net.au/rage/archive/s2406579.htm"
-    },
-    {
       "special": "Muph & Plutonic",
       "timeslot": null,
       "date": "2008-11-01",
@@ -8021,6 +7958,69 @@
       "date": "2008-11-29",
       "path": "2008/11/29.json",
       "url": "http://www.abc.net.au/rage/archive/s2432261.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-10-03",
+      "path": "2008/10/03.json",
+      "url": "http://www.abc.net.au/rage/archive/s2381369.htm"
+    },
+    {
+      "special": "MSTRKRFT",
+      "timeslot": null,
+      "date": "2008-10-04",
+      "path": "2008/10/04.json",
+      "url": "http://www.abc.net.au/rage/archive/s2381374.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-10-10",
+      "path": "2008/10/10.json",
+      "url": "http://www.abc.net.au/rage/archive/s2387523.htm"
+    },
+    {
+      "special": "The Kooks",
+      "timeslot": null,
+      "date": "2008-10-11",
+      "path": "2008/10/11.json",
+      "url": "http://www.abc.net.au/rage/archive/s2387547.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-10-17",
+      "path": "2008/10/17.json",
+      "url": "http://www.abc.net.au/rage/archive/s2393911.htm"
+    },
+    {
+      "special": "Anton Newcombe from The Brian Jonestown Massacre",
+      "timeslot": null,
+      "date": "2008-10-18",
+      "path": "2008/10/18.json",
+      "url": "http://www.abc.net.au/rage/archive/s2393919.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-10-24",
+      "path": "2008/10/24.json",
+      "url": "http://www.abc.net.au/rage/archive/s2400101.htm"
+    },
+    {
+      "special": "Pnau",
+      "timeslot": null,
+      "date": "2008-10-25",
+      "path": "2008/10/25.json",
+      "url": "http://www.abc.net.au/rage/archive/s2400102.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-10-31",
+      "path": "2008/10/31.json",
+      "url": "http://www.abc.net.au/rage/archive/s2406579.htm"
     },
     {
       "special": null,
@@ -34796,6 +34796,55 @@
       "date": "2025-04-03",
       "path": "2025/04/03_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-3-april-2025-on-abc-entertains/105118302"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-04-04",
+      "path": "2025/04/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-4-april-2025-on-abc-entertains/105134808"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-04-04",
+      "path": "2025/04/04_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-4-april-2025-on-abc-tv/105134806"
+    },
+    {
+      "special": "Charts, The VAULT, Best New Music Videos, Cyndi Lauper Special, Girls Just Wanna Have Fun special",
+      "timeslot": "morning",
+      "date": "2025-04-05",
+      "path": "2025/04/05_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-5-april-2025-on-abc-tv/105134810"
+    },
+    {
+      "special": "90s and 00s Alt Hip Hop special",
+      "timeslot": "night",
+      "date": "2025-04-05",
+      "path": "2025/04/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-5-april-2025-on-abc-entertains/105134818"
+    },
+    {
+      "special": "Cyndi Lauper Special",
+      "timeslot": "night",
+      "date": "2025-04-05",
+      "path": "2025/04/05_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-5-april-2025-on-abc-tv/105134812"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-04-06",
+      "path": "2025/04/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-6-april-2025-on-abc-entertains/105134814"
+    },
+    {
+      "special": "The VAULT Punk, Rock & Metal ‘99",
+      "timeslot": "night",
+      "date": "2025-04-06",
+      "path": "2025/04/06_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-6-april-2025-on-abc-tv/105134816"
     }
   ]
 }
