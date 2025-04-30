@@ -12615,90 +12615,6 @@
       "url": "http://www.abc.net.au/rage/archive/s3772056.htm"
     },
     {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-07-05",
-      "path": "2013/07/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3796794.htm"
-    },
-    {
-      "special": "Bliss N Eso",
-      "timeslot": "morning",
-      "date": "2013-07-06",
-      "path": "2013/07/06_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3796804.htm"
-    },
-    {
-      "special": "Bliss N Eso",
-      "timeslot": "night",
-      "date": "2013-07-06",
-      "path": "2013/07/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3796034.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-07-12",
-      "path": "2013/07/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3801814.htm"
-    },
-    {
-      "special": "Wayne Blair guest programs rage",
-      "timeslot": "morning",
-      "date": "2013-07-13",
-      "path": "2013/07/13_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3801816.htm"
-    },
-    {
-      "special": "Wayne Blair guest programs rage",
-      "timeslot": "night",
-      "date": "2013-07-13",
-      "path": "2013/07/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3802092.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-07-19",
-      "path": "2013/07/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3806657.htm"
-    },
-    {
-      "special": "Bill Oddie from The Goodies",
-      "timeslot": "morning",
-      "date": "2013-07-20",
-      "path": "2013/07/20_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3806662.htm"
-    },
-    {
-      "special": "Bill Oddie from The Goodies",
-      "timeslot": "night",
-      "date": "2013-07-20",
-      "path": "2013/07/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3806826.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-07-26",
-      "path": "2013/07/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3811796.htm"
-    },
-    {
-      "special": "Special : Fifty Shades Of rage.",
-      "timeslot": "morning",
-      "date": "2013-07-27",
-      "path": "2013/07/27_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3811798.htm"
-    },
-    {
-      "special": "Special : Fifty Shades Of rage.",
-      "timeslot": "night",
-      "date": "2013-07-27",
-      "path": "2013/07/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3812040.htm"
-    },
-    {
       "special": "FOALS guest program rage",
       "timeslot": "morning",
       "date": "2013-06-01",
@@ -12795,6 +12711,90 @@
       "date": "2013-06-29",
       "path": "2013/06/29_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3790718.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-07-05",
+      "path": "2013/07/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3796794.htm"
+    },
+    {
+      "special": "Bliss N Eso",
+      "timeslot": "morning",
+      "date": "2013-07-06",
+      "path": "2013/07/06_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3796804.htm"
+    },
+    {
+      "special": "Bliss N Eso",
+      "timeslot": "night",
+      "date": "2013-07-06",
+      "path": "2013/07/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3796034.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-07-12",
+      "path": "2013/07/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3801814.htm"
+    },
+    {
+      "special": "Wayne Blair guest programs rage",
+      "timeslot": "morning",
+      "date": "2013-07-13",
+      "path": "2013/07/13_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3801816.htm"
+    },
+    {
+      "special": "Wayne Blair guest programs rage",
+      "timeslot": "night",
+      "date": "2013-07-13",
+      "path": "2013/07/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3802092.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-07-19",
+      "path": "2013/07/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3806657.htm"
+    },
+    {
+      "special": "Bill Oddie from The Goodies",
+      "timeslot": "morning",
+      "date": "2013-07-20",
+      "path": "2013/07/20_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3806662.htm"
+    },
+    {
+      "special": "Bill Oddie from The Goodies",
+      "timeslot": "night",
+      "date": "2013-07-20",
+      "path": "2013/07/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3806826.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-07-26",
+      "path": "2013/07/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3811796.htm"
+    },
+    {
+      "special": "Special : Fifty Shades Of rage.",
+      "timeslot": "morning",
+      "date": "2013-07-27",
+      "path": "2013/07/27_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3811798.htm"
+    },
+    {
+      "special": "Special : Fifty Shades Of rage.",
+      "timeslot": "night",
+      "date": "2013-07-27",
+      "path": "2013/07/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3812040.htm"
     },
     {
       "special": null,
@@ -13716,90 +13716,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2014-07-04",
-      "path": "2014/07/04_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4039620.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2014-07-05",
-      "path": "2014/07/05_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4039633.htm"
-    },
-    {
-      "special": "Busby Marou",
-      "timeslot": "night",
-      "date": "2014-07-05",
-      "path": "2014/07/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4039625.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-07-11",
-      "path": "2014/07/11_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4044322.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2014-07-12",
-      "path": "2014/07/12_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4044328.htm"
-    },
-    {
-      "special": "Aborted",
-      "timeslot": "night",
-      "date": "2014-07-12",
-      "path": "2014/07/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4044331.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-07-18",
-      "path": "2014/07/18_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4049259.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2014-07-19",
-      "path": "2014/07/19_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4049260.htm"
-    },
-    {
-      "special": "Irvine Welsh",
-      "timeslot": "night",
-      "date": "2014-07-19",
-      "path": "2014/07/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4049263.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-07-25",
-      "path": "2014/07/25_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4053284.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2014-07-26",
-      "path": "2014/07/26_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4053287.htm"
-    },
-    {
-      "special": "The Cameo Special",
-      "timeslot": "night",
-      "date": "2014-07-26",
-      "path": "2014/07/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4053288.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2014-06-06",
       "path": "2014/06/06_night.json",
       "url": "http://www.abc.net.au/rage/archive/s4020406.htm"
@@ -13880,6 +13796,90 @@
       "date": "2014-06-28",
       "path": "2014/06/28_night.json",
       "url": "http://www.abc.net.au/rage/archive/s4034820.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-07-04",
+      "path": "2014/07/04_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4039620.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2014-07-05",
+      "path": "2014/07/05_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4039633.htm"
+    },
+    {
+      "special": "Busby Marou",
+      "timeslot": "night",
+      "date": "2014-07-05",
+      "path": "2014/07/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4039625.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-07-11",
+      "path": "2014/07/11_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4044322.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2014-07-12",
+      "path": "2014/07/12_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4044328.htm"
+    },
+    {
+      "special": "Aborted",
+      "timeslot": "night",
+      "date": "2014-07-12",
+      "path": "2014/07/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4044331.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-07-18",
+      "path": "2014/07/18_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4049259.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2014-07-19",
+      "path": "2014/07/19_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4049260.htm"
+    },
+    {
+      "special": "Irvine Welsh",
+      "timeslot": "night",
+      "date": "2014-07-19",
+      "path": "2014/07/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4049263.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-07-25",
+      "path": "2014/07/25_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4053284.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2014-07-26",
+      "path": "2014/07/26_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4053287.htm"
+    },
+    {
+      "special": "The Cameo Special",
+      "timeslot": "night",
+      "date": "2014-07-26",
+      "path": "2014/07/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4053288.htm"
     },
     {
       "special": null,
