@@ -35181,6 +35181,41 @@
       "date": "2025-05-04",
       "path": "2025/05/04_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-4-may-2025-on-abc-tv/105238328"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-05-05",
+      "path": "2025/05/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-5-may-2025-on-abc-entertains/105254546"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2025-05-05",
+      "path": "2025/05/05_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-5-may-2025-on-abc-tv/105254544"
+    },
+    {
+      "special": "Skate Punk special",
+      "timeslot": "night",
+      "date": "2025-05-06",
+      "path": "2025/05/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-6-may-2025-on-abc-entertains/105254550"
+    },
+    {
+      "special": "The VAULT : Going Solo, Side Projects & Supergroups Pt. II",
+      "timeslot": "night",
+      "date": "2025-05-07",
+      "path": "2025/05/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-7-may-2025-on-abc-entertains/105254552"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2025-05-08",
+      "path": "2025/05/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-8-may-2025-on-abc-entertains/105254554"
     }
   ]
 }
