@@ -35216,6 +35216,55 @@
       "date": "2025-05-08",
       "path": "2025/05/08_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-8-may-2025-on-abc-entertains/105254554"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-05-09",
+      "path": "2025/05/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-9-may-2025-on-abc-entertains/105274120"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-05-09",
+      "path": "2025/05/09_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-9-may-2025-on-abc-tv/105274118"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2025-05-10",
+      "path": "2025/05/10_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-10-may-2025-on-abc-tv/105274122"
+    },
+    {
+      "special": "Spawned By Slayer Special",
+      "timeslot": "night",
+      "date": "2025-05-10",
+      "path": "2025/05/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-10-may-2025-on-abc-entertains/105274126"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-05-10",
+      "path": "2025/05/10_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-10-may-2025-on-abc-tv/105274124"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-05-11",
+      "path": "2025/05/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-11-may-2025-on-abc-entertains/105274130"
+    },
+    {
+      "special": "The VAULT: 80s & 90s Blues Rock",
+      "timeslot": "night",
+      "date": "2025-05-11",
+      "path": "2025/05/11_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-11-may-2025-on-abc-tv/105274128"
     }
   ]
 }

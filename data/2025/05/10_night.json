@@ -1,0 +1,87 @@
+{
+  "title": "Saturday night 10 May 2025 on ABC Entertains",
+  "special": "Spawned By Slayer Special",
+  "timeslot": "night",
+  "date": "2025-05-10",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-10-may-2025-on-abc-entertains/105274126",
+  "tracks": [
+    {
+      "artist": "MACHINE HEAD",
+      "song": "Davidian",
+      "label": "Independent",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "Walk",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Duality",
+      "label": "Roadrunner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "TRIVIUM",
+      "song": "Pull Harder On The Strings",
+      "label": "Roadrunner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "B.Y.O.B.",
+      "label": "SBME",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "CHILDREN OF BODOM",
+      "song": "In Your Face",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LAMB OF GOD",
+      "song": "Redneck",
+      "label": "SBME",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KILLSWITCH ENGAGE",
+      "song": "My Curse",
+      "label": "Roadrunner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "Ov Fire And The Void",
+      "label": null,
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DEVILDRIVER",
+      "song": "Dead To Rights",
+      "label": "Roadrunner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "GOJIRA",
+      "song": "Silvera",
+      "label": null,
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MAYHEM",
+      "song": "Watchers",
+      "label": null,
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "KREATOR",
+      "song": "Satan Is Real",
+      "label": "Nuclear Blast",
+      "timeslot": "00:30:00"
+    }
+  ]
+}
