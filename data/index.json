@@ -35265,6 +35265,41 @@
       "date": "2025-05-11",
       "path": "2025/05/11_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-11-may-2025-on-abc-tv/105274128"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-05-12",
+      "path": "2025/05/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-12-may-2025-on-abc-entertains/105282906"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2025-05-12",
+      "path": "2025/05/12_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-12-may-2025-on-abc-tv/105282904"
+    },
+    {
+      "special": "Brisbane Indie special",
+      "timeslot": "night",
+      "date": "2025-05-13",
+      "path": "2025/05/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-13-may-2025-on-abc-entertains/105282908"
+    },
+    {
+      "special": "The VAULT : 80s & 90s Blues Rock",
+      "timeslot": "night",
+      "date": "2025-05-14",
+      "path": "2025/05/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-14-may-2025-on-abc-entertains/105282912"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2025-05-15",
+      "path": "2025/05/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-15-may-2025-on-abc-entertains/105282914"
     }
   ]
 }
