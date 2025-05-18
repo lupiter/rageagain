@@ -1,0 +1,513 @@
+{
+  "title": "Friday night 16 May 2025 on ABC TV",
+  "special": "New Music Show",
+  "timeslot": "night",
+  "date": "2025-05-16",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-16-may-2025-on-abc-tv/105299714",
+  "tracks": [
+    {
+      "artist": "SOMBR",
+      "song": "Undressed",
+      "label": "SMB Music / WMG",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MILEY CYRUS",
+      "song": "More To Lose",
+      "label": "Columbia",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "LORDE",
+      "song": "What Was That",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KING GIZZARD and THE LIZARD WIZARD",
+      "song": "Grow Wings And Fly",
+      "label": "doom)",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRIVATE FUNCTION",
+      "song": "Animal",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE LEMONHEADS",
+      "song": "Deep End",
+      "label": "Fire Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SELENA GOMEZ, BENNY BLANCO",
+      "song": "Talk",
+      "label": "SMG Music",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SEVDALIZA ft. LA JOAQUI",
+      "song": "Heroina",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SUMMER WALKER",
+      "song": "Spend It",
+      "label": "Interscope Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FLUME and JPEGMAFIA",
+      "song": "AI Girlfriend",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ST.SINNER",
+      "song": "Alive",
+      "label": "Def Wolf Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TRIAD",
+      "song": "What I Like",
+      "label": "T467 Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE SMITH STREET BAND",
+      "song": "This Is It",
+      "label": "Pool House Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SKEGSS",
+      "song": "State Of Hawaii",
+      "label": "Loma Vista",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JOHN BUTLER",
+      "song": "Trippin On You",
+      "label": "Family Music",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "VV PETE ft. UTILITY, BRODINSKI",
+      "song": "GO DUMB",
+      "label": "Trackwork",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DEAN BRADY",
+      "song": "Brand New Smile",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ROMANIE",
+      "song": "Uh Oh",
+      "label": "Community Music",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE MOONLANDINGZ",
+      "song": "It's Where I'm From",
+      "label": "Transgressive Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WET LEG",
+      "song": "Catch These Fists",
+      "label": "Domino",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Sacred",
+      "label": "Parkway Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "Sowing Salt",
+      "label": "Nuclear Blast",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FOSTER THE PEOPLE",
+      "song": "See You In The Afterlife / Feed Me",
+      "label": "Atlantic",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DOECHII",
+      "song": "Anxiety",
+      "label": "Top Dawg / Capitol Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JEM CASSAR-DALEY",
+      "song": "Kiss Me Like You're Leaving",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MARK PRITCHARD and THOM YORKE",
+      "song": "Gangsters",
+      "label": "Warp",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AUDREY HOBERT",
+      "song": "Sue Me",
+      "label": "RCA",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RHYSICS",
+      "song": "Legless (Live)",
+      "label": "Headbob Enterprises",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TOM ODELL",
+      "song": "Don't Let Me Go",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AVRIL LAVIGNE ft. SIMPLE PLAN",
+      "song": "Young and Dumb",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DON TOLIVER ft. DOJA CAT",
+      "song": "Lose My Mind",
+      "label": "Atlantic",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NERVE ft. SONGER",
+      "song": "95s",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JACK GABY",
+      "song": "Made You Look",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALISON WONDERLAND",
+      "song": "Get Started",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JUNO MAMBA, EDAPOLLO",
+      "song": "U Always",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CARLA WEHBE",
+      "song": "Gentle With Me",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PUBLIC FIGURES",
+      "song": "Onto Something",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE KOOKS",
+      "song": "If They Could Only Know",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CALUM HOOD",
+      "song": "Call Me When You Know Better",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "POLISH CLUB ft. DOBBY",
+      "song": "Something On The Side",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OK GO",
+      "song": "Love",
+      "label": "Paracadute",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RICEWINE",
+      "song": "Uncut",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SEX MASK",
+      "song": "Beheadal",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SPACEY JANE",
+      "song": "Whateverrrr",
+      "label": "Independent / AWAL",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MJ LENDERMAN",
+      "song": "Wristwatch",
+      "label": "ANTI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TEEN JESUS AND THE JEAN TEASERS",
+      "song": "BALCONY",
+      "label": "Community Music",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ZION GARCIA",
+      "song": "FIGHTBACK",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BBNO$",
+      "song": "Boom",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KATSEYE",
+      "song": "Gnarly",
+      "label": "HYBE",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "XIAO XIAO",
+      "song": "Left Right",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BEDDY RAYS",
+      "song": "Pocket Rocket",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "REDD.",
+      "song": "Jeans So Baggy",
+      "label": "Island Australia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "AITCH ft. ANNE-MARIE",
+      "song": "LUV?",
+      "label": "Infinitum / NQ Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR and SZA",
+      "song": "Luther",
+      "label": "Interscope Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TOMMY RICHMAN ft. SEXYY RED",
+      "song": "ACTIN UP",
+      "label": "PULSE Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LABRINTH",
+      "song": "S.W.M.F.",
+      "label": "Columbia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HILLTOP HOODS",
+      "song": "Don't Happy, Be Worry",
+      "label": "Island Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DRUID FLUIDS",
+      "song": "Eternal",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PSYCHEDELIC PORN CRUMPETS",
+      "song": "Weird World Awoke",
+      "label": "What Reality? Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GHOST",
+      "song": "Peacefield",
+      "label": "Loma Vista",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "VINTED VINEER",
+      "song": "Shallow Water",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "AL SPEERS",
+      "song": "ILTLY",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE MARIAS",
+      "song": "Back To Me",
+      "label": "Nice Life",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RICH BRIAN",
+      "song": "Butterfly",
+      "label": "88Rising",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SORRY",
+      "song": "Jetplane",
+      "label": "Domino",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "COLA BOYY",
+      "song": "Babylon",
+      "label": "Record Makers",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "YUNGBLUD",
+      "song": "Lovesick Lullaby",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THESE NEW PURITANS",
+      "song": "A Season In Hell",
+      "label": "Domino",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ADDISON RAE",
+      "song": "Headphones On",
+      "label": "Columbia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JUSTICE ft. RIMON",
+      "song": "Afterimage",
+      "label": "Ed Banger / Because",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PARCELS",
+      "song": "Yougotmefeeling",
+      "label": "Because Music",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HAIM",
+      "song": "Down To Be Wrong",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "VELVET TRIP",
+      "song": "The Bends",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TURNSTILE",
+      "song": "Seein Stars / Birds",
+      "label": "Roadrunner Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SONIC REDUCER",
+      "song": "NEEDLES",
+      "label": "Ourness",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JORJA SMITH",
+      "song": "The Way I Love You",
+      "label": "FAMM",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ARMLOCK",
+      "song": "Strobe",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LOOSE TOOTH",
+      "song": "Walk Away",
+      "label": "Blossom Rot Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GRIFFIN FORD",
+      "song": "God Is Inbetween Us",
+      "label": "Self Importance River Blues",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JEN FRANK",
+      "song": "You've Been Ghosted",
+      "label": "Wild At Heart Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ARCADE FIRE",
+      "song": "Year Of The Snake",
+      "label": "Arcade Fire Music",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KING GIZZARD and THE LIZARD WIZARD",
+      "song": "Deadstick",
+      "label": "doom)",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DARTZ",
+      "song": "Moving To Melbourne",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PRESS CLUB",
+      "song": "To All The Ones That I Love",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    }
+  ]
+}

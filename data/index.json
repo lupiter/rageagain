@@ -12132,60 +12132,74 @@
       "url": "http://www.abc.net.au/rage/archive/s3644721.htm"
     },
     {
-      "special": "Missy Higgins",
-      "timeslot": "morning",
-      "date": "2012-12-01",
-      "path": "2012/12/01_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3644736.htm"
-    },
-    {
-      "special": "Missy Higgins",
-      "timeslot": "night",
-      "date": "2012-12-01",
-      "path": "2012/12/01_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3644590.htm"
-    },
-    {
-      "special": "F Buttons guest program rage",
-      "timeslot": "night",
-      "date": "2012-12-07",
-      "path": "2012/12/07_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3649824.htm"
-    },
-    {
       "special": null,
+      "timeslot": "night",
+      "date": "2013-01-04",
+      "path": "2013/01/04_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3664365.htm"
+    },
+    {
+      "special": "Retro Month Episode One",
       "timeslot": "morning",
-      "date": "2012-12-08",
-      "path": "2012/12/08_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3649880.htm"
+      "date": "2013-01-05",
+      "path": "2013/01/05_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3664369.htm"
+    },
+    {
+      "special": "Retro Month Episode One",
+      "timeslot": "night",
+      "date": "2013-01-05",
+      "path": "2013/01/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3664272.htm"
     },
     {
       "special": null,
       "timeslot": "night",
-      "date": "2012-12-08",
-      "path": "2012/12/08_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3649839.htm"
+      "date": "2013-01-11",
+      "path": "2013/01/11_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3668107.htm"
+    },
+    {
+      "special": "Retro Month Episode Two",
+      "timeslot": "morning",
+      "date": "2013-01-12",
+      "path": "2013/01/12_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3668127.htm"
+    },
+    {
+      "special": "Retro Month Episode Two",
+      "timeslot": "night",
+      "date": "2013-01-12",
+      "path": "2013/01/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3668080.htm"
     },
     {
       "special": null,
       "timeslot": "night",
-      "date": "2012-12-14",
-      "path": "2012/12/14_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3654863.htm"
+      "date": "2013-01-18",
+      "path": "2013/01/18_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3672139.htm"
     },
     {
-      "special": "RICK ASTLEY",
+      "special": "Retro Month Episode Three",
       "timeslot": "morning",
-      "date": "2012-12-15",
-      "path": "2012/12/15_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3654779.htm"
+      "date": "2013-01-19",
+      "path": "2013/01/19_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3672127.htm"
     },
     {
-      "special": "RICK ASTLEY",
+      "special": "Retro Month Episode Three",
       "timeslot": "night",
-      "date": "2012-12-15",
-      "path": "2012/12/15_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3654428.htm"
+      "date": "2013-01-19",
+      "path": "2013/01/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3671584.htm"
+    },
+    {
+      "special": "Triple J's Hottest 100 2012",
+      "timeslot": "night",
+      "date": "2013-01-26",
+      "path": "2013/01/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3676730.htm"
     },
     {
       "special": null,
@@ -12377,74 +12391,60 @@
       "url": "http://www.abc.net.au/rage/archive/s3726037.htm"
     },
     {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-01-04",
-      "path": "2013/01/04_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3664365.htm"
-    },
-    {
-      "special": "Retro Month Episode One",
+      "special": "Missy Higgins",
       "timeslot": "morning",
-      "date": "2013-01-05",
-      "path": "2013/01/05_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3664369.htm"
+      "date": "2012-12-01",
+      "path": "2012/12/01_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3644736.htm"
     },
     {
-      "special": "Retro Month Episode One",
+      "special": "Missy Higgins",
       "timeslot": "night",
-      "date": "2013-01-05",
-      "path": "2013/01/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3664272.htm"
+      "date": "2012-12-01",
+      "path": "2012/12/01_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3644590.htm"
+    },
+    {
+      "special": "F Buttons guest program rage",
+      "timeslot": "night",
+      "date": "2012-12-07",
+      "path": "2012/12/07_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3649824.htm"
     },
     {
       "special": null,
-      "timeslot": "night",
-      "date": "2013-01-11",
-      "path": "2013/01/11_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3668107.htm"
-    },
-    {
-      "special": "Retro Month Episode Two",
       "timeslot": "morning",
-      "date": "2013-01-12",
-      "path": "2013/01/12_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3668127.htm"
-    },
-    {
-      "special": "Retro Month Episode Two",
-      "timeslot": "night",
-      "date": "2013-01-12",
-      "path": "2013/01/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3668080.htm"
+      "date": "2012-12-08",
+      "path": "2012/12/08_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3649880.htm"
     },
     {
       "special": null,
       "timeslot": "night",
-      "date": "2013-01-18",
-      "path": "2013/01/18_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3672139.htm"
+      "date": "2012-12-08",
+      "path": "2012/12/08_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3649839.htm"
     },
     {
-      "special": "Retro Month Episode Three",
+      "special": null,
+      "timeslot": "night",
+      "date": "2012-12-14",
+      "path": "2012/12/14_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3654863.htm"
+    },
+    {
+      "special": "RICK ASTLEY",
       "timeslot": "morning",
-      "date": "2013-01-19",
-      "path": "2013/01/19_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3672127.htm"
+      "date": "2012-12-15",
+      "path": "2012/12/15_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3654779.htm"
     },
     {
-      "special": "Retro Month Episode Three",
+      "special": "RICK ASTLEY",
       "timeslot": "night",
-      "date": "2013-01-19",
-      "path": "2013/01/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3671584.htm"
-    },
-    {
-      "special": "Triple J's Hottest 100 2012",
-      "timeslot": "night",
-      "date": "2013-01-26",
-      "path": "2013/01/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3676730.htm"
+      "date": "2012-12-15",
+      "path": "2012/12/15_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3654428.htm"
     },
     {
       "special": null,
@@ -35300,6 +35300,55 @@
       "date": "2025-05-15",
       "path": "2025/05/15_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-15-may-2025-on-abc-entertains/105282914"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-05-16",
+      "path": "2025/05/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-16-may-2025-on-abc-entertains/105299716"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-05-16",
+      "path": "2025/05/16_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-16-may-2025-on-abc-tv/105299714"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2025-05-17",
+      "path": "2025/05/17_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-17-may-2025-on-abc-tv/105299718"
+    },
+    {
+      "special": "Indie Pop special",
+      "timeslot": "night",
+      "date": "2025-05-17",
+      "path": "2025/05/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-may-2025-on-abc-entertains/105299722"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-05-17",
+      "path": "2025/05/17_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-may-2025-on-abc-tv/105299720"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-05-18",
+      "path": "2025/05/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-18-may-2025-on-abc-entertains/105299726"
+    },
+    {
+      "special": "rage Vault: Don't Call It Yacht Rock",
+      "timeslot": "night",
+      "date": "2025-05-18",
+      "path": "2025/05/18_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-18-may-2025-on-abc-tv/105299724"
     }
   ]
 }
