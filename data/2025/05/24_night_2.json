@@ -1,0 +1,627 @@
+{
+  "title": "Saturday night 24 May 2025 on ABC TV",
+  "special": null,
+  "timeslot": "night",
+  "date": "2025-05-24",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-24-may-2025-on-abc-tv/105330596",
+  "tracks": [
+    {
+      "artist": "THE PREATURES",
+      "song": "Somebodys Talking",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "U Should Not Be Doing That",
+      "label": "Virgin",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "Here's The Thing",
+      "label": "XL",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Helicopter",
+      "label": "Fest/Mush",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MALLRAT",
+      "song": "Horses",
+      "label": "Dew Process",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MALLRAT",
+      "song": "Hocus Pocus",
+      "label": "Dew Process",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LORDE",
+      "song": "Secrets From A Girl (Who's Seen It All)",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "WILLIAM CRIGHTON",
+      "song": "This Is Magic",
+      "label": "Independent",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES",
+      "song": "Fire Fire Fire",
+      "label": "SpeaknSpell",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "METRONOMY",
+      "song": "The Look",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "WANG CHUNG",
+      "song": "Dance Hall Days",
+      "label": "Geffen",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "TOTO",
+      "song": "Hold The Line",
+      "label": "CBS",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MEN AT WORK",
+      "song": "Who Can It Be Now",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Kiss",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE STYLE COUNCIL",
+      "song": "You're The Best Thing",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Confide In Me",
+      "label": "Mushroom",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Frozen",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JONI MITCHELL",
+      "song": "My Secret Place",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JONI MITCHELL",
+      "song": "Chinese Cafe",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FABOLOUS featuring TAMIA",
+      "song": "Into You",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DES'REE",
+      "song": "You Gotta Be",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "INDIA.ARIE",
+      "song": "Brown Skin",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Da Funk",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SHANIA TWAIN",
+      "song": "That Don't Impress Me Much",
+      "label": "Mercury",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SPOON",
+      "song": "Don't You Evah",
+      "label": "Merge Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SPOON",
+      "song": "The Underdog",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE PRETENDERS",
+      "song": "Brass In Pocket",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Burning Down The House",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "And She Was",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PATTI SMITH",
+      "song": "Because The Night",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "YVES TUMOR",
+      "song": "Jackie",
+      "label": "Warp",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROYEL OTIS",
+      "song": "Going Kokomo",
+      "label": "Ourness",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ANDY SHAUF",
+      "song": "Early To The Party",
+      "label": "ANTI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MAC MILLER",
+      "song": "Good News",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KENNY ROGERS and DOLLY PARTON",
+      "song": "Islands In The Stream",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KHRUANGBIN and LEON BRIDGES",
+      "song": "Texas Sun",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WILLIE NELSON",
+      "song": "You Were Always On My Mind",
+      "label": "CBS",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "The New Pollution",
+      "label": "MCA)",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "I KNOW LEOPARD",
+      "song": "Heather",
+      "label": "Ivy League",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "She Bangs The Drums",
+      "label": "MCA)",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CHRISTINE ANU",
+      "song": "Party",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PAUL KELLY and THE COLOURED GIRLS",
+      "song": "Leaps And Bounds",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "VIKA and LINDA",
+      "song": "When Will You Fall For Me? (Live on Studio 22, 1999)",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BAD//DREEMS",
+      "song": "My Only Friend",
+      "label": "Ivy League",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TAME IMPALA",
+      "song": "Mind Mischief",
+      "label": "Modular",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GOAT",
+      "song": "Run To Your Mama",
+      "label": "Epic",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Burning Of The Midnight Lantern (GTK version)",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "One Of These Days",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Lust For Life",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IGGY POP and KATE PIERSON",
+      "song": "Candy",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DIVINYLS",
+      "song": "In My Life",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DIVINYLS",
+      "song": "Only Lonely",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ALANIS MORISSETTE",
+      "song": "You Oughta Know",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BELINDA CARLISLE",
+      "song": "Summer Rain",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RICKI-LEE COULTER",
+      "song": "Don't Miss You",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Is This How You Feel? (Live) (re-imagined version)",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Pale Rider",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Is This How You Feel?",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Manic Baby",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Better Than It Ever Could Be",
+      "label": "Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Ordinary",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Cruel",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "I Know A Girl",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Girlhood",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Yanada",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Everything Now (On triple j's Like A Version)",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ISABELLA MANFREDI",
+      "song": "Jealousy",
+      "label": "Island Australia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ISABELLA MANFREDI ft. PRICIE",
+      "song": "Naive",
+      "label": "Island Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GIDEON BENSEN",
+      "song": "All New Low",
+      "label": "Puncture Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GIDEON BENSEN",
+      "song": "Talk Talk",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GIDEON BENSEN",
+      "song": "Cold Cold Heart",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BRIDEZILLA",
+      "song": "Brown Paper Bag",
+      "label": "Ivy League",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BELLES WILL RING",
+      "song": "The Coldest Heart",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE PAPER SCISSORS",
+      "song": "We Don't Walk",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GHOSTWOOD",
+      "song": "Red Version",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RED RIDERS",
+      "song": "Slide In Next To Me",
+      "label": "Ivy League/Slanted",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MERCY ARMS",
+      "song": "Kept Low",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLUEJUICE",
+      "song": "Vitriol",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FAKER",
+      "song": "This Heart Attack",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE COPS",
+      "song": "Call Me Anytime",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LITTLE RED",
+      "song": "Rock It",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE VASCO ERA",
+      "song": "Oh Sam",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE MESS HALL",
+      "song": "Keep Walking",
+      "label": "Ivy League",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE HOLIDAYS",
+      "song": "Moonlight Hours",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SPARKADIA",
+      "song": "Jealousy",
+      "label": "Ivy League",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Shadows",
+      "label": "Shiny",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CUT COPY",
+      "song": "Lights and Music",
+      "label": "Modular",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "G FLIP",
+      "song": "Disco Cowgirl",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KING GIZZARD and THE LIZARD WIZARD",
+      "song": "Grow Wings And Fly",
+      "label": "doom)",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CHARLI XCX",
+      "song": "Party 4 U",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FOLK BITCH TRIO",
+      "song": "Cathode Ray",
+      "label": "Jagjaguwar",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PSYCHEDELIC PORN CRUMPETS",
+      "song": "Incubator (V2000)",
+      "label": "What Reality? Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE LEMONHEADS",
+      "song": "Deep End",
+      "label": "Fire Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ST.SINNER",
+      "song": "Alive (clean version)",
+      "label": "Def Wolf Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HASSALL",
+      "song": "Overpopulator",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "VELVET TRIP",
+      "song": "The Bends",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "VERA BLUE",
+      "song": "In The Corner (clean version)",
+      "label": "Island Australia",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BAKER BOY ft. BRIGGS and HAIKU HANDS",
+      "song": "Freak Out (clean version)",
+      "label": "Island Australia",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SALARYMEN",
+      "song": "Truth",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DEAN BRADY",
+      "song": "Brand New Smile",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BEC SANDRIDGE",
+      "song": "Always A Fan",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SELVE",
+      "song": "Breaking Into Heaven (clean version)",
+      "label": "Community Music",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Alfie (clean version)",
+      "label": "BMG",
+      "timeslot": "06:30:00"
+    }
+  ]
+}
