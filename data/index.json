@@ -15536,90 +15536,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2016-02-05",
-      "path": "2016/02/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4401367.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2016-02-06",
-      "path": "2016/02/06_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4401369.htm"
-    },
-    {
-      "special": "Royal Headache",
-      "timeslot": "night",
-      "date": "2016-02-06",
-      "path": "2016/02/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4401368.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2016-02-12",
-      "path": "2016/02/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4405732.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2016-02-13",
-      "path": "2016/02/13_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4405736.htm"
-    },
-    {
-      "special": "Mac DeMarco",
-      "timeslot": "night",
-      "date": "2016-02-13",
-      "path": "2016/02/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4405739.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2016-02-19",
-      "path": "2016/02/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4409933.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2016-02-20",
-      "path": "2016/02/20_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4409938.htm"
-    },
-    {
-      "special": "City and Colour",
-      "timeslot": "night",
-      "date": "2016-02-20",
-      "path": "2016/02/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4409941.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2016-02-26",
-      "path": "2016/02/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4414421.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2016-02-27",
-      "path": "2016/02/27_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4414433.htm"
-    },
-    {
-      "special": "Courtney Barnett, Jen Cloher and Fraser A Gorman",
-      "timeslot": "night",
-      "date": "2016-02-27",
-      "path": "2016/02/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4414497.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2016-03-04",
       "path": "2016/03/04_night.json",
       "url": "http://www.abc.net.au/rage/archive/s4418705.htm"
@@ -16232,6 +16148,90 @@
       "date": "2016-05-31",
       "path": "2016/05/31_night_2.json",
       "url": "http://www.abc.net.au/rage/archive/s4472666.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2016-02-05",
+      "path": "2016/02/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4401367.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2016-02-06",
+      "path": "2016/02/06_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4401369.htm"
+    },
+    {
+      "special": "Royal Headache",
+      "timeslot": "night",
+      "date": "2016-02-06",
+      "path": "2016/02/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4401368.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2016-02-12",
+      "path": "2016/02/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4405732.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2016-02-13",
+      "path": "2016/02/13_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4405736.htm"
+    },
+    {
+      "special": "Mac DeMarco",
+      "timeslot": "night",
+      "date": "2016-02-13",
+      "path": "2016/02/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4405739.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2016-02-19",
+      "path": "2016/02/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4409933.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2016-02-20",
+      "path": "2016/02/20_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4409938.htm"
+    },
+    {
+      "special": "City and Colour",
+      "timeslot": "night",
+      "date": "2016-02-20",
+      "path": "2016/02/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4409941.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2016-02-26",
+      "path": "2016/02/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4414421.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2016-02-27",
+      "path": "2016/02/27_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4414433.htm"
+    },
+    {
+      "special": "Courtney Barnett, Jen Cloher and Fraser A Gorman",
+      "timeslot": "night",
+      "date": "2016-02-27",
+      "path": "2016/02/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4414497.htm"
     },
     {
       "special": null,
