@@ -1,0 +1,87 @@
+{
+  "title": "Monday night 9 June 2025 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2025-06-09",
+  "url": "https://www.abc.net.au/rage/playlist/monday-night-9-june-2025-on-abc-entertains/105386204",
+  "tracks": [
+    {
+      "artist": "SKELETEN",
+      "song": "Bodys Chorus",
+      "label": "Astral People",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "CIBO MATTO",
+      "song": "Sugar Water",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "NOURISHED BY TIME",
+      "song": "The Fields",
+      "label": "Scenic Route Records",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LEN",
+      "song": "Candy Pop",
+      "label": "Four Ways To Rock",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE BLAZE",
+      "song": "Virile",
+      "label": "Animal63",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "UNDERWORLD",
+      "song": "Two Months Off",
+      "label": "Jive/Zomba",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "YOTHU YINDI",
+      "song": "World Turning",
+      "label": "Mushroom",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "XIAO XIAO",
+      "song": "Left Right",
+      "label": "Independent",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "ECCA VANDAL",
+      "song": "THEN THERE'S ONE",
+      "label": "Independent",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE KLF",
+      "song": "America: What Time Is Love?",
+      "label": "Mushroom",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Twisted Transistor",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SADE",
+      "song": "The Sweetest Taboo",
+      "label": "CBS",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE BLUE NILE",
+      "song": "Tinseltown In The Rain",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    }
+  ]
+}
