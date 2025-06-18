@@ -12260,6 +12260,90 @@
     {
       "special": null,
       "timeslot": "night",
+      "date": "2013-02-01",
+      "path": "2013/02/01_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3681197.htm"
+    },
+    {
+      "special": "Sarah Blasko guest programs rage",
+      "timeslot": "morning",
+      "date": "2013-02-02",
+      "path": "2013/02/02_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3681219.htm"
+    },
+    {
+      "special": "Sarah Blasko guest programs rage",
+      "timeslot": "night",
+      "date": "2013-02-02",
+      "path": "2013/02/02_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3681385.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-02-08",
+      "path": "2013/02/08_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3686347.htm"
+    },
+    {
+      "special": "Django Django guest program rage.",
+      "timeslot": "morning",
+      "date": "2013-02-09",
+      "path": "2013/02/09_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3686354.htm"
+    },
+    {
+      "special": "Django Django guest program rage.",
+      "timeslot": "night",
+      "date": "2013-02-09",
+      "path": "2013/02/09_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3686519.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-02-15",
+      "path": "2013/02/15_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3691215.htm"
+    },
+    {
+      "special": "Margaret Pomeranz and David Stratton",
+      "timeslot": "morning",
+      "date": "2013-02-16",
+      "path": "2013/02/16_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3691258.htm"
+    },
+    {
+      "special": "Margaret Pomeranz and David Stratton",
+      "timeslot": "night",
+      "date": "2013-02-16",
+      "path": "2013/02/16_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3691517.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-02-22",
+      "path": "2013/02/22_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3696064.htm"
+    },
+    {
+      "special": "Grimes",
+      "timeslot": "morning",
+      "date": "2013-02-23",
+      "path": "2013/02/23_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3695947.htm"
+    },
+    {
+      "special": "Grimes",
+      "timeslot": "night",
+      "date": "2013-02-23",
+      "path": "2013/02/23_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3696261.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
       "date": "2013-03-01",
       "path": "2013/03/01_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3104300.htm"
@@ -12445,90 +12529,6 @@
       "date": "2013-04-27",
       "path": "2013/04/27_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3745952.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-02-01",
-      "path": "2013/02/01_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3681197.htm"
-    },
-    {
-      "special": "Sarah Blasko guest programs rage",
-      "timeslot": "morning",
-      "date": "2013-02-02",
-      "path": "2013/02/02_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3681219.htm"
-    },
-    {
-      "special": "Sarah Blasko guest programs rage",
-      "timeslot": "night",
-      "date": "2013-02-02",
-      "path": "2013/02/02_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3681385.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-02-08",
-      "path": "2013/02/08_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3686347.htm"
-    },
-    {
-      "special": "Django Django guest program rage.",
-      "timeslot": "morning",
-      "date": "2013-02-09",
-      "path": "2013/02/09_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3686354.htm"
-    },
-    {
-      "special": "Django Django guest program rage.",
-      "timeslot": "night",
-      "date": "2013-02-09",
-      "path": "2013/02/09_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3686519.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-02-15",
-      "path": "2013/02/15_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3691215.htm"
-    },
-    {
-      "special": "Margaret Pomeranz and David Stratton",
-      "timeslot": "morning",
-      "date": "2013-02-16",
-      "path": "2013/02/16_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3691258.htm"
-    },
-    {
-      "special": "Margaret Pomeranz and David Stratton",
-      "timeslot": "night",
-      "date": "2013-02-16",
-      "path": "2013/02/16_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3691517.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-02-22",
-      "path": "2013/02/22_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3696064.htm"
-    },
-    {
-      "special": "Grimes",
-      "timeslot": "morning",
-      "date": "2013-02-23",
-      "path": "2013/02/23_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3695947.htm"
-    },
-    {
-      "special": "Grimes",
-      "timeslot": "night",
-      "date": "2013-02-23",
-      "path": "2013/02/23_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3696261.htm"
     },
     {
       "special": null,
