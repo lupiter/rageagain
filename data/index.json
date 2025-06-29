@@ -6611,62 +6611,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2007-02-02",
-      "path": "2007/02/02.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975165.htm"
-    },
-    {
-      "special": "Tapes 'N Tapes guest program",
-      "timeslot": null,
-      "date": "2007-02-03",
-      "path": "2007/02/03.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975163.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-02-09",
-      "path": "2007/02/09.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975162.htm"
-    },
-    {
-      "special": "Kasabian guest program",
-      "timeslot": null,
-      "date": "2007-02-10",
-      "path": "2007/02/10.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975161.htm"
-    },
-    {
-      "special": "Triple J Hottest 100 - Part 1 (no. 100 - 51)",
-      "timeslot": null,
-      "date": "2007-02-16",
-      "path": "2007/02/16.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975159.htm"
-    },
-    {
-      "special": "Triple J Hottest 100 - Part 2 (no. 50 -1)",
-      "timeslot": null,
-      "date": "2007-02-17",
-      "path": "2007/02/17.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975158.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-02-23",
-      "path": "2007/02/23.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975157.htm"
-    },
-    {
-      "special": "Hot Chip guest program ",
-      "timeslot": null,
-      "date": "2007-02-24",
-      "path": "2007/02/24.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975155.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2007-01-05",
       "path": "2007/01/05.json",
       "url": "http://www.abc.net.au/rage/archive/s1975179.htm"
@@ -6719,6 +6663,62 @@
       "date": "2007-01-27",
       "path": "2007/01/27.json",
       "url": "http://www.abc.net.au/rage/archive/s1975167.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-02-02",
+      "path": "2007/02/02.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975165.htm"
+    },
+    {
+      "special": "Tapes 'N Tapes guest program",
+      "timeslot": null,
+      "date": "2007-02-03",
+      "path": "2007/02/03.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975163.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-02-09",
+      "path": "2007/02/09.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975162.htm"
+    },
+    {
+      "special": "Kasabian guest program",
+      "timeslot": null,
+      "date": "2007-02-10",
+      "path": "2007/02/10.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975161.htm"
+    },
+    {
+      "special": "Triple J Hottest 100 - Part 1 (no. 100 - 51)",
+      "timeslot": null,
+      "date": "2007-02-16",
+      "path": "2007/02/16.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975159.htm"
+    },
+    {
+      "special": "Triple J Hottest 100 - Part 2 (no. 50 -1)",
+      "timeslot": null,
+      "date": "2007-02-17",
+      "path": "2007/02/17.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975158.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-02-23",
+      "path": "2007/02/23.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975157.htm"
+    },
+    {
+      "special": "Hot Chip guest program ",
+      "timeslot": null,
+      "date": "2007-02-24",
+      "path": "2007/02/24.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975155.htm"
     },
     {
       "special": null,
@@ -13987,6 +13987,90 @@
       "url": "http://www.abc.net.au/rage/archive/s4077443.htm"
     },
     {
+      "special": "360",
+      "timeslot": "night",
+      "date": "2014-09-05",
+      "path": "2014/09/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4082015.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-09-05",
+      "path": "2014/09/05_night_2.json",
+      "url": "http://www.abc.net.au/rage/archive/s4082012.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2014-09-06",
+      "path": "2014/09/06_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4082014.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-09-12",
+      "path": "2014/09/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4086750.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2014-09-13",
+      "path": "2014/09/13_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4086751.htm"
+    },
+    {
+      "special": "Royal Blood",
+      "timeslot": "night",
+      "date": "2014-09-13",
+      "path": "2014/09/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4086752.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-09-19",
+      "path": "2014/09/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4091384.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2014-09-20",
+      "path": "2014/09/20_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4091386.htm"
+    },
+    {
+      "special": "Cris Kirkwood",
+      "timeslot": "night",
+      "date": "2014-09-20",
+      "path": "2014/09/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4091389.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2014-09-26",
+      "path": "2014/09/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4095518.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2014-09-27",
+      "path": "2014/09/27_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4095531.htm"
+    },
+    {
+      "special": "The Recovery Special",
+      "timeslot": "night",
+      "date": "2014-09-27",
+      "path": "2014/09/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4095539.htm"
+    },
+    {
       "special": null,
       "timeslot": "night",
       "date": "2014-10-03",
@@ -14076,90 +14160,6 @@
       "date": "2014-10-31",
       "path": "2014/10/31_night.json",
       "url": "http://www.abc.net.au/rage/archive/s4119129.htm"
-    },
-    {
-      "special": "360",
-      "timeslot": "night",
-      "date": "2014-09-05",
-      "path": "2014/09/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4082015.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-09-05",
-      "path": "2014/09/05_night_2.json",
-      "url": "http://www.abc.net.au/rage/archive/s4082012.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2014-09-06",
-      "path": "2014/09/06_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4082014.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-09-12",
-      "path": "2014/09/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4086750.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2014-09-13",
-      "path": "2014/09/13_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4086751.htm"
-    },
-    {
-      "special": "Royal Blood",
-      "timeslot": "night",
-      "date": "2014-09-13",
-      "path": "2014/09/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4086752.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-09-19",
-      "path": "2014/09/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4091384.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2014-09-20",
-      "path": "2014/09/20_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4091386.htm"
-    },
-    {
-      "special": "Cris Kirkwood",
-      "timeslot": "night",
-      "date": "2014-09-20",
-      "path": "2014/09/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4091389.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2014-09-26",
-      "path": "2014/09/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4095518.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2014-09-27",
-      "path": "2014/09/27_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4095531.htm"
-    },
-    {
-      "special": "The Recovery Special",
-      "timeslot": "night",
-      "date": "2014-09-27",
-      "path": "2014/09/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4095539.htm"
     },
     {
       "special": null,
@@ -35804,6 +35804,55 @@
       "date": "2025-06-26",
       "path": "2025/06/26_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-26-june-2025-on-abc-entertains/105450914"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-06-27",
+      "path": "2025/06/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-27-june-2025-on-abc-entertains/105470866"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-06-27",
+      "path": "2025/06/27_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-27-june-2025-on-abc-tv/105470864"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2025-06-28",
+      "path": "2025/06/28_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-28-june-2025-on-abc-tv/105470868"
+    },
+    {
+      "special": "Sleepless Special",
+      "timeslot": "night",
+      "date": "2025-06-28",
+      "path": "2025/06/28_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-28-june-2025-on-abc-entertains/105470872"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-06-28",
+      "path": "2025/06/28_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-28-june-2025-on-abc-tv/105470870"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-06-29",
+      "path": "2025/06/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-29-june-2025-on-abc-entertains/105470876"
+    },
+    {
+      "special": "The VAULT: Glastonbury '95",
+      "timeslot": "night",
+      "date": "2025-06-29",
+      "path": "2025/06/29_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-29-june-2025-on-abc-tv/105470874"
     }
   ]
 }
