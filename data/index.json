@@ -7400,6 +7400,69 @@
       "url": "http://www.abc.net.au/rage/archive/s2146443.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-01",
+      "path": "2008/02/01.json",
+      "url": "http://www.abc.net.au/rage/archive/s2154045.htm"
+    },
+    {
+      "special": "Klaxons",
+      "timeslot": null,
+      "date": "2008-02-02",
+      "path": "2008/02/02.json",
+      "url": "http://www.abc.net.au/rage/archive/s2154058.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-08",
+      "path": "2008/02/08.json",
+      "url": "http://www.abc.net.au/rage/archive/s2157694.htm"
+    },
+    {
+      "special": "Clare Bowditch",
+      "timeslot": null,
+      "date": "2008-02-09",
+      "path": "2008/02/09.json",
+      "url": "http://www.abc.net.au/rage/archive/s2157696.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-15",
+      "path": "2008/02/15.json",
+      "url": "http://www.abc.net.au/rage/archive/s2163676.htm"
+    },
+    {
+      "special": "The Gossip",
+      "timeslot": null,
+      "date": "2008-02-16",
+      "path": "2008/02/16.json",
+      "url": "http://www.abc.net.au/rage/archive/s2163677.htm"
+    },
+    {
+      "special": "Hottest 100 for 2007 (Friday 22nd and Saturday 23rd)",
+      "timeslot": null,
+      "date": "2008-02-22",
+      "path": "2008/02/22.json",
+      "url": "http://www.abc.net.au/rage/archive/s2169912.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-23",
+      "path": "2008/02/23.json",
+      "url": "http://www.abc.net.au/rage/archive/s2169915.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-29",
+      "path": "2008/02/29.json",
+      "url": "http://www.abc.net.au/rage/archive/s2176214.htm"
+    },
+    {
       "special": "Andrew Weatherall",
       "timeslot": null,
       "date": "2008-03-01",
@@ -7468,69 +7531,6 @@
       "date": "2008-03-29",
       "path": "2008/03/29.json",
       "url": "http://www.abc.net.au/rage/archive/s2201545.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-01",
-      "path": "2008/02/01.json",
-      "url": "http://www.abc.net.au/rage/archive/s2154045.htm"
-    },
-    {
-      "special": "Klaxons",
-      "timeslot": null,
-      "date": "2008-02-02",
-      "path": "2008/02/02.json",
-      "url": "http://www.abc.net.au/rage/archive/s2154058.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-08",
-      "path": "2008/02/08.json",
-      "url": "http://www.abc.net.au/rage/archive/s2157694.htm"
-    },
-    {
-      "special": "Clare Bowditch",
-      "timeslot": null,
-      "date": "2008-02-09",
-      "path": "2008/02/09.json",
-      "url": "http://www.abc.net.au/rage/archive/s2157696.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-15",
-      "path": "2008/02/15.json",
-      "url": "http://www.abc.net.au/rage/archive/s2163676.htm"
-    },
-    {
-      "special": "The Gossip",
-      "timeslot": null,
-      "date": "2008-02-16",
-      "path": "2008/02/16.json",
-      "url": "http://www.abc.net.au/rage/archive/s2163677.htm"
-    },
-    {
-      "special": "Hottest 100 for 2007 (Friday 22nd and Saturday 23rd)",
-      "timeslot": null,
-      "date": "2008-02-22",
-      "path": "2008/02/22.json",
-      "url": "http://www.abc.net.au/rage/archive/s2169912.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-23",
-      "path": "2008/02/23.json",
-      "url": "http://www.abc.net.au/rage/archive/s2169915.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-29",
-      "path": "2008/02/29.json",
-      "url": "http://www.abc.net.au/rage/archive/s2176214.htm"
     },
     {
       "special": null,
@@ -7717,62 +7717,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2008-07-04",
-      "path": "2008/07/04.json",
-      "url": "http://www.abc.net.au/rage/archive/s2294550.htm"
-    },
-    {
-      "special": "Tiesto",
-      "timeslot": null,
-      "date": "2008-07-05",
-      "path": "2008/07/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s2294555.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-07-11",
-      "path": "2008/07/11.json",
-      "url": "http://www.abc.net.au/rage/archive/s2301031.htm"
-    },
-    {
-      "special": "Pennywise",
-      "timeslot": null,
-      "date": "2008-07-12",
-      "path": "2008/07/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s2301036.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-07-18",
-      "path": "2008/07/18.json",
-      "url": "http://www.abc.net.au/rage/archive/s2307603.htm"
-    },
-    {
-      "special": "The Presets",
-      "timeslot": null,
-      "date": "2008-07-19",
-      "path": "2008/07/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s2307606.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-07-25",
-      "path": "2008/07/25.json",
-      "url": "http://www.abc.net.au/rage/archive/s2314277.htm"
-    },
-    {
-      "special": "Liam Finn",
-      "timeslot": null,
-      "date": "2008-07-26",
-      "path": "2008/07/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s2314285.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2008-08-01",
       "path": "2008/08/01.json",
       "url": "http://www.abc.net.au/rage/archive/s2320191.htm"
@@ -7839,6 +7783,62 @@
       "date": "2008-08-30",
       "path": "2008/08/30.json",
       "url": "http://www.abc.net.au/rage/archive/s2349928.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-07-04",
+      "path": "2008/07/04.json",
+      "url": "http://www.abc.net.au/rage/archive/s2294550.htm"
+    },
+    {
+      "special": "Tiesto",
+      "timeslot": null,
+      "date": "2008-07-05",
+      "path": "2008/07/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s2294555.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-07-11",
+      "path": "2008/07/11.json",
+      "url": "http://www.abc.net.au/rage/archive/s2301031.htm"
+    },
+    {
+      "special": "Pennywise",
+      "timeslot": null,
+      "date": "2008-07-12",
+      "path": "2008/07/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s2301036.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-07-18",
+      "path": "2008/07/18.json",
+      "url": "http://www.abc.net.au/rage/archive/s2307603.htm"
+    },
+    {
+      "special": "The Presets",
+      "timeslot": null,
+      "date": "2008-07-19",
+      "path": "2008/07/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s2307606.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-07-25",
+      "path": "2008/07/25.json",
+      "url": "http://www.abc.net.au/rage/archive/s2314277.htm"
+    },
+    {
+      "special": "Liam Finn",
+      "timeslot": null,
+      "date": "2008-07-26",
+      "path": "2008/07/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s2314285.htm"
     },
     {
       "special": null,
@@ -35888,6 +35888,55 @@
       "date": "2025-07-03",
       "path": "2025/07/03_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-3-july-2025-on-abc-entertains/105478804"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-07-04",
+      "path": "2025/07/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-4-july-2025-on-abc-entertains/105496754"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-07-04",
+      "path": "2025/07/04_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-4-july-2025-on-abc-tv/105496756"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2025-07-05",
+      "path": "2025/07/05_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-5-july-2025-on-abc-tv/105496758"
+    },
+    {
+      "special": "De-Volution Special",
+      "timeslot": "night",
+      "date": "2025-07-05",
+      "path": "2025/07/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-5-july-2025-on-abc-entertains/105496762"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-07-05",
+      "path": "2025/07/05_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-5-july-2025-on-abc-tv/105496760"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-07-06",
+      "path": "2025/07/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-6-july-2025-on-abc-entertains/105496766"
+    },
+    {
+      "special": "The VAULT: Real LinnDrums",
+      "timeslot": "night",
+      "date": "2025-07-06",
+      "path": "2025/07/06_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-6-july-2025-on-abc-tv/105496764"
     }
   ]
 }
