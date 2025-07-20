@@ -7661,62 +7661,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2008-07-04",
-      "path": "2008/07/04.json",
-      "url": "http://www.abc.net.au/rage/archive/s2294550.htm"
-    },
-    {
-      "special": "Tiesto",
-      "timeslot": null,
-      "date": "2008-07-05",
-      "path": "2008/07/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s2294555.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-07-11",
-      "path": "2008/07/11.json",
-      "url": "http://www.abc.net.au/rage/archive/s2301031.htm"
-    },
-    {
-      "special": "Pennywise",
-      "timeslot": null,
-      "date": "2008-07-12",
-      "path": "2008/07/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s2301036.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-07-18",
-      "path": "2008/07/18.json",
-      "url": "http://www.abc.net.au/rage/archive/s2307603.htm"
-    },
-    {
-      "special": "The Presets",
-      "timeslot": null,
-      "date": "2008-07-19",
-      "path": "2008/07/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s2307606.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-07-25",
-      "path": "2008/07/25.json",
-      "url": "http://www.abc.net.au/rage/archive/s2314277.htm"
-    },
-    {
-      "special": "Liam Finn",
-      "timeslot": null,
-      "date": "2008-07-26",
-      "path": "2008/07/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s2314285.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2008-06-06",
       "path": "2008/06/06.json",
       "url": "http://www.abc.net.au/rage/archive/s2266916.htm"
@@ -7769,6 +7713,62 @@
       "date": "2008-06-28",
       "path": "2008/06/28.json",
       "url": "http://www.abc.net.au/rage/archive/s2287721.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-07-04",
+      "path": "2008/07/04.json",
+      "url": "http://www.abc.net.au/rage/archive/s2294550.htm"
+    },
+    {
+      "special": "Tiesto",
+      "timeslot": null,
+      "date": "2008-07-05",
+      "path": "2008/07/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s2294555.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-07-11",
+      "path": "2008/07/11.json",
+      "url": "http://www.abc.net.au/rage/archive/s2301031.htm"
+    },
+    {
+      "special": "Pennywise",
+      "timeslot": null,
+      "date": "2008-07-12",
+      "path": "2008/07/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s2301036.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-07-18",
+      "path": "2008/07/18.json",
+      "url": "http://www.abc.net.au/rage/archive/s2307603.htm"
+    },
+    {
+      "special": "The Presets",
+      "timeslot": null,
+      "date": "2008-07-19",
+      "path": "2008/07/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s2307606.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-07-25",
+      "path": "2008/07/25.json",
+      "url": "http://www.abc.net.au/rage/archive/s2314277.htm"
+    },
+    {
+      "special": "Liam Finn",
+      "timeslot": null,
+      "date": "2008-07-26",
+      "path": "2008/07/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s2314285.htm"
     },
     {
       "special": null,
@@ -36056,6 +36056,55 @@
       "date": "2025-07-17",
       "path": "2025/07/17_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-17-july-2025-on-abc-entertains/105533970"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-07-18",
+      "path": "2025/07/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-18-july-2025-on-abc-entertains/105548266"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-07-18",
+      "path": "2025/07/18_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-18-july-2025-on-abc-tv/105548264"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2025-07-19",
+      "path": "2025/07/19_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-19-july-2025-on-abc-tv/105548308"
+    },
+    {
+      "special": "Tall Poppy Special",
+      "timeslot": "night",
+      "date": "2025-07-19",
+      "path": "2025/07/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-19-july-2025-on-abc-entertains/105548270"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-07-19",
+      "path": "2025/07/19_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-19-july-2025-on-abc-tv/105548268"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-07-20",
+      "path": "2025/07/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-20-july-2025-on-abc-entertains/105548274"
+    },
+    {
+      "special": "The VAULT: Danny Kleinman",
+      "timeslot": "night",
+      "date": "2025-07-20",
+      "path": "2025/07/20_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-20-july-2025-on-abc-tv/105548272"
     }
   ]
 }
