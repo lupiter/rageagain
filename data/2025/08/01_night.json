@@ -1,0 +1,87 @@
+{
+  "title": "Friday night 1 August 2025 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2025-08-01",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-1-august-2025-on-abc-entertains/105601160",
+  "tracks": [
+    {
+      "artist": "TALKING HEADS",
+      "song": "Once In A Lifetime",
+      "label": "Warner",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "This Must Be The Place (Naive Melody)",
+      "label": "Warner",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "ALEX GOPHER",
+      "song": "Party People",
+      "label": "V2",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "AMON TOBIN",
+      "song": "Slowly",
+      "label": "Creative Vibes",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Windowlicker",
+      "label": "Warner",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Since I Left You",
+      "label": "Modular",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BALANESCU QUARTET",
+      "song": "Revolution",
+      "label": "Mushroom",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "It's Oh So Quiet",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "CALEXICO",
+      "song": "Crystal Frontier",
+      "label": "Shock",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "CIBO MATTO",
+      "song": "Sugar Water",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MR OIZO",
+      "song": "Analog Worms Attack",
+      "label": "Independent",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "Sock It 2 Me",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DAVID BYRNE",
+      "song": "Miss America",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    }
+  ]
+}
