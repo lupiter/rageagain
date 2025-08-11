@@ -7535,6 +7535,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2008-04-04",
+      "path": "2008/04/04.json",
+      "url": "http://www.abc.net.au/rage/archive/s2207964.htm"
+    },
+    {
+      "special": "Calvin Harris",
+      "timeslot": null,
+      "date": "2008-04-05",
+      "path": "2008/04/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s2207988.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-04-11",
+      "path": "2008/04/11.json",
+      "url": "http://www.abc.net.au/rage/archive/s2214119.htm"
+    },
+    {
+      "special": "The Matches",
+      "timeslot": null,
+      "date": "2008-04-12",
+      "path": "2008/04/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s2214120.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-04-18",
+      "path": "2008/04/18.json",
+      "url": "http://www.abc.net.au/rage/archive/s2220717.htm"
+    },
+    {
+      "special": "Digitalism",
+      "timeslot": null,
+      "date": "2008-04-19",
+      "path": "2008/04/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s2220718.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-04-25",
+      "path": "2008/04/25.json",
+      "url": "http://www.abc.net.au/rage/archive/s2226401.htm"
+    },
+    {
+      "special": "The Panics",
+      "timeslot": null,
+      "date": "2008-04-26",
+      "path": "2008/04/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s2226402.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2008-05-02",
       "path": "2008/05/02.json",
       "url": "http://www.abc.net.au/rage/archive/s2233526.htm"
@@ -7601,62 +7657,6 @@
       "date": "2008-05-31",
       "path": "2008/05/31.json",
       "url": "http://www.abc.net.au/rage/archive/s2260258.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-04-04",
-      "path": "2008/04/04.json",
-      "url": "http://www.abc.net.au/rage/archive/s2207964.htm"
-    },
-    {
-      "special": "Calvin Harris",
-      "timeslot": null,
-      "date": "2008-04-05",
-      "path": "2008/04/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s2207988.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-04-11",
-      "path": "2008/04/11.json",
-      "url": "http://www.abc.net.au/rage/archive/s2214119.htm"
-    },
-    {
-      "special": "The Matches",
-      "timeslot": null,
-      "date": "2008-04-12",
-      "path": "2008/04/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s2214120.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-04-18",
-      "path": "2008/04/18.json",
-      "url": "http://www.abc.net.au/rage/archive/s2220717.htm"
-    },
-    {
-      "special": "Digitalism",
-      "timeslot": null,
-      "date": "2008-04-19",
-      "path": "2008/04/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s2220718.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-04-25",
-      "path": "2008/04/25.json",
-      "url": "http://www.abc.net.au/rage/archive/s2226401.htm"
-    },
-    {
-      "special": "The Panics",
-      "timeslot": null,
-      "date": "2008-04-26",
-      "path": "2008/04/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s2226402.htm"
     },
     {
       "special": null,
@@ -36357,6 +36357,41 @@
       "date": "2025-08-10",
       "path": "2025/08/10_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-10-august-2025-on-abc-tv/105630526"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-08-11",
+      "path": "2025/08/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-11-august-2025-on-abc-entertains/105639108"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2025-08-11",
+      "path": "2025/08/11_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-11-august-2025-on-abc-tv/105639106"
+    },
+    {
+      "special": "rage Aussie EDM special",
+      "timeslot": "night",
+      "date": "2025-08-12",
+      "path": "2025/08/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-12-august-2025-on-abc-entertains/105639110"
+    },
+    {
+      "special": "The VAULT : Penned by Prince",
+      "timeslot": "night",
+      "date": "2025-08-13",
+      "path": "2025/08/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-13-august-2025-on-abc-entertains/105639112"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2025-08-14",
+      "path": "2025/08/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-14-august-2025-on-abc-entertains/105639114"
     }
   ]
 }
