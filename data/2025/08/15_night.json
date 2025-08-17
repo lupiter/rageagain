@@ -1,0 +1,75 @@
+{
+  "title": "Friday night 15 August 2025 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2025-08-15",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-15-august-2025-on-abc-entertains/105646198",
+  "tracks": [
+    {
+      "artist": "GRIMES",
+      "song": "Oblivion",
+      "label": "Independent",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "PSY",
+      "song": "Gangnam Style",
+      "label": "Universal",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "SKRILLEX",
+      "song": "Bangarang",
+      "label": "Warner",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "Get Ur Freak On",
+      "label": "Warner",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Hey Ya",
+      "label": "BMG",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Vogue",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "AZEALIA BANKS",
+      "song": "Liquorice",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "NICKI MINAJ",
+      "song": "Stupid Hoe",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "KITTY PRYDE",
+      "song": "Okay Cupid",
+      "label": "Independent",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "KYARY PAMYU PAMYU",
+      "song": "Pon Pon Pon",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Genesis",
+      "label": "Relapse",
+      "timeslot": "00:00:00"
+    }
+  ]
+}
