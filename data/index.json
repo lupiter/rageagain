@@ -36441,6 +36441,41 @@
       "date": "2025-08-17",
       "path": "2025/08/17_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-17-august-2025-on-abc-tv/105646206"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-08-18",
+      "path": "2025/08/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-18-august-2025-on-abc-entertains/105667086"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2025-08-18",
+      "path": "2025/08/18_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-18-august-2025-on-abc-tv/105667084"
+    },
+    {
+      "special": "rage Brooklyn special",
+      "timeslot": "night",
+      "date": "2025-08-19",
+      "path": "2025/08/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-19-august-2025-on-abc-entertains/105667088"
+    },
+    {
+      "special": "The VAULT : Bristol Sound System",
+      "timeslot": "night",
+      "date": "2025-08-20",
+      "path": "2025/08/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-20-august-2025-on-abc-entertains/105667090"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2025-08-21",
+      "path": "2025/08/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-21-august-2025-on-abc-entertains/105667092"
     }
   ]
 }
