@@ -5685,69 +5685,6 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050930.htm"
     },
     {
-      "special": "Queens Of The Stone Age guest program",
-      "timeslot": null,
-      "date": "2005-10-01",
-      "path": "2005/10/01.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051001.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-10-07",
-      "path": "2005/10/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051007.htm"
-    },
-    {
-      "special": "The Bravery guest program",
-      "timeslot": null,
-      "date": "2005-10-08",
-      "path": "2005/10/08.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051008.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-10-14",
-      "path": "2005/10/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051014.htm"
-    },
-    {
-      "special": "Fozzy guest program",
-      "timeslot": null,
-      "date": "2005-10-15",
-      "path": "2005/10/15.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051015.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-10-21",
-      "path": "2005/10/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051021.htm"
-    },
-    {
-      "special": "Britt from Spoon guest programs",
-      "timeslot": null,
-      "date": "2005-10-22",
-      "path": "2005/10/22.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051022.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-10-28",
-      "path": "2005/10/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051028.htm"
-    },
-    {
-      "special": "Kisschasy guest programs",
-      "timeslot": null,
-      "date": "2005-10-29",
-      "path": "2005/10/29.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051029.htm"
-    },
-    {
       "special": null,
       "timeslot": null,
       "date": "2005-11-04",
@@ -5872,6 +5809,69 @@
       "date": "2005-12-31",
       "path": "2005/12/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051231.htm"
+    },
+    {
+      "special": "Queens Of The Stone Age guest program",
+      "timeslot": null,
+      "date": "2005-10-01",
+      "path": "2005/10/01.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051001.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-10-07",
+      "path": "2005/10/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051007.htm"
+    },
+    {
+      "special": "The Bravery guest program",
+      "timeslot": null,
+      "date": "2005-10-08",
+      "path": "2005/10/08.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051008.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-10-14",
+      "path": "2005/10/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051014.htm"
+    },
+    {
+      "special": "Fozzy guest program",
+      "timeslot": null,
+      "date": "2005-10-15",
+      "path": "2005/10/15.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051015.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-10-21",
+      "path": "2005/10/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051021.htm"
+    },
+    {
+      "special": "Britt from Spoon guest programs",
+      "timeslot": null,
+      "date": "2005-10-22",
+      "path": "2005/10/22.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051022.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-10-28",
+      "path": "2005/10/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051028.htm"
+    },
+    {
+      "special": "Kisschasy guest programs",
+      "timeslot": null,
+      "date": "2005-10-29",
+      "path": "2005/10/29.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051029.htm"
     },
     {
       "special": null,
