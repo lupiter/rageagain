@@ -5685,6 +5685,69 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050930.htm"
     },
     {
+      "special": "Queens Of The Stone Age guest program",
+      "timeslot": null,
+      "date": "2005-10-01",
+      "path": "2005/10/01.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051001.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-10-07",
+      "path": "2005/10/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051007.htm"
+    },
+    {
+      "special": "The Bravery guest program",
+      "timeslot": null,
+      "date": "2005-10-08",
+      "path": "2005/10/08.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051008.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-10-14",
+      "path": "2005/10/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051014.htm"
+    },
+    {
+      "special": "Fozzy guest program",
+      "timeslot": null,
+      "date": "2005-10-15",
+      "path": "2005/10/15.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051015.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-10-21",
+      "path": "2005/10/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051021.htm"
+    },
+    {
+      "special": "Britt from Spoon guest programs",
+      "timeslot": null,
+      "date": "2005-10-22",
+      "path": "2005/10/22.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051022.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-10-28",
+      "path": "2005/10/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051028.htm"
+    },
+    {
+      "special": "Kisschasy guest programs",
+      "timeslot": null,
+      "date": "2005-10-29",
+      "path": "2005/10/29.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051029.htm"
+    },
+    {
       "special": null,
       "timeslot": null,
       "date": "2005-11-04",
@@ -5809,69 +5872,6 @@
       "date": "2005-12-31",
       "path": "2005/12/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051231.htm"
-    },
-    {
-      "special": "Queens Of The Stone Age guest program",
-      "timeslot": null,
-      "date": "2005-10-01",
-      "path": "2005/10/01.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051001.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-10-07",
-      "path": "2005/10/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051007.htm"
-    },
-    {
-      "special": "The Bravery guest program",
-      "timeslot": null,
-      "date": "2005-10-08",
-      "path": "2005/10/08.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051008.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-10-14",
-      "path": "2005/10/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051014.htm"
-    },
-    {
-      "special": "Fozzy guest program",
-      "timeslot": null,
-      "date": "2005-10-15",
-      "path": "2005/10/15.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051015.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-10-21",
-      "path": "2005/10/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051021.htm"
-    },
-    {
-      "special": "Britt from Spoon guest programs",
-      "timeslot": null,
-      "date": "2005-10-22",
-      "path": "2005/10/22.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051022.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-10-28",
-      "path": "2005/10/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051028.htm"
-    },
-    {
-      "special": "Kisschasy guest programs",
-      "timeslot": null,
-      "date": "2005-10-29",
-      "path": "2005/10/29.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051029.htm"
     },
     {
       "special": null,
@@ -36476,6 +36476,55 @@
       "date": "2025-08-21",
       "path": "2025/08/21_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-21-august-2025-on-abc-entertains/105667092"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-08-22",
+      "path": "2025/08/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-22-august-2025-on-abc-entertains/105683028"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-08-22",
+      "path": "2025/08/22_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-22-august-2025-on-abc-tv/105683026"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2025-08-23",
+      "path": "2025/08/23_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-23-august-2025-on-abc-tv/105683030"
+    },
+    {
+      "special": "At The Movies Special special",
+      "timeslot": "night",
+      "date": "2025-08-23",
+      "path": "2025/08/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-23-august-2025-on-abc-entertains/105683034"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-08-23",
+      "path": "2025/08/23_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-23-august-2025-on-abc-tv/105683032"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-08-24",
+      "path": "2025/08/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-24-august-2025-on-abc-entertains/105683038"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2025-08-24",
+      "path": "2025/08/24_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-24-august-2025-on-abc-tv/105683036"
     }
   ]
 }
