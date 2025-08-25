@@ -9026,90 +9026,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2010-02-05",
-      "path": "2010/02/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2811440.htm"
-    },
-    {
-      "special": "Grizzly Bear Guest Program",
-      "timeslot": "morning",
-      "date": "2010-02-06",
-      "path": "2010/02/06_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2811435.htm"
-    },
-    {
-      "special": "Grizzly Bear Guest Program",
-      "timeslot": "night",
-      "date": "2010-02-06",
-      "path": "2010/02/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2811445.htm"
-    },
-    {
-      "special": "rage counts down triple j's Hottest 100 for 2010!",
-      "timeslot": "night",
-      "date": "2010-02-12",
-      "path": "2010/02/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2818120.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2010-02-13",
-      "path": "2010/02/13_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2818113.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-02-13",
-      "path": "2010/02/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2818126.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-02-19",
-      "path": "2010/02/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2824955.htm"
-    },
-    {
-      "special": "Florence And The Machine",
-      "timeslot": "morning",
-      "date": "2010-02-20",
-      "path": "2010/02/20_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2824952.htm"
-    },
-    {
-      "special": "Florence And The Machine",
-      "timeslot": "night",
-      "date": "2010-02-20",
-      "path": "2010/02/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2824958.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-02-26",
-      "path": "2010/02/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2831470.htm"
-    },
-    {
-      "special": "Patrick Wolf",
-      "timeslot": "morning",
-      "date": "2010-02-27",
-      "path": "2010/02/27_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2831464.htm"
-    },
-    {
-      "special": "Patrick Wolf",
-      "timeslot": "night",
-      "date": "2010-02-27",
-      "path": "2010/02/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2831472.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2010-03-05",
       "path": "2010/03/05_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2837908.htm"
@@ -9211,6 +9127,90 @@
       "date": "2010-03-27",
       "path": "2010/03/27_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2857258.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-02-05",
+      "path": "2010/02/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2811440.htm"
+    },
+    {
+      "special": "Grizzly Bear Guest Program",
+      "timeslot": "morning",
+      "date": "2010-02-06",
+      "path": "2010/02/06_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2811435.htm"
+    },
+    {
+      "special": "Grizzly Bear Guest Program",
+      "timeslot": "night",
+      "date": "2010-02-06",
+      "path": "2010/02/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2811445.htm"
+    },
+    {
+      "special": "rage counts down triple j's Hottest 100 for 2010!",
+      "timeslot": "night",
+      "date": "2010-02-12",
+      "path": "2010/02/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2818120.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2010-02-13",
+      "path": "2010/02/13_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2818113.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-02-13",
+      "path": "2010/02/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2818126.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-02-19",
+      "path": "2010/02/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2824955.htm"
+    },
+    {
+      "special": "Florence And The Machine",
+      "timeslot": "morning",
+      "date": "2010-02-20",
+      "path": "2010/02/20_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2824952.htm"
+    },
+    {
+      "special": "Florence And The Machine",
+      "timeslot": "night",
+      "date": "2010-02-20",
+      "path": "2010/02/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2824958.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-02-26",
+      "path": "2010/02/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2831470.htm"
+    },
+    {
+      "special": "Patrick Wolf",
+      "timeslot": "morning",
+      "date": "2010-02-27",
+      "path": "2010/02/27_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2831464.htm"
+    },
+    {
+      "special": "Patrick Wolf",
+      "timeslot": "night",
+      "date": "2010-02-27",
+      "path": "2010/02/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2831472.htm"
     },
     {
       "special": null,
@@ -36525,6 +36525,41 @@
       "date": "2025-08-24",
       "path": "2025/08/24_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-24-august-2025-on-abc-tv/105683036"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-08-25",
+      "path": "2025/08/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-25-august-2025-on-abc-entertains/105089768"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2025-08-25",
+      "path": "2025/08/25_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-25-august-2025-on-abc-tv/105695860"
+    },
+    {
+      "special": "rage Side-Hustlers special",
+      "timeslot": "night",
+      "date": "2025-08-26",
+      "path": "2025/08/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-26-august-2025-on-abc-entertains/105695864"
+    },
+    {
+      "special": "The VAULT: Director Storm Thorgerson",
+      "timeslot": "night",
+      "date": "2025-08-27",
+      "path": "2025/08/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-27-august-2025-on-abc-entertains/105695866"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2025-08-28",
+      "path": "2025/08/28_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-28-august-2025-on-abc-entertains/105695868"
     }
   ]
 }
