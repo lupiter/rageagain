@@ -1,0 +1,681 @@
+{
+  "title": "Saturday night 30 August 2025 on ABC TV",
+  "special": null,
+  "timeslot": "night",
+  "date": "2025-08-30",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-30-august-2025-on-abc-tv/105713388",
+  "tracks": [
+    {
+      "artist": "THE USED",
+      "song": "The Taste Of Ink",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Duality",
+      "label": "Roadrunner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Roots Bloody Roots",
+      "label": "Shock",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "A.D.I.D.A.S.",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ALKALINE TRIO",
+      "song": "Mercy Me",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ANDREW W K",
+      "song": "Party Hard",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DEFTONES",
+      "song": "7 Words",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Sabotage",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BUSTA RHYMES",
+      "song": "Dangerous",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "2PAC",
+      "song": "To Live And Die In L.A.",
+      "label": "Death Row Records",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "About A Girl",
+      "label": "MCA)",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Looks That Kill",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "TOM PETTY",
+      "song": "Runnin' Down A Dream",
+      "label": "MCA",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DELTA SPIRIT",
+      "song": "California",
+      "label": "Shock",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DAWES",
+      "song": "Spent Time In Los Angeles",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "EVERY TIME I DIE",
+      "song": "We'rewolf",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "God Is Dead?",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "A DAY TO REMEMBER",
+      "song": "Paranoia",
+      "label": "Epitaph Records",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PAPA ROACH",
+      "song": "Help",
+      "label": "Cooking Vinyl",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Straight Lines",
+      "label": "Eleven",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Elastic Heart",
+      "label": "Inertia Recordings / Monkey Puzzle",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "REFUSED",
+      "song": "The Deadly Rhythm",
+      "label": "Epitaph",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HIATUS KAIYOTE",
+      "song": "Red Room",
+      "label": "Brainfeeder",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "OJOS DE BRUJO",
+      "song": "Tiempo De Solea",
+      "label": "Didgeridoo",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EARTH, WIND AND FIRE",
+      "song": "September",
+      "label": "CBS",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Paranoid Android",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Acquiesce",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Little Sister",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ROBYN",
+      "song": "Call Your Girlfriend",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LORDE",
+      "song": "Royals",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MILEY CYRUS",
+      "song": "Malibu",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LITTLE SIMZ ft. OBONGJAYAR",
+      "song": "Point And Kill",
+      "label": "AGE 101 MUSIC",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OL' DIRTY BASTARD",
+      "song": "I Got Cha Money",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LAURYN HILL",
+      "song": "Doo Wop (That Thing)",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SUGARCULT",
+      "song": "Memory",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "YELLOWCARD",
+      "song": "Way Away",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JIMMY EAT WORLD",
+      "song": "Work",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HANDS LIKE HOUSES",
+      "song": "Sick",
+      "label": "Hopeless Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TAKING BACK SUNDAY",
+      "song": "Make Damn Sure",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PLAIN WHITE T'S",
+      "song": "Hey There Delilah",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BON IVER",
+      "song": "33 \"GOD\"",
+      "label": "Jagjaguwar",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "The Most Beautiful Girl In The World",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "So Fresh, So Clean",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THUNDERCAT",
+      "song": "Dragonball Durag",
+      "label": "Brainfeeder",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "POST MALONE ft. QUAVO",
+      "song": "Congratulations",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RUN THE JEWELS",
+      "song": "Blockbuster Night Part 1",
+      "label": "Inertia",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HARRY STYLES",
+      "song": "Watermelon Sugar",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CHARLI XCX",
+      "song": "Boom Clap",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CHAPPELL ROAN",
+      "song": "Pink Pony Club",
+      "label": "Island Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "A Box Full Of Sharp Objects",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Blue and Yellow",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "STREET DRUM CORPS featuring BERT McCRACKEN",
+      "song": "Happy Xmas (War Is Over)",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Buried Myself Alive",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Take It Away",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "I Caught Fire",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "All That I've Got",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Pretty Handsome Awkward",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "The Bird And The Worm",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Paralyzed",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Giving Up",
+      "label": "Big Noise Music Group",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Empty With You",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Blood On My Hands",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "I Come Alive",
+      "label": "Anger Music Group",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Hands And Faces",
+      "label": "Big Noise Music Group",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Put Me Out",
+      "label": "Hopeless Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "The Ocean of the Sky",
+      "label": "Anger Music Group",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Cry",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Over And Over Again",
+      "label": "Big Noise Music Group",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "The Nexus",
+      "label": "Big Noise Music Group",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Blow Me",
+      "label": "Big Noise Music Group",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Cathedral Bell",
+      "label": "Big Noise Music Group",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Paradise Lost, A Poem By John Milton",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Fuck You",
+      "label": "Big Noise Music Group",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RZA",
+      "song": "We Pop",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WHITE ZOMBIE",
+      "song": "More Human Than Human",
+      "label": "MCA)",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ATMOSPHERE",
+      "song": "Trying To Find A Balance",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Stripsearch",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BLIND MELON",
+      "song": "Galaxie",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MY CHEMICAL ROMANCE",
+      "song": "Teenagers",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EVANESCENCE",
+      "song": "Bring Me To Life",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LINKIN PARK",
+      "song": "Numb",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PARAMORE",
+      "song": "Misery Business",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GOOD CHARLOTTE",
+      "song": "The Anthem",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "I Miss You",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AFI",
+      "song": "Miss Murder",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Smoke 'Em If Ya Got 'Em",
+      "label": "Stomp",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SIMPLE PLAN",
+      "song": "Welcome To My Life",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JIMMY EAT WORLD",
+      "song": "The Middle",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AVRIL LAVIGNE",
+      "song": "He Wasn't",
+      "label": "SBME",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "30 SECONDS TO MARS",
+      "song": "The Kill (Bury Me)",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PANIC! AT THE DISCO",
+      "song": "I Write Sins Not Tragedies",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WHEATUS",
+      "song": "Teenage Dirtbag",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE ALL-AMERICAN REJECTS",
+      "song": "Gives You Hell",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "Wake Me Up When September Ends",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TYLER, THE CREATOR",
+      "song": "Stop Playing With Me (clean version)",
+      "label": "Columbia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BRAZEN BARBIE",
+      "song": "DEEP END",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SUNBEAM SOUND MACHINE",
+      "song": "Dandelion",
+      "label": "Dot Dash",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ALISON WONDERLAND",
+      "song": "iwannaliveinadream",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PINKPANTHERESS",
+      "song": "Romeo",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JUNIPO",
+      "song": "E.T.",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FULL FLOWER BAND ft. NICHOLAS ALLBROOK",
+      "song": "Harder Man",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TESSA FLEUR",
+      "song": "Hiding In The Hedgerows",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TEED",
+      "song": "Desire",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DUST",
+      "song": "Drawbacks",
+      "label": "Saban Music Group",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SNOOPER",
+      "song": "Guard Dog",
+      "label": "Third Man Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "B WISE ft. DSP",
+      "song": "Get Even",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE BELAIR LIP BOMBS",
+      "song": "Hey You (clean version)",
+      "label": "Third Man Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "AUDREY HOBERT",
+      "song": "Thirst Trap",
+      "label": "RCA",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SECRET WORLD",
+      "song": "Good Faith",
+      "label": "Last Ride Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DEAN BRADY",
+      "song": "Sneakers (clean version)",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "RONA.",
+      "song": "Show Me.",
+      "label": "Rarre Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LAUFEY",
+      "song": "Lover Girl",
+      "label": "Vingolf Recordings / AWAL",
+      "timeslot": "06:30:00"
+    }
+  ]
+}
