@@ -1,0 +1,111 @@
+{
+  "title": "Monday night 8 September 2025 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2025-09-08",
+  "url": "https://www.abc.net.au/rage/playlist/monday-night-8-september-2025-on-abc-entertains/105749326",
+  "tracks": [
+    {
+      "artist": "THE HIVES",
+      "song": "Hate To Say I Told You So",
+      "label": "Shock",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "I Fought The Law",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE CRAMPS",
+      "song": "Bikini Girls With Machine Guns",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ALEX CAMERON",
+      "song": "The Comeback",
+      "label": "Secretly Canadian",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE HARD-ONS",
+      "song": "Where Did She Come From?",
+      "label": "Waterfront Records",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "COSMIC PSYCHOS",
+      "song": "Fuckwit City",
+      "label": "Desperate Records / Rocket Distribution",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE CHATS",
+      "song": "Smoko",
+      "label": "Independent",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE DONNAS",
+      "song": "Don't Wait Up For Me",
+      "label": "Shock",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "L7",
+      "song": "Pretend We're Dead",
+      "label": "Mushroom",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "RAMONES",
+      "song": "She's The One",
+      "label": "Sire Records",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Hanging On The Telephone",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "FAMILJEN",
+      "song": "Det Snurrar I Min Skalle",
+      "label": "Creative Vibes",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MONEYBROTHER",
+      "song": "They're Building Walls Around Us",
+      "label": "Shock",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DEAD KENNEDYS",
+      "song": "Holiday In Cambodia",
+      "label": "Missing Link",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BAD BRAINS",
+      "song": "Big Take Over",
+      "label": null,
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "ELECTRIC LIGHT ORCHESTRA",
+      "song": "Rock 'n' Roll Is King",
+      "label": "Jet Records",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "In The City",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    }
+  ]
+}
