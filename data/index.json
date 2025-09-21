@@ -11301,118 +11301,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2012-03-02",
-      "path": "2012/03/02_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3444442.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2012-03-02",
-      "path": "2012/03/02_night_2.json",
-      "url": "http://www.abc.net.au/rage/archive/s3444361.htm"
-    },
-    {
-      "special": "Mardi Gras special",
-      "timeslot": "morning",
-      "date": "2012-03-03",
-      "path": "2012/03/03_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3444379.htm"
-    },
-    {
-      "special": "Mardi Gras special",
-      "timeslot": "night",
-      "date": "2012-03-03",
-      "path": "2012/03/03_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3444388.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2012-03-09",
-      "path": "2012/03/09_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3449799.htm"
-    },
-    {
-      "special": "Kitty Daisy and Lewis Guest Program",
-      "timeslot": "morning",
-      "date": "2012-03-10",
-      "path": "2012/03/10_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3449739.htm"
-    },
-    {
-      "special": "Kitty Daisy and Lewis Guest Program",
-      "timeslot": "night",
-      "date": "2012-03-10",
-      "path": "2012/03/10_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3449752.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2012-03-16",
-      "path": "2012/03/16_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3455246.htm"
-    },
-    {
-      "special": "Ladyhawke Guest Programs",
-      "timeslot": "morning",
-      "date": "2012-03-17",
-      "path": "2012/03/17_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3455262.htm"
-    },
-    {
-      "special": "Ladyhawke Guest Programs",
-      "timeslot": "night",
-      "date": "2012-03-17",
-      "path": "2012/03/17_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3455269.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2012-03-23",
-      "path": "2012/03/23_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3462376.htm"
-    },
-    {
-      "special": "Jesse Peretz guest programs",
-      "timeslot": "morning",
-      "date": "2012-03-24",
-      "path": "2012/03/24_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3462391.htm"
-    },
-    {
-      "special": "Jesse Peretz guest programs",
-      "timeslot": "night",
-      "date": "2012-03-24",
-      "path": "2012/03/24_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3462400.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2012-03-30",
-      "path": "2012/03/30_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3467601.htm"
-    },
-    {
-      "special": "Dave Stewart guest programs",
-      "timeslot": "morning",
-      "date": "2012-03-31",
-      "path": "2012/03/31_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3467610.htm"
-    },
-    {
-      "special": "Dave Stewart guest programs",
-      "timeslot": "night",
-      "date": "2012-03-31",
-      "path": "2012/03/31_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3467630.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2012-04-06",
       "path": "2012/04/06_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3472093.htm"
@@ -11577,6 +11465,118 @@
       "date": "2012-05-26",
       "path": "2012/05/26_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3511182.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2012-03-02",
+      "path": "2012/03/02_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3444442.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2012-03-02",
+      "path": "2012/03/02_night_2.json",
+      "url": "http://www.abc.net.au/rage/archive/s3444361.htm"
+    },
+    {
+      "special": "Mardi Gras special",
+      "timeslot": "morning",
+      "date": "2012-03-03",
+      "path": "2012/03/03_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3444379.htm"
+    },
+    {
+      "special": "Mardi Gras special",
+      "timeslot": "night",
+      "date": "2012-03-03",
+      "path": "2012/03/03_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3444388.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2012-03-09",
+      "path": "2012/03/09_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3449799.htm"
+    },
+    {
+      "special": "Kitty Daisy and Lewis Guest Program",
+      "timeslot": "morning",
+      "date": "2012-03-10",
+      "path": "2012/03/10_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3449739.htm"
+    },
+    {
+      "special": "Kitty Daisy and Lewis Guest Program",
+      "timeslot": "night",
+      "date": "2012-03-10",
+      "path": "2012/03/10_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3449752.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2012-03-16",
+      "path": "2012/03/16_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3455246.htm"
+    },
+    {
+      "special": "Ladyhawke Guest Programs",
+      "timeslot": "morning",
+      "date": "2012-03-17",
+      "path": "2012/03/17_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3455262.htm"
+    },
+    {
+      "special": "Ladyhawke Guest Programs",
+      "timeslot": "night",
+      "date": "2012-03-17",
+      "path": "2012/03/17_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3455269.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2012-03-23",
+      "path": "2012/03/23_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3462376.htm"
+    },
+    {
+      "special": "Jesse Peretz guest programs",
+      "timeslot": "morning",
+      "date": "2012-03-24",
+      "path": "2012/03/24_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3462391.htm"
+    },
+    {
+      "special": "Jesse Peretz guest programs",
+      "timeslot": "night",
+      "date": "2012-03-24",
+      "path": "2012/03/24_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3462400.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2012-03-30",
+      "path": "2012/03/30_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3467601.htm"
+    },
+    {
+      "special": "Dave Stewart guest programs",
+      "timeslot": "morning",
+      "date": "2012-03-31",
+      "path": "2012/03/31_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3467610.htm"
+    },
+    {
+      "special": "Dave Stewart guest programs",
+      "timeslot": "night",
+      "date": "2012-03-31",
+      "path": "2012/03/31_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3467630.htm"
     },
     {
       "special": null,
@@ -36812,6 +36812,55 @@
       "date": "2025-09-18",
       "path": "2025/09/18_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-18-september-2025-on-abc-entertains/105776134"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-09-19",
+      "path": "2025/09/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-19-september-2025-on-abc-entertains/105795590"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-09-19",
+      "path": "2025/09/19_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-19-september-2025-on-abc-tv/105795588"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2025-09-20",
+      "path": "2025/09/20_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-20-september-2025-on-abc-tv/105795592"
+    },
+    {
+      "special": "rage Boilerroom special",
+      "timeslot": "night",
+      "date": "2025-09-20",
+      "path": "2025/09/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-20-september-2025-on-abc-entertains/105795596"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-09-20",
+      "path": "2025/09/20_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-20-september-2025-on-abc-tv/105795594"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-09-21",
+      "path": "2025/09/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-21-september-2025-on-abc-entertains/105795600"
+    },
+    {
+      "special": "The VAULT: 1997 R'n'B",
+      "timeslot": "night",
+      "date": "2025-09-21",
+      "path": "2025/09/21_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-21-september-2025-on-abc-tv/105795598"
     }
   ]
 }
