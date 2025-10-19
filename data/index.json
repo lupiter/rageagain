@@ -7274,62 +7274,6 @@
       "url": "http://www.abc.net.au/rage/archive/s2106030.htm"
     },
     {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-01-04",
-      "path": "2008/01/04.json",
-      "url": "http://www.abc.net.au/rage/archive/s2131677.htm"
-    },
-    {
-      "special": "rage goes retro with Countdown, Rock Arena, GTK and more",
-      "timeslot": null,
-      "date": "2008-01-05",
-      "path": "2008/01/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s2131681.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-01-11",
-      "path": "2008/01/11.json",
-      "url": "http://www.abc.net.au/rage/archive/s2136362.htm"
-    },
-    {
-      "special": "rage goes retro with the Reels and Severed Heads live, Countdown, GTK and more",
-      "timeslot": null,
-      "date": "2008-01-12",
-      "path": "2008/01/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s2136370.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-01-18",
-      "path": "2008/01/18.json",
-      "url": "http://www.abc.net.au/rage/archive/s2141677.htm"
-    },
-    {
-      "special": "rage goes retro with Midnight Oil live, Countdown, GTK, Flashez and more",
-      "timeslot": null,
-      "date": "2008-01-19",
-      "path": "2008/01/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s2141679.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-01-25",
-      "path": "2008/01/25.json",
-      "url": "http://www.abc.net.au/rage/archive/s2146440.htm"
-    },
-    {
-      "special": "rage goes retro with TISM and Hoodoo Gurus live, Countdown Awards, and more for Australia Day",
-      "timeslot": null,
-      "date": "2008-01-26",
-      "path": "2008/01/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s2146443.htm"
-    },
-    {
       "special": "rage 20th Birthday Special : 1987 - 1991",
       "timeslot": null,
       "date": "2007-12-01",
@@ -7398,6 +7342,62 @@
       "date": "2007-12-31",
       "path": "2007/12/31.json",
       "url": "http://www.abc.net.au/rage/archive/s2129343.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-01-04",
+      "path": "2008/01/04.json",
+      "url": "http://www.abc.net.au/rage/archive/s2131677.htm"
+    },
+    {
+      "special": "rage goes retro with Countdown, Rock Arena, GTK and more",
+      "timeslot": null,
+      "date": "2008-01-05",
+      "path": "2008/01/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s2131681.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-01-11",
+      "path": "2008/01/11.json",
+      "url": "http://www.abc.net.au/rage/archive/s2136362.htm"
+    },
+    {
+      "special": "rage goes retro with the Reels and Severed Heads live, Countdown, GTK and more",
+      "timeslot": null,
+      "date": "2008-01-12",
+      "path": "2008/01/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s2136370.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-01-18",
+      "path": "2008/01/18.json",
+      "url": "http://www.abc.net.au/rage/archive/s2141677.htm"
+    },
+    {
+      "special": "rage goes retro with Midnight Oil live, Countdown, GTK, Flashez and more",
+      "timeslot": null,
+      "date": "2008-01-19",
+      "path": "2008/01/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s2141679.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-01-25",
+      "path": "2008/01/25.json",
+      "url": "http://www.abc.net.au/rage/archive/s2146440.htm"
+    },
+    {
+      "special": "rage goes retro with TISM and Hoodoo Gurus live, Countdown Awards, and more for Australia Day",
+      "timeslot": null,
+      "date": "2008-01-26",
+      "path": "2008/01/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s2146443.htm"
     },
     {
       "special": null,
@@ -7591,6 +7591,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2008-06-06",
+      "path": "2008/06/06.json",
+      "url": "http://www.abc.net.au/rage/archive/s2266916.htm"
+    },
+    {
+      "special": "the rage WILD CARD special",
+      "timeslot": null,
+      "date": "2008-06-07",
+      "path": "2008/06/07.json",
+      "url": "http://www.abc.net.au/rage/archive/s2266921.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-06-13",
+      "path": "2008/06/13.json",
+      "url": "http://www.abc.net.au/rage/archive/s2273785.htm"
+    },
+    {
+      "special": "Bliss N Eso",
+      "timeslot": null,
+      "date": "2008-06-14",
+      "path": "2008/06/14.json",
+      "url": "http://www.abc.net.au/rage/archive/s2273797.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-06-20",
+      "path": "2008/06/20.json",
+      "url": "http://www.abc.net.au/rage/archive/s2280806.htm"
+    },
+    {
+      "special": "The Paper Scissors",
+      "timeslot": null,
+      "date": "2008-06-21",
+      "path": "2008/06/21.json",
+      "url": "http://www.abc.net.au/rage/archive/s2280815.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-06-27",
+      "path": "2008/06/27.json",
+      "url": "http://www.abc.net.au/rage/archive/s2287717.htm"
+    },
+    {
+      "special": "Cog",
+      "timeslot": null,
+      "date": "2008-06-28",
+      "path": "2008/06/28.json",
+      "url": "http://www.abc.net.au/rage/archive/s2287721.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2008-05-02",
       "path": "2008/05/02.json",
       "url": "http://www.abc.net.au/rage/archive/s2233526.htm"
@@ -7657,62 +7713,6 @@
       "date": "2008-05-31",
       "path": "2008/05/31.json",
       "url": "http://www.abc.net.au/rage/archive/s2260258.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-06-06",
-      "path": "2008/06/06.json",
-      "url": "http://www.abc.net.au/rage/archive/s2266916.htm"
-    },
-    {
-      "special": "the rage WILD CARD special",
-      "timeslot": null,
-      "date": "2008-06-07",
-      "path": "2008/06/07.json",
-      "url": "http://www.abc.net.au/rage/archive/s2266921.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-06-13",
-      "path": "2008/06/13.json",
-      "url": "http://www.abc.net.au/rage/archive/s2273785.htm"
-    },
-    {
-      "special": "Bliss N Eso",
-      "timeslot": null,
-      "date": "2008-06-14",
-      "path": "2008/06/14.json",
-      "url": "http://www.abc.net.au/rage/archive/s2273797.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-06-20",
-      "path": "2008/06/20.json",
-      "url": "http://www.abc.net.au/rage/archive/s2280806.htm"
-    },
-    {
-      "special": "The Paper Scissors",
-      "timeslot": null,
-      "date": "2008-06-21",
-      "path": "2008/06/21.json",
-      "url": "http://www.abc.net.au/rage/archive/s2280815.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-06-27",
-      "path": "2008/06/27.json",
-      "url": "http://www.abc.net.au/rage/archive/s2287717.htm"
-    },
-    {
-      "special": "Cog",
-      "timeslot": null,
-      "date": "2008-06-28",
-      "path": "2008/06/28.json",
-      "url": "http://www.abc.net.au/rage/archive/s2287721.htm"
     },
     {
       "special": null,
@@ -7960,62 +7960,6 @@
       "url": "http://www.abc.net.au/rage/archive/s2406579.htm"
     },
     {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-12-05",
-      "path": "2008/12/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s2426183.htm"
-    },
-    {
-      "special": "Ready For My Close Up Special",
-      "timeslot": null,
-      "date": "2008-12-06",
-      "path": "2008/12/06.json",
-      "url": "http://www.abc.net.au/rage/archive/s2426178.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-12-12",
-      "path": "2008/12/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s2426171.htm"
-    },
-    {
-      "special": "The Grates",
-      "timeslot": null,
-      "date": "2008-12-13",
-      "path": "2008/12/13.json",
-      "url": "http://www.abc.net.au/rage/archive/s2444923.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-12-19",
-      "path": "2008/12/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s2450996.htm"
-    },
-    {
-      "special": "Blackalicious",
-      "timeslot": null,
-      "date": "2008-12-20",
-      "path": "2008/12/20.json",
-      "url": "http://www.abc.net.au/rage/archive/s2450999.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-12-26",
-      "path": "2008/12/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s2454592.htm"
-    },
-    {
-      "special": "Best Of rage Guest Programmers 2008",
-      "timeslot": null,
-      "date": "2008-12-27",
-      "path": "2008/12/27.json",
-      "url": "http://www.abc.net.au/rage/archive/s2454603.htm"
-    },
-    {
       "special": "Muph & Plutonic",
       "timeslot": null,
       "date": "2008-11-01",
@@ -8077,6 +8021,62 @@
       "date": "2008-11-29",
       "path": "2008/11/29.json",
       "url": "http://www.abc.net.au/rage/archive/s2432261.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-12-05",
+      "path": "2008/12/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s2426183.htm"
+    },
+    {
+      "special": "Ready For My Close Up Special",
+      "timeslot": null,
+      "date": "2008-12-06",
+      "path": "2008/12/06.json",
+      "url": "http://www.abc.net.au/rage/archive/s2426178.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-12-12",
+      "path": "2008/12/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s2426171.htm"
+    },
+    {
+      "special": "The Grates",
+      "timeslot": null,
+      "date": "2008-12-13",
+      "path": "2008/12/13.json",
+      "url": "http://www.abc.net.au/rage/archive/s2444923.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-12-19",
+      "path": "2008/12/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s2450996.htm"
+    },
+    {
+      "special": "Blackalicious",
+      "timeslot": null,
+      "date": "2008-12-20",
+      "path": "2008/12/20.json",
+      "url": "http://www.abc.net.au/rage/archive/s2450999.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-12-26",
+      "path": "2008/12/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s2454592.htm"
+    },
+    {
+      "special": "Best Of rage Guest Programmers 2008",
+      "timeslot": null,
+      "date": "2008-12-27",
+      "path": "2008/12/27.json",
+      "url": "http://www.abc.net.au/rage/archive/s2454603.htm"
     },
     {
       "special": null,
@@ -8506,69 +8506,6 @@
       "url": "http://www.abc.net.au/rage/archive/s2642211.htm"
     },
     {
-      "special": "Michael Jackson Special",
-      "timeslot": null,
-      "date": "2009-08-01",
-      "path": "2009/08/01.json",
-      "url": "http://www.abc.net.au/rage/archive/s2642218.htm"
-    },
-    {
-      "special": "triple j Hottest 100 of All Time Special",
-      "timeslot": null,
-      "date": "2009-08-07",
-      "path": "2009/08/07.json",
-      "url": "http://www.abc.net.au/rage/archive/s2649329.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-08-08",
-      "path": "2009/08/08.json",
-      "url": "http://www.abc.net.au/rage/archive/s2649341.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-08-14",
-      "path": "2009/08/14.json",
-      "url": "http://www.abc.net.au/rage/archive/s2656037.htm"
-    },
-    {
-      "special": "Mia Dyson Guest Programs rage",
-      "timeslot": null,
-      "date": "2009-08-15",
-      "path": "2009/08/15.json",
-      "url": "http://www.abc.net.au/rage/archive/s2656045.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-08-21",
-      "path": "2009/08/21.json",
-      "url": "http://www.abc.net.au/rage/archive/s2662838.htm"
-    },
-    {
-      "special": "Pendulum Guest Program",
-      "timeslot": null,
-      "date": "2009-08-22",
-      "path": "2009/08/22.json",
-      "url": "http://www.abc.net.au/rage/archive/s2662929.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-08-28",
-      "path": "2009/08/28.json",
-      "url": "http://www.abc.net.au/rage/archive/s2669639.htm"
-    },
-    {
-      "special": "Suggs from Madness Guest Programs",
-      "timeslot": null,
-      "date": "2009-08-29",
-      "path": "2009/08/29.json",
-      "url": "http://www.abc.net.au/rage/archive/s2669643.htm"
-    },
-    {
       "special": null,
       "timeslot": null,
       "date": "2009-09-04",
@@ -8749,6 +8686,69 @@
       "date": "2009-10-31",
       "path": "2009/10/31_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2728589.htm"
+    },
+    {
+      "special": "Michael Jackson Special",
+      "timeslot": null,
+      "date": "2009-08-01",
+      "path": "2009/08/01.json",
+      "url": "http://www.abc.net.au/rage/archive/s2642218.htm"
+    },
+    {
+      "special": "triple j Hottest 100 of All Time Special",
+      "timeslot": null,
+      "date": "2009-08-07",
+      "path": "2009/08/07.json",
+      "url": "http://www.abc.net.au/rage/archive/s2649329.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-08-08",
+      "path": "2009/08/08.json",
+      "url": "http://www.abc.net.au/rage/archive/s2649341.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-08-14",
+      "path": "2009/08/14.json",
+      "url": "http://www.abc.net.au/rage/archive/s2656037.htm"
+    },
+    {
+      "special": "Mia Dyson Guest Programs rage",
+      "timeslot": null,
+      "date": "2009-08-15",
+      "path": "2009/08/15.json",
+      "url": "http://www.abc.net.au/rage/archive/s2656045.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-08-21",
+      "path": "2009/08/21.json",
+      "url": "http://www.abc.net.au/rage/archive/s2662838.htm"
+    },
+    {
+      "special": "Pendulum Guest Program",
+      "timeslot": null,
+      "date": "2009-08-22",
+      "path": "2009/08/22.json",
+      "url": "http://www.abc.net.au/rage/archive/s2662929.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-08-28",
+      "path": "2009/08/28.json",
+      "url": "http://www.abc.net.au/rage/archive/s2669639.htm"
+    },
+    {
+      "special": "Suggs from Madness Guest Programs",
+      "timeslot": null,
+      "date": "2009-08-29",
+      "path": "2009/08/29.json",
+      "url": "http://www.abc.net.au/rage/archive/s2669643.htm"
     },
     {
       "special": null,
@@ -37148,6 +37148,55 @@
       "date": "2025-10-16",
       "path": "2025/10/16_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-16-october-2025-on-abc-entertains/105885288"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-10-17",
+      "path": "2025/10/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-october-2025-on-abc-entertains/105905994"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-10-17",
+      "path": "2025/10/17_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-october-2025-on-abc-tv/105905992"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2025-10-18",
+      "path": "2025/10/18_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-october-2025-on-abc-tv/105905996"
+    },
+    {
+      "special": "Big Day Out 2002 Special special",
+      "timeslot": "night",
+      "date": "2025-10-18",
+      "path": "2025/10/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-october-2025-on-abc-entertains/105906000"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-10-18",
+      "path": "2025/10/18_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-october-2025-on-abc-tv/105905998"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-10-19",
+      "path": "2025/10/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-october-2025-on-abc-entertains/105906004"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-10-19",
+      "path": "2025/10/19_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-october-2025-on-abc-tv/105906002"
     }
   ]
 }
