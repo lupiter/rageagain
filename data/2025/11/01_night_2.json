@@ -1,0 +1,633 @@
+{
+  "title": "Saturday night 1 November 2025 on ABC TV",
+  "special": null,
+  "timeslot": "night",
+  "date": "2025-11-01",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-1-november-2025-on-abc-tv/105959822",
+  "tracks": [
+    {
+      "artist": "THE VERVE",
+      "song": "Bittersweet Symphony",
+      "label": "Virgin",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "THE SEAHORSES",
+      "song": "Love Is the Law",
+      "label": "MCA)",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "KULA SHAKER",
+      "song": "Govinda",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE SMITHS",
+      "song": "Ask",
+      "label": "Festival",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "True Faith",
+      "label": "Festival",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SQUEEZE",
+      "song": "Another Nail In My Heart",
+      "label": "A_and_M Records",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "I Wanna Be Adored",
+      "label": "BMG",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "FAITHLESS",
+      "song": "Mass Destruction",
+      "label": "BMG",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ADAMSKI",
+      "song": "Killer",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Let Forever Be",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "EVERYTHING BUT THE GIRL",
+      "song": "Missing",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "JAMIROQUAI",
+      "song": "Cosmic Girl",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "ROBYN",
+      "song": "Dancing On My Own",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Cheap Thrills",
+      "label": "Inertia Recordings / Monkey Puzzle",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SKRILLEX",
+      "song": "Bangarang",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LADY GAGA",
+      "song": "Bad Romance",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Ashes To Ashes",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BELOUIS SOME",
+      "song": "Imagination",
+      "label": null,
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Union City Blue",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Radio Ga Ga",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "JONA LEWIE",
+      "song": "You'll Always Find Me In The Kitchen At Parties",
+      "label": "Festival",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE BLUE NILE",
+      "song": "Tinseltown In The Rain",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE BOOMTOWN RATS",
+      "song": "I Don't Like Mondays",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DIRE STRAITS",
+      "song": "Romeo and Juliet",
+      "label": "Mercury",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE WHO",
+      "song": "Won't Get Fooled Again",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ERIC CLAPTON",
+      "song": "Layla (Live, 1985)",
+      "label": "Polygram",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Sweetest Thing",
+      "label": "Mercury",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STARSAILOR",
+      "song": "Goodsouls",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Do I Wanna Know?",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE KILLERS",
+      "song": "Smile Like You Mean It",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LEN",
+      "song": "Steal My Sunshine",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NEW RADICALS",
+      "song": "You Get What You Give",
+      "label": "MCA)",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HOUSE OF PAIN",
+      "song": "Jump Around",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "Jesus Of Suburbia",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "The Pretender",
+      "label": "SBME",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Dani California",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Killing In The Name",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SAM FENDER",
+      "song": "Spit Of You",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE KOOKS",
+      "song": "Naive",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEXY'S MIDNIGHT RUNNERS",
+      "song": "Geno",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LILY ALLEN",
+      "song": "Not Fair",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EMINEM and NATE RUESS",
+      "song": "Headlights",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Gold Digger",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Supersonic",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Shakermaker",
+      "label": "Helter Skelter",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Rock 'N' Roll Star",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Live Forever",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Cigarettes And Alcohol",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Whatever",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Roll With It",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Wonderwall",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "The Masterplan",
+      "label": "SBME",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Morning Glory",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Don't Look Back In Anger",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Champagne Supernova",
+      "label": "SBME",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Acquiesce",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "D'You Know What I Mean?",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Stand By Me",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "All Around The World",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Don't Go Away",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Go Let It Out",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "The Hindu Times",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Stop Crying Your Heart Out",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Little By Little",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Songbird",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Lyla",
+      "label": "SBME",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "The Importance Of Being Idle",
+      "label": "SBME",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Let There Be Love",
+      "label": "SBME",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "The Shock Of The Lightning",
+      "label": "SBME",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "I'm Outta Time",
+      "label": "SBME",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SELVE",
+      "song": "Natural Born Killa",
+      "label": "Community Music",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BAD//DREEMS",
+      "song": "Shadowland",
+      "label": "Gutto Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AL CARLO",
+      "song": "Movin' On For Better",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DEAN BRADY",
+      "song": "Looking For Trouble",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE HALVES",
+      "song": "Robber",
+      "label": "Impressed Recordings",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE GNOMES",
+      "song": "Flippin' Stomp",
+      "label": "Dog Meat Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RUEL",
+      "song": "Wild Guess (clean version)",
+      "label": "Recess Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DON WEST",
+      "song": "Give Me All Your Love",
+      "label": "Mandatory Music",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHLOE PARCHE",
+      "song": "Changing Shapes",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HIGHSCHOOL",
+      "song": "One Lucky Man",
+      "label": "PIAS",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROSALIA ft. BJORK and YVES TUMOR",
+      "song": "Berghain (clean version)",
+      "label": "Columbia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HANNAH KATE",
+      "song": "Eggs In A Kettle",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE LAST DINNER PARTY",
+      "song": "Count The Ways",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KAYTRANADA",
+      "song": "SPACE INVADER",
+      "label": "RCA",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "COSMIC PSYCHOS",
+      "song": "Fly In My Shed",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LUCA GEORGE",
+      "song": "Flowers For You",
+      "label": "Island Records Australia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MORGAN WALLEN",
+      "song": "20 Cigarettes",
+      "label": "Mercury Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GEESE",
+      "song": "Au Pays du Cocaine",
+      "label": "Partisan Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE TEMPER TRAP",
+      "song": "Giving Up Air",
+      "label": "Mushroom",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PARTY DOZEN",
+      "song": "MAD ROOTER",
+      "label": "City Slang / GRUPO",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DUGONG JR ft. JORDAN DENNIS and CONNIE DIIAMOND",
+      "song": "Patience (clean version)",
+      "label": "Island Australia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HORSE MACGYVER",
+      "song": "Fault Finder",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SWORD II",
+      "song": "Halogen",
+      "label": "Mushroom",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "REPTILE TILE ft. PERIOD BOMB",
+      "song": "Shopping Around",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DAY DREAMERS",
+      "song": "y2k",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BOY and BEAR",
+      "song": "Tripping Over Time",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CARLA GENEVE",
+      "song": "Passing",
+      "label": "Dot Dash",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DZ DEATHRAYS",
+      "song": "Skyline",
+      "label": "DZ Worldwide",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SPEED",
+      "song": "All My Angels",
+      "label": "Last Ride Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TAME IMPALA",
+      "song": "Dracula (clean version)",
+      "label": "Columbia",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "VELVET TRIP",
+      "song": "Fr3o",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JEM CASSAR-DALEY",
+      "song": "Front Left Pocket",
+      "label": "Civilians",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FRED AGAIN.. and AMYL and THE SNIFFERS",
+      "song": "You're A Star",
+      "label": "Atlantic",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DJ SEINFELD and CONFIDENCE MAN",
+      "song": "The Right",
+      "label": "Ninja Tune",
+      "timeslot": "06:30:00"
+    }
+  ]
+}
