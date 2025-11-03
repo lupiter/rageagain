@@ -1284,62 +1284,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2000-10-06",
-      "path": "2000/10/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001006.htm"
-    },
-    {
-      "special": "The Fauves guest program",
-      "timeslot": null,
-      "date": "2000-10-07",
-      "path": "2000/10/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001007.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-10-13",
-      "path": "2000/10/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001013.htm"
-    },
-    {
-      "special": "Livid Festival Special",
-      "timeslot": null,
-      "date": "2000-10-14",
-      "path": "2000/10/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001014.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-10-20",
-      "path": "2000/10/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001020.htm"
-    },
-    {
-      "special": "Radiohead & U2 Special",
-      "timeslot": null,
-      "date": "2000-10-21",
-      "path": "2000/10/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001021.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-10-27",
-      "path": "2000/10/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001027.htm"
-    },
-    {
-      "special": "Christine Anu guest programs",
-      "timeslot": null,
-      "date": "2000-10-28",
-      "path": "2000/10/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001028.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2000-11-03",
       "path": "2000/11/03.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001103.htm"
@@ -1392,6 +1336,62 @@
       "date": "2000-11-25",
       "path": "2000/11/25.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001125.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-10-06",
+      "path": "2000/10/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001006.htm"
+    },
+    {
+      "special": "The Fauves guest program",
+      "timeslot": null,
+      "date": "2000-10-07",
+      "path": "2000/10/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001007.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-10-13",
+      "path": "2000/10/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001013.htm"
+    },
+    {
+      "special": "Livid Festival Special",
+      "timeslot": null,
+      "date": "2000-10-14",
+      "path": "2000/10/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001014.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-10-20",
+      "path": "2000/10/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001020.htm"
+    },
+    {
+      "special": "Radiohead & U2 Special",
+      "timeslot": null,
+      "date": "2000-10-21",
+      "path": "2000/10/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001021.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-10-27",
+      "path": "2000/10/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001027.htm"
+    },
+    {
+      "special": "Christine Anu guest programs",
+      "timeslot": null,
+      "date": "2000-10-28",
+      "path": "2000/10/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001028.htm"
     },
     {
       "special": null,
@@ -5932,62 +5932,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2006-02-03",
-      "path": "2006/02/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060203.htm"
-    },
-    {
-      "special": "My Chemical Romance Guest Program",
-      "timeslot": null,
-      "date": "2006-02-04",
-      "path": "2006/02/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060204.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-02-10",
-      "path": "2006/02/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060210.htm"
-    },
-    {
-      "special": "Roots Manuva Guest Programs",
-      "timeslot": null,
-      "date": "2006-02-11",
-      "path": "2006/02/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060211.htm"
-    },
-    {
-      "special": "triple j's Hottest 100 Special 2006",
-      "timeslot": null,
-      "date": "2006-02-17",
-      "path": "2006/02/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060217.htm"
-    },
-    {
-      "special": "triple j's Hottest 100 Special 2006 (Part 2)",
-      "timeslot": null,
-      "date": "2006-02-18",
-      "path": "2006/02/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060218.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-02-24",
-      "path": "2006/02/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060224.htm"
-    },
-    {
-      "special": "Kaiser Chiefs Guest Program",
-      "timeslot": null,
-      "date": "2006-02-25",
-      "path": "2006/02/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060225.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2006-03-03",
       "path": "2006/03/03.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060303.htm"
@@ -6047,6 +5991,62 @@
       "date": "2006-03-31",
       "path": "2006/03/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060331.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-02-03",
+      "path": "2006/02/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060203.htm"
+    },
+    {
+      "special": "My Chemical Romance Guest Program",
+      "timeslot": null,
+      "date": "2006-02-04",
+      "path": "2006/02/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060204.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-02-10",
+      "path": "2006/02/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060210.htm"
+    },
+    {
+      "special": "Roots Manuva Guest Programs",
+      "timeslot": null,
+      "date": "2006-02-11",
+      "path": "2006/02/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060211.htm"
+    },
+    {
+      "special": "triple j's Hottest 100 Special 2006",
+      "timeslot": null,
+      "date": "2006-02-17",
+      "path": "2006/02/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060217.htm"
+    },
+    {
+      "special": "triple j's Hottest 100 Special 2006 (Part 2)",
+      "timeslot": null,
+      "date": "2006-02-18",
+      "path": "2006/02/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060218.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-02-24",
+      "path": "2006/02/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060224.htm"
+    },
+    {
+      "special": "Kaiser Chiefs Guest Program",
+      "timeslot": null,
+      "date": "2006-02-25",
+      "path": "2006/02/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060225.htm"
     },
     {
       "special": "Faker Guest Program",
@@ -7211,69 +7211,6 @@
       "url": "http://www.abc.net.au/rage/archive/s2071190.htm"
     },
     {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-11-02",
-      "path": "2007/11/02.json",
-      "url": "http://www.abc.net.au/rage/archive/s2080273.htm"
-    },
-    {
-      "special": "James Lavelle",
-      "timeslot": null,
-      "date": "2007-11-03",
-      "path": "2007/11/03.json",
-      "url": "http://www.abc.net.au/rage/archive/s2080282.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-11-09",
-      "path": "2007/11/09.json",
-      "url": "http://www.abc.net.au/rage/archive/s2086400.htm"
-    },
-    {
-      "special": "Expatriate",
-      "timeslot": null,
-      "date": "2007-11-10",
-      "path": "2007/11/10.json",
-      "url": "http://www.abc.net.au/rage/archive/s2086405.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-11-16",
-      "path": "2007/11/16.json",
-      "url": "http://www.abc.net.au/rage/archive/s2092809.htm"
-    },
-    {
-      "special": "1990s",
-      "timeslot": null,
-      "date": "2007-11-17",
-      "path": "2007/11/17.json",
-      "url": "http://www.abc.net.au/rage/archive/s2092811.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-11-23",
-      "path": "2007/11/23.json",
-      "url": "http://www.abc.net.au/rage/archive/s2099187.htm"
-    },
-    {
-      "special": "Gotye",
-      "timeslot": null,
-      "date": "2007-11-24",
-      "path": "2007/11/24.json",
-      "url": "http://www.abc.net.au/rage/archive/s2099189.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-11-30",
-      "path": "2007/11/30.json",
-      "url": "http://www.abc.net.au/rage/archive/s2106030.htm"
-    },
-    {
       "special": "rage 20th Birthday Special : 1987 - 1991",
       "timeslot": null,
       "date": "2007-12-01",
@@ -7342,6 +7279,69 @@
       "date": "2007-12-31",
       "path": "2007/12/31.json",
       "url": "http://www.abc.net.au/rage/archive/s2129343.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-11-02",
+      "path": "2007/11/02.json",
+      "url": "http://www.abc.net.au/rage/archive/s2080273.htm"
+    },
+    {
+      "special": "James Lavelle",
+      "timeslot": null,
+      "date": "2007-11-03",
+      "path": "2007/11/03.json",
+      "url": "http://www.abc.net.au/rage/archive/s2080282.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-11-09",
+      "path": "2007/11/09.json",
+      "url": "http://www.abc.net.au/rage/archive/s2086400.htm"
+    },
+    {
+      "special": "Expatriate",
+      "timeslot": null,
+      "date": "2007-11-10",
+      "path": "2007/11/10.json",
+      "url": "http://www.abc.net.au/rage/archive/s2086405.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-11-16",
+      "path": "2007/11/16.json",
+      "url": "http://www.abc.net.au/rage/archive/s2092809.htm"
+    },
+    {
+      "special": "1990s",
+      "timeslot": null,
+      "date": "2007-11-17",
+      "path": "2007/11/17.json",
+      "url": "http://www.abc.net.au/rage/archive/s2092811.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-11-23",
+      "path": "2007/11/23.json",
+      "url": "http://www.abc.net.au/rage/archive/s2099187.htm"
+    },
+    {
+      "special": "Gotye",
+      "timeslot": null,
+      "date": "2007-11-24",
+      "path": "2007/11/24.json",
+      "url": "http://www.abc.net.au/rage/archive/s2099189.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-11-30",
+      "path": "2007/11/30.json",
+      "url": "http://www.abc.net.au/rage/archive/s2106030.htm"
     },
     {
       "special": null,
@@ -37365,6 +37365,41 @@
       "date": "2025-11-02",
       "path": "2025/11/02_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-2-november-2025-on-abc-tv/105959826"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-11-03",
+      "path": "2025/11/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-3-november-2025-on-abc-entertains/105967062"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2025-11-03",
+      "path": "2025/11/03_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-3-november-2025-on-abc-tv/105967060"
+    },
+    {
+      "special": "rage AusMusic Month special",
+      "timeslot": "night",
+      "date": "2025-11-04",
+      "path": "2025/11/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-4-november-2025-on-abc-entertains/105967064"
+    },
+    {
+      "special": "The VAULT Festival Flashback Groovin' The Moo",
+      "timeslot": "night",
+      "date": "2025-11-05",
+      "path": "2025/11/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-5-november-2025-on-abc-entertains/105967066"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2025-11-06",
+      "path": "2025/11/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-6-november-2025-on-abc-entertains/105967068"
     }
   ]
 }
