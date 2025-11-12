@@ -4812,76 +4812,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2004-07-02",
-      "path": "2004/07/02.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040702.htm"
-    },
-    {
-      "special": "Kim & Thurston from Sonic Youth guest program",
-      "timeslot": null,
-      "date": "2004-07-03",
-      "path": "2004/07/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040703.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-07-09",
-      "path": "2004/07/09.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040709.htm"
-    },
-    {
-      "special": "The Dissociatives live in concert\nfollowed by Silverchair's 1995 guest programming",
-      "timeslot": null,
-      "date": "2004-07-10",
-      "path": "2004/07/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040710.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-07-16",
-      "path": "2004/07/16.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040716.htm"
-    },
-    {
-      "special": "Wanda Dee vocalist for The KLF guest programs",
-      "timeslot": null,
-      "date": "2004-07-17",
-      "path": "2004/07/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040717.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-07-23",
-      "path": "2004/07/23.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040723.htm"
-    },
-    {
-      "special": "Jungle Brothers guest program",
-      "timeslot": null,
-      "date": "2004-07-24",
-      "path": "2004/07/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040724.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-07-30",
-      "path": "2004/07/30.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040730.htm"
-    },
-    {
-      "special": "Franz Ferdinand guest program",
-      "timeslot": null,
-      "date": "2004-07-31",
-      "path": "2004/07/31.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040731.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2004-09-03",
       "path": "2004/09/03.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040903.htm"
@@ -5004,6 +4934,76 @@
       "date": "2004-10-30",
       "path": "2004/10/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041030.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-07-02",
+      "path": "2004/07/02.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040702.htm"
+    },
+    {
+      "special": "Kim & Thurston from Sonic Youth guest program",
+      "timeslot": null,
+      "date": "2004-07-03",
+      "path": "2004/07/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040703.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-07-09",
+      "path": "2004/07/09.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040709.htm"
+    },
+    {
+      "special": "The Dissociatives live in concert\nfollowed by Silverchair's 1995 guest programming",
+      "timeslot": null,
+      "date": "2004-07-10",
+      "path": "2004/07/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040710.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-07-16",
+      "path": "2004/07/16.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040716.htm"
+    },
+    {
+      "special": "Wanda Dee vocalist for The KLF guest programs",
+      "timeslot": null,
+      "date": "2004-07-17",
+      "path": "2004/07/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040717.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-07-23",
+      "path": "2004/07/23.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040723.htm"
+    },
+    {
+      "special": "Jungle Brothers guest program",
+      "timeslot": null,
+      "date": "2004-07-24",
+      "path": "2004/07/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040724.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-07-30",
+      "path": "2004/07/30.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040730.htm"
+    },
+    {
+      "special": "Franz Ferdinand guest program",
+      "timeslot": null,
+      "date": "2004-07-31",
+      "path": "2004/07/31.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040731.htm"
     },
     {
       "special": null,
@@ -7400,6 +7400,69 @@
       "url": "http://www.abc.net.au/rage/archive/s2146443.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-01",
+      "path": "2008/02/01.json",
+      "url": "http://www.abc.net.au/rage/archive/s2154045.htm"
+    },
+    {
+      "special": "Klaxons",
+      "timeslot": null,
+      "date": "2008-02-02",
+      "path": "2008/02/02.json",
+      "url": "http://www.abc.net.au/rage/archive/s2154058.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-08",
+      "path": "2008/02/08.json",
+      "url": "http://www.abc.net.au/rage/archive/s2157694.htm"
+    },
+    {
+      "special": "Clare Bowditch",
+      "timeslot": null,
+      "date": "2008-02-09",
+      "path": "2008/02/09.json",
+      "url": "http://www.abc.net.au/rage/archive/s2157696.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-15",
+      "path": "2008/02/15.json",
+      "url": "http://www.abc.net.au/rage/archive/s2163676.htm"
+    },
+    {
+      "special": "The Gossip",
+      "timeslot": null,
+      "date": "2008-02-16",
+      "path": "2008/02/16.json",
+      "url": "http://www.abc.net.au/rage/archive/s2163677.htm"
+    },
+    {
+      "special": "Hottest 100 for 2007 (Friday 22nd and Saturday 23rd)",
+      "timeslot": null,
+      "date": "2008-02-22",
+      "path": "2008/02/22.json",
+      "url": "http://www.abc.net.au/rage/archive/s2169912.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-23",
+      "path": "2008/02/23.json",
+      "url": "http://www.abc.net.au/rage/archive/s2169915.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-29",
+      "path": "2008/02/29.json",
+      "url": "http://www.abc.net.au/rage/archive/s2176214.htm"
+    },
+    {
       "special": "Andrew Weatherall",
       "timeslot": null,
       "date": "2008-03-01",
@@ -7524,69 +7587,6 @@
       "date": "2008-04-26",
       "path": "2008/04/26.json",
       "url": "http://www.abc.net.au/rage/archive/s2226402.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-01",
-      "path": "2008/02/01.json",
-      "url": "http://www.abc.net.au/rage/archive/s2154045.htm"
-    },
-    {
-      "special": "Klaxons",
-      "timeslot": null,
-      "date": "2008-02-02",
-      "path": "2008/02/02.json",
-      "url": "http://www.abc.net.au/rage/archive/s2154058.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-08",
-      "path": "2008/02/08.json",
-      "url": "http://www.abc.net.au/rage/archive/s2157694.htm"
-    },
-    {
-      "special": "Clare Bowditch",
-      "timeslot": null,
-      "date": "2008-02-09",
-      "path": "2008/02/09.json",
-      "url": "http://www.abc.net.au/rage/archive/s2157696.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-15",
-      "path": "2008/02/15.json",
-      "url": "http://www.abc.net.au/rage/archive/s2163676.htm"
-    },
-    {
-      "special": "The Gossip",
-      "timeslot": null,
-      "date": "2008-02-16",
-      "path": "2008/02/16.json",
-      "url": "http://www.abc.net.au/rage/archive/s2163677.htm"
-    },
-    {
-      "special": "Hottest 100 for 2007 (Friday 22nd and Saturday 23rd)",
-      "timeslot": null,
-      "date": "2008-02-22",
-      "path": "2008/02/22.json",
-      "url": "http://www.abc.net.au/rage/archive/s2169912.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-23",
-      "path": "2008/02/23.json",
-      "url": "http://www.abc.net.au/rage/archive/s2169915.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-29",
-      "path": "2008/02/29.json",
-      "url": "http://www.abc.net.au/rage/archive/s2176214.htm"
     },
     {
       "special": null,
@@ -10844,6 +10844,104 @@
       "url": "http://www.abc.net.au/rage/archive/s3329734.htm"
     },
     {
+      "special": "Phrase",
+      "timeslot": "morning",
+      "date": "2011-10-01",
+      "path": "2011/10/01_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3329737.htm"
+    },
+    {
+      "special": "Phrase",
+      "timeslot": "night",
+      "date": "2011-10-01",
+      "path": "2011/10/01_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3329739.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-10-07",
+      "path": "2011/10/07_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3334789.htm"
+    },
+    {
+      "special": "Alice Cooper",
+      "timeslot": "morning",
+      "date": "2011-10-08",
+      "path": "2011/10/08_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3334792.htm"
+    },
+    {
+      "special": "Alice Cooper",
+      "timeslot": "night",
+      "date": "2011-10-08",
+      "path": "2011/10/08_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3334793.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2011-10-14",
+      "path": "2011/10/14_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3339861.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-10-14",
+      "path": "2011/10/14_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3339856.htm"
+    },
+    {
+      "special": "Example",
+      "timeslot": "night",
+      "date": "2011-10-15",
+      "path": "2011/10/15_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3339863.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-10-21",
+      "path": "2011/10/21_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3345391.htm"
+    },
+    {
+      "special": "Baron Wolman",
+      "timeslot": "morning",
+      "date": "2011-10-22",
+      "path": "2011/10/22_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3345413.htm"
+    },
+    {
+      "special": "Baron Wolman",
+      "timeslot": "night",
+      "date": "2011-10-22",
+      "path": "2011/10/22_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3345415.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-10-28",
+      "path": "2011/10/28_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3350749.htm"
+    },
+    {
+      "special": "Nightmare on rage St Special!",
+      "timeslot": "morning",
+      "date": "2011-10-29",
+      "path": "2011/10/29_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3350752.htm"
+    },
+    {
+      "special": "Nightmare on rage St Special!",
+      "timeslot": "night",
+      "date": "2011-10-29",
+      "path": "2011/10/29_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3350755.htm"
+    },
+    {
       "special": null,
       "timeslot": "night",
       "date": "2011-11-04",
@@ -11108,104 +11206,6 @@
       "date": "2012-01-28",
       "path": "2012/01/28_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3417185.htm"
-    },
-    {
-      "special": "Phrase",
-      "timeslot": "morning",
-      "date": "2011-10-01",
-      "path": "2011/10/01_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3329737.htm"
-    },
-    {
-      "special": "Phrase",
-      "timeslot": "night",
-      "date": "2011-10-01",
-      "path": "2011/10/01_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3329739.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-10-07",
-      "path": "2011/10/07_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3334789.htm"
-    },
-    {
-      "special": "Alice Cooper",
-      "timeslot": "morning",
-      "date": "2011-10-08",
-      "path": "2011/10/08_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3334792.htm"
-    },
-    {
-      "special": "Alice Cooper",
-      "timeslot": "night",
-      "date": "2011-10-08",
-      "path": "2011/10/08_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3334793.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2011-10-14",
-      "path": "2011/10/14_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3339861.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-10-14",
-      "path": "2011/10/14_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3339856.htm"
-    },
-    {
-      "special": "Example",
-      "timeslot": "night",
-      "date": "2011-10-15",
-      "path": "2011/10/15_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3339863.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-10-21",
-      "path": "2011/10/21_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3345391.htm"
-    },
-    {
-      "special": "Baron Wolman",
-      "timeslot": "morning",
-      "date": "2011-10-22",
-      "path": "2011/10/22_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3345413.htm"
-    },
-    {
-      "special": "Baron Wolman",
-      "timeslot": "night",
-      "date": "2011-10-22",
-      "path": "2011/10/22_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3345415.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-10-28",
-      "path": "2011/10/28_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3350749.htm"
-    },
-    {
-      "special": "Nightmare on rage St Special!",
-      "timeslot": "morning",
-      "date": "2011-10-29",
-      "path": "2011/10/29_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3350752.htm"
-    },
-    {
-      "special": "Nightmare on rage St Special!",
-      "timeslot": "night",
-      "date": "2011-10-29",
-      "path": "2011/10/29_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3350755.htm"
     },
     {
       "special": "Arctic Monkeys",
