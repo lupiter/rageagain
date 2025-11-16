@@ -4756,6 +4756,76 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2004-07-02",
+      "path": "2004/07/02.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040702.htm"
+    },
+    {
+      "special": "Kim & Thurston from Sonic Youth guest program",
+      "timeslot": null,
+      "date": "2004-07-03",
+      "path": "2004/07/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040703.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-07-09",
+      "path": "2004/07/09.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040709.htm"
+    },
+    {
+      "special": "The Dissociatives live in concert\nfollowed by Silverchair's 1995 guest programming",
+      "timeslot": null,
+      "date": "2004-07-10",
+      "path": "2004/07/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040710.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-07-16",
+      "path": "2004/07/16.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040716.htm"
+    },
+    {
+      "special": "Wanda Dee vocalist for The KLF guest programs",
+      "timeslot": null,
+      "date": "2004-07-17",
+      "path": "2004/07/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040717.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-07-23",
+      "path": "2004/07/23.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040723.htm"
+    },
+    {
+      "special": "Jungle Brothers guest program",
+      "timeslot": null,
+      "date": "2004-07-24",
+      "path": "2004/07/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040724.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-07-30",
+      "path": "2004/07/30.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040730.htm"
+    },
+    {
+      "special": "Franz Ferdinand guest program",
+      "timeslot": null,
+      "date": "2004-07-31",
+      "path": "2004/07/31.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040731.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2004-08-06",
       "path": "2004/08/06.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040806.htm"
@@ -4934,76 +5004,6 @@
       "date": "2004-10-30",
       "path": "2004/10/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041030.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-07-02",
-      "path": "2004/07/02.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040702.htm"
-    },
-    {
-      "special": "Kim & Thurston from Sonic Youth guest program",
-      "timeslot": null,
-      "date": "2004-07-03",
-      "path": "2004/07/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040703.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-07-09",
-      "path": "2004/07/09.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040709.htm"
-    },
-    {
-      "special": "The Dissociatives live in concert\nfollowed by Silverchair's 1995 guest programming",
-      "timeslot": null,
-      "date": "2004-07-10",
-      "path": "2004/07/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040710.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-07-16",
-      "path": "2004/07/16.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040716.htm"
-    },
-    {
-      "special": "Wanda Dee vocalist for The KLF guest programs",
-      "timeslot": null,
-      "date": "2004-07-17",
-      "path": "2004/07/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040717.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-07-23",
-      "path": "2004/07/23.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040723.htm"
-    },
-    {
-      "special": "Jungle Brothers guest program",
-      "timeslot": null,
-      "date": "2004-07-24",
-      "path": "2004/07/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040724.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-07-30",
-      "path": "2004/07/30.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040730.htm"
-    },
-    {
-      "special": "Franz Ferdinand guest program",
-      "timeslot": null,
-      "date": "2004-07-31",
-      "path": "2004/07/31.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040731.htm"
     },
     {
       "special": null,
@@ -6352,6 +6352,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2006-10-06",
+      "path": "2006/10/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061006.htm"
+    },
+    {
+      "special": "Radio Birdman guest program",
+      "timeslot": null,
+      "date": "2006-10-07",
+      "path": "2006/10/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061007.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-10-13",
+      "path": "2006/10/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061013.htm"
+    },
+    {
+      "special": "'Up Yours' special",
+      "timeslot": null,
+      "date": "2006-10-14",
+      "path": "2006/10/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061014.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-10-20",
+      "path": "2006/10/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061020.htm"
+    },
+    {
+      "special": "Lily Allen guest programs",
+      "timeslot": null,
+      "date": "2006-10-21",
+      "path": "2006/10/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061021.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-10-27",
+      "path": "2006/10/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061027.htm"
+    },
+    {
+      "special": "TV On The Radio guest program",
+      "timeslot": null,
+      "date": "2006-10-28",
+      "path": "2006/10/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061028.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2006-09-01",
       "path": "2006/09/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060901.htm"
@@ -6418,62 +6474,6 @@
       "date": "2006-09-30",
       "path": "2006/09/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060930.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-10-06",
-      "path": "2006/10/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061006.htm"
-    },
-    {
-      "special": "Radio Birdman guest program",
-      "timeslot": null,
-      "date": "2006-10-07",
-      "path": "2006/10/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061007.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-10-13",
-      "path": "2006/10/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061013.htm"
-    },
-    {
-      "special": "'Up Yours' special",
-      "timeslot": null,
-      "date": "2006-10-14",
-      "path": "2006/10/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061014.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-10-20",
-      "path": "2006/10/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061020.htm"
-    },
-    {
-      "special": "Lily Allen guest programs",
-      "timeslot": null,
-      "date": "2006-10-21",
-      "path": "2006/10/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061021.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-10-27",
-      "path": "2006/10/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061027.htm"
-    },
-    {
-      "special": "TV On The Radio guest program",
-      "timeslot": null,
-      "date": "2006-10-28",
-      "path": "2006/10/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061028.htm"
     },
     {
       "special": null,
@@ -8506,69 +8506,6 @@
       "url": "http://www.abc.net.au/rage/archive/s2642211.htm"
     },
     {
-      "special": "Michael Jackson Special",
-      "timeslot": null,
-      "date": "2009-08-01",
-      "path": "2009/08/01.json",
-      "url": "http://www.abc.net.au/rage/archive/s2642218.htm"
-    },
-    {
-      "special": "triple j Hottest 100 of All Time Special",
-      "timeslot": null,
-      "date": "2009-08-07",
-      "path": "2009/08/07.json",
-      "url": "http://www.abc.net.au/rage/archive/s2649329.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-08-08",
-      "path": "2009/08/08.json",
-      "url": "http://www.abc.net.au/rage/archive/s2649341.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-08-14",
-      "path": "2009/08/14.json",
-      "url": "http://www.abc.net.au/rage/archive/s2656037.htm"
-    },
-    {
-      "special": "Mia Dyson Guest Programs rage",
-      "timeslot": null,
-      "date": "2009-08-15",
-      "path": "2009/08/15.json",
-      "url": "http://www.abc.net.au/rage/archive/s2656045.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-08-21",
-      "path": "2009/08/21.json",
-      "url": "http://www.abc.net.au/rage/archive/s2662838.htm"
-    },
-    {
-      "special": "Pendulum Guest Program",
-      "timeslot": null,
-      "date": "2009-08-22",
-      "path": "2009/08/22.json",
-      "url": "http://www.abc.net.au/rage/archive/s2662929.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-08-28",
-      "path": "2009/08/28.json",
-      "url": "http://www.abc.net.au/rage/archive/s2669639.htm"
-    },
-    {
-      "special": "Suggs from Madness Guest Programs",
-      "timeslot": null,
-      "date": "2009-08-29",
-      "path": "2009/08/29.json",
-      "url": "http://www.abc.net.au/rage/archive/s2669643.htm"
-    },
-    {
       "special": null,
       "timeslot": null,
       "date": "2009-09-04",
@@ -8749,6 +8686,69 @@
       "date": "2009-10-31",
       "path": "2009/10/31_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2728589.htm"
+    },
+    {
+      "special": "Michael Jackson Special",
+      "timeslot": null,
+      "date": "2009-08-01",
+      "path": "2009/08/01.json",
+      "url": "http://www.abc.net.au/rage/archive/s2642218.htm"
+    },
+    {
+      "special": "triple j Hottest 100 of All Time Special",
+      "timeslot": null,
+      "date": "2009-08-07",
+      "path": "2009/08/07.json",
+      "url": "http://www.abc.net.au/rage/archive/s2649329.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-08-08",
+      "path": "2009/08/08.json",
+      "url": "http://www.abc.net.au/rage/archive/s2649341.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-08-14",
+      "path": "2009/08/14.json",
+      "url": "http://www.abc.net.au/rage/archive/s2656037.htm"
+    },
+    {
+      "special": "Mia Dyson Guest Programs rage",
+      "timeslot": null,
+      "date": "2009-08-15",
+      "path": "2009/08/15.json",
+      "url": "http://www.abc.net.au/rage/archive/s2656045.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-08-21",
+      "path": "2009/08/21.json",
+      "url": "http://www.abc.net.au/rage/archive/s2662838.htm"
+    },
+    {
+      "special": "Pendulum Guest Program",
+      "timeslot": null,
+      "date": "2009-08-22",
+      "path": "2009/08/22.json",
+      "url": "http://www.abc.net.au/rage/archive/s2662929.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-08-28",
+      "path": "2009/08/28.json",
+      "url": "http://www.abc.net.au/rage/archive/s2669639.htm"
+    },
+    {
+      "special": "Suggs from Madness Guest Programs",
+      "timeslot": null,
+      "date": "2009-08-29",
+      "path": "2009/08/29.json",
+      "url": "http://www.abc.net.au/rage/archive/s2669643.htm"
     },
     {
       "special": null,
@@ -10753,97 +10753,6 @@
       "url": "http://www.abc.net.au/rage/archive/s3303407.htm"
     },
     {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-09-02",
-      "path": "2011/09/02_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3308745.htm"
-    },
-    {
-      "special": "Toby Creswell, Craig Mathieson & John O'Donnell",
-      "timeslot": "morning",
-      "date": "2011-09-03",
-      "path": "2011/09/03_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3308759.htm"
-    },
-    {
-      "special": "Toby Creswell, Craig Mathieson & John O'Donnell",
-      "timeslot": "night",
-      "date": "2011-09-03",
-      "path": "2011/09/03_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3308761.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-09-09",
-      "path": "2011/09/09_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3314295.htm"
-    },
-    {
-      "special": "Cold Chisel",
-      "timeslot": "morning",
-      "date": "2011-09-10",
-      "path": "2011/09/10_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3314301.htm"
-    },
-    {
-      "special": "Cold Chisel",
-      "timeslot": "night",
-      "date": "2011-09-10",
-      "path": "2011/09/10_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3314304.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-09-16",
-      "path": "2011/09/16_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3319506.htm"
-    },
-    {
-      "special": "Breaking Up With rage Special!",
-      "timeslot": "morning",
-      "date": "2011-09-17",
-      "path": "2011/09/17_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3319509.htm"
-    },
-    {
-      "special": "Breaking Up With rage Special!",
-      "timeslot": "night",
-      "date": "2011-09-17",
-      "path": "2011/09/17_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3319510.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-09-23",
-      "path": "2011/09/23_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3324600.htm"
-    },
-    {
-      "special": "Kimbra",
-      "timeslot": "morning",
-      "date": "2011-09-24",
-      "path": "2011/09/24_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3324604.htm"
-    },
-    {
-      "special": "Kimbra",
-      "timeslot": "night",
-      "date": "2011-09-24",
-      "path": "2011/09/24_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3324608.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-09-30",
-      "path": "2011/09/30_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3329734.htm"
-    },
-    {
       "special": "Phrase",
       "timeslot": "morning",
       "date": "2011-10-01",
@@ -11024,6 +10933,97 @@
       "date": "2011-11-26",
       "path": "2011/11/26_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3376511.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-09-02",
+      "path": "2011/09/02_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3308745.htm"
+    },
+    {
+      "special": "Toby Creswell, Craig Mathieson & John O'Donnell",
+      "timeslot": "morning",
+      "date": "2011-09-03",
+      "path": "2011/09/03_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3308759.htm"
+    },
+    {
+      "special": "Toby Creswell, Craig Mathieson & John O'Donnell",
+      "timeslot": "night",
+      "date": "2011-09-03",
+      "path": "2011/09/03_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3308761.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-09-09",
+      "path": "2011/09/09_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3314295.htm"
+    },
+    {
+      "special": "Cold Chisel",
+      "timeslot": "morning",
+      "date": "2011-09-10",
+      "path": "2011/09/10_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3314301.htm"
+    },
+    {
+      "special": "Cold Chisel",
+      "timeslot": "night",
+      "date": "2011-09-10",
+      "path": "2011/09/10_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3314304.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-09-16",
+      "path": "2011/09/16_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3319506.htm"
+    },
+    {
+      "special": "Breaking Up With rage Special!",
+      "timeslot": "morning",
+      "date": "2011-09-17",
+      "path": "2011/09/17_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3319509.htm"
+    },
+    {
+      "special": "Breaking Up With rage Special!",
+      "timeslot": "night",
+      "date": "2011-09-17",
+      "path": "2011/09/17_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3319510.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-09-23",
+      "path": "2011/09/23_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3324600.htm"
+    },
+    {
+      "special": "Kimbra",
+      "timeslot": "morning",
+      "date": "2011-09-24",
+      "path": "2011/09/24_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3324604.htm"
+    },
+    {
+      "special": "Kimbra",
+      "timeslot": "night",
+      "date": "2011-09-24",
+      "path": "2011/09/24_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3324608.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-09-30",
+      "path": "2011/09/30_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3329734.htm"
     },
     {
       "special": null,
@@ -37484,6 +37484,55 @@
       "date": "2025-11-13",
       "path": "2025/11/13_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-13-november-2025-on-abc-entertains/105991982"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-11-14",
+      "path": "2025/11/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-14-november-2025-on-abc-entertains/106011922"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-11-14",
+      "path": "2025/11/14_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-14-november-2025-on-abc-tv/106011920"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2025-11-15",
+      "path": "2025/11/15_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-15-november-2025-on-abc-tv/106011924"
+    },
+    {
+      "special": "AusMusic Month special",
+      "timeslot": "night",
+      "date": "2025-11-15",
+      "path": "2025/11/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-15-november-2025-on-abc-entertains/106011928"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-11-15",
+      "path": "2025/11/15_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-15-november-2025-on-abc-tv/106011926"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-11-16",
+      "path": "2025/11/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-16-november-2025-on-abc-entertains/106011932"
+    },
+    {
+      "special": "The VAULT: Oz 1990",
+      "timeslot": "night",
+      "date": "2025-11-16",
+      "path": "2025/11/16_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-16-november-2025-on-abc-tv/106011930"
     }
   ]
 }
