@@ -37568,6 +37568,55 @@
       "date": "2025-11-20",
       "path": "2025/11/20_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-20-november-2025-on-abc-entertains/106019672"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-11-21",
+      "path": "2025/11/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-21-november-2025-on-abc-entertains/106038662"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-11-21",
+      "path": "2025/11/21_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-21-november-2025-on-abc-tv/106038660"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2025-11-22",
+      "path": "2025/11/22_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-22-november-2025-on-abc-tv/106038664"
+    },
+    {
+      "special": "AusMusic Month special",
+      "timeslot": "night",
+      "date": "2025-11-22",
+      "path": "2025/11/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-22-november-2025-on-abc-entertains/106038668"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-11-22",
+      "path": "2025/11/22_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-22-november-2025-on-abc-tv/106038666"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-11-23",
+      "path": "2025/11/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-23-november-2025-on-abc-entertains/106038672"
+    },
+    {
+      "special": "The VAULT: 1999 ARIA Awards",
+      "timeslot": "night",
+      "date": "2025-11-23",
+      "path": "2025/11/23_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-23-november-2025-on-abc-tv/106038670"
     }
   ]
 }
