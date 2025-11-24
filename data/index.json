@@ -37617,6 +37617,41 @@
       "date": "2025-11-23",
       "path": "2025/11/23_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-23-november-2025-on-abc-tv/106038670"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-11-24",
+      "path": "2025/11/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-24-november-2025-on-abc-entertains/106047320"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2025-11-24",
+      "path": "2025/11/24_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-24-november-2025-on-abc-tv/106047318"
+    },
+    {
+      "special": "rage AusMusic Month special",
+      "timeslot": "night",
+      "date": "2025-11-25",
+      "path": "2025/11/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-25-november-2025-on-abc-entertains/106047322"
+    },
+    {
+      "special": "The VAULT 1999 ARIA Awards",
+      "timeslot": "night",
+      "date": "2025-11-26",
+      "path": "2025/11/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-26-november-2025-on-abc-entertains/106047324"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2025-11-27",
+      "path": "2025/11/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-27-november-2025-on-abc-entertains/106047326"
     }
   ]
 }
