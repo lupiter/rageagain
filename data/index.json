@@ -1646,6 +1646,69 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000331.htm"
     },
     {
+      "special": "Beth Orton guest programs\nfollowed by Portishead & PJ Harvey videos.",
+      "timeslot": null,
+      "date": "2000-04-01",
+      "path": "2000/04/01.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000401.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-04-07",
+      "path": "2000/04/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000407.htm"
+    },
+    {
+      "special": "Ed Kowalczyk from Live guest programs\nfollowed by Live & Nirvana videos",
+      "timeslot": null,
+      "date": "2000-04-08",
+      "path": "2000/04/08.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000408.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-04-14",
+      "path": "2000/04/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000414.htm"
+    },
+    {
+      "special": "Area-7 guest program\nfollowed by Area-7 videos",
+      "timeslot": null,
+      "date": "2000-04-15",
+      "path": "2000/04/15.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000415.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-04-21",
+      "path": "2000/04/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000421.htm"
+    },
+    {
+      "special": "rage features BLUR, RADIOHEAD, PULP, SUEDE, GOMEZ, TRAVIS, OASIS, SUPERGRASS, ASH and others",
+      "timeslot": null,
+      "date": "2000-04-22",
+      "path": "2000/04/22.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000422.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-04-28",
+      "path": "2000/04/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000428.htm"
+    },
+    {
+      "special": "Sugar Ray guest program\nplus Sugar Ray's videos",
+      "timeslot": null,
+      "date": "2000-04-29",
+      "path": "2000/04/29.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000429.htm"
+    },
+    {
       "special": null,
       "timeslot": null,
       "date": "2000-05-05",
@@ -1763,69 +1826,6 @@
       "date": "2000-06-30",
       "path": "2000/06/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000630.htm"
-    },
-    {
-      "special": "Beth Orton guest programs\nfollowed by Portishead & PJ Harvey videos.",
-      "timeslot": null,
-      "date": "2000-04-01",
-      "path": "2000/04/01.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000401.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-04-07",
-      "path": "2000/04/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000407.htm"
-    },
-    {
-      "special": "Ed Kowalczyk from Live guest programs\nfollowed by Live & Nirvana videos",
-      "timeslot": null,
-      "date": "2000-04-08",
-      "path": "2000/04/08.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000408.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-04-14",
-      "path": "2000/04/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000414.htm"
-    },
-    {
-      "special": "Area-7 guest program\nfollowed by Area-7 videos",
-      "timeslot": null,
-      "date": "2000-04-15",
-      "path": "2000/04/15.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000415.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-04-21",
-      "path": "2000/04/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000421.htm"
-    },
-    {
-      "special": "rage features BLUR, RADIOHEAD, PULP, SUEDE, GOMEZ, TRAVIS, OASIS, SUPERGRASS, ASH and others",
-      "timeslot": null,
-      "date": "2000-04-22",
-      "path": "2000/04/22.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000422.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-04-28",
-      "path": "2000/04/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000428.htm"
-    },
-    {
-      "special": "Sugar Ray guest program\nplus Sugar Ray's videos",
-      "timeslot": null,
-      "date": "2000-04-29",
-      "path": "2000/04/29.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000429.htm"
     },
     {
       "special": "rage plays A Perfect Circle, Tool & Others",
@@ -37785,6 +37785,41 @@
       "date": "2025-12-07",
       "path": "2025/12/07_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-7-december-2025-on-abc-tv/106108958"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-12-08",
+      "path": "2025/12/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-8-december-2025-on-abc-entertains/106117240"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2025-12-08",
+      "path": "2025/12/08_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-8-december-2025-on-abc-tv/106117238"
+    },
+    {
+      "special": "NLV Records special",
+      "timeslot": "night",
+      "date": "2025-12-09",
+      "path": "2025/12/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-9-december-2025-on-abc-entertains/106117242"
+    },
+    {
+      "special": "The VAULT: Director Diane Martel",
+      "timeslot": "night",
+      "date": "2025-12-10",
+      "path": "2025/12/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-10-december-2025-on-abc-entertains/106117244"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2025-12-11",
+      "path": "2025/12/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-11-december-2025-on-abc-entertains/106117246"
     }
   ]
 }
