@@ -6049,62 +6049,6 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060331.htm"
     },
     {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-05-05",
-      "path": "2006/05/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060505.htm"
-    },
-    {
-      "special": "Tool Guest Program",
-      "timeslot": null,
-      "date": "2006-05-06",
-      "path": "2006/05/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060506.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-05-12",
-      "path": "2006/05/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060512.htm"
-    },
-    {
-      "special": "Datarock Guest Program",
-      "timeslot": null,
-      "date": "2006-05-13",
-      "path": "2006/05/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060513.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-05-19",
-      "path": "2006/05/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060519.htm"
-    },
-    {
-      "special": "You Am I Guest Program",
-      "timeslot": null,
-      "date": "2006-05-20",
-      "path": "2006/05/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060520.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-05-26",
-      "path": "2006/05/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060526.htm"
-    },
-    {
-      "special": "MIA Guest Program",
-      "timeslot": null,
-      "date": "2006-05-27",
-      "path": "2006/05/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060527.htm"
-    },
-    {
       "special": "Faker Guest Program",
       "timeslot": null,
       "date": "2006-04-01",
@@ -6170,6 +6114,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2006-05-05",
+      "path": "2006/05/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060505.htm"
+    },
+    {
+      "special": "Tool Guest Program",
+      "timeslot": null,
+      "date": "2006-05-06",
+      "path": "2006/05/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060506.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-05-12",
+      "path": "2006/05/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060512.htm"
+    },
+    {
+      "special": "Datarock Guest Program",
+      "timeslot": null,
+      "date": "2006-05-13",
+      "path": "2006/05/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060513.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-05-19",
+      "path": "2006/05/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060519.htm"
+    },
+    {
+      "special": "You Am I Guest Program",
+      "timeslot": null,
+      "date": "2006-05-20",
+      "path": "2006/05/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060520.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-05-26",
+      "path": "2006/05/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060526.htm"
+    },
+    {
+      "special": "MIA Guest Program",
+      "timeslot": null,
+      "date": "2006-05-27",
+      "path": "2006/05/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060527.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2006-06-02",
       "path": "2006/06/02.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060602.htm"
@@ -6229,62 +6229,6 @@
       "date": "2006-06-30",
       "path": "2006/06/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060630.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-08-04",
-      "path": "2006/08/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060804.htm"
-    },
-    {
-      "special": "The Sleepy Jackson guest program",
-      "timeslot": null,
-      "date": "2006-08-05",
-      "path": "2006/08/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060805.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-08-11",
-      "path": "2006/08/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060811.htm"
-    },
-    {
-      "special": "DJ Shadow guest programs",
-      "timeslot": null,
-      "date": "2006-08-12",
-      "path": "2006/08/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060812.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-08-18",
-      "path": "2006/08/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060818.htm"
-    },
-    {
-      "special": "Dirty Three guest program",
-      "timeslot": null,
-      "date": "2006-08-19",
-      "path": "2006/08/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060819.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-08-25",
-      "path": "2006/08/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060825.htm"
-    },
-    {
-      "special": "rage gets animated special",
-      "timeslot": null,
-      "date": "2006-08-26",
-      "path": "2006/08/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060826.htm"
     },
     {
       "special": "Annie guest programs",
@@ -6348,6 +6292,62 @@
       "date": "2006-07-29",
       "path": "2006/07/29.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060729.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-08-04",
+      "path": "2006/08/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060804.htm"
+    },
+    {
+      "special": "The Sleepy Jackson guest program",
+      "timeslot": null,
+      "date": "2006-08-05",
+      "path": "2006/08/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060805.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-08-11",
+      "path": "2006/08/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060811.htm"
+    },
+    {
+      "special": "DJ Shadow guest programs",
+      "timeslot": null,
+      "date": "2006-08-12",
+      "path": "2006/08/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060812.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-08-18",
+      "path": "2006/08/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060818.htm"
+    },
+    {
+      "special": "Dirty Three guest program",
+      "timeslot": null,
+      "date": "2006-08-19",
+      "path": "2006/08/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060819.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-08-25",
+      "path": "2006/08/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060825.htm"
+    },
+    {
+      "special": "rage gets animated special",
+      "timeslot": null,
+      "date": "2006-08-26",
+      "path": "2006/08/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060826.htm"
     },
     {
       "special": null,
