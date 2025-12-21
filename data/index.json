@@ -7211,69 +7211,6 @@
       "url": "http://www.abc.net.au/rage/archive/s2071190.htm"
     },
     {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-11-02",
-      "path": "2007/11/02.json",
-      "url": "http://www.abc.net.au/rage/archive/s2080273.htm"
-    },
-    {
-      "special": "James Lavelle",
-      "timeslot": null,
-      "date": "2007-11-03",
-      "path": "2007/11/03.json",
-      "url": "http://www.abc.net.au/rage/archive/s2080282.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-11-09",
-      "path": "2007/11/09.json",
-      "url": "http://www.abc.net.au/rage/archive/s2086400.htm"
-    },
-    {
-      "special": "Expatriate",
-      "timeslot": null,
-      "date": "2007-11-10",
-      "path": "2007/11/10.json",
-      "url": "http://www.abc.net.au/rage/archive/s2086405.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-11-16",
-      "path": "2007/11/16.json",
-      "url": "http://www.abc.net.au/rage/archive/s2092809.htm"
-    },
-    {
-      "special": "1990s",
-      "timeslot": null,
-      "date": "2007-11-17",
-      "path": "2007/11/17.json",
-      "url": "http://www.abc.net.au/rage/archive/s2092811.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-11-23",
-      "path": "2007/11/23.json",
-      "url": "http://www.abc.net.au/rage/archive/s2099187.htm"
-    },
-    {
-      "special": "Gotye",
-      "timeslot": null,
-      "date": "2007-11-24",
-      "path": "2007/11/24.json",
-      "url": "http://www.abc.net.au/rage/archive/s2099189.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-11-30",
-      "path": "2007/11/30.json",
-      "url": "http://www.abc.net.au/rage/archive/s2106030.htm"
-    },
-    {
       "special": "rage 20th Birthday Special : 1987 - 1991",
       "timeslot": null,
       "date": "2007-12-01",
@@ -7342,6 +7279,69 @@
       "date": "2007-12-31",
       "path": "2007/12/31.json",
       "url": "http://www.abc.net.au/rage/archive/s2129343.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-11-02",
+      "path": "2007/11/02.json",
+      "url": "http://www.abc.net.au/rage/archive/s2080273.htm"
+    },
+    {
+      "special": "James Lavelle",
+      "timeslot": null,
+      "date": "2007-11-03",
+      "path": "2007/11/03.json",
+      "url": "http://www.abc.net.au/rage/archive/s2080282.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-11-09",
+      "path": "2007/11/09.json",
+      "url": "http://www.abc.net.au/rage/archive/s2086400.htm"
+    },
+    {
+      "special": "Expatriate",
+      "timeslot": null,
+      "date": "2007-11-10",
+      "path": "2007/11/10.json",
+      "url": "http://www.abc.net.au/rage/archive/s2086405.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-11-16",
+      "path": "2007/11/16.json",
+      "url": "http://www.abc.net.au/rage/archive/s2092809.htm"
+    },
+    {
+      "special": "1990s",
+      "timeslot": null,
+      "date": "2007-11-17",
+      "path": "2007/11/17.json",
+      "url": "http://www.abc.net.au/rage/archive/s2092811.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-11-23",
+      "path": "2007/11/23.json",
+      "url": "http://www.abc.net.au/rage/archive/s2099187.htm"
+    },
+    {
+      "special": "Gotye",
+      "timeslot": null,
+      "date": "2007-11-24",
+      "path": "2007/11/24.json",
+      "url": "http://www.abc.net.au/rage/archive/s2099189.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-11-30",
+      "path": "2007/11/30.json",
+      "url": "http://www.abc.net.au/rage/archive/s2106030.htm"
     },
     {
       "special": null,
@@ -18329,139 +18329,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2017-09-01",
-      "path": "2017/09/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-1st-september-2017-on-abc/9645382"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-09-02",
-      "path": "2017/09/02_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2nd-september-2017-on-abc/9645380"
-    },
-    {
-      "special": "Gang Of Youths",
-      "timeslot": "night",
-      "date": "2017-09-02",
-      "path": "2017/09/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-2nd-september-2017-on-abc/9645378"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-03",
-      "path": "2017/09/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-3rd-september-2017-on-abc/9645372"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-08",
-      "path": "2017/09/08_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-8th-september-2017-on-abc/9645370"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-09-09",
-      "path": "2017/09/09_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9th-september-2017-on-abc/9645368"
-    },
-    {
-      "special": "Spoon",
-      "timeslot": "night",
-      "date": "2017-09-09",
-      "path": "2017/09/09_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-9th-september-2017-on-abc/9645366"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-10",
-      "path": "2017/09/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-10th-september-2017-on-abc/9645360"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-15",
-      "path": "2017/09/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-15th-september-2017-on-abc/9645358"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-09-16",
-      "path": "2017/09/16_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-16th-september-2017-on-abc/9645356"
-    },
-    {
-      "special": "The Preatures",
-      "timeslot": "night",
-      "date": "2017-09-16",
-      "path": "2017/09/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-16th-september-2017-on-abc/9645354"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-17",
-      "path": "2017/09/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-17th-september-2017-on-abc/9645348"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-22",
-      "path": "2017/09/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-22nd-september-2017-on-abc/9645346"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-09-23",
-      "path": "2017/09/23_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-23rd-september-2017-on-abc/9645344"
-    },
-    {
-      "special": "Mogwai",
-      "timeslot": "night",
-      "date": "2017-09-23",
-      "path": "2017/09/23_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-23rd-september-2017-on-abc/9645342"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-24",
-      "path": "2017/09/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-24th-september-2017-on-abc/9645336"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-29",
-      "path": "2017/09/29_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-29th-september-2017-on-abc/9645334"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-09-30",
-      "path": "2017/09/30_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-30th-september-2017-on-abc/9645332"
-    },
-    {
-      "special": "Died Pretty",
-      "timeslot": "night",
-      "date": "2017-09-30",
-      "path": "2017/09/30_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-30th-september-2017-on-abc/9645330"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2017-10-01",
       "path": "2017/10/01_night.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-1st-october-2017-on-abc/9645322"
@@ -18871,6 +18738,139 @@
       "date": "2017-12-31",
       "path": "2017/12/31_night.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-31st-december-2017-on-abc/9637772"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-01",
+      "path": "2017/09/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-1st-september-2017-on-abc/9645382"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-09-02",
+      "path": "2017/09/02_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2nd-september-2017-on-abc/9645380"
+    },
+    {
+      "special": "Gang Of Youths",
+      "timeslot": "night",
+      "date": "2017-09-02",
+      "path": "2017/09/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-2nd-september-2017-on-abc/9645378"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-03",
+      "path": "2017/09/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-3rd-september-2017-on-abc/9645372"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-08",
+      "path": "2017/09/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-8th-september-2017-on-abc/9645370"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-09-09",
+      "path": "2017/09/09_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9th-september-2017-on-abc/9645368"
+    },
+    {
+      "special": "Spoon",
+      "timeslot": "night",
+      "date": "2017-09-09",
+      "path": "2017/09/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-9th-september-2017-on-abc/9645366"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-10",
+      "path": "2017/09/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-10th-september-2017-on-abc/9645360"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-15",
+      "path": "2017/09/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-15th-september-2017-on-abc/9645358"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-09-16",
+      "path": "2017/09/16_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-16th-september-2017-on-abc/9645356"
+    },
+    {
+      "special": "The Preatures",
+      "timeslot": "night",
+      "date": "2017-09-16",
+      "path": "2017/09/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-16th-september-2017-on-abc/9645354"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-17",
+      "path": "2017/09/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-17th-september-2017-on-abc/9645348"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-22",
+      "path": "2017/09/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-22nd-september-2017-on-abc/9645346"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-09-23",
+      "path": "2017/09/23_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-23rd-september-2017-on-abc/9645344"
+    },
+    {
+      "special": "Mogwai",
+      "timeslot": "night",
+      "date": "2017-09-23",
+      "path": "2017/09/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-23rd-september-2017-on-abc/9645342"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-24",
+      "path": "2017/09/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-24th-september-2017-on-abc/9645336"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-29",
+      "path": "2017/09/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-29th-september-2017-on-abc/9645334"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-09-30",
+      "path": "2017/09/30_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-30th-september-2017-on-abc/9645332"
+    },
+    {
+      "special": "Died Pretty",
+      "timeslot": "night",
+      "date": "2017-09-30",
+      "path": "2017/09/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-30th-september-2017-on-abc/9645330"
     },
     {
       "special": null,
@@ -37904,6 +37904,104 @@
       "date": "2025-12-18",
       "path": "2025/12/18_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-18-december-2025-on-abc-entertains/106144272"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2025-12-19",
+      "path": "2025/12/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-19-december-2025-on-abc-entertains/106145726"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2025-12-19",
+      "path": "2025/12/19_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-19-december-2025-on-abc-tv/106145708"
+    },
+    {
+      "special": "Best Of The Charts 2025, The VAULT, The Year's Best New Music Videos, Best Of The Guests 2025",
+      "timeslot": "morning",
+      "date": "2025-12-20",
+      "path": "2025/12/20_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-20-december-2025-on-abc-tv/106145728"
+    },
+    {
+      "special": "rage Breakbeat special",
+      "timeslot": "night",
+      "date": "2025-12-20",
+      "path": "2025/12/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-20-december-2025-on-abc-entertains/106145734"
+    },
+    {
+      "special": "rage Best Of The Guests 2025",
+      "timeslot": "night",
+      "date": "2025-12-20",
+      "path": "2025/12/20_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-20-december-2025-on-abc-tv/106145732"
+    },
+    {
+      "special": "New Music",
+      "timeslot": "night",
+      "date": "2025-12-21",
+      "path": "2025/12/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-21-december-2025-on-abc-entertains/106145736"
+    },
+    {
+      "special": "The VAULT : Heavy Metal Evolution",
+      "timeslot": "night",
+      "date": "2025-12-21",
+      "path": "2025/12/21_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-21-december-2025-on-abc-tv/106145730"
+    },
+    {
+      "special": "rage Best Of The Guests 2025",
+      "timeslot": "night",
+      "date": "2025-12-22",
+      "path": "2025/12/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-22-december-2025-on-abc-entertains/106145740"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2025-12-22",
+      "path": "2025/12/22_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-22-december-2025-on-abc-tv/106145738"
+    },
+    {
+      "special": "rage Best Of The Charts 2025",
+      "timeslot": "night",
+      "date": "2025-12-23",
+      "path": "2025/12/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-23-december-2025-on-abc-entertains/106145742"
+    },
+    {
+      "special": "The VAULT : Heavy Metal Evolution",
+      "timeslot": "night",
+      "date": "2025-12-24",
+      "path": "2025/12/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-24-december-2025-on-abc-entertains/106145744"
+    },
+    {
+      "special": "rage Christmas Special",
+      "timeslot": "morning",
+      "date": "2025-12-25",
+      "path": "2025/12/25_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-morning-25-december-2025-on-abc-tv/106145710"
+    },
+    {
+      "special": "rage Christmas Special",
+      "timeslot": "night",
+      "date": "2025-12-25",
+      "path": "2025/12/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-25-december-2025-on-abc-tv/106145746"
+    },
+    {
+      "special": "rage Christmas Special",
+      "timeslot": "night",
+      "date": "2025-12-25",
+      "path": "2025/12/25_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-25-december-2025-on-abc-entertains/106145748"
     }
   ]
 }
