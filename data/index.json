@@ -7029,69 +7029,6 @@
       "url": "http://www.abc.net.au/rage/archive/20070721.htm"
     },
     {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-08-03",
-      "path": "2007/08/03.json",
-      "url": "http://www.abc.net.au/rage/archive/s1997562.htm"
-    },
-    {
-      "special": "invade rage special",
-      "timeslot": null,
-      "date": "2007-08-04",
-      "path": "2007/08/04.json",
-      "url": "http://www.abc.net.au/rage/archive/s1997567.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-08-10",
-      "path": "2007/08/10.json",
-      "url": "http://www.abc.net.au/rage/archive/s2001593.htm"
-    },
-    {
-      "special": "Jamie T",
-      "timeslot": null,
-      "date": "2007-08-11",
-      "path": "2007/08/11.json",
-      "url": "http://www.abc.net.au/rage/archive/s2001596.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-08-17",
-      "path": "2007/08/17.json",
-      "url": "http://www.abc.net.au/rage/archive/s2007719.htm"
-    },
-    {
-      "special": "Women With Attitude",
-      "timeslot": null,
-      "date": "2007-08-18",
-      "path": "2007/08/18.json",
-      "url": "http://www.abc.net.au/rage/archive/s2007722.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-08-24",
-      "path": "2007/08/24.json",
-      "url": "http://www.abc.net.au/rage/archive/s2014076.htm"
-    },
-    {
-      "special": "Dappled Cities Fly",
-      "timeslot": null,
-      "date": "2007-08-25",
-      "path": "2007/08/25.json",
-      "url": "http://www.abc.net.au/rage/archive/s2014086.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-08-31",
-      "path": "2007/08/31.json",
-      "url": "http://www.abc.net.au/rage/archive/s2020543.htm"
-    },
-    {
       "special": "Cold War Kids",
       "timeslot": null,
       "date": "2007-09-01",
@@ -7211,6 +7148,132 @@
       "url": "http://www.abc.net.au/rage/archive/s2071190.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-11-02",
+      "path": "2007/11/02.json",
+      "url": "http://www.abc.net.au/rage/archive/s2080273.htm"
+    },
+    {
+      "special": "James Lavelle",
+      "timeslot": null,
+      "date": "2007-11-03",
+      "path": "2007/11/03.json",
+      "url": "http://www.abc.net.au/rage/archive/s2080282.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-11-09",
+      "path": "2007/11/09.json",
+      "url": "http://www.abc.net.au/rage/archive/s2086400.htm"
+    },
+    {
+      "special": "Expatriate",
+      "timeslot": null,
+      "date": "2007-11-10",
+      "path": "2007/11/10.json",
+      "url": "http://www.abc.net.au/rage/archive/s2086405.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-11-16",
+      "path": "2007/11/16.json",
+      "url": "http://www.abc.net.au/rage/archive/s2092809.htm"
+    },
+    {
+      "special": "1990s",
+      "timeslot": null,
+      "date": "2007-11-17",
+      "path": "2007/11/17.json",
+      "url": "http://www.abc.net.au/rage/archive/s2092811.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-11-23",
+      "path": "2007/11/23.json",
+      "url": "http://www.abc.net.au/rage/archive/s2099187.htm"
+    },
+    {
+      "special": "Gotye",
+      "timeslot": null,
+      "date": "2007-11-24",
+      "path": "2007/11/24.json",
+      "url": "http://www.abc.net.au/rage/archive/s2099189.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-11-30",
+      "path": "2007/11/30.json",
+      "url": "http://www.abc.net.au/rage/archive/s2106030.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-08-03",
+      "path": "2007/08/03.json",
+      "url": "http://www.abc.net.au/rage/archive/s1997562.htm"
+    },
+    {
+      "special": "invade rage special",
+      "timeslot": null,
+      "date": "2007-08-04",
+      "path": "2007/08/04.json",
+      "url": "http://www.abc.net.au/rage/archive/s1997567.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-08-10",
+      "path": "2007/08/10.json",
+      "url": "http://www.abc.net.au/rage/archive/s2001593.htm"
+    },
+    {
+      "special": "Jamie T",
+      "timeslot": null,
+      "date": "2007-08-11",
+      "path": "2007/08/11.json",
+      "url": "http://www.abc.net.au/rage/archive/s2001596.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-08-17",
+      "path": "2007/08/17.json",
+      "url": "http://www.abc.net.au/rage/archive/s2007719.htm"
+    },
+    {
+      "special": "Women With Attitude",
+      "timeslot": null,
+      "date": "2007-08-18",
+      "path": "2007/08/18.json",
+      "url": "http://www.abc.net.au/rage/archive/s2007722.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-08-24",
+      "path": "2007/08/24.json",
+      "url": "http://www.abc.net.au/rage/archive/s2014076.htm"
+    },
+    {
+      "special": "Dappled Cities Fly",
+      "timeslot": null,
+      "date": "2007-08-25",
+      "path": "2007/08/25.json",
+      "url": "http://www.abc.net.au/rage/archive/s2014086.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-08-31",
+      "path": "2007/08/31.json",
+      "url": "http://www.abc.net.au/rage/archive/s2020543.htm"
+    },
+    {
       "special": "rage 20th Birthday Special : 1987 - 1991",
       "timeslot": null,
       "date": "2007-12-01",
@@ -7283,69 +7346,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2007-11-02",
-      "path": "2007/11/02.json",
-      "url": "http://www.abc.net.au/rage/archive/s2080273.htm"
-    },
-    {
-      "special": "James Lavelle",
-      "timeslot": null,
-      "date": "2007-11-03",
-      "path": "2007/11/03.json",
-      "url": "http://www.abc.net.au/rage/archive/s2080282.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-11-09",
-      "path": "2007/11/09.json",
-      "url": "http://www.abc.net.au/rage/archive/s2086400.htm"
-    },
-    {
-      "special": "Expatriate",
-      "timeslot": null,
-      "date": "2007-11-10",
-      "path": "2007/11/10.json",
-      "url": "http://www.abc.net.au/rage/archive/s2086405.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-11-16",
-      "path": "2007/11/16.json",
-      "url": "http://www.abc.net.au/rage/archive/s2092809.htm"
-    },
-    {
-      "special": "1990s",
-      "timeslot": null,
-      "date": "2007-11-17",
-      "path": "2007/11/17.json",
-      "url": "http://www.abc.net.au/rage/archive/s2092811.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-11-23",
-      "path": "2007/11/23.json",
-      "url": "http://www.abc.net.au/rage/archive/s2099187.htm"
-    },
-    {
-      "special": "Gotye",
-      "timeslot": null,
-      "date": "2007-11-24",
-      "path": "2007/11/24.json",
-      "url": "http://www.abc.net.au/rage/archive/s2099189.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-11-30",
-      "path": "2007/11/30.json",
-      "url": "http://www.abc.net.au/rage/archive/s2106030.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2008-01-04",
       "path": "2008/01/04.json",
       "url": "http://www.abc.net.au/rage/archive/s2131677.htm"
@@ -7398,69 +7398,6 @@
       "date": "2008-01-26",
       "path": "2008/01/26.json",
       "url": "http://www.abc.net.au/rage/archive/s2146443.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-01",
-      "path": "2008/02/01.json",
-      "url": "http://www.abc.net.au/rage/archive/s2154045.htm"
-    },
-    {
-      "special": "Klaxons",
-      "timeslot": null,
-      "date": "2008-02-02",
-      "path": "2008/02/02.json",
-      "url": "http://www.abc.net.au/rage/archive/s2154058.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-08",
-      "path": "2008/02/08.json",
-      "url": "http://www.abc.net.au/rage/archive/s2157694.htm"
-    },
-    {
-      "special": "Clare Bowditch",
-      "timeslot": null,
-      "date": "2008-02-09",
-      "path": "2008/02/09.json",
-      "url": "http://www.abc.net.au/rage/archive/s2157696.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-15",
-      "path": "2008/02/15.json",
-      "url": "http://www.abc.net.au/rage/archive/s2163676.htm"
-    },
-    {
-      "special": "The Gossip",
-      "timeslot": null,
-      "date": "2008-02-16",
-      "path": "2008/02/16.json",
-      "url": "http://www.abc.net.au/rage/archive/s2163677.htm"
-    },
-    {
-      "special": "Hottest 100 for 2007 (Friday 22nd and Saturday 23rd)",
-      "timeslot": null,
-      "date": "2008-02-22",
-      "path": "2008/02/22.json",
-      "url": "http://www.abc.net.au/rage/archive/s2169912.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-23",
-      "path": "2008/02/23.json",
-      "url": "http://www.abc.net.au/rage/archive/s2169915.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-29",
-      "path": "2008/02/29.json",
-      "url": "http://www.abc.net.au/rage/archive/s2176214.htm"
     },
     {
       "special": "Andrew Weatherall",
@@ -7531,6 +7468,69 @@
       "date": "2008-03-29",
       "path": "2008/03/29.json",
       "url": "http://www.abc.net.au/rage/archive/s2201545.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-01",
+      "path": "2008/02/01.json",
+      "url": "http://www.abc.net.au/rage/archive/s2154045.htm"
+    },
+    {
+      "special": "Klaxons",
+      "timeslot": null,
+      "date": "2008-02-02",
+      "path": "2008/02/02.json",
+      "url": "http://www.abc.net.au/rage/archive/s2154058.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-08",
+      "path": "2008/02/08.json",
+      "url": "http://www.abc.net.au/rage/archive/s2157694.htm"
+    },
+    {
+      "special": "Clare Bowditch",
+      "timeslot": null,
+      "date": "2008-02-09",
+      "path": "2008/02/09.json",
+      "url": "http://www.abc.net.au/rage/archive/s2157696.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-15",
+      "path": "2008/02/15.json",
+      "url": "http://www.abc.net.au/rage/archive/s2163676.htm"
+    },
+    {
+      "special": "The Gossip",
+      "timeslot": null,
+      "date": "2008-02-16",
+      "path": "2008/02/16.json",
+      "url": "http://www.abc.net.au/rage/archive/s2163677.htm"
+    },
+    {
+      "special": "Hottest 100 for 2007 (Friday 22nd and Saturday 23rd)",
+      "timeslot": null,
+      "date": "2008-02-22",
+      "path": "2008/02/22.json",
+      "url": "http://www.abc.net.au/rage/archive/s2169912.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-23",
+      "path": "2008/02/23.json",
+      "url": "http://www.abc.net.au/rage/archive/s2169915.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-29",
+      "path": "2008/02/29.json",
+      "url": "http://www.abc.net.au/rage/archive/s2176214.htm"
     },
     {
       "special": null,
@@ -8648,6 +8648,90 @@
     {
       "special": null,
       "timeslot": "night",
+      "date": "2009-11-06",
+      "path": "2009/11/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2735142.htm"
+    },
+    {
+      "special": "Ross Wilson guest programs rage",
+      "timeslot": "morning",
+      "date": "2009-11-07",
+      "path": "2009/11/07_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2735148.htm"
+    },
+    {
+      "special": "Ross Wilson guest programs rage",
+      "timeslot": "night",
+      "date": "2009-11-07",
+      "path": "2009/11/07_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2735150.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2009-11-13",
+      "path": "2009/11/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2742094.htm"
+    },
+    {
+      "special": "Mental As Anything guest program",
+      "timeslot": "morning",
+      "date": "2009-11-14",
+      "path": "2009/11/14_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2742098.htm"
+    },
+    {
+      "special": "Mental As Anything guest program",
+      "timeslot": "night",
+      "date": "2009-11-14",
+      "path": "2009/11/14_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2742104.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2009-11-20",
+      "path": "2009/11/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2748634.htm"
+    },
+    {
+      "special": "Spiderbait guest program rage",
+      "timeslot": "morning",
+      "date": "2009-11-21",
+      "path": "2009/11/21_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2748641.htm"
+    },
+    {
+      "special": "Spiderbait guest program rage",
+      "timeslot": "night",
+      "date": "2009-11-21",
+      "path": "2009/11/21_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2748645.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2009-11-27",
+      "path": "2009/11/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2755350.htm"
+    },
+    {
+      "special": "Hilltop Hoods guest program rage",
+      "timeslot": "morning",
+      "date": "2009-11-28",
+      "path": "2009/11/28_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2755355.htm"
+    },
+    {
+      "special": "Hilltop Hoods guest program rage",
+      "timeslot": "night",
+      "date": "2009-11-28",
+      "path": "2009/11/28_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2755358.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
       "date": "2009-10-02",
       "path": "2009/10/02_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2703046.htm"
@@ -8749,90 +8833,6 @@
       "date": "2009-10-31",
       "path": "2009/10/31_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2728589.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2009-11-06",
-      "path": "2009/11/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2735142.htm"
-    },
-    {
-      "special": "Ross Wilson guest programs rage",
-      "timeslot": "morning",
-      "date": "2009-11-07",
-      "path": "2009/11/07_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2735148.htm"
-    },
-    {
-      "special": "Ross Wilson guest programs rage",
-      "timeslot": "night",
-      "date": "2009-11-07",
-      "path": "2009/11/07_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2735150.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2009-11-13",
-      "path": "2009/11/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2742094.htm"
-    },
-    {
-      "special": "Mental As Anything guest program",
-      "timeslot": "morning",
-      "date": "2009-11-14",
-      "path": "2009/11/14_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2742098.htm"
-    },
-    {
-      "special": "Mental As Anything guest program",
-      "timeslot": "night",
-      "date": "2009-11-14",
-      "path": "2009/11/14_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2742104.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2009-11-20",
-      "path": "2009/11/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2748634.htm"
-    },
-    {
-      "special": "Spiderbait guest program rage",
-      "timeslot": "morning",
-      "date": "2009-11-21",
-      "path": "2009/11/21_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2748641.htm"
-    },
-    {
-      "special": "Spiderbait guest program rage",
-      "timeslot": "night",
-      "date": "2009-11-21",
-      "path": "2009/11/21_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2748645.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2009-11-27",
-      "path": "2009/11/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2755350.htm"
-    },
-    {
-      "special": "Hilltop Hoods guest program rage",
-      "timeslot": "morning",
-      "date": "2009-11-28",
-      "path": "2009/11/28_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2755355.htm"
-    },
-    {
-      "special": "Hilltop Hoods guest program rage",
-      "timeslot": "night",
-      "date": "2009-11-28",
-      "path": "2009/11/28_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2755358.htm"
     },
     {
       "special": null,
@@ -18329,6 +18329,139 @@
     {
       "special": null,
       "timeslot": "night",
+      "date": "2017-09-01",
+      "path": "2017/09/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-1st-september-2017-on-abc/9645382"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-09-02",
+      "path": "2017/09/02_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2nd-september-2017-on-abc/9645380"
+    },
+    {
+      "special": "Gang Of Youths",
+      "timeslot": "night",
+      "date": "2017-09-02",
+      "path": "2017/09/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-2nd-september-2017-on-abc/9645378"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-03",
+      "path": "2017/09/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-3rd-september-2017-on-abc/9645372"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-08",
+      "path": "2017/09/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-8th-september-2017-on-abc/9645370"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-09-09",
+      "path": "2017/09/09_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9th-september-2017-on-abc/9645368"
+    },
+    {
+      "special": "Spoon",
+      "timeslot": "night",
+      "date": "2017-09-09",
+      "path": "2017/09/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-9th-september-2017-on-abc/9645366"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-10",
+      "path": "2017/09/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-10th-september-2017-on-abc/9645360"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-15",
+      "path": "2017/09/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-15th-september-2017-on-abc/9645358"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-09-16",
+      "path": "2017/09/16_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-16th-september-2017-on-abc/9645356"
+    },
+    {
+      "special": "The Preatures",
+      "timeslot": "night",
+      "date": "2017-09-16",
+      "path": "2017/09/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-16th-september-2017-on-abc/9645354"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-17",
+      "path": "2017/09/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-17th-september-2017-on-abc/9645348"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-22",
+      "path": "2017/09/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-22nd-september-2017-on-abc/9645346"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-09-23",
+      "path": "2017/09/23_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-23rd-september-2017-on-abc/9645344"
+    },
+    {
+      "special": "Mogwai",
+      "timeslot": "night",
+      "date": "2017-09-23",
+      "path": "2017/09/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-23rd-september-2017-on-abc/9645342"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-24",
+      "path": "2017/09/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-24th-september-2017-on-abc/9645336"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-09-29",
+      "path": "2017/09/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-29th-september-2017-on-abc/9645334"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-09-30",
+      "path": "2017/09/30_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-30th-september-2017-on-abc/9645332"
+    },
+    {
+      "special": "Died Pretty",
+      "timeslot": "night",
+      "date": "2017-09-30",
+      "path": "2017/09/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-30th-september-2017-on-abc/9645330"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
       "date": "2017-10-01",
       "path": "2017/10/01_night.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-1st-october-2017-on-abc/9645322"
@@ -18738,139 +18871,6 @@
       "date": "2017-12-31",
       "path": "2017/12/31_night.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-31st-december-2017-on-abc/9637772"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-01",
-      "path": "2017/09/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-1st-september-2017-on-abc/9645382"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-09-02",
-      "path": "2017/09/02_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2nd-september-2017-on-abc/9645380"
-    },
-    {
-      "special": "Gang Of Youths",
-      "timeslot": "night",
-      "date": "2017-09-02",
-      "path": "2017/09/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-2nd-september-2017-on-abc/9645378"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-03",
-      "path": "2017/09/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-3rd-september-2017-on-abc/9645372"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-08",
-      "path": "2017/09/08_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-8th-september-2017-on-abc/9645370"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-09-09",
-      "path": "2017/09/09_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9th-september-2017-on-abc/9645368"
-    },
-    {
-      "special": "Spoon",
-      "timeslot": "night",
-      "date": "2017-09-09",
-      "path": "2017/09/09_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-9th-september-2017-on-abc/9645366"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-10",
-      "path": "2017/09/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-10th-september-2017-on-abc/9645360"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-15",
-      "path": "2017/09/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-15th-september-2017-on-abc/9645358"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-09-16",
-      "path": "2017/09/16_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-16th-september-2017-on-abc/9645356"
-    },
-    {
-      "special": "The Preatures",
-      "timeslot": "night",
-      "date": "2017-09-16",
-      "path": "2017/09/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-16th-september-2017-on-abc/9645354"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-17",
-      "path": "2017/09/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-17th-september-2017-on-abc/9645348"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-22",
-      "path": "2017/09/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-22nd-september-2017-on-abc/9645346"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-09-23",
-      "path": "2017/09/23_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-23rd-september-2017-on-abc/9645344"
-    },
-    {
-      "special": "Mogwai",
-      "timeslot": "night",
-      "date": "2017-09-23",
-      "path": "2017/09/23_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-23rd-september-2017-on-abc/9645342"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-24",
-      "path": "2017/09/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-24th-september-2017-on-abc/9645336"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-09-29",
-      "path": "2017/09/29_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-29th-september-2017-on-abc/9645334"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-09-30",
-      "path": "2017/09/30_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-30th-september-2017-on-abc/9645332"
-    },
-    {
-      "special": "Died Pretty",
-      "timeslot": "night",
-      "date": "2017-09-30",
-      "path": "2017/09/30_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-30th-september-2017-on-abc/9645330"
     },
     {
       "special": null,
