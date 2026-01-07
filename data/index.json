@@ -4756,62 +4756,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2004-08-06",
-      "path": "2004/08/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040806.htm"
-    },
-    {
-      "special": "Cyndi Lauper guest programs",
-      "timeslot": null,
-      "date": "2004-08-07",
-      "path": "2004/08/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040807.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-08-13",
-      "path": "2004/08/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040813.htm"
-    },
-    {
-      "special": "Ash guest program",
-      "timeslot": null,
-      "date": "2004-08-14",
-      "path": "2004/08/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040814.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-08-20",
-      "path": "2004/08/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040820.htm"
-    },
-    {
-      "special": "Pete Murray guest programs",
-      "timeslot": null,
-      "date": "2004-08-21",
-      "path": "2004/08/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040821.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-08-27",
-      "path": "2004/08/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040827.htm"
-    },
-    {
-      "special": "Ozomatli guest program",
-      "timeslot": null,
-      "date": "2004-08-28",
-      "path": "2004/08/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040828.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2004-07-02",
       "path": "2004/07/02.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040702.htm"
@@ -4878,6 +4822,62 @@
       "date": "2004-07-31",
       "path": "2004/07/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040731.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-08-06",
+      "path": "2004/08/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040806.htm"
+    },
+    {
+      "special": "Cyndi Lauper guest programs",
+      "timeslot": null,
+      "date": "2004-08-07",
+      "path": "2004/08/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040807.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-08-13",
+      "path": "2004/08/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040813.htm"
+    },
+    {
+      "special": "Ash guest program",
+      "timeslot": null,
+      "date": "2004-08-14",
+      "path": "2004/08/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040814.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-08-20",
+      "path": "2004/08/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040820.htm"
+    },
+    {
+      "special": "Pete Murray guest programs",
+      "timeslot": null,
+      "date": "2004-08-21",
+      "path": "2004/08/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040821.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-08-27",
+      "path": "2004/08/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040827.htm"
+    },
+    {
+      "special": "Ozomatli guest program",
+      "timeslot": null,
+      "date": "2004-08-28",
+      "path": "2004/08/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040828.htm"
     },
     {
       "special": null,
@@ -7535,62 +7535,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2008-04-04",
-      "path": "2008/04/04.json",
-      "url": "http://www.abc.net.au/rage/archive/s2207964.htm"
-    },
-    {
-      "special": "Calvin Harris",
-      "timeslot": null,
-      "date": "2008-04-05",
-      "path": "2008/04/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s2207988.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-04-11",
-      "path": "2008/04/11.json",
-      "url": "http://www.abc.net.au/rage/archive/s2214119.htm"
-    },
-    {
-      "special": "The Matches",
-      "timeslot": null,
-      "date": "2008-04-12",
-      "path": "2008/04/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s2214120.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-04-18",
-      "path": "2008/04/18.json",
-      "url": "http://www.abc.net.au/rage/archive/s2220717.htm"
-    },
-    {
-      "special": "Digitalism",
-      "timeslot": null,
-      "date": "2008-04-19",
-      "path": "2008/04/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s2220718.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-04-25",
-      "path": "2008/04/25.json",
-      "url": "http://www.abc.net.au/rage/archive/s2226401.htm"
-    },
-    {
-      "special": "The Panics",
-      "timeslot": null,
-      "date": "2008-04-26",
-      "path": "2008/04/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s2226402.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2008-05-02",
       "path": "2008/05/02.json",
       "url": "http://www.abc.net.au/rage/archive/s2233526.htm"
@@ -7769,6 +7713,62 @@
       "date": "2008-07-26",
       "path": "2008/07/26.json",
       "url": "http://www.abc.net.au/rage/archive/s2314285.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-04-04",
+      "path": "2008/04/04.json",
+      "url": "http://www.abc.net.au/rage/archive/s2207964.htm"
+    },
+    {
+      "special": "Calvin Harris",
+      "timeslot": null,
+      "date": "2008-04-05",
+      "path": "2008/04/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s2207988.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-04-11",
+      "path": "2008/04/11.json",
+      "url": "http://www.abc.net.au/rage/archive/s2214119.htm"
+    },
+    {
+      "special": "The Matches",
+      "timeslot": null,
+      "date": "2008-04-12",
+      "path": "2008/04/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s2214120.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-04-18",
+      "path": "2008/04/18.json",
+      "url": "http://www.abc.net.au/rage/archive/s2220717.htm"
+    },
+    {
+      "special": "Digitalism",
+      "timeslot": null,
+      "date": "2008-04-19",
+      "path": "2008/04/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s2220718.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-04-25",
+      "path": "2008/04/25.json",
+      "url": "http://www.abc.net.au/rage/archive/s2226401.htm"
+    },
+    {
+      "special": "The Panics",
+      "timeslot": null,
+      "date": "2008-04-26",
+      "path": "2008/04/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s2226402.htm"
     },
     {
       "special": null,
