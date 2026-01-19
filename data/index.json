@@ -5750,62 +5750,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2005-11-04",
-      "path": "2005/11/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051104.htm"
-    },
-    {
-      "special": "Sarah Blasko guest programs",
-      "timeslot": null,
-      "date": "2005-11-05",
-      "path": "2005/11/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051105.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-11-11",
-      "path": "2005/11/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051111.htm"
-    },
-    {
-      "special": "Spiderbait guest programs",
-      "timeslot": null,
-      "date": "2005-11-12",
-      "path": "2005/11/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051112.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-11-18",
-      "path": "2005/11/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051118.htm"
-    },
-    {
-      "special": "New Releases only due to tennis coverage",
-      "timeslot": null,
-      "date": "2005-11-19",
-      "path": "2005/11/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051119.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-11-25",
-      "path": "2005/11/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051125.htm"
-    },
-    {
-      "special": "Bernard Fanning guest programs",
-      "timeslot": null,
-      "date": "2005-11-26",
-      "path": "2005/11/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051126.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2005-12-02",
       "path": "2005/12/02.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051202.htm"
@@ -5932,6 +5876,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2005-11-04",
+      "path": "2005/11/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051104.htm"
+    },
+    {
+      "special": "Sarah Blasko guest programs",
+      "timeslot": null,
+      "date": "2005-11-05",
+      "path": "2005/11/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051105.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-11-11",
+      "path": "2005/11/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051111.htm"
+    },
+    {
+      "special": "Spiderbait guest programs",
+      "timeslot": null,
+      "date": "2005-11-12",
+      "path": "2005/11/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051112.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-11-18",
+      "path": "2005/11/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051118.htm"
+    },
+    {
+      "special": "New Releases only due to tennis coverage",
+      "timeslot": null,
+      "date": "2005-11-19",
+      "path": "2005/11/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051119.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-11-25",
+      "path": "2005/11/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051125.htm"
+    },
+    {
+      "special": "Bernard Fanning guest programs",
+      "timeslot": null,
+      "date": "2005-11-26",
+      "path": "2005/11/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051126.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2006-02-03",
       "path": "2006/02/03.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060203.htm"
@@ -6049,6 +6049,62 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060331.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-05-05",
+      "path": "2006/05/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060505.htm"
+    },
+    {
+      "special": "Tool Guest Program",
+      "timeslot": null,
+      "date": "2006-05-06",
+      "path": "2006/05/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060506.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-05-12",
+      "path": "2006/05/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060512.htm"
+    },
+    {
+      "special": "Datarock Guest Program",
+      "timeslot": null,
+      "date": "2006-05-13",
+      "path": "2006/05/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060513.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-05-19",
+      "path": "2006/05/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060519.htm"
+    },
+    {
+      "special": "You Am I Guest Program",
+      "timeslot": null,
+      "date": "2006-05-20",
+      "path": "2006/05/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060520.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-05-26",
+      "path": "2006/05/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060526.htm"
+    },
+    {
+      "special": "MIA Guest Program",
+      "timeslot": null,
+      "date": "2006-05-27",
+      "path": "2006/05/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060527.htm"
+    },
+    {
       "special": "Faker Guest Program",
       "timeslot": null,
       "date": "2006-04-01",
@@ -6110,62 +6166,6 @@
       "date": "2006-04-29",
       "path": "2006/04/29.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060429.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-05-05",
-      "path": "2006/05/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060505.htm"
-    },
-    {
-      "special": "Tool Guest Program",
-      "timeslot": null,
-      "date": "2006-05-06",
-      "path": "2006/05/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060506.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-05-12",
-      "path": "2006/05/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060512.htm"
-    },
-    {
-      "special": "Datarock Guest Program",
-      "timeslot": null,
-      "date": "2006-05-13",
-      "path": "2006/05/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060513.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-05-19",
-      "path": "2006/05/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060519.htm"
-    },
-    {
-      "special": "You Am I Guest Program",
-      "timeslot": null,
-      "date": "2006-05-20",
-      "path": "2006/05/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060520.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-05-26",
-      "path": "2006/05/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060526.htm"
-    },
-    {
-      "special": "MIA Guest Program",
-      "timeslot": null,
-      "date": "2006-05-27",
-      "path": "2006/05/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060527.htm"
     },
     {
       "special": null,
@@ -38359,6 +38359,41 @@
       "date": "2026-01-18",
       "path": "2026/01/18_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-18-january-2026-on-abc-tv/106237312"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-01-19",
+      "path": "2026/01/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-19-january-2026-on-abc-entertains/106246150"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-01-19",
+      "path": "2026/01/19_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-19-january-2026-on-abc-tv/106246148"
+    },
+    {
+      "special": "Furry Friends special",
+      "timeslot": "night",
+      "date": "2026-01-20",
+      "path": "2026/01/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-20-january-2026-on-abc-entertains/106246152"
+    },
+    {
+      "special": "The VAULT: Director Nima Nourizadeh",
+      "timeslot": "night",
+      "date": "2026-01-21",
+      "path": "2026/01/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-21-january-2026-on-abc-entertains/106246154"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-01-22",
+      "path": "2026/01/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-22-january-2026-on-abc-entertains/106246156"
     }
   ]
 }
