@@ -1,0 +1,87 @@
+{
+  "title": "Wednesday night 28 January 2026 on ABC Entertains",
+  "special": "The VAULT: Gettin' Lit(erary)",
+  "timeslot": "night",
+  "date": "2026-01-28",
+  "url": "https://www.abc.net.au/rage/playlist/wednesday-night-28-january-2026-on-abc-entertains/106276068",
+  "tracks": [
+    {
+      "artist": "JEFFERSON AIRPLANE",
+      "song": "White Rabbit",
+      "label": "MCA)",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE VELVET UNDERGROUND",
+      "song": "Venus In Furs",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Wuthering Heights",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DIRE STRAITS",
+      "song": "Romeo and Juliet",
+      "label": "Mercury",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Charlotte Sometimes",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "RUSH",
+      "song": "Tom Sawyer",
+      "label": null,
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "JACKSON BROWNE",
+      "song": "Tender Is The Night",
+      "label": "Asylum",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Blue Monday",
+      "label": "Factory",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "NIK KERSHAW",
+      "song": "Don Quixote",
+      "label": "MCA",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Wild Boys",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "For Whom The Bell Tolls",
+      "label": "Mercury",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "The Evil That Men Do",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "Pet Sematary",
+      "label": "Festival",
+      "timeslot": "00:00:00"
+    }
+  ]
+}

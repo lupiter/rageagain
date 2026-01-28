@@ -4028,6 +4028,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2003-07-04",
+      "path": "2003/07/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030704.htm"
+    },
+    {
+      "special": "Lou Barlow guest programs followed by Folk Implosion, Sebadoh & Dinosaur Jnr videos",
+      "timeslot": null,
+      "date": "2003-07-05",
+      "path": "2003/07/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030705.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2003-07-11",
+      "path": "2003/07/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030711.htm"
+    },
+    {
+      "special": "Sleek The Elite guest programs\nfollowed by a selection of Australian Hip Hop",
+      "timeslot": null,
+      "date": "2003-07-12",
+      "path": "2003/07/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030712.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2003-07-18",
+      "path": "2003/07/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030718.htm"
+    },
+    {
+      "special": "The Music guest program followed by a selection of Splendour In The Grass bands and artists' videos",
+      "timeslot": null,
+      "date": "2003-07-19",
+      "path": "2003/07/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030719.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2003-07-25",
+      "path": "2003/07/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030725.htm"
+    },
+    {
+      "special": "The Sleepy Jackson guest program ",
+      "timeslot": null,
+      "date": "2003-07-26",
+      "path": "2003/07/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030726.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2003-08-01",
       "path": "2003/08/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030801.htm"
@@ -4215,60 +4271,67 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031031.htm"
     },
     {
-      "special": null,
+      "special": "Fat Mike guest programs",
       "timeslot": null,
-      "date": "2003-07-04",
-      "path": "2003/07/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030704.htm"
-    },
-    {
-      "special": "Lou Barlow guest programs followed by Folk Implosion, Sebadoh & Dinosaur Jnr videos",
-      "timeslot": null,
-      "date": "2003-07-05",
-      "path": "2003/07/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030705.htm"
+      "date": "2003-11-01",
+      "path": "2003/11/01.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031101.htm"
     },
     {
       "special": null,
       "timeslot": null,
-      "date": "2003-07-11",
-      "path": "2003/07/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030711.htm"
+      "date": "2003-11-07",
+      "path": "2003/11/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031107.htm"
     },
     {
-      "special": "Sleek The Elite guest programs\nfollowed by a selection of Australian Hip Hop",
+      "special": "Har Mar Superstar guest programs",
       "timeslot": null,
-      "date": "2003-07-12",
-      "path": "2003/07/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030712.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2003-07-18",
-      "path": "2003/07/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030718.htm"
-    },
-    {
-      "special": "The Music guest program followed by a selection of Splendour In The Grass bands and artists' videos",
-      "timeslot": null,
-      "date": "2003-07-19",
-      "path": "2003/07/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030719.htm"
+      "date": "2003-11-08",
+      "path": "2003/11/08.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031108.htm"
     },
     {
       "special": null,
       "timeslot": null,
-      "date": "2003-07-25",
-      "path": "2003/07/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030725.htm"
+      "date": "2003-11-14",
+      "path": "2003/11/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031114.htm"
     },
     {
-      "special": "The Sleepy Jackson guest program ",
+      "special": "The Strokes guest program (Repeat)",
       "timeslot": null,
-      "date": "2003-07-26",
-      "path": "2003/07/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030726.htm"
+      "date": "2003-11-15",
+      "path": "2003/11/15.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031115.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2003-11-21",
+      "path": "2003/11/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031121.htm"
+    },
+    {
+      "special": "Australian Music Special",
+      "timeslot": null,
+      "date": "2003-11-22",
+      "path": "2003/11/22.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031122.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2003-11-28",
+      "path": "2003/11/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031128.htm"
+    },
+    {
+      "special": "Skulker guest program",
+      "timeslot": null,
+      "date": "2003-11-29",
+      "path": "2003/11/29.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031129.htm"
     },
     {
       "special": null,
@@ -4509,69 +4572,6 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040327.htm"
     },
     {
-      "special": "Fat Mike guest programs",
-      "timeslot": null,
-      "date": "2003-11-01",
-      "path": "2003/11/01.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031101.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2003-11-07",
-      "path": "2003/11/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031107.htm"
-    },
-    {
-      "special": "Har Mar Superstar guest programs",
-      "timeslot": null,
-      "date": "2003-11-08",
-      "path": "2003/11/08.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031108.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2003-11-14",
-      "path": "2003/11/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031114.htm"
-    },
-    {
-      "special": "The Strokes guest program (Repeat)",
-      "timeslot": null,
-      "date": "2003-11-15",
-      "path": "2003/11/15.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031115.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2003-11-21",
-      "path": "2003/11/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031121.htm"
-    },
-    {
-      "special": "Australian Music Special",
-      "timeslot": null,
-      "date": "2003-11-22",
-      "path": "2003/11/22.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031122.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2003-11-28",
-      "path": "2003/11/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031128.htm"
-    },
-    {
-      "special": "Skulker guest program",
-      "timeslot": null,
-      "date": "2003-11-29",
-      "path": "2003/11/29.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031129.htm"
-    },
-    {
       "special": null,
       "timeslot": null,
       "date": "2004-04-02",
@@ -4756,62 +4756,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2004-09-03",
-      "path": "2004/09/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040903.htm"
-    },
-    {
-      "special": "Directors special: Jonze, Gondry & Cunningham",
-      "timeslot": null,
-      "date": "2004-09-04",
-      "path": "2004/09/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040904.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-09-10",
-      "path": "2004/09/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040910.htm"
-    },
-    {
-      "special": "Ben Kweller guest programs",
-      "timeslot": null,
-      "date": "2004-09-11",
-      "path": "2004/09/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040911.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-09-17",
-      "path": "2004/09/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040917.htm"
-    },
-    {
-      "special": "Belle & Sebastian guest program",
-      "timeslot": null,
-      "date": "2004-09-18",
-      "path": "2004/09/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040918.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-09-24",
-      "path": "2004/09/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040924.htm"
-    },
-    {
-      "special": "Butterfingers guest program",
-      "timeslot": null,
-      "date": "2004-09-25",
-      "path": "2004/09/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040925.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2004-07-02",
       "path": "2004/07/02.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040702.htm"
@@ -4934,6 +4878,62 @@
       "date": "2004-08-28",
       "path": "2004/08/28.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040828.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-09-03",
+      "path": "2004/09/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040903.htm"
+    },
+    {
+      "special": "Directors special: Jonze, Gondry & Cunningham",
+      "timeslot": null,
+      "date": "2004-09-04",
+      "path": "2004/09/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040904.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-09-10",
+      "path": "2004/09/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040910.htm"
+    },
+    {
+      "special": "Ben Kweller guest programs",
+      "timeslot": null,
+      "date": "2004-09-11",
+      "path": "2004/09/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040911.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-09-17",
+      "path": "2004/09/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040917.htm"
+    },
+    {
+      "special": "Belle & Sebastian guest program",
+      "timeslot": null,
+      "date": "2004-09-18",
+      "path": "2004/09/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040918.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-09-24",
+      "path": "2004/09/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040924.htm"
+    },
+    {
+      "special": "Butterfingers guest program",
+      "timeslot": null,
+      "date": "2004-09-25",
+      "path": "2004/09/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040925.htm"
     },
     {
       "special": null,
@@ -9488,111 +9488,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2010-07-02",
-      "path": "2010/07/02_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2943359.htm"
-    },
-    {
-      "special": "Karnivool",
-      "timeslot": "morning",
-      "date": "2010-07-03",
-      "path": "2010/07/03_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2943373.htm"
-    },
-    {
-      "special": "Karnivool",
-      "timeslot": "night",
-      "date": "2010-07-03",
-      "path": "2010/07/03_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2943377.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-07-09",
-      "path": "2010/07/09_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2949310.htm"
-    },
-    {
-      "special": "Troy Cassar-Daley presents NAIDOC Week",
-      "timeslot": "morning",
-      "date": "2010-07-10",
-      "path": "2010/07/10_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2949295.htm"
-    },
-    {
-      "special": "Troy Cassar-Daley presents NAIDOC Week",
-      "timeslot": "night",
-      "date": "2010-07-10",
-      "path": "2010/07/10_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2949544.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-07-16",
-      "path": "2010/07/16_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2955711.htm"
-    },
-    {
-      "special": "Mike 'Naboo' Fielding",
-      "timeslot": "morning",
-      "date": "2010-07-17",
-      "path": "2010/07/17_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2955701.htm"
-    },
-    {
-      "special": "Mike 'Naboo' Fielding",
-      "timeslot": "night",
-      "date": "2010-07-17",
-      "path": "2010/07/17_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2956048.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-07-23",
-      "path": "2010/07/23_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2962633.htm"
-    },
-    {
-      "special": "Z-Trip",
-      "timeslot": "morning",
-      "date": "2010-07-24",
-      "path": "2010/07/24_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2962485.htm"
-    },
-    {
-      "special": "Z-Trip",
-      "timeslot": "night",
-      "date": "2010-07-24",
-      "path": "2010/07/24_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2962636.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-07-30",
-      "path": "2010/07/30_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2968686.htm"
-    },
-    {
-      "special": "OK Go",
-      "timeslot": "morning",
-      "date": "2010-07-31",
-      "path": "2010/07/31_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2968673.htm"
-    },
-    {
-      "special": "OK Go",
-      "timeslot": "night",
-      "date": "2010-07-31",
-      "path": "2010/07/31_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2968688.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2010-08-06",
       "path": "2010/08/06_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2975884.htm"
@@ -9862,6 +9757,111 @@
       "date": "2010-10-30",
       "path": "2010/10/30_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3052154.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-07-02",
+      "path": "2010/07/02_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2943359.htm"
+    },
+    {
+      "special": "Karnivool",
+      "timeslot": "morning",
+      "date": "2010-07-03",
+      "path": "2010/07/03_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2943373.htm"
+    },
+    {
+      "special": "Karnivool",
+      "timeslot": "night",
+      "date": "2010-07-03",
+      "path": "2010/07/03_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2943377.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-07-09",
+      "path": "2010/07/09_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2949310.htm"
+    },
+    {
+      "special": "Troy Cassar-Daley presents NAIDOC Week",
+      "timeslot": "morning",
+      "date": "2010-07-10",
+      "path": "2010/07/10_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2949295.htm"
+    },
+    {
+      "special": "Troy Cassar-Daley presents NAIDOC Week",
+      "timeslot": "night",
+      "date": "2010-07-10",
+      "path": "2010/07/10_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2949544.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-07-16",
+      "path": "2010/07/16_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2955711.htm"
+    },
+    {
+      "special": "Mike 'Naboo' Fielding",
+      "timeslot": "morning",
+      "date": "2010-07-17",
+      "path": "2010/07/17_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2955701.htm"
+    },
+    {
+      "special": "Mike 'Naboo' Fielding",
+      "timeslot": "night",
+      "date": "2010-07-17",
+      "path": "2010/07/17_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2956048.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-07-23",
+      "path": "2010/07/23_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2962633.htm"
+    },
+    {
+      "special": "Z-Trip",
+      "timeslot": "morning",
+      "date": "2010-07-24",
+      "path": "2010/07/24_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2962485.htm"
+    },
+    {
+      "special": "Z-Trip",
+      "timeslot": "night",
+      "date": "2010-07-24",
+      "path": "2010/07/24_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2962636.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-07-30",
+      "path": "2010/07/30_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2968686.htm"
+    },
+    {
+      "special": "OK Go",
+      "timeslot": "morning",
+      "date": "2010-07-31",
+      "path": "2010/07/31_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2968673.htm"
+    },
+    {
+      "special": "OK Go",
+      "timeslot": "night",
+      "date": "2010-07-31",
+      "path": "2010/07/31_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2968688.htm"
     },
     {
       "special": null,
@@ -10398,90 +10398,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2011-06-03",
-      "path": "2011/06/03_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3235041.htm"
-    },
-    {
-      "special": "Airbourne",
-      "timeslot": "morning",
-      "date": "2011-06-04",
-      "path": "2011/06/04_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3235045.htm"
-    },
-    {
-      "special": "Airbourne",
-      "timeslot": "night",
-      "date": "2011-06-04",
-      "path": "2011/06/04_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3235048.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-06-10",
-      "path": "2011/06/10_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3241080.htm"
-    },
-    {
-      "special": "Neil Gaiman & Amanda Palmer",
-      "timeslot": "morning",
-      "date": "2011-06-11",
-      "path": "2011/06/11_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3241084.htm"
-    },
-    {
-      "special": "Neil Gaiman & Amanda Palmer",
-      "timeslot": "night",
-      "date": "2011-06-11",
-      "path": "2011/06/11_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3241094.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-06-17",
-      "path": "2011/06/17_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3246800.htm"
-    },
-    {
-      "special": "rage Family Affair",
-      "timeslot": "morning",
-      "date": "2011-06-18",
-      "path": "2011/06/18_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3246802.htm"
-    },
-    {
-      "special": "rage Family Affair",
-      "timeslot": "night",
-      "date": "2011-06-18",
-      "path": "2011/06/18_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3246803.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-06-24",
-      "path": "2011/06/24_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3252932.htm"
-    },
-    {
-      "special": "Two Door Cinema Club",
-      "timeslot": "morning",
-      "date": "2011-06-25",
-      "path": "2011/06/25_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3252940.htm"
-    },
-    {
-      "special": "Two Door Cinema Club",
-      "timeslot": "night",
-      "date": "2011-06-25",
-      "path": "2011/06/25_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3252946.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2011-05-06",
       "path": "2011/05/06_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3209938.htm"
@@ -10562,6 +10478,90 @@
       "date": "2011-05-28",
       "path": "2011/05/28_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3229073.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-06-03",
+      "path": "2011/06/03_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3235041.htm"
+    },
+    {
+      "special": "Airbourne",
+      "timeslot": "morning",
+      "date": "2011-06-04",
+      "path": "2011/06/04_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3235045.htm"
+    },
+    {
+      "special": "Airbourne",
+      "timeslot": "night",
+      "date": "2011-06-04",
+      "path": "2011/06/04_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3235048.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-06-10",
+      "path": "2011/06/10_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3241080.htm"
+    },
+    {
+      "special": "Neil Gaiman & Amanda Palmer",
+      "timeslot": "morning",
+      "date": "2011-06-11",
+      "path": "2011/06/11_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3241084.htm"
+    },
+    {
+      "special": "Neil Gaiman & Amanda Palmer",
+      "timeslot": "night",
+      "date": "2011-06-11",
+      "path": "2011/06/11_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3241094.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-06-17",
+      "path": "2011/06/17_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3246800.htm"
+    },
+    {
+      "special": "rage Family Affair",
+      "timeslot": "morning",
+      "date": "2011-06-18",
+      "path": "2011/06/18_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3246802.htm"
+    },
+    {
+      "special": "rage Family Affair",
+      "timeslot": "night",
+      "date": "2011-06-18",
+      "path": "2011/06/18_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3246803.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-06-24",
+      "path": "2011/06/24_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3252932.htm"
+    },
+    {
+      "special": "Two Door Cinema Club",
+      "timeslot": "morning",
+      "date": "2011-06-25",
+      "path": "2011/06/25_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3252940.htm"
+    },
+    {
+      "special": "Two Door Cinema Club",
+      "timeslot": "night",
+      "date": "2011-06-25",
+      "path": "2011/06/25_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3252946.htm"
     },
     {
       "special": null,
@@ -38457,6 +38457,27 @@
       "date": "2026-01-26",
       "path": "2026/01/26_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-26-january-2026-on-abc-tv/106264150"
+    },
+    {
+      "special": "Industrial special",
+      "timeslot": "night",
+      "date": "2026-01-27",
+      "path": "2026/01/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-27-january-2026-on-abc-entertains/106276066"
+    },
+    {
+      "special": "The VAULT: Gettin' Lit(erary)",
+      "timeslot": "night",
+      "date": "2026-01-28",
+      "path": "2026/01/28_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-28-january-2026-on-abc-entertains/106276068"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-01-29",
+      "path": "2026/01/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-29-january-2026-on-abc-entertains/106276070"
     }
   ]
 }
