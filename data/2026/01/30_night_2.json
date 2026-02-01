@@ -1,0 +1,531 @@
+{
+  "title": "Friday night 30 January 2026 on ABC TV",
+  "special": "New Music Show",
+  "timeslot": "night",
+  "date": "2026-01-30",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-30-january-2026-on-abc-tv/106289554",
+  "tracks": [
+    {
+      "artist": "PEACHES",
+      "song": "No Lube So Rude",
+      "label": "Kill Rock Stars",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "A$AP ROCKY",
+      "song": "WHISKEY/BLACK DEMARCO",
+      "label": "A$AP Rocky Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KNEECAP",
+      "song": "Liars Tale",
+      "label": "Heavenly Recordings",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FRENZEE",
+      "song": "KEEP COMIN' MY WAY",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PUBLIC FIGURES",
+      "song": "How I'm Feeling",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "POWERPLANT",
+      "song": "Bridge of Sacrifice",
+      "label": "Arcane Dynamics",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BLUSH",
+      "song": "Embarrassed 4 U",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LOCAL THE NEIGHBOUR",
+      "song": "Hard",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ITCHY AND THE NITS",
+      "song": "SECRETS",
+      "label": "Anti Fade Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HEN OGLEDD",
+      "song": "Clara",
+      "label": "Weird World",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "REPTILE TILES ft. PERIOD BOMB",
+      "song": "Isle of Blame",
+      "label": "Picky Choosy Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SEASON 2",
+      "song": "Abundance of Power",
+      "label": "Spoilsport Records/Upset The Rhythm",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT ft. WAXAHATCHEE",
+      "song": "Site Unseen",
+      "label": "Mom and Pop",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MITSKI",
+      "song": "Where's My Phone?",
+      "label": "Dead Oceans",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CHARLOTTE MEADE",
+      "song": "Tend the Gardener",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FRIDAY*",
+      "song": "skins",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JNR.",
+      "song": "Darling",
+      "label": "Mandatory Music",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BBNO$",
+      "song": "diamonds are forever",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WHO SHOT SCOTT",
+      "song": "PROBLEMS IN MY HEAD",
+      "label": "Tenfold Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LUCY LAMB",
+      "song": "Feel This",
+      "label": "PIAS",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "2CHARM",
+      "song": "invisible wings",
+      "label": "STAR SCUM RECORDS",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TO OSCAR",
+      "song": "Take My Card",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NINAJIRACHI",
+      "song": "Fuck My Computer (Frost Children Remix)",
+      "label": "NLV Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "VOIDHOOD and SAMATAR",
+      "song": "I'd Follow You Anywhere",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CHERRY RYPE and EMJAYSOUL",
+      "song": "Injury",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PARTIBOI69",
+      "song": "Head Bang",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KAVARI",
+      "song": "IRON VEINS",
+      "label": "XL Recordings",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CUT COPY and KATE BOLLINGER",
+      "song": "Belong To You",
+      "label": "Cutters Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TELENOVA",
+      "song": "IN THE NAME OF YOUR LOVE",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KIM GORDON",
+      "song": "NOT TODAY",
+      "label": "Matador Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THEY ARE GUTTING A BODY OF WATER",
+      "song": "sour diesel",
+      "label": "ATO",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "VUNDABAR",
+      "song": "Death Punch",
+      "label": "Loma Vista",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PACIFIC AVENUE",
+      "song": "Things we Wanna Say",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WIZZ",
+      "song": "COME AND SAY HI",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "INTERNET ROMANCE",
+      "song": "My Dog's A Liar",
+      "label": "B-Dawg Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BUZZ KULL",
+      "song": "Just A Memory",
+      "label": "Heartworm Press",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TEEN JESUS AND THE JEAN TEASERS",
+      "song": "WONDERFUL",
+      "label": "Community Music",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "VELVET TRIP",
+      "song": "Tell Me Why",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IN COLOR",
+      "song": "Headlights",
+      "label": "Big Loud Rock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE HEART SHAPED ACES",
+      "song": "patientmonitor",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DOWNGIRL",
+      "song": "CPR",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "UPCHUCK",
+      "song": "Kin",
+      "label": "Domino",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MOLLY ROCKET",
+      "song": "When He Walks Around",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANY YOUNG MECHANIC",
+      "song": "Snug Barber",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SNAIL MAIL",
+      "song": "Dead End",
+      "label": "Matador Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "WET LEG",
+      "song": "Pokemon",
+      "label": "Domino",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ORVILLE PECK",
+      "song": "Drift Away",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JOSE GONZALEZ",
+      "song": "Against the Dying of the Light",
+      "label": "City Slang",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JESSIE WARE",
+      "song": "I Could Get Used To This",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MEMORY MOTEL",
+      "song": "Get It Together",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MAY-A",
+      "song": "(I'm Here For The) GIRLS",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SLEAFORD MODS ft. SUE TOMPKINS",
+      "song": "No Touch",
+      "label": "Rough Trade",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "WESLEY JOSEPH ft. DANNY BROWN",
+      "song": "Peace Of Mind",
+      "label": "Secretly Canadian",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "A$AP ROCKY",
+      "song": "Punk Rocky",
+      "label": "A$AP Rocky Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "A$AP ROCKY",
+      "song": "HELICOPTER",
+      "label": "A$AP Rocky Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GENA",
+      "song": "Lead It Up",
+      "label": "Lex Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SAMPA THE GREAT ft. MWANJE",
+      "song": "Can't Hold Us",
+      "label": "Loma Vista Recordings",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ROBYN",
+      "song": "Talk To Me",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BY STORM",
+      "song": "And I Dance",
+      "label": "deadAir",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CUCO",
+      "song": "Dreamin'",
+      "label": "Interscope Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MAVI ft. MIKE",
+      "song": "Triple Nickel",
+      "label": "Concord",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WISHLIST",
+      "song": "Strike",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PASH",
+      "song": "Tracy",
+      "label": "AWAL",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALIBII",
+      "song": "Like A Dream",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CAT and CALMELL ft. CULT SHOTTA",
+      "song": "Pop Music",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JONATHAN BREE ft. PRINCESS CHELSEA",
+      "song": "Live To Dance",
+      "label": "Lil Chief",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PEACH PRC",
+      "song": "Miss Erotica",
+      "label": "Republic Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MADISON BEER",
+      "song": "bad enough",
+      "label": "Epic / Sing It Loud",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CHARLEY",
+      "song": "Serial Idealist",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "IRON and WINE",
+      "song": "In Your Ocean",
+      "label": "Sub Pop",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "STELLA DONNELLY",
+      "song": "Standing Ovation",
+      "label": "Dot Dash",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HOT GLUE",
+      "song": "Brand New",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RADIUM DOLLS",
+      "song": "Daddy",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NEW COKE",
+      "song": "I Don't Wanna Know",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MUNGMUNG",
+      "song": "Fei",
+      "label": "OOMA Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ASHA RYDER WEST",
+      "song": "She's No Angel",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SHARON-ROSE",
+      "song": "1andONLY",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MILLY MCPHERSON",
+      "song": "Wish I Did",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHARLI XCX",
+      "song": "Chains Of Love",
+      "label": "Atlantic",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MGNA CRRRTA",
+      "song": "4me?",
+      "label": "Future Classic",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DONNY BENET",
+      "song": "Horses",
+      "label": "Donnyland Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JOJI",
+      "song": "Past Won't Leave My Bed (censored version)",
+      "label": "Palace Creek",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KARNIVOOL",
+      "song": "Opal",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RUM JUNGLE",
+      "song": "What's Next",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GIMMY",
+      "song": "Darlin' Where Have You Been?",
+      "label": "Third Eye Stimuli Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MARLHY",
+      "song": "ready set no",
+      "label": "State of Poison",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DAISYPICKER",
+      "song": "Where Was I?",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    }
+  ]
+}

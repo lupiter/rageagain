@@ -4154,62 +4154,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2003-09-05",
-      "path": "2003/09/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030905.htm"
-    },
-    {
-      "special": "Blondie guest program",
-      "timeslot": null,
-      "date": "2003-09-06",
-      "path": "2003/09/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030906.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2003-09-12",
-      "path": "2003/09/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030912.htm"
-    },
-    {
-      "special": "Something For Kate guest program\nfollowed by SFK videos & a You Am I special",
-      "timeslot": null,
-      "date": "2003-09-13",
-      "path": "2003/09/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030913.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2003-09-19",
-      "path": "2003/09/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030919.htm"
-    },
-    {
-      "special": "AFI guest program\nfollowed by AFI videos and Nu and Heavy Metal videos",
-      "timeslot": null,
-      "date": "2003-09-20",
-      "path": "2003/09/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030920.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2003-09-26",
-      "path": "2003/09/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030926.htm"
-    },
-    {
-      "special": "Cat Power guest programs followed by\nCat Power, Beth Orton & Chemical Brothers videos",
-      "timeslot": null,
-      "date": "2003-09-27",
-      "path": "2003/09/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030927.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2003-10-03",
       "path": "2003/10/03.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031003.htm"
@@ -4388,6 +4332,62 @@
       "date": "2003-12-27",
       "path": "2003/12/27.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2003/20031227.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2003-09-05",
+      "path": "2003/09/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030905.htm"
+    },
+    {
+      "special": "Blondie guest program",
+      "timeslot": null,
+      "date": "2003-09-06",
+      "path": "2003/09/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030906.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2003-09-12",
+      "path": "2003/09/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030912.htm"
+    },
+    {
+      "special": "Something For Kate guest program\nfollowed by SFK videos & a You Am I special",
+      "timeslot": null,
+      "date": "2003-09-13",
+      "path": "2003/09/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030913.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2003-09-19",
+      "path": "2003/09/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030919.htm"
+    },
+    {
+      "special": "AFI guest program\nfollowed by AFI videos and Nu and Heavy Metal videos",
+      "timeslot": null,
+      "date": "2003-09-20",
+      "path": "2003/09/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030920.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2003-09-26",
+      "path": "2003/09/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030926.htm"
+    },
+    {
+      "special": "Cat Power guest programs followed by\nCat Power, Beth Orton & Chemical Brothers videos",
+      "timeslot": null,
+      "date": "2003-09-27",
+      "path": "2003/09/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030927.htm"
     },
     {
       "special": null,
@@ -9656,111 +9656,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2010-10-01",
-      "path": "2010/10/01_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3027124.htm"
-    },
-    {
-      "special": "Old Man River",
-      "timeslot": "morning",
-      "date": "2010-10-02",
-      "path": "2010/10/02_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3027131.htm"
-    },
-    {
-      "special": "Old Man River",
-      "timeslot": "night",
-      "date": "2010-10-02",
-      "path": "2010/10/02_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3027140.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-10-08",
-      "path": "2010/10/08_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3032925.htm"
-    },
-    {
-      "special": "Band Of Horses",
-      "timeslot": "morning",
-      "date": "2010-10-09",
-      "path": "2010/10/09_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3032935.htm"
-    },
-    {
-      "special": "Band Of Horses",
-      "timeslot": "night",
-      "date": "2010-10-09",
-      "path": "2010/10/09_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3032936.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-10-15",
-      "path": "2010/10/15_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3039398.htm"
-    },
-    {
-      "special": "Bret Easton Ellis",
-      "timeslot": "morning",
-      "date": "2010-10-16",
-      "path": "2010/10/16_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3039411.htm"
-    },
-    {
-      "special": "Bret Easton Ellis",
-      "timeslot": "night",
-      "date": "2010-10-16",
-      "path": "2010/10/16_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3039413.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-10-22",
-      "path": "2010/10/22_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3045721.htm"
-    },
-    {
-      "special": "rage Icons from A-Z",
-      "timeslot": "morning",
-      "date": "2010-10-23",
-      "path": "2010/10/23_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3045741.htm"
-    },
-    {
-      "special": "rage Icons from A-Z",
-      "timeslot": "night",
-      "date": "2010-10-23",
-      "path": "2010/10/23_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3045754.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-10-29",
-      "path": "2010/10/29_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3052140.htm"
-    },
-    {
-      "special": "Dan Kelly",
-      "timeslot": "morning",
-      "date": "2010-10-30",
-      "path": "2010/10/30_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3052150.htm"
-    },
-    {
-      "special": "Dan Kelly",
-      "timeslot": "night",
-      "date": "2010-10-30",
-      "path": "2010/10/30_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3052154.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2010-07-02",
       "path": "2010/07/02_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2943359.htm"
@@ -9862,6 +9757,111 @@
       "date": "2010-07-31",
       "path": "2010/07/31_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2968688.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-10-01",
+      "path": "2010/10/01_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3027124.htm"
+    },
+    {
+      "special": "Old Man River",
+      "timeslot": "morning",
+      "date": "2010-10-02",
+      "path": "2010/10/02_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3027131.htm"
+    },
+    {
+      "special": "Old Man River",
+      "timeslot": "night",
+      "date": "2010-10-02",
+      "path": "2010/10/02_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3027140.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-10-08",
+      "path": "2010/10/08_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3032925.htm"
+    },
+    {
+      "special": "Band Of Horses",
+      "timeslot": "morning",
+      "date": "2010-10-09",
+      "path": "2010/10/09_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3032935.htm"
+    },
+    {
+      "special": "Band Of Horses",
+      "timeslot": "night",
+      "date": "2010-10-09",
+      "path": "2010/10/09_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3032936.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-10-15",
+      "path": "2010/10/15_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3039398.htm"
+    },
+    {
+      "special": "Bret Easton Ellis",
+      "timeslot": "morning",
+      "date": "2010-10-16",
+      "path": "2010/10/16_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3039411.htm"
+    },
+    {
+      "special": "Bret Easton Ellis",
+      "timeslot": "night",
+      "date": "2010-10-16",
+      "path": "2010/10/16_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3039413.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-10-22",
+      "path": "2010/10/22_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3045721.htm"
+    },
+    {
+      "special": "rage Icons from A-Z",
+      "timeslot": "morning",
+      "date": "2010-10-23",
+      "path": "2010/10/23_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3045741.htm"
+    },
+    {
+      "special": "rage Icons from A-Z",
+      "timeslot": "night",
+      "date": "2010-10-23",
+      "path": "2010/10/23_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3045754.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-10-29",
+      "path": "2010/10/29_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3052140.htm"
+    },
+    {
+      "special": "Dan Kelly",
+      "timeslot": "morning",
+      "date": "2010-10-30",
+      "path": "2010/10/30_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3052150.htm"
+    },
+    {
+      "special": "Dan Kelly",
+      "timeslot": "night",
+      "date": "2010-10-30",
+      "path": "2010/10/30_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3052154.htm"
     },
     {
       "special": null,
@@ -38478,6 +38478,55 @@
       "date": "2026-01-29",
       "path": "2026/01/29_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-29-january-2026-on-abc-entertains/106276070"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-01-30",
+      "path": "2026/01/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-30-january-2026-on-abc-entertains/106289556"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-01-30",
+      "path": "2026/01/30_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-30-january-2026-on-abc-tv/106289554"
+    },
+    {
+      "special": "Charts, The VAULT, Best New Music Videos, triple j's Hottest 100 2025 special",
+      "timeslot": "morning",
+      "date": "2026-01-31",
+      "path": "2026/01/31_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-31-january-2026-on-abc-tv/106289558"
+    },
+    {
+      "special": "Berklee Alumni Special special",
+      "timeslot": "night",
+      "date": "2026-01-31",
+      "path": "2026/01/31_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-31-january-2026-on-abc-entertains/106289562"
+    },
+    {
+      "special": "triple j's Hottest 100 of 2025 special",
+      "timeslot": "night",
+      "date": "2026-01-31",
+      "path": "2026/01/31_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-31-january-2026-on-abc-tv/106289560"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-02-01",
+      "path": "2026/02/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-1-february-2026-on-abc-entertains/106289566"
+    },
+    {
+      "special": "The VAULT: Peaky Blinders",
+      "timeslot": "night",
+      "date": "2026-02-01",
+      "path": "2026/02/01_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-1-february-2026-on-abc-tv/106289564"
     }
   ]
 }
