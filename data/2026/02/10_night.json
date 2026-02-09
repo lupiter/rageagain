@@ -1,0 +1,45 @@
+{
+  "title": "Tuesday night 10 February 2026 on ABC Entertains",
+  "special": "rage Retro Month",
+  "timeslot": "night",
+  "date": "2026-02-10",
+  "url": "https://www.abc.net.au/rage/playlist/tuesday-night-10-february-2026-on-abc-entertains/106322232",
+  "tracks": [
+    {
+      "artist": "HERMAN'S HERMITS",
+      "song": "Mrs Brown You've Got A Lovely Daughter",
+      "label": "Sony",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "ELVIS PRESLEY",
+      "song": "I Want You, I Need You, I Love You",
+      "label": "BMG",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "LITTLE RICHARD",
+      "song": "Long Tall Sally",
+      "label": "Ronnex Records",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "JERRY LEE LEWIS",
+      "song": "Whole Lotta Shakin'",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "JOHNNY O'KEEFE",
+      "song": "Shout",
+      "label": "Fest/Mush",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SIX O'CLOCK ROCK",
+      "song": "August 1, 1959",
+      "label": "ABC",
+      "timeslot": "23:30:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Monday night 9 February 2026 on ABC Entertains",
+  "special": "rage Retro Month: Week One",
+  "timeslot": "night",
+  "date": "2026-02-09",
+  "url": "https://www.abc.net.au/rage/playlist/monday-night-9-february-2026-on-abc-entertains/106322230",
+  "tracks": [
+    {
+      "artist": "PYTHON LEE JACKSON - Live on Be Our Guest, 1966",
+      "song": "I Idolise You",
+      "label": "Independent",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BLACK DIAMONDS, THE - Live on Be Our Guest, 1966",
+      "song": "See The Way",
+      "label": "ABC",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "HIT SCENE",
+      "song": "October 3, 1970",
+      "label": "ABC",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "HIT SCENE",
+      "song": "September 2, 1971",
+      "label": "ABC",
+      "timeslot": "00:00:00"
+    }
+  ]
+}
