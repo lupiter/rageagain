@@ -3608,62 +3608,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2002-12-06",
-      "path": "2002/12/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021206.htm"
-    },
-    {
-      "special": "Pearl Jam special",
-      "timeslot": null,
-      "date": "2002-12-07",
-      "path": "2002/12/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021207.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-12-13",
-      "path": "2002/12/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021213.htm"
-    },
-    {
-      "special": "Mogwai guest program",
-      "timeslot": null,
-      "date": "2002-12-14",
-      "path": "2002/12/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021214.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-12-20",
-      "path": "2002/12/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021220.htm"
-    },
-    {
-      "special": "Soulfly guest program",
-      "timeslot": null,
-      "date": "2002-12-21",
-      "path": "2002/12/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021221.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-12-27",
-      "path": "2002/12/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021227.htm"
-    },
-    {
-      "special": "Best of rage Guest Programmers 2002",
-      "timeslot": null,
-      "date": "2002-12-28",
-      "path": "2002/12/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021228.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2003-01-03",
       "path": "2003/01/03.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030103.htm"
@@ -3779,6 +3723,62 @@
       "date": "2003-02-28",
       "path": "2003/02/28.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030228.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-12-06",
+      "path": "2002/12/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021206.htm"
+    },
+    {
+      "special": "Pearl Jam special",
+      "timeslot": null,
+      "date": "2002-12-07",
+      "path": "2002/12/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021207.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-12-13",
+      "path": "2002/12/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021213.htm"
+    },
+    {
+      "special": "Mogwai guest program",
+      "timeslot": null,
+      "date": "2002-12-14",
+      "path": "2002/12/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021214.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-12-20",
+      "path": "2002/12/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021220.htm"
+    },
+    {
+      "special": "Soulfly guest program",
+      "timeslot": null,
+      "date": "2002-12-21",
+      "path": "2002/12/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021221.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-12-27",
+      "path": "2002/12/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021227.htm"
+    },
+    {
+      "special": "Best of rage Guest Programmers 2002",
+      "timeslot": null,
+      "date": "2002-12-28",
+      "path": "2002/12/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021228.htm"
     },
     {
       "special": "Jane's Addiction guest program",
@@ -4635,6 +4635,62 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040430.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-06-04",
+      "path": "2004/06/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040604.htm"
+    },
+    {
+      "special": "Grandaddy guest program",
+      "timeslot": null,
+      "date": "2004-06-05",
+      "path": "2004/06/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040605.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-06-11",
+      "path": "2004/06/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040611.htm"
+    },
+    {
+      "special": "1200 Techniques guest program",
+      "timeslot": null,
+      "date": "2004-06-12",
+      "path": "2004/06/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040612.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-06-18",
+      "path": "2004/06/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040618.htm"
+    },
+    {
+      "special": "Multi-coloured rage Special (songs with colours in their titles)",
+      "timeslot": null,
+      "date": "2004-06-19",
+      "path": "2004/06/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040619.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-06-25",
+      "path": "2004/06/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040625.htm"
+    },
+    {
+      "special": "Andre 3000 from Outkast guest programs",
+      "timeslot": null,
+      "date": "2004-06-26",
+      "path": "2004/06/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040626.htm"
+    },
+    {
       "special": "Elbow guest program",
       "timeslot": null,
       "date": "2004-05-01",
@@ -4700,58 +4756,58 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2004-06-04",
-      "path": "2004/06/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040604.htm"
+      "date": "2004-08-06",
+      "path": "2004/08/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040806.htm"
     },
     {
-      "special": "Grandaddy guest program",
+      "special": "Cyndi Lauper guest programs",
       "timeslot": null,
-      "date": "2004-06-05",
-      "path": "2004/06/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040605.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-06-11",
-      "path": "2004/06/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040611.htm"
-    },
-    {
-      "special": "1200 Techniques guest program",
-      "timeslot": null,
-      "date": "2004-06-12",
-      "path": "2004/06/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040612.htm"
+      "date": "2004-08-07",
+      "path": "2004/08/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040807.htm"
     },
     {
       "special": null,
       "timeslot": null,
-      "date": "2004-06-18",
-      "path": "2004/06/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040618.htm"
+      "date": "2004-08-13",
+      "path": "2004/08/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040813.htm"
     },
     {
-      "special": "Multi-coloured rage Special (songs with colours in their titles)",
+      "special": "Ash guest program",
       "timeslot": null,
-      "date": "2004-06-19",
-      "path": "2004/06/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040619.htm"
+      "date": "2004-08-14",
+      "path": "2004/08/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040814.htm"
     },
     {
       "special": null,
       "timeslot": null,
-      "date": "2004-06-25",
-      "path": "2004/06/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040625.htm"
+      "date": "2004-08-20",
+      "path": "2004/08/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040820.htm"
     },
     {
-      "special": "Andre 3000 from Outkast guest programs",
+      "special": "Pete Murray guest programs",
       "timeslot": null,
-      "date": "2004-06-26",
-      "path": "2004/06/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040626.htm"
+      "date": "2004-08-21",
+      "path": "2004/08/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040821.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-08-27",
+      "path": "2004/08/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040827.htm"
+    },
+    {
+      "special": "Ozomatli guest program",
+      "timeslot": null,
+      "date": "2004-08-28",
+      "path": "2004/08/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040828.htm"
     },
     {
       "special": null,
@@ -4822,62 +4878,6 @@
       "date": "2004-07-31",
       "path": "2004/07/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040731.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-08-06",
-      "path": "2004/08/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040806.htm"
-    },
-    {
-      "special": "Cyndi Lauper guest programs",
-      "timeslot": null,
-      "date": "2004-08-07",
-      "path": "2004/08/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040807.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-08-13",
-      "path": "2004/08/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040813.htm"
-    },
-    {
-      "special": "Ash guest program",
-      "timeslot": null,
-      "date": "2004-08-14",
-      "path": "2004/08/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040814.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-08-20",
-      "path": "2004/08/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040820.htm"
-    },
-    {
-      "special": "Pete Murray guest programs",
-      "timeslot": null,
-      "date": "2004-08-21",
-      "path": "2004/08/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040821.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-08-27",
-      "path": "2004/08/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040827.htm"
-    },
-    {
-      "special": "Ozomatli guest program",
-      "timeslot": null,
-      "date": "2004-08-28",
-      "path": "2004/08/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040828.htm"
     },
     {
       "special": null,
@@ -6478,6 +6478,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2006-11-03",
+      "path": "2006/11/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061103.htm"
+    },
+    {
+      "special": "Zakk Wylde (from Black Label Society) guest programs",
+      "timeslot": null,
+      "date": "2006-11-04",
+      "path": "2006/11/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061104.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-11-10",
+      "path": "2006/11/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061110.htm"
+    },
+    {
+      "special": "Panic! At The Disco",
+      "timeslot": null,
+      "date": "2006-11-11",
+      "path": "2006/11/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061111.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-11-17",
+      "path": "2006/11/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061117.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-11-18",
+      "path": "2006/11/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061118.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2006-11-24",
+      "path": "2006/11/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061124.htm"
+    },
+    {
+      "special": "Def Wish Cast",
+      "timeslot": null,
+      "date": "2006-11-25",
+      "path": "2006/11/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061125.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2006-12-01",
       "path": "2006/12/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061201.htm"
@@ -6551,62 +6607,6 @@
       "date": "2006-12-31",
       "path": "2006/12/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061231.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-11-03",
-      "path": "2006/11/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061103.htm"
-    },
-    {
-      "special": "Zakk Wylde (from Black Label Society) guest programs",
-      "timeslot": null,
-      "date": "2006-11-04",
-      "path": "2006/11/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061104.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-11-10",
-      "path": "2006/11/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061110.htm"
-    },
-    {
-      "special": "Panic! At The Disco",
-      "timeslot": null,
-      "date": "2006-11-11",
-      "path": "2006/11/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061111.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-11-17",
-      "path": "2006/11/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061117.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-11-18",
-      "path": "2006/11/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061118.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2006-11-24",
-      "path": "2006/11/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061124.htm"
-    },
-    {
-      "special": "Def Wish Cast",
-      "timeslot": null,
-      "date": "2006-11-25",
-      "path": "2006/11/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061125.htm"
     },
     {
       "special": null,
@@ -7092,125 +7092,6 @@
       "url": "http://www.abc.net.au/rage/archive/s2020543.htm"
     },
     {
-      "special": "Cold War Kids",
-      "timeslot": null,
-      "date": "2007-09-01",
-      "path": "2007/09/01.json",
-      "url": "http://www.abc.net.au/rage/archive/s2020546.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-09-07",
-      "path": "2007/09/07.json",
-      "url": "http://www.abc.net.au/rage/archive/s2025882.htm"
-    },
-    {
-      "special": "Clutch",
-      "timeslot": null,
-      "date": "2007-09-08",
-      "path": "2007/09/08.json",
-      "url": "http://www.abc.net.au/rage/archive/s2025883.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-09-14",
-      "path": "2007/09/14.json",
-      "url": "http://www.abc.net.au/rage/archive/s2032843.htm"
-    },
-    {
-      "special": "Editors",
-      "timeslot": null,
-      "date": "2007-09-15",
-      "path": "2007/09/15.json",
-      "url": "http://www.abc.net.au/rage/archive/s2032850.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-09-21",
-      "path": "2007/09/21.json",
-      "url": "http://www.abc.net.au/rage/archive/s2039634.htm"
-    },
-    {
-      "special": "Peeping Tom",
-      "timeslot": null,
-      "date": "2007-09-22",
-      "path": "2007/09/22.json",
-      "url": "http://www.abc.net.au/rage/archive/s2039637.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-09-28",
-      "path": "2007/09/28.json",
-      "url": "http://www.abc.net.au/rage/archive/s2046103.htm"
-    },
-    {
-      "special": "Pop Levi",
-      "timeslot": null,
-      "date": "2007-09-29",
-      "path": "2007/09/29.json",
-      "url": "http://www.abc.net.au/rage/archive/s2046105.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-10-05",
-      "path": "2007/10/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s2051893.htm"
-    },
-    {
-      "special": "Maximo Park",
-      "timeslot": null,
-      "date": "2007-10-06",
-      "path": "2007/10/06.json",
-      "url": "http://www.abc.net.au/rage/archive/s2051895.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-10-12",
-      "path": "2007/10/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s2057724.htm"
-    },
-    {
-      "special": "Tilly and the Wall",
-      "timeslot": null,
-      "date": "2007-10-13",
-      "path": "2007/10/13.json",
-      "url": "http://www.abc.net.au/rage/archive/s2057738.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-10-19",
-      "path": "2007/10/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s2064193.htm"
-    },
-    {
-      "special": "The Horrors",
-      "timeslot": null,
-      "date": "2007-10-20",
-      "path": "2007/10/20.json",
-      "url": "http://www.abc.net.au/rage/archive/s2064210.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-10-26",
-      "path": "2007/10/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s2071316.htm"
-    },
-    {
-      "special": "Architecture In Helsinki",
-      "timeslot": null,
-      "date": "2007-10-27",
-      "path": "2007/10/27.json",
-      "url": "http://www.abc.net.au/rage/archive/s2071190.htm"
-    },
-    {
       "special": null,
       "timeslot": null,
       "date": "2007-11-02",
@@ -7346,6 +7227,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2007-10-05",
+      "path": "2007/10/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s2051893.htm"
+    },
+    {
+      "special": "Maximo Park",
+      "timeslot": null,
+      "date": "2007-10-06",
+      "path": "2007/10/06.json",
+      "url": "http://www.abc.net.au/rage/archive/s2051895.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-10-12",
+      "path": "2007/10/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s2057724.htm"
+    },
+    {
+      "special": "Tilly and the Wall",
+      "timeslot": null,
+      "date": "2007-10-13",
+      "path": "2007/10/13.json",
+      "url": "http://www.abc.net.au/rage/archive/s2057738.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-10-19",
+      "path": "2007/10/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s2064193.htm"
+    },
+    {
+      "special": "The Horrors",
+      "timeslot": null,
+      "date": "2007-10-20",
+      "path": "2007/10/20.json",
+      "url": "http://www.abc.net.au/rage/archive/s2064210.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-10-26",
+      "path": "2007/10/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s2071316.htm"
+    },
+    {
+      "special": "Architecture In Helsinki",
+      "timeslot": null,
+      "date": "2007-10-27",
+      "path": "2007/10/27.json",
+      "url": "http://www.abc.net.au/rage/archive/s2071190.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2008-01-04",
       "path": "2008/01/04.json",
       "url": "http://www.abc.net.au/rage/archive/s2131677.htm"
@@ -7400,67 +7337,67 @@
       "url": "http://www.abc.net.au/rage/archive/s2146443.htm"
     },
     {
-      "special": null,
+      "special": "Cold War Kids",
       "timeslot": null,
-      "date": "2008-02-01",
-      "path": "2008/02/01.json",
-      "url": "http://www.abc.net.au/rage/archive/s2154045.htm"
-    },
-    {
-      "special": "Klaxons",
-      "timeslot": null,
-      "date": "2008-02-02",
-      "path": "2008/02/02.json",
-      "url": "http://www.abc.net.au/rage/archive/s2154058.htm"
+      "date": "2007-09-01",
+      "path": "2007/09/01.json",
+      "url": "http://www.abc.net.au/rage/archive/s2020546.htm"
     },
     {
       "special": null,
       "timeslot": null,
-      "date": "2008-02-08",
-      "path": "2008/02/08.json",
-      "url": "http://www.abc.net.au/rage/archive/s2157694.htm"
+      "date": "2007-09-07",
+      "path": "2007/09/07.json",
+      "url": "http://www.abc.net.au/rage/archive/s2025882.htm"
     },
     {
-      "special": "Clare Bowditch",
+      "special": "Clutch",
       "timeslot": null,
-      "date": "2008-02-09",
-      "path": "2008/02/09.json",
-      "url": "http://www.abc.net.au/rage/archive/s2157696.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-02-15",
-      "path": "2008/02/15.json",
-      "url": "http://www.abc.net.au/rage/archive/s2163676.htm"
-    },
-    {
-      "special": "The Gossip",
-      "timeslot": null,
-      "date": "2008-02-16",
-      "path": "2008/02/16.json",
-      "url": "http://www.abc.net.au/rage/archive/s2163677.htm"
-    },
-    {
-      "special": "Hottest 100 for 2007 (Friday 22nd and Saturday 23rd)",
-      "timeslot": null,
-      "date": "2008-02-22",
-      "path": "2008/02/22.json",
-      "url": "http://www.abc.net.au/rage/archive/s2169912.htm"
+      "date": "2007-09-08",
+      "path": "2007/09/08.json",
+      "url": "http://www.abc.net.au/rage/archive/s2025883.htm"
     },
     {
       "special": null,
       "timeslot": null,
-      "date": "2008-02-23",
-      "path": "2008/02/23.json",
-      "url": "http://www.abc.net.au/rage/archive/s2169915.htm"
+      "date": "2007-09-14",
+      "path": "2007/09/14.json",
+      "url": "http://www.abc.net.au/rage/archive/s2032843.htm"
+    },
+    {
+      "special": "Editors",
+      "timeslot": null,
+      "date": "2007-09-15",
+      "path": "2007/09/15.json",
+      "url": "http://www.abc.net.au/rage/archive/s2032850.htm"
     },
     {
       "special": null,
       "timeslot": null,
-      "date": "2008-02-29",
-      "path": "2008/02/29.json",
-      "url": "http://www.abc.net.au/rage/archive/s2176214.htm"
+      "date": "2007-09-21",
+      "path": "2007/09/21.json",
+      "url": "http://www.abc.net.au/rage/archive/s2039634.htm"
+    },
+    {
+      "special": "Peeping Tom",
+      "timeslot": null,
+      "date": "2007-09-22",
+      "path": "2007/09/22.json",
+      "url": "http://www.abc.net.au/rage/archive/s2039637.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-09-28",
+      "path": "2007/09/28.json",
+      "url": "http://www.abc.net.au/rage/archive/s2046103.htm"
+    },
+    {
+      "special": "Pop Levi",
+      "timeslot": null,
+      "date": "2007-09-29",
+      "path": "2007/09/29.json",
+      "url": "http://www.abc.net.au/rage/archive/s2046105.htm"
     },
     {
       "special": "Andrew Weatherall",
@@ -7531,6 +7468,69 @@
       "date": "2008-03-29",
       "path": "2008/03/29.json",
       "url": "http://www.abc.net.au/rage/archive/s2201545.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-01",
+      "path": "2008/02/01.json",
+      "url": "http://www.abc.net.au/rage/archive/s2154045.htm"
+    },
+    {
+      "special": "Klaxons",
+      "timeslot": null,
+      "date": "2008-02-02",
+      "path": "2008/02/02.json",
+      "url": "http://www.abc.net.au/rage/archive/s2154058.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-08",
+      "path": "2008/02/08.json",
+      "url": "http://www.abc.net.au/rage/archive/s2157694.htm"
+    },
+    {
+      "special": "Clare Bowditch",
+      "timeslot": null,
+      "date": "2008-02-09",
+      "path": "2008/02/09.json",
+      "url": "http://www.abc.net.au/rage/archive/s2157696.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-15",
+      "path": "2008/02/15.json",
+      "url": "http://www.abc.net.au/rage/archive/s2163676.htm"
+    },
+    {
+      "special": "The Gossip",
+      "timeslot": null,
+      "date": "2008-02-16",
+      "path": "2008/02/16.json",
+      "url": "http://www.abc.net.au/rage/archive/s2163677.htm"
+    },
+    {
+      "special": "Hottest 100 for 2007 (Friday 22nd and Saturday 23rd)",
+      "timeslot": null,
+      "date": "2008-02-22",
+      "path": "2008/02/22.json",
+      "url": "http://www.abc.net.au/rage/archive/s2169912.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-23",
+      "path": "2008/02/23.json",
+      "url": "http://www.abc.net.au/rage/archive/s2169915.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-02-29",
+      "path": "2008/02/29.json",
+      "url": "http://www.abc.net.au/rage/archive/s2176214.htm"
     },
     {
       "special": null,
@@ -8319,6 +8319,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2009-06-05",
+      "path": "2009/06/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s2347068.htm"
+    },
+    {
+      "special": "Tim Minchin",
+      "timeslot": null,
+      "date": "2009-06-06",
+      "path": "2009/06/06.json",
+      "url": "http://www.abc.net.au/rage/archive/s2590237.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-06-12",
+      "path": "2009/06/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s2596526.htm"
+    },
+    {
+      "special": "Let's Dance!",
+      "timeslot": null,
+      "date": "2009-06-13",
+      "path": "2009/06/13.json",
+      "url": "http://www.abc.net.au/rage/archive/s2596533.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-06-19",
+      "path": "2009/06/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s2602837.htm"
+    },
+    {
+      "special": "TZU",
+      "timeslot": null,
+      "date": "2009-06-20",
+      "path": "2009/06/20.json",
+      "url": "http://www.abc.net.au/rage/archive/s2602841.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-06-26",
+      "path": "2009/06/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s2609687.htm"
+    },
+    {
+      "special": "Franz Ferdinand",
+      "timeslot": null,
+      "date": "2009-06-27",
+      "path": "2009/06/27.json",
+      "url": "http://www.abc.net.au/rage/archive/s2609698.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2009-05-01",
       "path": "2009/05/01.json",
       "url": "http://www.abc.net.au/rage/archive/s2558080.htm"
@@ -8385,62 +8441,6 @@
       "date": "2009-05-30",
       "path": "2009/05/30.json",
       "url": "http://www.abc.net.au/rage/archive/s2584300.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-06-05",
-      "path": "2009/06/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s2347068.htm"
-    },
-    {
-      "special": "Tim Minchin",
-      "timeslot": null,
-      "date": "2009-06-06",
-      "path": "2009/06/06.json",
-      "url": "http://www.abc.net.au/rage/archive/s2590237.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-06-12",
-      "path": "2009/06/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s2596526.htm"
-    },
-    {
-      "special": "Let's Dance!",
-      "timeslot": null,
-      "date": "2009-06-13",
-      "path": "2009/06/13.json",
-      "url": "http://www.abc.net.au/rage/archive/s2596533.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-06-19",
-      "path": "2009/06/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s2602837.htm"
-    },
-    {
-      "special": "TZU",
-      "timeslot": null,
-      "date": "2009-06-20",
-      "path": "2009/06/20.json",
-      "url": "http://www.abc.net.au/rage/archive/s2602841.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-06-26",
-      "path": "2009/06/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s2609687.htm"
-    },
-    {
-      "special": "Franz Ferdinand",
-      "timeslot": null,
-      "date": "2009-06-27",
-      "path": "2009/06/27.json",
-      "url": "http://www.abc.net.au/rage/archive/s2609698.htm"
     },
     {
       "special": null,
