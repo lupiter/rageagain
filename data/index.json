@@ -3356,62 +3356,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2002-09-06",
-      "path": "2002/09/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020906.htm"
-    },
-    {
-      "special": "Machine Gun Fellatio guest program",
-      "timeslot": null,
-      "date": "2002-09-07",
-      "path": "2002/09/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020907.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-09-13",
-      "path": "2002/09/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020913.htm"
-    },
-    {
-      "special": "Gomez guest program",
-      "timeslot": null,
-      "date": "2002-09-14",
-      "path": "2002/09/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020914.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-09-20",
-      "path": "2002/09/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020920.htm"
-    },
-    {
-      "special": "Punk Special",
-      "timeslot": null,
-      "date": "2002-09-21",
-      "path": "2002/09/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020921.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-09-27",
-      "path": "2002/09/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020927.htm"
-    },
-    {
-      "special": "Kasey Chambers guest programs",
-      "timeslot": null,
-      "date": "2002-09-28",
-      "path": "2002/09/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020928.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2002-08-02",
       "path": "2002/08/02.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020802.htm"
@@ -3478,6 +3422,62 @@
       "date": "2002-08-31",
       "path": "2002/08/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020831.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-09-06",
+      "path": "2002/09/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020906.htm"
+    },
+    {
+      "special": "Machine Gun Fellatio guest program",
+      "timeslot": null,
+      "date": "2002-09-07",
+      "path": "2002/09/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020907.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-09-13",
+      "path": "2002/09/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020913.htm"
+    },
+    {
+      "special": "Gomez guest program",
+      "timeslot": null,
+      "date": "2002-09-14",
+      "path": "2002/09/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020914.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-09-20",
+      "path": "2002/09/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020920.htm"
+    },
+    {
+      "special": "Punk Special",
+      "timeslot": null,
+      "date": "2002-09-21",
+      "path": "2002/09/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020921.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-09-27",
+      "path": "2002/09/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020927.htm"
+    },
+    {
+      "special": "Kasey Chambers guest programs",
+      "timeslot": null,
+      "date": "2002-09-28",
+      "path": "2002/09/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020928.htm"
     },
     {
       "special": null,
@@ -6793,62 +6793,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2007-04-06",
-      "path": "2007/04/06.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975129.htm"
-    },
-    {
-      "special": "rage 20th Birthday Special : 1987 - 1991",
-      "timeslot": null,
-      "date": "2007-04-07",
-      "path": "2007/04/07.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975131.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-04-13",
-      "path": "2007/04/13.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975128.htm"
-    },
-    {
-      "special": "rage 20th Birthday Special : 1992 - 1996",
-      "timeslot": null,
-      "date": "2007-04-14",
-      "path": "2007/04/14.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975127.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-04-20",
-      "path": "2007/04/20.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975126.htm"
-    },
-    {
-      "special": "rage 20th Birthday Special : 1997 - 2001 ",
-      "timeslot": null,
-      "date": "2007-04-21",
-      "path": "2007/04/21.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975125.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-04-27",
-      "path": "2007/04/27.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975124.htm"
-    },
-    {
-      "special": "rage 20th Birthday Special : 2002 - 2006",
-      "timeslot": null,
-      "date": "2007-04-28",
-      "path": "2007/04/28.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975122.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2007-05-04",
       "path": "2007/05/04.json",
       "url": "http://www.abc.net.au/rage/archive/s1993304.htm"
@@ -6901,6 +6845,62 @@
       "date": "2007-05-26",
       "path": "2007/05/26.json",
       "url": "http://www.abc.net.au/rage/archive/s1992803.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-07-06",
+      "path": "2007/07/06.json",
+      "url": "http://www.abc.net.au/rage/archive/s1976173.htm"
+    },
+    {
+      "special": "30 Seconds To Mars guest program",
+      "timeslot": null,
+      "date": "2007-07-07",
+      "path": "2007/07/07.json",
+      "url": "http://www.abc.net.au/rage/archive/s1976217.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-07-13",
+      "path": "2007/07/13.json",
+      "url": "http://www.abc.net.au/rage/archive/s1978217.htm"
+    },
+    {
+      "special": "The Rapture guest program",
+      "timeslot": null,
+      "date": "2007-07-14",
+      "path": "2007/07/14.json",
+      "url": "http://www.abc.net.au/rage/archive/s1978251.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-07-20",
+      "path": "2007/07/20.json",
+      "url": "http://www.abc.net.au/rage/archive/20070720.htm"
+    },
+    {
+      "special": "Hatebreed guest program",
+      "timeslot": null,
+      "date": "2007-07-21",
+      "path": "2007/07/21.json",
+      "url": "http://www.abc.net.au/rage/archive/s2258580.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-07-27",
+      "path": "2007/07/27.json",
+      "url": "http://www.abc.net.au/rage/archive/20070727.htm"
+    },
+    {
+      "special": "Phoenix guest program",
+      "timeslot": null,
+      "date": "2007-07-28",
+      "path": "2007/07/28.json",
+      "url": "http://www.abc.net.au/rage/archive/20070721.htm"
     },
     {
       "special": null,
@@ -6975,58 +6975,58 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2007-07-06",
-      "path": "2007/07/06.json",
-      "url": "http://www.abc.net.au/rage/archive/s1976173.htm"
+      "date": "2007-04-06",
+      "path": "2007/04/06.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975129.htm"
     },
     {
-      "special": "30 Seconds To Mars guest program",
+      "special": "rage 20th Birthday Special : 1987 - 1991",
       "timeslot": null,
-      "date": "2007-07-07",
-      "path": "2007/07/07.json",
-      "url": "http://www.abc.net.au/rage/archive/s1976217.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-07-13",
-      "path": "2007/07/13.json",
-      "url": "http://www.abc.net.au/rage/archive/s1978217.htm"
-    },
-    {
-      "special": "The Rapture guest program",
-      "timeslot": null,
-      "date": "2007-07-14",
-      "path": "2007/07/14.json",
-      "url": "http://www.abc.net.au/rage/archive/s1978251.htm"
+      "date": "2007-04-07",
+      "path": "2007/04/07.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975131.htm"
     },
     {
       "special": null,
       "timeslot": null,
-      "date": "2007-07-20",
-      "path": "2007/07/20.json",
-      "url": "http://www.abc.net.au/rage/archive/20070720.htm"
+      "date": "2007-04-13",
+      "path": "2007/04/13.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975128.htm"
     },
     {
-      "special": "Hatebreed guest program",
+      "special": "rage 20th Birthday Special : 1992 - 1996",
       "timeslot": null,
-      "date": "2007-07-21",
-      "path": "2007/07/21.json",
-      "url": "http://www.abc.net.au/rage/archive/s2258580.htm"
+      "date": "2007-04-14",
+      "path": "2007/04/14.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975127.htm"
     },
     {
       "special": null,
       "timeslot": null,
-      "date": "2007-07-27",
-      "path": "2007/07/27.json",
-      "url": "http://www.abc.net.au/rage/archive/20070727.htm"
+      "date": "2007-04-20",
+      "path": "2007/04/20.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975126.htm"
     },
     {
-      "special": "Phoenix guest program",
+      "special": "rage 20th Birthday Special : 1997 - 2001 ",
       "timeslot": null,
-      "date": "2007-07-28",
-      "path": "2007/07/28.json",
-      "url": "http://www.abc.net.au/rage/archive/20070721.htm"
+      "date": "2007-04-21",
+      "path": "2007/04/21.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975125.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-04-27",
+      "path": "2007/04/27.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975124.htm"
+    },
+    {
+      "special": "rage 20th Birthday Special : 2002 - 2006",
+      "timeslot": null,
+      "date": "2007-04-28",
+      "path": "2007/04/28.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975122.htm"
     },
     {
       "special": null,
@@ -8081,62 +8081,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2009-02-06",
-      "path": "2009/02/06.json",
-      "url": "http://www.abc.net.au/rage/archive/s2484186.htm"
-    },
-    {
-      "special": "MGMT Guest Program",
-      "timeslot": null,
-      "date": "2009-02-07",
-      "path": "2009/02/07.json",
-      "url": "http://www.abc.net.au/rage/archive/s2484202.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-02-13",
-      "path": "2009/02/13.json",
-      "url": "http://www.abc.net.au/rage/archive/s2490710.htm"
-    },
-    {
-      "special": "Mark Ronson",
-      "timeslot": null,
-      "date": "2009-02-14",
-      "path": "2009/02/14.json",
-      "url": "http://www.abc.net.au/rage/archive/s2490724.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-02-20",
-      "path": "2009/02/20.json",
-      "url": "http://www.abc.net.au/rage/archive/s2496807.htm"
-    },
-    {
-      "special": "The Drones",
-      "timeslot": null,
-      "date": "2009-02-21",
-      "path": "2009/02/21.json",
-      "url": "http://www.abc.net.au/rage/archive/s2496816.htm"
-    },
-    {
-      "special": "2008 Triple J Hottest 100 Countdown",
-      "timeslot": null,
-      "date": "2009-02-27",
-      "path": "2009/02/27.json",
-      "url": "http://www.abc.net.au/rage/archive/s2503025.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-02-28",
-      "path": "2009/02/28.json",
-      "url": "http://www.abc.net.au/rage/archive/s2503045.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2009-01-02",
       "path": "2009/01/02.json",
       "url": "http://www.abc.net.au/rage/archive/s2457424.htm"
@@ -8203,6 +8147,62 @@
       "date": "2009-01-31",
       "path": "2009/01/31.json",
       "url": "http://www.abc.net.au/rage/archive/s2478237.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-02-06",
+      "path": "2009/02/06.json",
+      "url": "http://www.abc.net.au/rage/archive/s2484186.htm"
+    },
+    {
+      "special": "MGMT Guest Program",
+      "timeslot": null,
+      "date": "2009-02-07",
+      "path": "2009/02/07.json",
+      "url": "http://www.abc.net.au/rage/archive/s2484202.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-02-13",
+      "path": "2009/02/13.json",
+      "url": "http://www.abc.net.au/rage/archive/s2490710.htm"
+    },
+    {
+      "special": "Mark Ronson",
+      "timeslot": null,
+      "date": "2009-02-14",
+      "path": "2009/02/14.json",
+      "url": "http://www.abc.net.au/rage/archive/s2490724.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-02-20",
+      "path": "2009/02/20.json",
+      "url": "http://www.abc.net.au/rage/archive/s2496807.htm"
+    },
+    {
+      "special": "The Drones",
+      "timeslot": null,
+      "date": "2009-02-21",
+      "path": "2009/02/21.json",
+      "url": "http://www.abc.net.au/rage/archive/s2496816.htm"
+    },
+    {
+      "special": "2008 Triple J Hottest 100 Countdown",
+      "timeslot": null,
+      "date": "2009-02-27",
+      "path": "2009/02/27.json",
+      "url": "http://www.abc.net.au/rage/archive/s2503025.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-02-28",
+      "path": "2009/02/28.json",
+      "url": "http://www.abc.net.au/rage/archive/s2503045.htm"
     },
     {
       "special": null,
@@ -38898,6 +38898,55 @@
       "date": "2026-03-05",
       "path": "2026/03/05_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-5-march-2026-on-abc-entertains/106410234"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-03-06",
+      "path": "2026/03/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-6-march-2026-on-abc-entertains/106423930"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-03-06",
+      "path": "2026/03/06_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-6-march-2026-on-abc-tv/106423928"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2026-03-07",
+      "path": "2026/03/07_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-7-march-2026-on-abc-tv/106423932"
+    },
+    {
+      "special": "Gorillaz Special",
+      "timeslot": "night",
+      "date": "2026-03-07",
+      "path": "2026/03/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-7-march-2026-on-abc-entertains/106423936"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-03-07",
+      "path": "2026/03/07_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-7-march-2026-on-abc-tv/106423934"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-03-08",
+      "path": "2026/03/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-8-march-2026-on-abc-entertains/106423940"
+    },
+    {
+      "special": "The VAULT: 1996 Electronica",
+      "timeslot": "night",
+      "date": "2026-03-08",
+      "path": "2026/03/08_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-8-march-2026-on-abc-tv/106423938"
     }
   ]
 }
