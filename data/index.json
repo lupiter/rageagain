@@ -3662,6 +3662,69 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021228.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "2003-01-03",
+      "path": "2003/01/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030103.htm"
+    },
+    {
+      "special": "The Clash Special. Episodes of Hit Scene, Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2003-01-04",
+      "path": "2003/01/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030104.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2003-01-10",
+      "path": "2003/01/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030110.htm"
+    },
+    {
+      "special": "Episodes of Hit Scene, Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2003-01-11",
+      "path": "2003/01/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030111.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2003-01-17",
+      "path": "2003/01/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030117.htm"
+    },
+    {
+      "special": "Big Day Out Special",
+      "timeslot": null,
+      "date": "2003-01-18",
+      "path": "2003/01/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030118.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2003-01-24",
+      "path": "2003/01/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030124.htm"
+    },
+    {
+      "special": "Bee Gees Special. Episodes of Hit Scene, Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2003-01-25",
+      "path": "2003/01/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030125.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2003-01-31",
+      "path": "2003/01/31.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030131.htm"
+    },
+    {
       "special": "Episodes of Hit Scene, Countdown & Rock Arena\nplus Bob Dylan videos",
       "timeslot": null,
       "date": "2003-02-01",
@@ -3835,69 +3898,6 @@
       "date": "2003-04-26",
       "path": "2003/04/26.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030426.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2003-01-03",
-      "path": "2003/01/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030103.htm"
-    },
-    {
-      "special": "The Clash Special. Episodes of Hit Scene, Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2003-01-04",
-      "path": "2003/01/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030104.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2003-01-10",
-      "path": "2003/01/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030110.htm"
-    },
-    {
-      "special": "Episodes of Hit Scene, Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2003-01-11",
-      "path": "2003/01/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030111.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2003-01-17",
-      "path": "2003/01/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030117.htm"
-    },
-    {
-      "special": "Big Day Out Special",
-      "timeslot": null,
-      "date": "2003-01-18",
-      "path": "2003/01/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030118.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2003-01-24",
-      "path": "2003/01/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030124.htm"
-    },
-    {
-      "special": "Bee Gees Special. Episodes of Hit Scene, Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2003-01-25",
-      "path": "2003/01/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030125.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2003-01-31",
-      "path": "2003/01/31.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2003/20030131.htm"
     },
     {
       "special": null,
@@ -7773,62 +7773,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2008-09-05",
-      "path": "2008/09/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s2356348.htm"
-    },
-    {
-      "special": "Tricky",
-      "timeslot": null,
-      "date": "2008-09-06",
-      "path": "2008/09/06.json",
-      "url": "http://www.abc.net.au/rage/archive/s2356352.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-09-12",
-      "path": "2008/09/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s2362850.htm"
-    },
-    {
-      "special": "WILD CARD Special #2",
-      "timeslot": null,
-      "date": "2008-09-13",
-      "path": "2008/09/13.json",
-      "url": "http://www.abc.net.au/rage/archive/s2362858.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-09-19",
-      "path": "2008/09/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s2368965.htm"
-    },
-    {
-      "special": "The Herd",
-      "timeslot": null,
-      "date": "2008-09-20",
-      "path": "2008/09/20.json",
-      "url": "http://www.abc.net.au/rage/archive/s2369002.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-09-26",
-      "path": "2008/09/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s2375109.htm"
-    },
-    {
-      "special": "The Fratellis",
-      "timeslot": null,
-      "date": "2008-09-27",
-      "path": "2008/09/27.json",
-      "url": "http://www.abc.net.au/rage/archive/s2375119.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2008-08-01",
       "path": "2008/08/01.json",
       "url": "http://www.abc.net.au/rage/archive/s2320191.htm"
@@ -7895,6 +7839,62 @@
       "date": "2008-08-30",
       "path": "2008/08/30.json",
       "url": "http://www.abc.net.au/rage/archive/s2349928.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-09-05",
+      "path": "2008/09/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s2356348.htm"
+    },
+    {
+      "special": "Tricky",
+      "timeslot": null,
+      "date": "2008-09-06",
+      "path": "2008/09/06.json",
+      "url": "http://www.abc.net.au/rage/archive/s2356352.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-09-12",
+      "path": "2008/09/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s2362850.htm"
+    },
+    {
+      "special": "WILD CARD Special #2",
+      "timeslot": null,
+      "date": "2008-09-13",
+      "path": "2008/09/13.json",
+      "url": "http://www.abc.net.au/rage/archive/s2362858.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-09-19",
+      "path": "2008/09/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s2368965.htm"
+    },
+    {
+      "special": "The Herd",
+      "timeslot": null,
+      "date": "2008-09-20",
+      "path": "2008/09/20.json",
+      "url": "http://www.abc.net.au/rage/archive/s2369002.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-09-26",
+      "path": "2008/09/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s2375109.htm"
+    },
+    {
+      "special": "The Fratellis",
+      "timeslot": null,
+      "date": "2008-09-27",
+      "path": "2008/09/27.json",
+      "url": "http://www.abc.net.au/rage/archive/s2375119.htm"
     },
     {
       "special": null,
@@ -38982,6 +38982,55 @@
       "date": "2026-03-12",
       "path": "2026/03/12_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-12-march-2026-on-abc-entertains/106432514"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-03-13",
+      "path": "2026/03/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-13-march-2026-on-abc-entertains/106451854"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-03-13",
+      "path": "2026/03/13_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-13-march-2026-on-abc-tv/106451852"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2026-03-14",
+      "path": "2026/03/14_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-14-march-2026-on-abc-tv/106451856"
+    },
+    {
+      "special": "rage Party Hard special",
+      "timeslot": "night",
+      "date": "2026-03-14",
+      "path": "2026/03/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-14-march-2026-on-abc-entertains/106451860"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-03-14",
+      "path": "2026/03/14_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-14-march-2026-on-abc-tv/106451858"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-03-15",
+      "path": "2026/03/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-15-march-2026-on-abc-entertains/106451864"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-03-15",
+      "path": "2026/03/15_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-15-march-2026-on-abc-tv/106451862"
     }
   ]
 }
