@@ -39031,6 +39031,41 @@
       "date": "2026-03-15",
       "path": "2026/03/15_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-15-march-2026-on-abc-tv/106451862"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-03-16",
+      "path": "2026/03/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-16-march-2026-on-abc-entertains/106461090"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-03-16",
+      "path": "2026/03/16_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-16-march-2026-on-abc-tv/106461088"
+    },
+    {
+      "special": "Post-Brexit New Wave  special",
+      "timeslot": "night",
+      "date": "2026-03-17",
+      "path": "2026/03/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-17-march-2026-on-abc-entertains/106461092"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-03-18",
+      "path": "2026/03/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-18-march-2026-on-abc-entertains/106461094"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-03-19",
+      "path": "2026/03/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-19-march-2026-on-abc-entertains/106461096"
     }
   ]
 }
