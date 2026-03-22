@@ -1,0 +1,87 @@
+{
+  "title": "Friday night 20 March 2026 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2026-03-20",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-20-march-2026-on-abc-entertains/106480026",
+  "tracks": [
+    {
+      "artist": "LINKIN PARK",
+      "song": "In The End",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DEFTONES",
+      "song": "Be Quiet And Drive",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Enjoy The Silence",
+      "label": "Mushroom",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BOB MARLEY and THE WAILERS",
+      "song": "Get Up, Stand Up",
+      "label": "Festival",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE ROOTS featuring ERYKAH BADU",
+      "song": "You Got Me",
+      "label": "MCA)",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE CRAMPS",
+      "song": "Bikini Girls With Machine Guns",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "COMMON",
+      "song": "The Sixth Sense",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "TAPROOT",
+      "song": "Again and Again",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Down In A Hole",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "(HED) PLANET EARTH",
+      "song": "Bartender",
+      "label": "Jive/Zomba",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "INCUBUS",
+      "song": "Stellar",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE POLICE",
+      "song": "Walking On The Moon",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "LINKIN PARK",
+      "song": "Numb",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    }
+  ]
+}
