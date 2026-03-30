@@ -1,0 +1,39 @@
+{
+  "title": "Monday night 30 March 2026 on ABC TV",
+  "special": "Bad//Dreems Ultra Dundee special",
+  "timeslot": "night",
+  "date": "2026-03-30",
+  "url": "https://www.abc.net.au/rage/playlist/monday-night-30-march-2026-on-abc-tv/106512102",
+  "tracks": [
+    {
+      "artist": "BAD//DREEMS",
+      "song": "Shadowland",
+      "label": "Gutto Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BAD//DREEMS",
+      "song": "Ultra Dundee",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BAD//DREEMS",
+      "song": "Irish Airman",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BAD//DREEMS",
+      "song": "Night Shooting",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BAD//DREEMS",
+      "song": "Feeling Remains",
+      "label": "Ivy League",
+      "timeslot": "02:30:00"
+    }
+  ]
+}
