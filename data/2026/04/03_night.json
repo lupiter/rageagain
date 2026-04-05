@@ -1,0 +1,69 @@
+{
+  "title": "Friday night 3 April 2026 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2026-04-03",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-3-april-2026-on-abc-entertains/106517222",
+  "tracks": [
+    {
+      "artist": "OPETH",
+      "song": "The Grand Conjuration",
+      "label": "Roadrunner",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Trashed",
+      "label": "Universal",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "RAINBOW",
+      "song": "Long Live Rock and Roll",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "JUDAS PRIEST",
+      "song": "Freewheel Burning",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "YNGWIE MALMSTEEN",
+      "song": "I'll See The Light Tonight",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Number Of The Beast",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "OZZY OSBOURNE",
+      "song": "Shot In The Dark",
+      "label": "Epic",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ACCEPT",
+      "song": "Balls To The Wall",
+      "label": "SBME",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BLUE MURDER",
+      "song": "Valley Of The Kings",
+      "label": "Geffen",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KING KOBRA",
+      "song": "Iron Eagle (Never Say Die)",
+      "label": "Capitol",
+      "timeslot": "00:00:00"
+    }
+  ]
+}
