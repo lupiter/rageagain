@@ -1,0 +1,87 @@
+{
+  "title": "Saturday night 11 April 2026 on ABC Entertains",
+  "special": "Hair Metal Special",
+  "timeslot": "night",
+  "date": "2026-04-11",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-april-2026-on-abc-entertains/106552070",
+  "tracks": [
+    {
+      "artist": "VAN HALEN",
+      "song": "Jump",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "POISON",
+      "song": "Nothin' But A Good Time",
+      "label": "Liberation",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BON JOVI",
+      "song": "Living On A Prayer",
+      "label": "Mercury",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Kickstart My Heart",
+      "label": "Festival",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "WHITESNAKE",
+      "song": "Here I Go Again",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Paradise City",
+      "label": "BMG",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "QUIET RIOT",
+      "song": "Cum On Feel The Noize",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "TWISTED SISTER",
+      "song": "I Wanna Rock",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "RATT",
+      "song": "Round and Round",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Rock Of Ages",
+      "label": "Polydor",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "VIXEN",
+      "song": "Edge Of A Broken Heart",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SKID ROW",
+      "song": "18 + Life",
+      "label": "Atlantic",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "STEEL PANTHER",
+      "song": "Party Like Tomorrow Is The End Of The World",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    }
+  ]
+}

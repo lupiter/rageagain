@@ -1,0 +1,345 @@
+{
+  "title": "Sunday night 12 April 2026 on ABC TV",
+  "special": "The VAULT: Power Station",
+  "timeslot": "night",
+  "date": "2026-04-12",
+  "url": "https://www.abc.net.au/rage/playlist/sunday-night-12-april-2026-on-abc-tv/106552072",
+  "tracks": [
+    {
+      "artist": "THE RAMONES",
+      "song": "Sheena Is A Punk Rocker",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "CAROLYNE MAS",
+      "song": "Stillsane",
+      "label": "Mercury",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Union City Blue",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "EDWIN STARR",
+      "song": "H.A.P.P.Y. Radio",
+      "label": "20th Century Fox",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "CHIC",
+      "song": "Le Freak",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SISTER SLEDGE",
+      "song": "He's The Greatest Dancer",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DIANA ROSS",
+      "song": "Upside Down",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DIRE STRAITS",
+      "song": "Romeo and Juliet",
+      "label": "Mercury",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Ashes To Ashes",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "Over You",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE CARS",
+      "song": "Touch and Go",
+      "label": "Elektra",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BILLY SQUIER",
+      "song": "The Stroke",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Beautiful World",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DEBORAH HARRY",
+      "song": "Now I Know You Know",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GET WET",
+      "song": "So Lonely",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MI-SEX",
+      "song": "Falling In And Out",
+      "label": "CBS",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Unguarded Moment",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JOHN WAITE",
+      "song": "Change",
+      "label": "Chrysalis",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HUEY LEWIS AND THE NEWS",
+      "song": "Do You Believe In Love",
+      "label": "Chrysalis",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LITTLE STEVEN AND THE DISCIPLES OF SOUL",
+      "song": "Forever",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "I Love It Loud",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DIVINYLS",
+      "song": "Science Fiction",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PAYOLA$",
+      "song": "Romance",
+      "label": "A and M Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GRAHAM PARKER",
+      "song": "Temporary Beauty",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RACHEL SWEET",
+      "song": "Voo Doo",
+      "label": "CBS",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CARLY SIMON",
+      "song": "Why",
+      "label": "WEA",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NILE RODGERS",
+      "song": "The Land Of The Good Groove",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OZZY OSBOURNE",
+      "song": "Bark At The Moon",
+      "label": "SBME",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HELIX",
+      "song": "Heavy Metal Love",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BRYAN ADAMS",
+      "song": "Cuts Like A Knife",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MICHAEL BOLTON",
+      "song": "Fool's Game",
+      "label": "CBS",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EARTHA KITT",
+      "song": "Where Is My Man",
+      "label": "RCA Victor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BREAK MACHINE",
+      "song": "Street Dance",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Like A Virgin",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Original Sin",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE ELVIS BROTHERS",
+      "song": "Fire In The City",
+      "label": "Portrait",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "INDUSTRY",
+      "song": "State Of The Nation",
+      "label": "Capitol",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AVION",
+      "song": "Diamond Eyes",
+      "label": "RCA",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BONNIE TYLER",
+      "song": "Have You Ever Seen The Rain",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AUSTRALIAN CRAWL",
+      "song": "Reckless",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Sweetheart Like You",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PAUL SIMON",
+      "song": "Hearts And Bones",
+      "label": "Warner Bros Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "I'm On Fire",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SCRITTI POLITTI",
+      "song": "Absolute",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RUSS BALLARD",
+      "song": "Voices",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BON JOVI",
+      "song": "Runaway",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KURTIS BLOW",
+      "song": "Basketball",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SERGE GAINSBOURG",
+      "song": "No Comment",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DAVID JOHANSEN",
+      "song": "Heard The News",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MARTHA AND THE MUFFINS",
+      "song": "Cooling The Medium",
+      "label": "RCA",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LEE AARON",
+      "song": "Metal Queen",
+      "label": "Big Time",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LITA FORD",
+      "song": "Gotta Let Go",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JOAN JETT and THE BLACKHEARTS",
+      "song": "I Love You Love Me Love",
+      "label": "Epic",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GRACE JONES",
+      "song": "Slave To The Rhythm",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "A View To A Kill",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "POWER STATION",
+      "song": "Some Like It Hot",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    }
+  ]
+}
