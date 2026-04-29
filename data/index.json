@@ -864,6 +864,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "1999-03-05",
+      "path": "1999/03/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990305.htm"
+    },
+    {
+      "special": "silverchair, Grinspoon and Korn Special",
+      "timeslot": null,
+      "date": "1999-03-06",
+      "path": "1999/03/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990306.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-03-12",
+      "path": "1999/03/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990312.htm"
+    },
+    {
+      "special": "Triple J Hottest 100",
+      "timeslot": null,
+      "date": "1999-03-13",
+      "path": "1999/03/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990313.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-03-19",
+      "path": "1999/03/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990319.htm"
+    },
+    {
+      "special": "Huey from Fun Lovin' Criminals guest programs rage",
+      "timeslot": null,
+      "date": "1999-03-20",
+      "path": "1999/03/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990320.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-03-26",
+      "path": "1999/03/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990326.htm"
+    },
+    {
+      "special": "James & Nicky from Manic Street Preachers guest program rage",
+      "timeslot": null,
+      "date": "1999-03-27",
+      "path": "1999/03/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990327.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "1999-04-02",
       "path": "1999/04/02.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990402.htm"
@@ -923,62 +979,6 @@
       "date": "1999-04-30",
       "path": "1999/04/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990430.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-03-05",
-      "path": "1999/03/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990305.htm"
-    },
-    {
-      "special": "silverchair, Grinspoon and Korn Special",
-      "timeslot": null,
-      "date": "1999-03-06",
-      "path": "1999/03/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990306.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-03-12",
-      "path": "1999/03/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990312.htm"
-    },
-    {
-      "special": "Triple J Hottest 100",
-      "timeslot": null,
-      "date": "1999-03-13",
-      "path": "1999/03/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990313.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-03-19",
-      "path": "1999/03/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990319.htm"
-    },
-    {
-      "special": "Huey from Fun Lovin' Criminals guest programs rage",
-      "timeslot": null,
-      "date": "1999-03-20",
-      "path": "1999/03/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990320.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-03-26",
-      "path": "1999/03/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990326.htm"
-    },
-    {
-      "special": "James & Nicky from Manic Street Preachers guest program rage",
-      "timeslot": null,
-      "date": "1999-03-27",
-      "path": "1999/03/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990327.htm"
     },
     {
       "special": "Billy Bragg guest programs rage",
@@ -7535,6 +7535,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2008-04-04",
+      "path": "2008/04/04.json",
+      "url": "http://www.abc.net.au/rage/archive/s2207964.htm"
+    },
+    {
+      "special": "Calvin Harris",
+      "timeslot": null,
+      "date": "2008-04-05",
+      "path": "2008/04/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s2207988.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-04-11",
+      "path": "2008/04/11.json",
+      "url": "http://www.abc.net.au/rage/archive/s2214119.htm"
+    },
+    {
+      "special": "The Matches",
+      "timeslot": null,
+      "date": "2008-04-12",
+      "path": "2008/04/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s2214120.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-04-18",
+      "path": "2008/04/18.json",
+      "url": "http://www.abc.net.au/rage/archive/s2220717.htm"
+    },
+    {
+      "special": "Digitalism",
+      "timeslot": null,
+      "date": "2008-04-19",
+      "path": "2008/04/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s2220718.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-04-25",
+      "path": "2008/04/25.json",
+      "url": "http://www.abc.net.au/rage/archive/s2226401.htm"
+    },
+    {
+      "special": "The Panics",
+      "timeslot": null,
+      "date": "2008-04-26",
+      "path": "2008/04/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s2226402.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2008-05-02",
       "path": "2008/05/02.json",
       "url": "http://www.abc.net.au/rage/archive/s2233526.htm"
@@ -7601,62 +7657,6 @@
       "date": "2008-05-31",
       "path": "2008/05/31.json",
       "url": "http://www.abc.net.au/rage/archive/s2260258.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-04-04",
-      "path": "2008/04/04.json",
-      "url": "http://www.abc.net.au/rage/archive/s2207964.htm"
-    },
-    {
-      "special": "Calvin Harris",
-      "timeslot": null,
-      "date": "2008-04-05",
-      "path": "2008/04/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s2207988.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-04-11",
-      "path": "2008/04/11.json",
-      "url": "http://www.abc.net.au/rage/archive/s2214119.htm"
-    },
-    {
-      "special": "The Matches",
-      "timeslot": null,
-      "date": "2008-04-12",
-      "path": "2008/04/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s2214120.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-04-18",
-      "path": "2008/04/18.json",
-      "url": "http://www.abc.net.au/rage/archive/s2220717.htm"
-    },
-    {
-      "special": "Digitalism",
-      "timeslot": null,
-      "date": "2008-04-19",
-      "path": "2008/04/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s2220718.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-04-25",
-      "path": "2008/04/25.json",
-      "url": "http://www.abc.net.au/rage/archive/s2226401.htm"
-    },
-    {
-      "special": "The Panics",
-      "timeslot": null,
-      "date": "2008-04-26",
-      "path": "2008/04/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s2226402.htm"
     },
     {
       "special": null,
@@ -8389,62 +8389,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2009-06-05",
-      "path": "2009/06/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s2347068.htm"
-    },
-    {
-      "special": "Tim Minchin",
-      "timeslot": null,
-      "date": "2009-06-06",
-      "path": "2009/06/06.json",
-      "url": "http://www.abc.net.au/rage/archive/s2590237.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-06-12",
-      "path": "2009/06/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s2596526.htm"
-    },
-    {
-      "special": "Let's Dance!",
-      "timeslot": null,
-      "date": "2009-06-13",
-      "path": "2009/06/13.json",
-      "url": "http://www.abc.net.au/rage/archive/s2596533.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-06-19",
-      "path": "2009/06/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s2602837.htm"
-    },
-    {
-      "special": "TZU",
-      "timeslot": null,
-      "date": "2009-06-20",
-      "path": "2009/06/20.json",
-      "url": "http://www.abc.net.au/rage/archive/s2602841.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-06-26",
-      "path": "2009/06/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s2609687.htm"
-    },
-    {
-      "special": "Franz Ferdinand",
-      "timeslot": null,
-      "date": "2009-06-27",
-      "path": "2009/06/27.json",
-      "url": "http://www.abc.net.au/rage/archive/s2609698.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2009-07-03",
       "path": "2009/07/03.json",
       "url": "http://www.abc.net.au/rage/archive/s2615998.htm"
@@ -8504,6 +8448,62 @@
       "date": "2009-07-31",
       "path": "2009/07/31.json",
       "url": "http://www.abc.net.au/rage/archive/s2642211.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-06-05",
+      "path": "2009/06/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s2347068.htm"
+    },
+    {
+      "special": "Tim Minchin",
+      "timeslot": null,
+      "date": "2009-06-06",
+      "path": "2009/06/06.json",
+      "url": "http://www.abc.net.au/rage/archive/s2590237.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-06-12",
+      "path": "2009/06/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s2596526.htm"
+    },
+    {
+      "special": "Let's Dance!",
+      "timeslot": null,
+      "date": "2009-06-13",
+      "path": "2009/06/13.json",
+      "url": "http://www.abc.net.au/rage/archive/s2596533.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-06-19",
+      "path": "2009/06/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s2602837.htm"
+    },
+    {
+      "special": "TZU",
+      "timeslot": null,
+      "date": "2009-06-20",
+      "path": "2009/06/20.json",
+      "url": "http://www.abc.net.au/rage/archive/s2602841.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-06-26",
+      "path": "2009/06/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s2609687.htm"
+    },
+    {
+      "special": "Franz Ferdinand",
+      "timeslot": null,
+      "date": "2009-06-27",
+      "path": "2009/06/27.json",
+      "url": "http://www.abc.net.au/rage/archive/s2609698.htm"
     },
     {
       "special": "Michael Jackson Special",
@@ -8648,90 +8648,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2009-11-06",
-      "path": "2009/11/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2735142.htm"
-    },
-    {
-      "special": "Ross Wilson guest programs rage",
-      "timeslot": "morning",
-      "date": "2009-11-07",
-      "path": "2009/11/07_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2735148.htm"
-    },
-    {
-      "special": "Ross Wilson guest programs rage",
-      "timeslot": "night",
-      "date": "2009-11-07",
-      "path": "2009/11/07_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2735150.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2009-11-13",
-      "path": "2009/11/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2742094.htm"
-    },
-    {
-      "special": "Mental As Anything guest program",
-      "timeslot": "morning",
-      "date": "2009-11-14",
-      "path": "2009/11/14_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2742098.htm"
-    },
-    {
-      "special": "Mental As Anything guest program",
-      "timeslot": "night",
-      "date": "2009-11-14",
-      "path": "2009/11/14_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2742104.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2009-11-20",
-      "path": "2009/11/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2748634.htm"
-    },
-    {
-      "special": "Spiderbait guest program rage",
-      "timeslot": "morning",
-      "date": "2009-11-21",
-      "path": "2009/11/21_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2748641.htm"
-    },
-    {
-      "special": "Spiderbait guest program rage",
-      "timeslot": "night",
-      "date": "2009-11-21",
-      "path": "2009/11/21_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2748645.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2009-11-27",
-      "path": "2009/11/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2755350.htm"
-    },
-    {
-      "special": "Hilltop Hoods guest program rage",
-      "timeslot": "morning",
-      "date": "2009-11-28",
-      "path": "2009/11/28_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2755355.htm"
-    },
-    {
-      "special": "Hilltop Hoods guest program rage",
-      "timeslot": "night",
-      "date": "2009-11-28",
-      "path": "2009/11/28_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2755358.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2009-10-02",
       "path": "2009/10/02_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2703046.htm"
@@ -8833,6 +8749,90 @@
       "date": "2009-10-31",
       "path": "2009/10/31_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2728589.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2009-11-06",
+      "path": "2009/11/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2735142.htm"
+    },
+    {
+      "special": "Ross Wilson guest programs rage",
+      "timeslot": "morning",
+      "date": "2009-11-07",
+      "path": "2009/11/07_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2735148.htm"
+    },
+    {
+      "special": "Ross Wilson guest programs rage",
+      "timeslot": "night",
+      "date": "2009-11-07",
+      "path": "2009/11/07_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2735150.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2009-11-13",
+      "path": "2009/11/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2742094.htm"
+    },
+    {
+      "special": "Mental As Anything guest program",
+      "timeslot": "morning",
+      "date": "2009-11-14",
+      "path": "2009/11/14_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2742098.htm"
+    },
+    {
+      "special": "Mental As Anything guest program",
+      "timeslot": "night",
+      "date": "2009-11-14",
+      "path": "2009/11/14_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2742104.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2009-11-20",
+      "path": "2009/11/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2748634.htm"
+    },
+    {
+      "special": "Spiderbait guest program rage",
+      "timeslot": "morning",
+      "date": "2009-11-21",
+      "path": "2009/11/21_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2748641.htm"
+    },
+    {
+      "special": "Spiderbait guest program rage",
+      "timeslot": "night",
+      "date": "2009-11-21",
+      "path": "2009/11/21_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2748645.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2009-11-27",
+      "path": "2009/11/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2755350.htm"
+    },
+    {
+      "special": "Hilltop Hoods guest program rage",
+      "timeslot": "morning",
+      "date": "2009-11-28",
+      "path": "2009/11/28_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2755355.htm"
+    },
+    {
+      "special": "Hilltop Hoods guest program rage",
+      "timeslot": "night",
+      "date": "2009-11-28",
+      "path": "2009/11/28_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2755358.htm"
     },
     {
       "special": null,
@@ -11126,1070 +11126,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2013-01-04",
-      "path": "2013/01/04_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3664365.htm"
-    },
-    {
-      "special": "Retro Month Episode One",
-      "timeslot": "morning",
-      "date": "2013-01-05",
-      "path": "2013/01/05_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3664369.htm"
-    },
-    {
-      "special": "Retro Month Episode One",
-      "timeslot": "night",
-      "date": "2013-01-05",
-      "path": "2013/01/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3664272.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-01-11",
-      "path": "2013/01/11_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3668107.htm"
-    },
-    {
-      "special": "Retro Month Episode Two",
-      "timeslot": "morning",
-      "date": "2013-01-12",
-      "path": "2013/01/12_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3668127.htm"
-    },
-    {
-      "special": "Retro Month Episode Two",
-      "timeslot": "night",
-      "date": "2013-01-12",
-      "path": "2013/01/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3668080.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-01-18",
-      "path": "2013/01/18_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3672139.htm"
-    },
-    {
-      "special": "Retro Month Episode Three",
-      "timeslot": "morning",
-      "date": "2013-01-19",
-      "path": "2013/01/19_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3672127.htm"
-    },
-    {
-      "special": "Retro Month Episode Three",
-      "timeslot": "night",
-      "date": "2013-01-19",
-      "path": "2013/01/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3671584.htm"
-    },
-    {
-      "special": "Triple J's Hottest 100 2012",
-      "timeslot": "night",
-      "date": "2013-01-26",
-      "path": "2013/01/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3676730.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-02-01",
-      "path": "2013/02/01_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3681197.htm"
-    },
-    {
-      "special": "Sarah Blasko guest programs rage",
-      "timeslot": "morning",
-      "date": "2013-02-02",
-      "path": "2013/02/02_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3681219.htm"
-    },
-    {
-      "special": "Sarah Blasko guest programs rage",
-      "timeslot": "night",
-      "date": "2013-02-02",
-      "path": "2013/02/02_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3681385.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-02-08",
-      "path": "2013/02/08_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3686347.htm"
-    },
-    {
-      "special": "Django Django guest program rage.",
-      "timeslot": "morning",
-      "date": "2013-02-09",
-      "path": "2013/02/09_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3686354.htm"
-    },
-    {
-      "special": "Django Django guest program rage.",
-      "timeslot": "night",
-      "date": "2013-02-09",
-      "path": "2013/02/09_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3686519.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-02-15",
-      "path": "2013/02/15_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3691215.htm"
-    },
-    {
-      "special": "Margaret Pomeranz and David Stratton",
-      "timeslot": "morning",
-      "date": "2013-02-16",
-      "path": "2013/02/16_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3691258.htm"
-    },
-    {
-      "special": "Margaret Pomeranz and David Stratton",
-      "timeslot": "night",
-      "date": "2013-02-16",
-      "path": "2013/02/16_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3691517.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-02-22",
-      "path": "2013/02/22_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3696064.htm"
-    },
-    {
-      "special": "Grimes",
-      "timeslot": "morning",
-      "date": "2013-02-23",
-      "path": "2013/02/23_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3695947.htm"
-    },
-    {
-      "special": "Grimes",
-      "timeslot": "night",
-      "date": "2013-02-23",
-      "path": "2013/02/23_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3696261.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-03-01",
-      "path": "2013/03/01_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3104300.htm"
-    },
-    {
-      "special": "Mardi Gras on rage.",
-      "timeslot": "morning",
-      "date": "2013-03-02",
-      "path": "2013/03/02_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3701401.htm"
-    },
-    {
-      "special": "Mardi Gras on rage.",
-      "timeslot": "night",
-      "date": "2013-03-02",
-      "path": "2013/03/02_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3701477.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-03-08",
-      "path": "2013/03/08_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3710974.htm"
-    },
-    {
-      "special": "Mike Patton guest programs rage Saturday March 9th on ABC 1 from 11.30pm.",
-      "timeslot": "morning",
-      "date": "2013-03-09",
-      "path": "2013/03/09_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3711120.htm"
-    },
-    {
-      "special": "Mike Patton guest programs rage Saturday March 9th on ABC 1 from 11.30pm.",
-      "timeslot": "night",
-      "date": "2013-03-09",
-      "path": "2013/03/09_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3711234.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-03-15",
-      "path": "2013/03/15_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3716547.htm"
-    },
-    {
-      "special": "The Presets",
-      "timeslot": "morning",
-      "date": "2013-03-16",
-      "path": "2013/03/16_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3716553.htm"
-    },
-    {
-      "special": "The Presets",
-      "timeslot": "night",
-      "date": "2013-03-16",
-      "path": "2013/03/16_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975168.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-03-22",
-      "path": "2013/03/22_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3104315.htm"
-    },
-    {
-      "special": "Beach House",
-      "timeslot": "morning",
-      "date": "2013-03-23",
-      "path": "2013/03/23_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3721669.htm"
-    },
-    {
-      "special": "Beach House",
-      "timeslot": "night",
-      "date": "2013-03-23",
-      "path": "2013/03/23_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3604808.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-03-29",
-      "path": "2013/03/29_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3726072.htm"
-    },
-    {
-      "special": "Passion Of The Rage",
-      "timeslot": "morning",
-      "date": "2013-03-30",
-      "path": "2013/03/30_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3726040.htm"
-    },
-    {
-      "special": "Passion Of The Rage",
-      "timeslot": "night",
-      "date": "2013-03-30",
-      "path": "2013/03/30_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3726037.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-04-05",
-      "path": "2013/04/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3730696.htm"
-    },
-    {
-      "special": "Silversun Pickups Guest Program",
-      "timeslot": "morning",
-      "date": "2013-04-06",
-      "path": "2013/04/06_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3730769.htm"
-    },
-    {
-      "special": "Silversun Pickups Guest Program",
-      "timeslot": "night",
-      "date": "2013-04-06",
-      "path": "2013/04/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3730780.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-04-12",
-      "path": "2013/04/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3735683.htm"
-    },
-    {
-      "special": "Jim Kerr",
-      "timeslot": "morning",
-      "date": "2013-04-13",
-      "path": "2013/04/13_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3629354.htm"
-    },
-    {
-      "special": "Jim Kerr",
-      "timeslot": "night",
-      "date": "2013-04-13",
-      "path": "2013/04/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3681197.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-04-19",
-      "path": "2013/04/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3740744.htm"
-    },
-    {
-      "special": "Urthboy",
-      "timeslot": "morning",
-      "date": "2013-04-20",
-      "path": "2013/04/20_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3104300.htm"
-    },
-    {
-      "special": "Urthboy",
-      "timeslot": "night",
-      "date": "2013-04-20",
-      "path": "2013/04/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3740958.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-04-26",
-      "path": "2013/04/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3745914.htm"
-    },
-    {
-      "special": "Regina Spektor",
-      "timeslot": "morning",
-      "date": "2013-04-27",
-      "path": "2013/04/27_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3745934.htm"
-    },
-    {
-      "special": "Regina Spektor",
-      "timeslot": "night",
-      "date": "2013-04-27",
-      "path": "2013/04/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3745952.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-05-03",
-      "path": "2013/05/03_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3751096.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2013-05-04",
-      "path": "2013/05/04_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3751260.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-05-04",
-      "path": "2013/05/04_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3751284.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-05-10",
-      "path": "2013/05/10_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3756457.htm"
-    },
-    {
-      "special": "Vampire Weekend",
-      "timeslot": "morning",
-      "date": "2013-05-11",
-      "path": "2013/05/11_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3756466.htm"
-    },
-    {
-      "special": "Vampire Weekend",
-      "timeslot": "night",
-      "date": "2013-05-11",
-      "path": "2013/05/11_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3756488.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-05-17",
-      "path": "2013/05/17_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3761690.htm"
-    },
-    {
-      "special": "Chris Bailey from The Saints",
-      "timeslot": "night",
-      "date": "2013-05-18",
-      "path": "2013/05/18_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3761718.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-05-24",
-      "path": "2013/05/24_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3766847.htm"
-    },
-    {
-      "special": "Liars",
-      "timeslot": "morning",
-      "date": "2013-05-25",
-      "path": "2013/05/25_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3766853.htm"
-    },
-    {
-      "special": "Liars",
-      "timeslot": "night",
-      "date": "2013-05-25",
-      "path": "2013/05/25_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3766862.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-05-31",
-      "path": "2013/05/31_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3772056.htm"
-    },
-    {
-      "special": "FOALS guest program rage",
-      "timeslot": "morning",
-      "date": "2013-06-01",
-      "path": "2013/06/01_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3772064.htm"
-    },
-    {
-      "special": "FOALS guest program rage",
-      "timeslot": "night",
-      "date": "2013-06-01",
-      "path": "2013/06/01_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3772077.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-06-07",
-      "path": "2013/06/07_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3777089.htm"
-    },
-    {
-      "special": "Something For Kate",
-      "timeslot": "morning",
-      "date": "2013-06-08",
-      "path": "2013/06/08_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3777097.htm"
-    },
-    {
-      "special": "Something For Kate",
-      "timeslot": "night",
-      "date": "2013-06-08",
-      "path": "2013/06/08_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3776918.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-06-14",
-      "path": "2013/06/14_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3781967.htm"
-    },
-    {
-      "special": "Opeth",
-      "timeslot": "morning",
-      "date": "2013-06-15",
-      "path": "2013/06/15_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3781980.htm"
-    },
-    {
-      "special": "Opeth",
-      "timeslot": "night",
-      "date": "2013-06-15",
-      "path": "2013/06/15_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3781738.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-06-21",
-      "path": "2013/06/21_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3786924.htm"
-    },
-    {
-      "special": "Hot Chip",
-      "timeslot": "morning",
-      "date": "2013-06-22",
-      "path": "2013/06/22_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3786932.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-06-23",
-      "path": "2013/06/23_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3786567.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-06-28",
-      "path": "2013/06/28_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3791782.htm"
-    },
-    {
-      "special": "Steve Albini",
-      "timeslot": "morning",
-      "date": "2013-06-29",
-      "path": "2013/06/29_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3791786.htm"
-    },
-    {
-      "special": "Steve Albini",
-      "timeslot": "night",
-      "date": "2013-06-29",
-      "path": "2013/06/29_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3790718.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-07-05",
-      "path": "2013/07/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3796794.htm"
-    },
-    {
-      "special": "Bliss N Eso",
-      "timeslot": "morning",
-      "date": "2013-07-06",
-      "path": "2013/07/06_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3796804.htm"
-    },
-    {
-      "special": "Bliss N Eso",
-      "timeslot": "night",
-      "date": "2013-07-06",
-      "path": "2013/07/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3796034.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-07-12",
-      "path": "2013/07/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3801814.htm"
-    },
-    {
-      "special": "Wayne Blair guest programs rage",
-      "timeslot": "morning",
-      "date": "2013-07-13",
-      "path": "2013/07/13_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3801816.htm"
-    },
-    {
-      "special": "Wayne Blair guest programs rage",
-      "timeslot": "night",
-      "date": "2013-07-13",
-      "path": "2013/07/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3802092.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-07-19",
-      "path": "2013/07/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3806657.htm"
-    },
-    {
-      "special": "Bill Oddie from The Goodies",
-      "timeslot": "morning",
-      "date": "2013-07-20",
-      "path": "2013/07/20_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3806662.htm"
-    },
-    {
-      "special": "Bill Oddie from The Goodies",
-      "timeslot": "night",
-      "date": "2013-07-20",
-      "path": "2013/07/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3806826.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-07-26",
-      "path": "2013/07/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3811796.htm"
-    },
-    {
-      "special": "Special : Fifty Shades Of rage.",
-      "timeslot": "morning",
-      "date": "2013-07-27",
-      "path": "2013/07/27_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3811798.htm"
-    },
-    {
-      "special": "Special : Fifty Shades Of rage.",
-      "timeslot": "night",
-      "date": "2013-07-27",
-      "path": "2013/07/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3812040.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-08-02",
-      "path": "2013/08/02_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3816887.htm"
-    },
-    {
-      "special": "Manic Street Preachers",
-      "timeslot": "morning",
-      "date": "2013-08-03",
-      "path": "2013/08/03_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3817023.htm"
-    },
-    {
-      "special": "Manic Street Preachers",
-      "timeslot": "night",
-      "date": "2013-08-03",
-      "path": "2013/08/03_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3817039.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-08-09",
-      "path": "2013/08/09_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3822154.htm"
-    },
-    {
-      "special": "Cloud Control",
-      "timeslot": "morning",
-      "date": "2013-08-10",
-      "path": "2013/08/10_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3822169.htm"
-    },
-    {
-      "special": "Cloud Control",
-      "timeslot": "night",
-      "date": "2013-08-10",
-      "path": "2013/08/10_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3822173.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-08-16",
-      "path": "2013/08/16_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3827312.htm"
-    },
-    {
-      "special": "Karnivool",
-      "timeslot": "morning",
-      "date": "2013-08-17",
-      "path": "2013/08/17_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3827372.htm"
-    },
-    {
-      "special": "Karnivool",
-      "timeslot": "night",
-      "date": "2013-08-17",
-      "path": "2013/08/17_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3827380.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-08-23",
-      "path": "2013/08/23_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3832360.htm"
-    },
-    {
-      "special": "HAIM",
-      "timeslot": "morning",
-      "date": "2013-08-24",
-      "path": "2013/08/24_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3832368.htm"
-    },
-    {
-      "special": "HAIM",
-      "timeslot": "night",
-      "date": "2013-08-24",
-      "path": "2013/08/24_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3832420.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-08-30",
-      "path": "2013/08/30_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3837514.htm"
-    },
-    {
-      "special": "The rage 2013 Election Special.",
-      "timeslot": "morning",
-      "date": "2013-08-31",
-      "path": "2013/08/31_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3837525.htm"
-    },
-    {
-      "special": "The rage 2013 Election Special.",
-      "timeslot": "night",
-      "date": "2013-08-31",
-      "path": "2013/08/31_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3837927.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-09-06",
-      "path": "2013/09/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3842783.htm"
-    },
-    {
-      "special": "MS MR",
-      "timeslot": "morning",
-      "date": "2013-09-07",
-      "path": "2013/09/07_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3843067.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-09-08",
-      "path": "2013/09/08_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3843072.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-09-13",
-      "path": "2013/09/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3848334.htm"
-    },
-    {
-      "special": "Cosmic Psychos",
-      "timeslot": "morning",
-      "date": "2013-09-14",
-      "path": "2013/09/14_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3848392.htm"
-    },
-    {
-      "special": "Cosmic Psychos",
-      "timeslot": "night",
-      "date": "2013-09-14",
-      "path": "2013/09/14_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3848389.htm"
-    },
-    {
-      "special": "Of Monsters And Men",
-      "timeslot": "morning",
-      "date": "2013-09-21",
-      "path": "2013/09/21_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3853247.htm"
-    },
-    {
-      "special": "Of Monsters And Men",
-      "timeslot": "night",
-      "date": "2013-09-21",
-      "path": "2013/09/21_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3853241.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-09-27",
-      "path": "2013/09/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3857900.htm"
-    },
-    {
-      "special": "Vault Special",
-      "timeslot": "morning",
-      "date": "2013-09-28",
-      "path": "2013/09/28_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3857988.htm"
-    },
-    {
-      "special": "Vault Special",
-      "timeslot": "night",
-      "date": "2013-09-28",
-      "path": "2013/09/28_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3857979.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-10-04",
-      "path": "2013/10/04_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3862627.htm"
-    },
-    {
-      "special": "Passion Pit",
-      "timeslot": "morning",
-      "date": "2013-10-05",
-      "path": "2013/10/05_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3862656.htm"
-    },
-    {
-      "special": "Passion Pit",
-      "timeslot": "night",
-      "date": "2013-10-05",
-      "path": "2013/10/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3862629.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-10-11",
-      "path": "2013/10/11_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3867338.htm"
-    },
-    {
-      "special": "MOBY",
-      "timeslot": "morning",
-      "date": "2013-10-12",
-      "path": "2013/10/12_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3867365.htm"
-    },
-    {
-      "special": "MOBY",
-      "timeslot": "night",
-      "date": "2013-10-12",
-      "path": "2013/10/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3867370.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-10-18",
-      "path": "2013/10/18_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3872288.htm"
-    },
-    {
-      "special": "Wavves",
-      "timeslot": "morning",
-      "date": "2013-10-19",
-      "path": "2013/10/19_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3872346.htm"
-    },
-    {
-      "special": "Wavves",
-      "timeslot": "night",
-      "date": "2013-10-19",
-      "path": "2013/10/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3872379.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-10-25",
-      "path": "2013/10/25_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3877092.htm"
-    },
-    {
-      "special": "Portugal.The Man",
-      "timeslot": "morning",
-      "date": "2013-10-26",
-      "path": "2013/10/26_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3877094.htm"
-    },
-    {
-      "special": "Portugal.The Man",
-      "timeslot": "night",
-      "date": "2013-10-26",
-      "path": "2013/10/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3877230.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-11-01",
-      "path": "2013/11/01_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3882207.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2013-11-02",
-      "path": "2013/11/02_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3882296.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-11-02",
-      "path": "2013/11/02_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3882308.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-11-08",
-      "path": "2013/11/08_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3888289.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2013-11-09",
-      "path": "2013/11/09_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3890256.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-11-09",
-      "path": "2013/11/09_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3888528.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-11-15",
-      "path": "2013/11/15_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3892046.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2013-11-16",
-      "path": "2013/11/16_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3892103.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-11-16",
-      "path": "2013/11/16_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3892111.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-11-22",
-      "path": "2013/11/22_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3897162.htm"
-    },
-    {
-      "special": "Cut Copy",
-      "timeslot": "morning",
-      "date": "2013-11-23",
-      "path": "2013/11/23_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3897176.htm"
-    },
-    {
-      "special": "Cut Copy",
-      "timeslot": "night",
-      "date": "2013-11-23",
-      "path": "2013/11/23_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3897186.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-11-29",
-      "path": "2013/11/29_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3901894.htm"
-    },
-    {
-      "special": "Brian Ritchie",
-      "timeslot": "morning",
-      "date": "2013-11-30",
-      "path": "2013/11/30_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3901914.htm"
-    },
-    {
-      "special": "Brian Ritchie",
-      "timeslot": "night",
-      "date": "2013-11-30",
-      "path": "2013/11/30_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3901949.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-12-06",
-      "path": "2013/12/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3906735.htm"
-    },
-    {
-      "special": "AlunaGeorge",
-      "timeslot": "morning",
-      "date": "2013-12-07",
-      "path": "2013/12/07_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3906739.htm"
-    },
-    {
-      "special": "AlunaGeorge",
-      "timeslot": "night",
-      "date": "2013-12-07",
-      "path": "2013/12/07_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3906747.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-12-13",
-      "path": "2013/12/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3911059.htm"
-    },
-    {
-      "special": "Kim Wilde",
-      "timeslot": "morning",
-      "date": "2013-12-14",
-      "path": "2013/12/14_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3911359.htm"
-    },
-    {
-      "special": "Kim Wilde",
-      "timeslot": "night",
-      "date": "2013-12-14",
-      "path": "2013/12/14_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3911363.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-12-20",
-      "path": "2013/12/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3915731.htm"
-    },
-    {
-      "special": "Rudimental",
-      "timeslot": "morning",
-      "date": "2013-12-21",
-      "path": "2013/12/21_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3915737.htm"
-    },
-    {
-      "special": "Rudimental",
-      "timeslot": "night",
-      "date": "2013-12-21",
-      "path": "2013/12/21_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3915740.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-12-27",
-      "path": "2013/12/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3918988.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2013-12-28",
-      "path": "2013/12/28_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3918993.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-12-28",
-      "path": "2013/12/28_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3919010.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2012-01-06",
       "path": "2012/01/06_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3403289.htm"
@@ -13250,6 +12186,1070 @@
       "date": "2012-12-15",
       "path": "2012/12/15_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3654428.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-01-04",
+      "path": "2013/01/04_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3664365.htm"
+    },
+    {
+      "special": "Retro Month Episode One",
+      "timeslot": "morning",
+      "date": "2013-01-05",
+      "path": "2013/01/05_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3664369.htm"
+    },
+    {
+      "special": "Retro Month Episode One",
+      "timeslot": "night",
+      "date": "2013-01-05",
+      "path": "2013/01/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3664272.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-01-11",
+      "path": "2013/01/11_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3668107.htm"
+    },
+    {
+      "special": "Retro Month Episode Two",
+      "timeslot": "morning",
+      "date": "2013-01-12",
+      "path": "2013/01/12_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3668127.htm"
+    },
+    {
+      "special": "Retro Month Episode Two",
+      "timeslot": "night",
+      "date": "2013-01-12",
+      "path": "2013/01/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3668080.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-01-18",
+      "path": "2013/01/18_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3672139.htm"
+    },
+    {
+      "special": "Retro Month Episode Three",
+      "timeslot": "morning",
+      "date": "2013-01-19",
+      "path": "2013/01/19_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3672127.htm"
+    },
+    {
+      "special": "Retro Month Episode Three",
+      "timeslot": "night",
+      "date": "2013-01-19",
+      "path": "2013/01/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3671584.htm"
+    },
+    {
+      "special": "Triple J's Hottest 100 2012",
+      "timeslot": "night",
+      "date": "2013-01-26",
+      "path": "2013/01/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3676730.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-02-01",
+      "path": "2013/02/01_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3681197.htm"
+    },
+    {
+      "special": "Sarah Blasko guest programs rage",
+      "timeslot": "morning",
+      "date": "2013-02-02",
+      "path": "2013/02/02_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3681219.htm"
+    },
+    {
+      "special": "Sarah Blasko guest programs rage",
+      "timeslot": "night",
+      "date": "2013-02-02",
+      "path": "2013/02/02_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3681385.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-02-08",
+      "path": "2013/02/08_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3686347.htm"
+    },
+    {
+      "special": "Django Django guest program rage.",
+      "timeslot": "morning",
+      "date": "2013-02-09",
+      "path": "2013/02/09_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3686354.htm"
+    },
+    {
+      "special": "Django Django guest program rage.",
+      "timeslot": "night",
+      "date": "2013-02-09",
+      "path": "2013/02/09_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3686519.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-02-15",
+      "path": "2013/02/15_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3691215.htm"
+    },
+    {
+      "special": "Margaret Pomeranz and David Stratton",
+      "timeslot": "morning",
+      "date": "2013-02-16",
+      "path": "2013/02/16_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3691258.htm"
+    },
+    {
+      "special": "Margaret Pomeranz and David Stratton",
+      "timeslot": "night",
+      "date": "2013-02-16",
+      "path": "2013/02/16_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3691517.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-02-22",
+      "path": "2013/02/22_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3696064.htm"
+    },
+    {
+      "special": "Grimes",
+      "timeslot": "morning",
+      "date": "2013-02-23",
+      "path": "2013/02/23_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3695947.htm"
+    },
+    {
+      "special": "Grimes",
+      "timeslot": "night",
+      "date": "2013-02-23",
+      "path": "2013/02/23_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3696261.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-03-01",
+      "path": "2013/03/01_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3104300.htm"
+    },
+    {
+      "special": "Mardi Gras on rage.",
+      "timeslot": "morning",
+      "date": "2013-03-02",
+      "path": "2013/03/02_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3701401.htm"
+    },
+    {
+      "special": "Mardi Gras on rage.",
+      "timeslot": "night",
+      "date": "2013-03-02",
+      "path": "2013/03/02_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3701477.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-03-08",
+      "path": "2013/03/08_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3710974.htm"
+    },
+    {
+      "special": "Mike Patton guest programs rage Saturday March 9th on ABC 1 from 11.30pm.",
+      "timeslot": "morning",
+      "date": "2013-03-09",
+      "path": "2013/03/09_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3711120.htm"
+    },
+    {
+      "special": "Mike Patton guest programs rage Saturday March 9th on ABC 1 from 11.30pm.",
+      "timeslot": "night",
+      "date": "2013-03-09",
+      "path": "2013/03/09_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3711234.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-03-15",
+      "path": "2013/03/15_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3716547.htm"
+    },
+    {
+      "special": "The Presets",
+      "timeslot": "morning",
+      "date": "2013-03-16",
+      "path": "2013/03/16_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3716553.htm"
+    },
+    {
+      "special": "The Presets",
+      "timeslot": "night",
+      "date": "2013-03-16",
+      "path": "2013/03/16_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975168.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-03-22",
+      "path": "2013/03/22_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3104315.htm"
+    },
+    {
+      "special": "Beach House",
+      "timeslot": "morning",
+      "date": "2013-03-23",
+      "path": "2013/03/23_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3721669.htm"
+    },
+    {
+      "special": "Beach House",
+      "timeslot": "night",
+      "date": "2013-03-23",
+      "path": "2013/03/23_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3604808.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-03-29",
+      "path": "2013/03/29_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3726072.htm"
+    },
+    {
+      "special": "Passion Of The Rage",
+      "timeslot": "morning",
+      "date": "2013-03-30",
+      "path": "2013/03/30_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3726040.htm"
+    },
+    {
+      "special": "Passion Of The Rage",
+      "timeslot": "night",
+      "date": "2013-03-30",
+      "path": "2013/03/30_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3726037.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-04-05",
+      "path": "2013/04/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3730696.htm"
+    },
+    {
+      "special": "Silversun Pickups Guest Program",
+      "timeslot": "morning",
+      "date": "2013-04-06",
+      "path": "2013/04/06_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3730769.htm"
+    },
+    {
+      "special": "Silversun Pickups Guest Program",
+      "timeslot": "night",
+      "date": "2013-04-06",
+      "path": "2013/04/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3730780.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-04-12",
+      "path": "2013/04/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3735683.htm"
+    },
+    {
+      "special": "Jim Kerr",
+      "timeslot": "morning",
+      "date": "2013-04-13",
+      "path": "2013/04/13_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3629354.htm"
+    },
+    {
+      "special": "Jim Kerr",
+      "timeslot": "night",
+      "date": "2013-04-13",
+      "path": "2013/04/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3681197.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-04-19",
+      "path": "2013/04/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3740744.htm"
+    },
+    {
+      "special": "Urthboy",
+      "timeslot": "morning",
+      "date": "2013-04-20",
+      "path": "2013/04/20_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3104300.htm"
+    },
+    {
+      "special": "Urthboy",
+      "timeslot": "night",
+      "date": "2013-04-20",
+      "path": "2013/04/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3740958.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-04-26",
+      "path": "2013/04/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3745914.htm"
+    },
+    {
+      "special": "Regina Spektor",
+      "timeslot": "morning",
+      "date": "2013-04-27",
+      "path": "2013/04/27_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3745934.htm"
+    },
+    {
+      "special": "Regina Spektor",
+      "timeslot": "night",
+      "date": "2013-04-27",
+      "path": "2013/04/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3745952.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-05-03",
+      "path": "2013/05/03_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3751096.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2013-05-04",
+      "path": "2013/05/04_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3751260.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-05-04",
+      "path": "2013/05/04_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3751284.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-05-10",
+      "path": "2013/05/10_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3756457.htm"
+    },
+    {
+      "special": "Vampire Weekend",
+      "timeslot": "morning",
+      "date": "2013-05-11",
+      "path": "2013/05/11_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3756466.htm"
+    },
+    {
+      "special": "Vampire Weekend",
+      "timeslot": "night",
+      "date": "2013-05-11",
+      "path": "2013/05/11_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3756488.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-05-17",
+      "path": "2013/05/17_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3761690.htm"
+    },
+    {
+      "special": "Chris Bailey from The Saints",
+      "timeslot": "night",
+      "date": "2013-05-18",
+      "path": "2013/05/18_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3761718.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-05-24",
+      "path": "2013/05/24_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3766847.htm"
+    },
+    {
+      "special": "Liars",
+      "timeslot": "morning",
+      "date": "2013-05-25",
+      "path": "2013/05/25_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3766853.htm"
+    },
+    {
+      "special": "Liars",
+      "timeslot": "night",
+      "date": "2013-05-25",
+      "path": "2013/05/25_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3766862.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-05-31",
+      "path": "2013/05/31_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3772056.htm"
+    },
+    {
+      "special": "FOALS guest program rage",
+      "timeslot": "morning",
+      "date": "2013-06-01",
+      "path": "2013/06/01_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3772064.htm"
+    },
+    {
+      "special": "FOALS guest program rage",
+      "timeslot": "night",
+      "date": "2013-06-01",
+      "path": "2013/06/01_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3772077.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-06-07",
+      "path": "2013/06/07_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3777089.htm"
+    },
+    {
+      "special": "Something For Kate",
+      "timeslot": "morning",
+      "date": "2013-06-08",
+      "path": "2013/06/08_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3777097.htm"
+    },
+    {
+      "special": "Something For Kate",
+      "timeslot": "night",
+      "date": "2013-06-08",
+      "path": "2013/06/08_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3776918.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-06-14",
+      "path": "2013/06/14_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3781967.htm"
+    },
+    {
+      "special": "Opeth",
+      "timeslot": "morning",
+      "date": "2013-06-15",
+      "path": "2013/06/15_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3781980.htm"
+    },
+    {
+      "special": "Opeth",
+      "timeslot": "night",
+      "date": "2013-06-15",
+      "path": "2013/06/15_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3781738.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-06-21",
+      "path": "2013/06/21_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3786924.htm"
+    },
+    {
+      "special": "Hot Chip",
+      "timeslot": "morning",
+      "date": "2013-06-22",
+      "path": "2013/06/22_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3786932.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-06-23",
+      "path": "2013/06/23_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3786567.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-06-28",
+      "path": "2013/06/28_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3791782.htm"
+    },
+    {
+      "special": "Steve Albini",
+      "timeslot": "morning",
+      "date": "2013-06-29",
+      "path": "2013/06/29_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3791786.htm"
+    },
+    {
+      "special": "Steve Albini",
+      "timeslot": "night",
+      "date": "2013-06-29",
+      "path": "2013/06/29_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3790718.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-07-05",
+      "path": "2013/07/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3796794.htm"
+    },
+    {
+      "special": "Bliss N Eso",
+      "timeslot": "morning",
+      "date": "2013-07-06",
+      "path": "2013/07/06_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3796804.htm"
+    },
+    {
+      "special": "Bliss N Eso",
+      "timeslot": "night",
+      "date": "2013-07-06",
+      "path": "2013/07/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3796034.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-07-12",
+      "path": "2013/07/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3801814.htm"
+    },
+    {
+      "special": "Wayne Blair guest programs rage",
+      "timeslot": "morning",
+      "date": "2013-07-13",
+      "path": "2013/07/13_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3801816.htm"
+    },
+    {
+      "special": "Wayne Blair guest programs rage",
+      "timeslot": "night",
+      "date": "2013-07-13",
+      "path": "2013/07/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3802092.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-07-19",
+      "path": "2013/07/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3806657.htm"
+    },
+    {
+      "special": "Bill Oddie from The Goodies",
+      "timeslot": "morning",
+      "date": "2013-07-20",
+      "path": "2013/07/20_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3806662.htm"
+    },
+    {
+      "special": "Bill Oddie from The Goodies",
+      "timeslot": "night",
+      "date": "2013-07-20",
+      "path": "2013/07/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3806826.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-07-26",
+      "path": "2013/07/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3811796.htm"
+    },
+    {
+      "special": "Special : Fifty Shades Of rage.",
+      "timeslot": "morning",
+      "date": "2013-07-27",
+      "path": "2013/07/27_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3811798.htm"
+    },
+    {
+      "special": "Special : Fifty Shades Of rage.",
+      "timeslot": "night",
+      "date": "2013-07-27",
+      "path": "2013/07/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3812040.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-08-02",
+      "path": "2013/08/02_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3816887.htm"
+    },
+    {
+      "special": "Manic Street Preachers",
+      "timeslot": "morning",
+      "date": "2013-08-03",
+      "path": "2013/08/03_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3817023.htm"
+    },
+    {
+      "special": "Manic Street Preachers",
+      "timeslot": "night",
+      "date": "2013-08-03",
+      "path": "2013/08/03_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3817039.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-08-09",
+      "path": "2013/08/09_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3822154.htm"
+    },
+    {
+      "special": "Cloud Control",
+      "timeslot": "morning",
+      "date": "2013-08-10",
+      "path": "2013/08/10_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3822169.htm"
+    },
+    {
+      "special": "Cloud Control",
+      "timeslot": "night",
+      "date": "2013-08-10",
+      "path": "2013/08/10_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3822173.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-08-16",
+      "path": "2013/08/16_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3827312.htm"
+    },
+    {
+      "special": "Karnivool",
+      "timeslot": "morning",
+      "date": "2013-08-17",
+      "path": "2013/08/17_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3827372.htm"
+    },
+    {
+      "special": "Karnivool",
+      "timeslot": "night",
+      "date": "2013-08-17",
+      "path": "2013/08/17_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3827380.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-08-23",
+      "path": "2013/08/23_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3832360.htm"
+    },
+    {
+      "special": "HAIM",
+      "timeslot": "morning",
+      "date": "2013-08-24",
+      "path": "2013/08/24_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3832368.htm"
+    },
+    {
+      "special": "HAIM",
+      "timeslot": "night",
+      "date": "2013-08-24",
+      "path": "2013/08/24_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3832420.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-08-30",
+      "path": "2013/08/30_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3837514.htm"
+    },
+    {
+      "special": "The rage 2013 Election Special.",
+      "timeslot": "morning",
+      "date": "2013-08-31",
+      "path": "2013/08/31_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3837525.htm"
+    },
+    {
+      "special": "The rage 2013 Election Special.",
+      "timeslot": "night",
+      "date": "2013-08-31",
+      "path": "2013/08/31_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3837927.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-09-06",
+      "path": "2013/09/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3842783.htm"
+    },
+    {
+      "special": "MS MR",
+      "timeslot": "morning",
+      "date": "2013-09-07",
+      "path": "2013/09/07_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3843067.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-09-08",
+      "path": "2013/09/08_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3843072.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-09-13",
+      "path": "2013/09/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3848334.htm"
+    },
+    {
+      "special": "Cosmic Psychos",
+      "timeslot": "morning",
+      "date": "2013-09-14",
+      "path": "2013/09/14_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3848392.htm"
+    },
+    {
+      "special": "Cosmic Psychos",
+      "timeslot": "night",
+      "date": "2013-09-14",
+      "path": "2013/09/14_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3848389.htm"
+    },
+    {
+      "special": "Of Monsters And Men",
+      "timeslot": "morning",
+      "date": "2013-09-21",
+      "path": "2013/09/21_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3853247.htm"
+    },
+    {
+      "special": "Of Monsters And Men",
+      "timeslot": "night",
+      "date": "2013-09-21",
+      "path": "2013/09/21_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3853241.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-09-27",
+      "path": "2013/09/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3857900.htm"
+    },
+    {
+      "special": "Vault Special",
+      "timeslot": "morning",
+      "date": "2013-09-28",
+      "path": "2013/09/28_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3857988.htm"
+    },
+    {
+      "special": "Vault Special",
+      "timeslot": "night",
+      "date": "2013-09-28",
+      "path": "2013/09/28_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3857979.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-10-04",
+      "path": "2013/10/04_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3862627.htm"
+    },
+    {
+      "special": "Passion Pit",
+      "timeslot": "morning",
+      "date": "2013-10-05",
+      "path": "2013/10/05_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3862656.htm"
+    },
+    {
+      "special": "Passion Pit",
+      "timeslot": "night",
+      "date": "2013-10-05",
+      "path": "2013/10/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3862629.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-10-11",
+      "path": "2013/10/11_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3867338.htm"
+    },
+    {
+      "special": "MOBY",
+      "timeslot": "morning",
+      "date": "2013-10-12",
+      "path": "2013/10/12_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3867365.htm"
+    },
+    {
+      "special": "MOBY",
+      "timeslot": "night",
+      "date": "2013-10-12",
+      "path": "2013/10/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3867370.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-10-18",
+      "path": "2013/10/18_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3872288.htm"
+    },
+    {
+      "special": "Wavves",
+      "timeslot": "morning",
+      "date": "2013-10-19",
+      "path": "2013/10/19_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3872346.htm"
+    },
+    {
+      "special": "Wavves",
+      "timeslot": "night",
+      "date": "2013-10-19",
+      "path": "2013/10/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3872379.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-10-25",
+      "path": "2013/10/25_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3877092.htm"
+    },
+    {
+      "special": "Portugal.The Man",
+      "timeslot": "morning",
+      "date": "2013-10-26",
+      "path": "2013/10/26_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3877094.htm"
+    },
+    {
+      "special": "Portugal.The Man",
+      "timeslot": "night",
+      "date": "2013-10-26",
+      "path": "2013/10/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3877230.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-11-01",
+      "path": "2013/11/01_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3882207.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2013-11-02",
+      "path": "2013/11/02_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3882296.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-11-02",
+      "path": "2013/11/02_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3882308.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-11-08",
+      "path": "2013/11/08_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3888289.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2013-11-09",
+      "path": "2013/11/09_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3890256.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-11-09",
+      "path": "2013/11/09_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3888528.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-11-15",
+      "path": "2013/11/15_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3892046.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2013-11-16",
+      "path": "2013/11/16_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3892103.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-11-16",
+      "path": "2013/11/16_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3892111.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-11-22",
+      "path": "2013/11/22_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3897162.htm"
+    },
+    {
+      "special": "Cut Copy",
+      "timeslot": "morning",
+      "date": "2013-11-23",
+      "path": "2013/11/23_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3897176.htm"
+    },
+    {
+      "special": "Cut Copy",
+      "timeslot": "night",
+      "date": "2013-11-23",
+      "path": "2013/11/23_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3897186.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-11-29",
+      "path": "2013/11/29_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3901894.htm"
+    },
+    {
+      "special": "Brian Ritchie",
+      "timeslot": "morning",
+      "date": "2013-11-30",
+      "path": "2013/11/30_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3901914.htm"
+    },
+    {
+      "special": "Brian Ritchie",
+      "timeslot": "night",
+      "date": "2013-11-30",
+      "path": "2013/11/30_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3901949.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-12-06",
+      "path": "2013/12/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3906735.htm"
+    },
+    {
+      "special": "AlunaGeorge",
+      "timeslot": "morning",
+      "date": "2013-12-07",
+      "path": "2013/12/07_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3906739.htm"
+    },
+    {
+      "special": "AlunaGeorge",
+      "timeslot": "night",
+      "date": "2013-12-07",
+      "path": "2013/12/07_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3906747.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-12-13",
+      "path": "2013/12/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3911059.htm"
+    },
+    {
+      "special": "Kim Wilde",
+      "timeslot": "morning",
+      "date": "2013-12-14",
+      "path": "2013/12/14_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3911359.htm"
+    },
+    {
+      "special": "Kim Wilde",
+      "timeslot": "night",
+      "date": "2013-12-14",
+      "path": "2013/12/14_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3911363.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-12-20",
+      "path": "2013/12/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3915731.htm"
+    },
+    {
+      "special": "Rudimental",
+      "timeslot": "morning",
+      "date": "2013-12-21",
+      "path": "2013/12/21_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3915737.htm"
+    },
+    {
+      "special": "Rudimental",
+      "timeslot": "night",
+      "date": "2013-12-21",
+      "path": "2013/12/21_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3915740.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-12-27",
+      "path": "2013/12/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3918988.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2013-12-28",
+      "path": "2013/12/28_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3918993.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-12-28",
+      "path": "2013/12/28_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3919010.htm"
     },
     {
       "special": null,
@@ -39549,6 +39549,20 @@
       "date": "2026-04-28",
       "path": "2026/04/28_night.json",
       "url": "https://www.abc.net.au/rage/playlist/tuesday-night-28-april-2026-on-abc-entertains/106594516"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-04-29",
+      "path": "2026/04/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-29-april-2026-on-abc-entertains/106594518"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-04-30",
+      "path": "2026/04/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-30-april-2026-on-abc-entertains/106594520"
     }
   ]
 }
