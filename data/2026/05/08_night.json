@@ -1,0 +1,87 @@
+{
+  "title": "Friday night 8 May 2026 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2026-05-08",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-8-may-2026-on-abc-entertains/106660218",
+  "tracks": [
+    {
+      "artist": "SNEAKY SOUND SYSTEM",
+      "song": "UFO",
+      "label": "MGM",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "10:15 Saturday Night",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "That's Entertainment",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Flashing Lights",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "PSYCHEDELIC FURS",
+      "song": "Love My Way",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "The Robots",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE SWEET",
+      "song": "Ballroom Blitz",
+      "label": "RCA",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Enjoy The Silence",
+      "label": "Mushroom",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "I'm Bored",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "VANGELIS",
+      "song": "Chariots of Fire",
+      "label": "Polydor",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "Boy From School",
+      "label": "MOS/EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "TIESTO AND SNEAKY SOUND SYSTEM",
+      "song": "I Will Be Here",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SNEAKY SOUND SYSTEM",
+      "song": "Pictures",
+      "label": "MGM",
+      "timeslot": "00:30:00"
+    }
+  ]
+}

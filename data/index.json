@@ -39647,6 +39647,90 @@
       "date": "2026-05-07",
       "path": "2026/05/07_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-7-may-2026-on-abc-entertains/106640530"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-05-08",
+      "path": "2026/05/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-8-may-2026-on-abc-entertains/106660218"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-05-08",
+      "path": "2026/05/08_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-8-may-2026-on-abc-tv/106660216"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2026-05-09",
+      "path": "2026/05/09_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9-may-2026-on-abc-tv/106660220"
+    },
+    {
+      "special": "Mother's Day Special",
+      "timeslot": "night",
+      "date": "2026-05-09",
+      "path": "2026/05/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-9-may-2026-on-abc-entertains/106660224"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-05-09",
+      "path": "2026/05/09_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-9-may-2026-on-abc-tv/106660222"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-05-10",
+      "path": "2026/05/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-10-may-2026-on-abc-entertains/106660228"
+    },
+    {
+      "special": "The VAULT: 1986 Rock & Metal",
+      "timeslot": "night",
+      "date": "2026-05-10",
+      "path": "2026/05/10_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-10-may-2026-on-abc-tv/106660226"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-05-11",
+      "path": "2026/05/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-11-may-2026-on-abc-entertains/106660394"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-05-11",
+      "path": "2026/05/11_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-11-may-2026-on-abc-tv/106660392"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-05-12",
+      "path": "2026/05/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-12-may-2026-on-abc-entertains/106660396"
+    },
+    {
+      "special": "The VAULT: 1986 Rock & Metal",
+      "timeslot": "night",
+      "date": "2026-05-13",
+      "path": "2026/05/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-13-may-2026-on-abc-entertains/106660398"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-05-14",
+      "path": "2026/05/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-14-may-2026-on-abc-entertains/106660400"
     }
   ]
 }

@@ -1,0 +1,393 @@
+{
+  "title": "Saturday morning 9 May 2026 on ABC TV",
+  "special": null,
+  "timeslot": "morning",
+  "date": "2026-05-09",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9-may-2026-on-abc-tv/106660220",
+  "tracks": [
+    {
+      "artist": "KATSEYE",
+      "song": "Pinky Up",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LADY GAGA and DOECHII",
+      "song": "Runway (censored version)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BTS",
+      "song": "SWIM",
+      "label": "UMG",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SABRINA CARPENTER",
+      "song": "House Tour",
+      "label": "Island Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LAUFEY",
+      "song": "Madwoman",
+      "label": "AWAL",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SOMBR",
+      "song": "Homewrecker (censored version)",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OLIVIA DEAN",
+      "song": "So Easy (To Fall In Love)",
+      "label": "Capitol Records / Polydor",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ALEX WARREN",
+      "song": "Ordinary",
+      "label": "Atlantic",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JUSTIN BIEBER featuring NICKI MINAJ",
+      "song": "Beauty And A Beat",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TAME IMPALA",
+      "song": "Dracula (clean version)",
+      "label": "Columbia",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BELLA KAY",
+      "song": "iloveitiloveitiloveit (Live) (censored version)",
+      "label": "Independent/Atalantic",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "OLIVIA RODRIGO",
+      "song": "drop dead",
+      "label": "Geffen Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ELLA LANGLEY",
+      "song": "Choosin' Texas",
+      "label": "SAWGOD/Columbia",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "OLIVIA DEAN",
+      "song": "Man I Need",
+      "label": "Capitol",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SAM FENDER ft. OLIVIA DEAN",
+      "song": "Rein Me In (clean version)",
+      "label": "Polydor",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Real Wild Child",
+      "label": "Universal",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE SMITHEREENS",
+      "song": "Blood And Roses",
+      "label": "Big Time",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "HUSKER DU",
+      "song": "Don't Want To Know If You Are Lonely",
+      "label": "Warner",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PUBLIC IMAGE LTD",
+      "song": "Home",
+      "label": "Virgin",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "BAD BRAINS",
+      "song": "I Against I",
+      "label": "Sony",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "MEGADETH",
+      "song": "Peace Sells ... But Who's Buying?",
+      "label": "EMI",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "LOLA YOUNG",
+      "song": "Close To Me (On triple j's Like A Version)",
+      "label": "UMA",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "VIKA and LINDA",
+      "song": "Bliss",
+      "label": "Mushroom",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "NIA ARCHIVES",
+      "song": "Boys In Blue",
+      "label": "HIJINXX/Island Records",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "ROSALIA",
+      "song": "Focu 'Ranni",
+      "label": "Columbia",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "DUMBHEAD",
+      "song": "White Knuckles",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "SHOCK CORRIDOR",
+      "song": "Sheet Metal",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "UGLIEBOY",
+      "song": "LIP SERVICE",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE JACKETS",
+      "song": "Rock and Roll Band",
+      "label": "Wild Noise Records",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Window",
+      "label": "RCA",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "RAGEFLOWER",
+      "song": "CONTROL",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "KATE MOTH",
+      "song": "Too Late To Go Outside",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "VIOLET GROHL",
+      "song": "Cool Buzz",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "TEENAGE JOANS",
+      "song": "Coming Up From Hell",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE L",
+      "song": "Revenant",
+      "label": "Sharptone",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BOUDICCA",
+      "song": "Constance",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE CARIES COMPANY",
+      "song": "My Sugar (Glass)",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "JONATHAN BREE ft. RACHEL CLARKE",
+      "song": "Savour My Love",
+      "label": "Lil Chief",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "SCREENSAVER",
+      "song": "Division",
+      "label": "Poison City Records",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "CROOKED COLOURS",
+      "song": "Come Thru",
+      "label": "Sweat It Out",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "YNG MARTYR ft. RI WAVEY",
+      "song": "THANK GOD",
+      "label": "Independent",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Feel Good Inc.",
+      "label": "EMI",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "B.O.B.",
+      "label": "BMG",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "KELIS",
+      "song": "Milkshake",
+      "label": "Virgin",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "BAKER BOY",
+      "song": "Marryuna",
+      "label": "Independent",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE KID LAROI",
+      "song": "A Cold Play",
+      "label": "Columbia",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "BREAKING BENJAMIN",
+      "song": "Diary Of Jane",
+      "label": "EMI",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "OLIVER TREE and ROBIN SCHULZ",
+      "song": "Miss You",
+      "label": "Atlantic",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "SKRILLEX",
+      "song": "Bangarang",
+      "label": "Warner",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "STROMAE",
+      "song": "Quand C'est",
+      "label": "Island Records",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "KID CUDI feat MGMT and RATATAT",
+      "song": "Pursuit Of Happiness",
+      "label": "Universal",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "YOUNG THUG",
+      "song": "Wyclef Jean (Clean version)",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "Swimming Pools (Drank)",
+      "label": "Universal",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE HERD",
+      "song": "I Was Only 19",
+      "label": "Inertia",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "Hurt",
+      "label": "Universal",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "YNG MARTYR",
+      "song": "5 Years",
+      "label": "Warner",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Californication",
+      "label": "Warner",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "OCEAN ALLEY",
+      "song": "West Coast",
+      "label": "Independent",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "Don't Deny Your Heart",
+      "label": "EMI",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "SOCCER MOMMY",
+      "song": "Abigail",
+      "label": "Loma Vista",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ARCHITECTURE IN HELSINKI",
+      "song": "Do The Whirlwind",
+      "label": "Remote Control",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "XIU XIU",
+      "song": "Boy Soprano",
+      "label": "Trifekta/Shock",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Derezzed",
+      "label": "Walt Disney Records",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ROYKSOPP",
+      "song": "Happy Up Here",
+      "label": "EMI",
+      "timeslot": "11:30:00"
+    }
+  ]
+}
