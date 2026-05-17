@@ -2383,6 +2383,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2001-04-06",
+      "path": "2001/04/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010406.htm"
+    },
+    {
+      "special": "Nick Cave special",
+      "timeslot": null,
+      "date": "2001-04-07",
+      "path": "2001/04/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010407.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-04-13",
+      "path": "2001/04/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010413.htm"
+    },
+    {
+      "special": "Lo-Tel guest program",
+      "timeslot": null,
+      "date": "2001-04-14",
+      "path": "2001/04/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010414.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-04-20",
+      "path": "2001/04/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010420.htm"
+    },
+    {
+      "special": "New Releases only due to short program",
+      "timeslot": null,
+      "date": "2001-04-21",
+      "path": "2001/04/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010421.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-04-27",
+      "path": "2001/04/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010427.htm"
+    },
+    {
+      "special": "At The Drive-In guest program",
+      "timeslot": null,
+      "date": "2001-04-28",
+      "path": "2001/04/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010428.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2001-05-04",
       "path": "2001/05/04.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010504.htm"
@@ -2505,62 +2561,6 @@
       "date": "2001-06-30",
       "path": "2001/06/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010630.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-04-06",
-      "path": "2001/04/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010406.htm"
-    },
-    {
-      "special": "Nick Cave special",
-      "timeslot": null,
-      "date": "2001-04-07",
-      "path": "2001/04/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010407.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-04-13",
-      "path": "2001/04/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010413.htm"
-    },
-    {
-      "special": "Lo-Tel guest program",
-      "timeslot": null,
-      "date": "2001-04-14",
-      "path": "2001/04/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010414.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-04-20",
-      "path": "2001/04/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010420.htm"
-    },
-    {
-      "special": "New Releases only due to short program",
-      "timeslot": null,
-      "date": "2001-04-21",
-      "path": "2001/04/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010421.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-04-27",
-      "path": "2001/04/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010427.htm"
-    },
-    {
-      "special": "At The Drive-In guest program",
-      "timeslot": null,
-      "date": "2001-04-28",
-      "path": "2001/04/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010428.htm"
     },
     {
       "special": null,
@@ -39731,6 +39731,90 @@
       "date": "2026-05-14",
       "path": "2026/05/14_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-14-may-2026-on-abc-entertains/106660400"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-05-15",
+      "path": "2026/05/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-15-may-2026-on-abc-entertains/106683044"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-05-15",
+      "path": "2026/05/15_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-15-may-2026-on-abc-tv/106683026"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2026-05-16",
+      "path": "2026/05/16_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-16-may-2026-on-abc-tv/106683046"
+    },
+    {
+      "special": "Early Alt Metal special",
+      "timeslot": "night",
+      "date": "2026-05-16",
+      "path": "2026/05/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-16-may-2026-on-abc-entertains/106683028"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-05-16",
+      "path": "2026/05/16_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-16-may-2026-on-abc-tv/106683048"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-05-17",
+      "path": "2026/05/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-17-may-2026-on-abc-entertains/106683032"
+    },
+    {
+      "special": "The VAULT: Film Directors",
+      "timeslot": "night",
+      "date": "2026-05-17",
+      "path": "2026/05/17_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-17-may-2026-on-abc-tv/106683030"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-05-18",
+      "path": "2026/05/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-18-may-2026-on-abc-entertains/106683036"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-05-18",
+      "path": "2026/05/18_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-18-may-2026-on-abc-tv/106683034"
+    },
+    {
+      "special": "rage Drum Special",
+      "timeslot": "night",
+      "date": "2026-05-19",
+      "path": "2026/05/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-19-may-2026-on-abc-entertains/106683038"
+    },
+    {
+      "special": "Film Directors special",
+      "timeslot": "night",
+      "date": "2026-05-20",
+      "path": "2026/05/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-20-may-2026-on-abc-entertains/106683040"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-05-21",
+      "path": "2026/05/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-21-may-2026-on-abc-entertains/106683042"
     }
   ]
 }
