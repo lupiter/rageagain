@@ -1,0 +1,75 @@
+{
+  "title": "Monday night 25 May 2026 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2026-05-25",
+  "url": "https://www.abc.net.au/rage/playlist/monday-night-25-may-2026-on-abc-entertains/106719838",
+  "tracks": [
+    {
+      "artist": "WATER FROM YOUR EYES",
+      "song": "Barley",
+      "label": "Matador Records",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "Yellow",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "VANESSA CARLTON",
+      "song": "A Thousand Miles",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "No Surprises",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "NEW RADICALS",
+      "song": "You Get What You Give",
+      "label": "MCA)",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Don't Tell Me",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "By The Way",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LINDSEY BUCKINGHAM",
+      "song": "Trouble",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SKY FERREIRA",
+      "song": "Everything Is Embarrassing",
+      "label": "Capitol",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "WATER FROM YOUR EYES",
+      "song": "Life Signs",
+      "label": "Independent",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "WATER FROM YOUR EYES",
+      "song": "True Life",
+      "label": "Matador Records",
+      "timeslot": "00:00:00"
+    }
+  ]
+}
