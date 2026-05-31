@@ -1,0 +1,87 @@
+{
+  "title": "Friday night 29 May 2026 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2026-05-29",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-29-may-2026-on-abc-entertains/106736196",
+  "tracks": [
+    {
+      "artist": "CHAIRLIFT",
+      "song": "Met Before",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DIANA ROSS",
+      "song": "Upside Down",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ART OF NOISE",
+      "song": "Moments In Love",
+      "label": "Festival",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SINEAD O'CONNOR",
+      "song": "Nothing Compares 2 U",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Army Dreamers",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Countdown",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "STRAWBERRY SWITCHBLADE",
+      "song": "Since Yesterday",
+      "label": "WEA",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BARNES and BARNES",
+      "song": "Fish Heads",
+      "label": "Fest/Mush",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "The Robots",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "TILLY and THE WALL",
+      "song": "Rainbows In The Dark",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE FLYING LIZARDS",
+      "song": "Money (That's What I Want)",
+      "label": "BMG",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "CHAIRLIFT",
+      "song": "Amanaemonesia",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "CHAIRLIFT",
+      "song": "I Belong In Your Arms (Japanese Version)",
+      "label": "Columbia",
+      "timeslot": "00:30:00"
+    }
+  ]
+}
