@@ -1,0 +1,75 @@
+{
+  "title": "Friday night 26 June 2026 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2026-06-26",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-26-june-2026-on-abc-entertains/106849514",
+  "tracks": [
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Into The Galaxy",
+      "label": "Shiny",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BLUE OYSTER CULT",
+      "song": "Don't Fear The Reaper",
+      "label": "CBS",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "ALCHEMIST",
+      "song": "First Contact",
+      "label": "Independent",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SEBASTIEN TELLIER",
+      "song": "La Ritournelle",
+      "label": "Inertia",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SLAYER",
+      "song": "Seasons In The Abyss",
+      "label": "MCA)",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "One",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "RANDY NEWMAN",
+      "song": "I Love L.A.",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE PIXIES",
+      "song": "Velouria",
+      "label": "Festival",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "Fools Gold",
+      "label": "MCA)",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "POWER STATION",
+      "song": "Some Like It Hot",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Road To Recovery",
+      "label": "Shiny",
+      "timeslot": "00:30:00"
+    }
+  ]
+}
