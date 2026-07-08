@@ -17286,111 +17286,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2017-02-03",
-      "path": "2017/02/03_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4614055.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-02-04",
-      "path": "2017/02/04_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4614056.htm"
-    },
-    {
-      "special": "Dune Rats",
-      "timeslot": "night",
-      "date": "2017-02-04",
-      "path": "2017/02/04_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4614061.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-02-05",
-      "path": "2017/02/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4614064.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-02-10",
-      "path": "2017/02/10_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4617998.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-02-11",
-      "path": "2017/02/11_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4618001.htm"
-    },
-    {
-      "special": "Twelve Foot Ninja",
-      "timeslot": "night",
-      "date": "2017-02-11",
-      "path": "2017/02/11_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4618000.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-02-12",
-      "path": "2017/02/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4618004.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-02-17",
-      "path": "2017/02/17_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4622020.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-02-18",
-      "path": "2017/02/18_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4622021.htm"
-    },
-    {
-      "special": "The xx",
-      "timeslot": "night",
-      "date": "2017-02-18",
-      "path": "2017/02/18_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4622022.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-02-19",
-      "path": "2017/02/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4622031.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-02-24",
-      "path": "2017/02/24_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4626039.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-02-25",
-      "path": "2017/02/25_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4626042.htm"
-    },
-    {
-      "special": "Midnight Oil",
-      "timeslot": "night",
-      "date": "2017-02-25",
-      "path": "2017/02/25_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4626041.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2017-01-01",
       "path": "2017/01/01_night.json",
       "url": "http://www.abc.net.au/rage/archive/s4598728.htm"
@@ -17506,6 +17401,111 @@
       "date": "2017-01-29",
       "path": "2017/01/29_night.json",
       "url": "http://www.abc.net.au/rage/archive/s4610456.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-02-03",
+      "path": "2017/02/03_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4614055.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-02-04",
+      "path": "2017/02/04_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4614056.htm"
+    },
+    {
+      "special": "Dune Rats",
+      "timeslot": "night",
+      "date": "2017-02-04",
+      "path": "2017/02/04_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4614061.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-02-05",
+      "path": "2017/02/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4614064.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-02-10",
+      "path": "2017/02/10_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4617998.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-02-11",
+      "path": "2017/02/11_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4618001.htm"
+    },
+    {
+      "special": "Twelve Foot Ninja",
+      "timeslot": "night",
+      "date": "2017-02-11",
+      "path": "2017/02/11_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4618000.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-02-12",
+      "path": "2017/02/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4618004.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-02-17",
+      "path": "2017/02/17_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4622020.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-02-18",
+      "path": "2017/02/18_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4622021.htm"
+    },
+    {
+      "special": "The xx",
+      "timeslot": "night",
+      "date": "2017-02-18",
+      "path": "2017/02/18_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4622022.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-02-19",
+      "path": "2017/02/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4622031.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-02-24",
+      "path": "2017/02/24_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4626039.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-02-25",
+      "path": "2017/02/25_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4626042.htm"
+    },
+    {
+      "special": "Midnight Oil",
+      "timeslot": "night",
+      "date": "2017-02-25",
+      "path": "2017/02/25_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4626041.htm"
     },
     {
       "special": null,
