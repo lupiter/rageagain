@@ -40438,6 +40438,55 @@
       "date": "2026-07-09",
       "path": "2026/07/09_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-9-july-2026-on-abc-entertains/106885944"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-10",
+      "path": "2026/07/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-july-2026-on-abc-entertains/106902770"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-07-10",
+      "path": "2026/07/10_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-july-2026-on-abc-tv/106902768"
+    },
+    {
+      "special": "Charts, The VAULT: Sound City Studios, Best New Music Videos, NAIDOC Special",
+      "timeslot": "morning",
+      "date": "2026-07-11",
+      "path": "2026/07/11_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-11-july-2026-on-abc-tv/106902772"
+    },
+    {
+      "special": "LMAO Special",
+      "timeslot": "night",
+      "date": "2026-07-11",
+      "path": "2026/07/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-july-2026-on-abc-entertains/106902776"
+    },
+    {
+      "special": "NAIDOC Special",
+      "timeslot": "night",
+      "date": "2026-07-11",
+      "path": "2026/07/11_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-july-2026-on-abc-tv/106902774"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-07-12",
+      "path": "2026/07/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-12-july-2026-on-abc-entertains/106902780"
+    },
+    {
+      "special": "The VAULT: Sound City Studios",
+      "timeslot": "night",
+      "date": "2026-07-12",
+      "path": "2026/07/12_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-12-july-2026-on-abc-tv/106902778"
     }
   ]
 }
