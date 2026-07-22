@@ -5064,76 +5064,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2004-12-03",
-      "path": "2004/12/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041203.htm"
-    },
-    {
-      "special": "Devendra Banhart guest programs",
-      "timeslot": null,
-      "date": "2004-12-04",
-      "path": "2004/12/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041204.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-12-10",
-      "path": "2004/12/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041210.htm"
-    },
-    {
-      "special": "Rocket Science guest program",
-      "timeslot": null,
-      "date": "2004-12-11",
-      "path": "2004/12/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041211.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-12-17",
-      "path": "2004/12/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041217.htm"
-    },
-    {
-      "special": "Missy Higgins guest programs\nfollowed by a selection of female artists",
-      "timeslot": null,
-      "date": "2004-12-18",
-      "path": "2004/12/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041218.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-12-24",
-      "path": "2004/12/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041224.htm"
-    },
-    {
-      "special": "Best of 2004 rage Guest Programmers",
-      "timeslot": null,
-      "date": "2004-12-25",
-      "path": "2004/12/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041225.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-12-31",
-      "path": "2004/12/31.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041231.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-12-31",
-      "path": "2004/12/31_2.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041231.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2005-01-01",
       "path": "2005/01/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050101.htm"
@@ -5200,6 +5130,76 @@
       "date": "2005-01-29",
       "path": "2005/01/29.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050129.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-12-03",
+      "path": "2004/12/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041203.htm"
+    },
+    {
+      "special": "Devendra Banhart guest programs",
+      "timeslot": null,
+      "date": "2004-12-04",
+      "path": "2004/12/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041204.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-12-10",
+      "path": "2004/12/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041210.htm"
+    },
+    {
+      "special": "Rocket Science guest program",
+      "timeslot": null,
+      "date": "2004-12-11",
+      "path": "2004/12/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041211.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-12-17",
+      "path": "2004/12/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041217.htm"
+    },
+    {
+      "special": "Missy Higgins guest programs\nfollowed by a selection of female artists",
+      "timeslot": null,
+      "date": "2004-12-18",
+      "path": "2004/12/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041218.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-12-24",
+      "path": "2004/12/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041224.htm"
+    },
+    {
+      "special": "Best of 2004 rage Guest Programmers",
+      "timeslot": null,
+      "date": "2004-12-25",
+      "path": "2004/12/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041225.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-12-31",
+      "path": "2004/12/31.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041231.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-12-31",
+      "path": "2004/12/31_2.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041231.htm"
     },
     {
       "special": null,
@@ -6534,6 +6534,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2007-01-05",
+      "path": "2007/01/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975179.htm"
+    },
+    {
+      "special": "Episodes of Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2007-01-06",
+      "path": "2007/01/06.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975175.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-01-12",
+      "path": "2007/01/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975173.htm"
+    },
+    {
+      "special": "Madonna Special & Countdown episode featuring Madonna",
+      "timeslot": null,
+      "date": "2007-01-13",
+      "path": "2007/01/13.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975172.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-01-19",
+      "path": "2007/01/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975170.htm"
+    },
+    {
+      "special": "Countdown & Rock Arena episodes",
+      "timeslot": null,
+      "date": "2007-01-20",
+      "path": "2007/01/20.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975169.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-01-26",
+      "path": "2007/01/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975168.htm"
+    },
+    {
+      "special": "Countdown & Recovery episodes",
+      "timeslot": null,
+      "date": "2007-01-27",
+      "path": "2007/01/27.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975167.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2006-12-01",
       "path": "2006/12/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061201.htm"
@@ -6607,62 +6663,6 @@
       "date": "2006-12-31",
       "path": "2006/12/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061231.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-01-05",
-      "path": "2007/01/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975179.htm"
-    },
-    {
-      "special": "Episodes of Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2007-01-06",
-      "path": "2007/01/06.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975175.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-01-12",
-      "path": "2007/01/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975173.htm"
-    },
-    {
-      "special": "Madonna Special & Countdown episode featuring Madonna",
-      "timeslot": null,
-      "date": "2007-01-13",
-      "path": "2007/01/13.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975172.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-01-19",
-      "path": "2007/01/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975170.htm"
-    },
-    {
-      "special": "Countdown & Rock Arena episodes",
-      "timeslot": null,
-      "date": "2007-01-20",
-      "path": "2007/01/20.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975169.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-01-26",
-      "path": "2007/01/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975168.htm"
-    },
-    {
-      "special": "Countdown & Recovery episodes",
-      "timeslot": null,
-      "date": "2007-01-27",
-      "path": "2007/01/27.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975167.htm"
     },
     {
       "special": null,
@@ -6849,62 +6849,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2007-05-04",
-      "path": "2007/05/04.json",
-      "url": "http://www.abc.net.au/rage/archive/s1993304.htm"
-    },
-    {
-      "special": "Peter Bjorn & John guest program",
-      "timeslot": null,
-      "date": "2007-05-05",
-      "path": "2007/05/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s1993303.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-05-11",
-      "path": "2007/05/11.json",
-      "url": "http://www.abc.net.au/rage/archive/s1992830.htm"
-    },
-    {
-      "special": "+44 guest program",
-      "timeslot": null,
-      "date": "2007-05-12",
-      "path": "2007/05/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s1992817.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-05-18",
-      "path": "2007/05/18.json",
-      "url": "http://www.abc.net.au/rage/archive/s1992813.htm"
-    },
-    {
-      "special": "Wolf & Cub guest program",
-      "timeslot": null,
-      "date": "2007-05-19",
-      "path": "2007/05/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s1992810.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-05-25",
-      "path": "2007/05/25.json",
-      "url": "http://www.abc.net.au/rage/archive/s1992808.htm"
-    },
-    {
-      "special": "Timo Maas guest programs",
-      "timeslot": null,
-      "date": "2007-05-26",
-      "path": "2007/05/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s1992803.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2007-06-01",
       "path": "2007/06/01.json",
       "url": "http://www.abc.net.au/rage/archive/s1992798.htm"
@@ -6971,6 +6915,62 @@
       "date": "2007-06-30",
       "path": "2007/06/30.json",
       "url": "http://www.abc.net.au/rage/archive/s1976168.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-05-04",
+      "path": "2007/05/04.json",
+      "url": "http://www.abc.net.au/rage/archive/s1993304.htm"
+    },
+    {
+      "special": "Peter Bjorn & John guest program",
+      "timeslot": null,
+      "date": "2007-05-05",
+      "path": "2007/05/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s1993303.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-05-11",
+      "path": "2007/05/11.json",
+      "url": "http://www.abc.net.au/rage/archive/s1992830.htm"
+    },
+    {
+      "special": "+44 guest program",
+      "timeslot": null,
+      "date": "2007-05-12",
+      "path": "2007/05/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s1992817.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-05-18",
+      "path": "2007/05/18.json",
+      "url": "http://www.abc.net.au/rage/archive/s1992813.htm"
+    },
+    {
+      "special": "Wolf & Cub guest program",
+      "timeslot": null,
+      "date": "2007-05-19",
+      "path": "2007/05/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s1992810.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-05-25",
+      "path": "2007/05/25.json",
+      "url": "http://www.abc.net.au/rage/archive/s1992808.htm"
+    },
+    {
+      "special": "Timo Maas guest programs",
+      "timeslot": null,
+      "date": "2007-05-26",
+      "path": "2007/05/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s1992803.htm"
     },
     {
       "special": null,
@@ -39950,6 +39950,272 @@
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-31-may-2026-on-abc-tv/106736198"
     },
     {
+      "special": "The VAULT: 80s Covers",
+      "timeslot": "night",
+      "date": "2026-07-01",
+      "path": "2026/07/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-1-july-2026-on-abc-entertains/106857364"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-07-02",
+      "path": "2026/07/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-2-july-2026-on-abc-entertains/106857368"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-03",
+      "path": "2026/07/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-july-2026-on-abc-entertains/106878172"
+    },
+    {
+      "special": "Victor Willis Tribute & New Music Show",
+      "timeslot": "night",
+      "date": "2026-07-03",
+      "path": "2026/07/03_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-july-2026-on-abc-tv/106878170"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2026-07-04",
+      "path": "2026/07/04_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-4-july-2026-on-abc-tv/106878174"
+    },
+    {
+      "special": "Folktronica Special",
+      "timeslot": "night",
+      "date": "2026-07-04",
+      "path": "2026/07/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-july-2026-on-abc-entertains/106878178"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-04",
+      "path": "2026/07/04_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-july-2026-on-abc-tv/106878176"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-07-05",
+      "path": "2026/07/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-5-july-2026-on-abc-entertains/106878182"
+    },
+    {
+      "special": "The VAULT: 1996 Hip Hop & R&B",
+      "timeslot": "night",
+      "date": "2026-07-05",
+      "path": "2026/07/05_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-5-july-2026-on-abc-tv/106878180"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-06",
+      "path": "2026/07/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-6-july-2026-on-abc-entertains/106885938"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-07-06",
+      "path": "2026/07/06_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-6-july-2026-on-abc-tv/106885936"
+    },
+    {
+      "special": "rage Tour De France Special",
+      "timeslot": "night",
+      "date": "2026-07-07",
+      "path": "2026/07/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-7-july-2026-on-abc-entertains/106885940"
+    },
+    {
+      "special": "The VAULT: 1996 Hip Hop & R&B",
+      "timeslot": "night",
+      "date": "2026-07-08",
+      "path": "2026/07/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-8-july-2026-on-abc-entertains/106885942"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-07-09",
+      "path": "2026/07/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-9-july-2026-on-abc-entertains/106885944"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-10",
+      "path": "2026/07/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-july-2026-on-abc-entertains/106902770"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-07-10",
+      "path": "2026/07/10_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-july-2026-on-abc-tv/106902768"
+    },
+    {
+      "special": "Charts, The VAULT: Sound City Studios, Best New Music Videos, NAIDOC Special",
+      "timeslot": "morning",
+      "date": "2026-07-11",
+      "path": "2026/07/11_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-11-july-2026-on-abc-tv/106902772"
+    },
+    {
+      "special": "LMAO Special",
+      "timeslot": "night",
+      "date": "2026-07-11",
+      "path": "2026/07/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-july-2026-on-abc-entertains/106902776"
+    },
+    {
+      "special": "NAIDOC Special",
+      "timeslot": "night",
+      "date": "2026-07-11",
+      "path": "2026/07/11_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-july-2026-on-abc-tv/106902774"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-07-12",
+      "path": "2026/07/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-12-july-2026-on-abc-entertains/106902780"
+    },
+    {
+      "special": "The VAULT: Sound City Studios",
+      "timeslot": "night",
+      "date": "2026-07-12",
+      "path": "2026/07/12_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-12-july-2026-on-abc-tv/106902778"
+    },
+    {
+      "special": "rage NAIDOC Special",
+      "timeslot": "night",
+      "date": "2026-07-13",
+      "path": "2026/07/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-13-july-2026-on-abc-entertains/106909716"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-07-13",
+      "path": "2026/07/13_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-13-july-2026-on-abc-tv/106909714"
+    },
+    {
+      "special": "rage Dolewave Special",
+      "timeslot": "night",
+      "date": "2026-07-14",
+      "path": "2026/07/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-14-july-2026-on-abc-entertains/106909718"
+    },
+    {
+      "special": "The VAULT: Sound City Studios",
+      "timeslot": "night",
+      "date": "2026-07-15",
+      "path": "2026/07/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-15-july-2026-on-abc-entertains/106909720"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-07-16",
+      "path": "2026/07/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-16-july-2026-on-abc-entertains/106909722"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-17",
+      "path": "2026/07/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-july-2026-on-abc-entertains/106929560"
+    },
+    {
+      "special": "Bonnie Tyler Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2026-07-17",
+      "path": "2026/07/17_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-july-2026-on-abc-tv/106929558"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2026-07-18",
+      "path": "2026/07/18_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-july-2026-on-abc-tv/106929562"
+    },
+    {
+      "special": "It's Just A Song About... Special",
+      "timeslot": "night",
+      "date": "2026-07-18",
+      "path": "2026/07/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-july-2026-on-abc-entertains/106929566"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-18",
+      "path": "2026/07/18_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-july-2026-on-abc-tv/106929564"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-07-19",
+      "path": "2026/07/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-july-2026-on-abc-entertains/106929570"
+    },
+    {
+      "special": "The VAULT: 2001 Dance and Electronica",
+      "timeslot": "night",
+      "date": "2026-07-19",
+      "path": "2026/07/19_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-july-2026-on-abc-tv/106929568"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-20",
+      "path": "2026/07/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-20-july-2026-on-abc-entertains/106937760"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-07-20",
+      "path": "2026/07/20_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-20-july-2026-on-abc-tv/106937758"
+    },
+    {
+      "special": "rage Aussies going solo Special",
+      "timeslot": "night",
+      "date": "2026-07-21",
+      "path": "2026/07/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-21-july-2026-on-abc-entertains/106937762"
+    },
+    {
+      "special": "The VAULT: 2001 Dance and Electronica",
+      "timeslot": "night",
+      "date": "2026-07-22",
+      "path": "2026/07/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-22-july-2026-on-abc-entertains/106937764"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-07-23",
+      "path": "2026/07/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-23-july-2026-on-abc-entertains/106937766"
+    },
+    {
       "special": null,
       "timeslot": "night",
       "date": "2026-06-01",
@@ -40340,272 +40606,6 @@
       "date": "2026-06-30",
       "path": "2026/06/30_night.json",
       "url": "https://www.abc.net.au/rage/playlist/tuesday-night-30-june-2026-on-abc-entertains/106857362"
-    },
-    {
-      "special": "The VAULT: 80s Covers",
-      "timeslot": "night",
-      "date": "2026-07-01",
-      "path": "2026/07/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-1-july-2026-on-abc-entertains/106857364"
-    },
-    {
-      "special": "Charts",
-      "timeslot": "night",
-      "date": "2026-07-02",
-      "path": "2026/07/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-2-july-2026-on-abc-entertains/106857368"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2026-07-03",
-      "path": "2026/07/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-july-2026-on-abc-entertains/106878172"
-    },
-    {
-      "special": "Victor Willis Tribute & New Music Show",
-      "timeslot": "night",
-      "date": "2026-07-03",
-      "path": "2026/07/03_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-july-2026-on-abc-tv/106878170"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2026-07-04",
-      "path": "2026/07/04_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-4-july-2026-on-abc-tv/106878174"
-    },
-    {
-      "special": "Folktronica Special",
-      "timeslot": "night",
-      "date": "2026-07-04",
-      "path": "2026/07/04_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-july-2026-on-abc-entertains/106878178"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2026-07-04",
-      "path": "2026/07/04_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-july-2026-on-abc-tv/106878176"
-    },
-    {
-      "special": "Best New Music Videos",
-      "timeslot": "night",
-      "date": "2026-07-05",
-      "path": "2026/07/05_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-5-july-2026-on-abc-entertains/106878182"
-    },
-    {
-      "special": "The VAULT: 1996 Hip Hop & R&B",
-      "timeslot": "night",
-      "date": "2026-07-05",
-      "path": "2026/07/05_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-5-july-2026-on-abc-tv/106878180"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2026-07-06",
-      "path": "2026/07/06_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-6-july-2026-on-abc-entertains/106885938"
-    },
-    {
-      "special": "Best New Music Videos",
-      "timeslot": "night",
-      "date": "2026-07-06",
-      "path": "2026/07/06_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-6-july-2026-on-abc-tv/106885936"
-    },
-    {
-      "special": "rage Tour De France Special",
-      "timeslot": "night",
-      "date": "2026-07-07",
-      "path": "2026/07/07_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-7-july-2026-on-abc-entertains/106885940"
-    },
-    {
-      "special": "The VAULT: 1996 Hip Hop & R&B",
-      "timeslot": "night",
-      "date": "2026-07-08",
-      "path": "2026/07/08_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-8-july-2026-on-abc-entertains/106885942"
-    },
-    {
-      "special": "Charts",
-      "timeslot": "night",
-      "date": "2026-07-09",
-      "path": "2026/07/09_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-9-july-2026-on-abc-entertains/106885944"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2026-07-10",
-      "path": "2026/07/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-july-2026-on-abc-entertains/106902770"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2026-07-10",
-      "path": "2026/07/10_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-july-2026-on-abc-tv/106902768"
-    },
-    {
-      "special": "Charts, The VAULT: Sound City Studios, Best New Music Videos, NAIDOC Special",
-      "timeslot": "morning",
-      "date": "2026-07-11",
-      "path": "2026/07/11_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-11-july-2026-on-abc-tv/106902772"
-    },
-    {
-      "special": "LMAO Special",
-      "timeslot": "night",
-      "date": "2026-07-11",
-      "path": "2026/07/11_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-july-2026-on-abc-entertains/106902776"
-    },
-    {
-      "special": "NAIDOC Special",
-      "timeslot": "night",
-      "date": "2026-07-11",
-      "path": "2026/07/11_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-july-2026-on-abc-tv/106902774"
-    },
-    {
-      "special": "Best New Music Videos",
-      "timeslot": "night",
-      "date": "2026-07-12",
-      "path": "2026/07/12_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-12-july-2026-on-abc-entertains/106902780"
-    },
-    {
-      "special": "The VAULT: Sound City Studios",
-      "timeslot": "night",
-      "date": "2026-07-12",
-      "path": "2026/07/12_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-12-july-2026-on-abc-tv/106902778"
-    },
-    {
-      "special": "rage NAIDOC Special",
-      "timeslot": "night",
-      "date": "2026-07-13",
-      "path": "2026/07/13_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-13-july-2026-on-abc-entertains/106909716"
-    },
-    {
-      "special": "Best New Music Videos",
-      "timeslot": "night",
-      "date": "2026-07-13",
-      "path": "2026/07/13_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-13-july-2026-on-abc-tv/106909714"
-    },
-    {
-      "special": "rage Dolewave Special",
-      "timeslot": "night",
-      "date": "2026-07-14",
-      "path": "2026/07/14_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-14-july-2026-on-abc-entertains/106909718"
-    },
-    {
-      "special": "The VAULT: Sound City Studios",
-      "timeslot": "night",
-      "date": "2026-07-15",
-      "path": "2026/07/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-15-july-2026-on-abc-entertains/106909720"
-    },
-    {
-      "special": "Charts",
-      "timeslot": "night",
-      "date": "2026-07-16",
-      "path": "2026/07/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-16-july-2026-on-abc-entertains/106909722"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2026-07-17",
-      "path": "2026/07/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-july-2026-on-abc-entertains/106929560"
-    },
-    {
-      "special": "Bonnie Tyler Tribute, New Music Show",
-      "timeslot": "night",
-      "date": "2026-07-17",
-      "path": "2026/07/17_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-july-2026-on-abc-tv/106929558"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2026-07-18",
-      "path": "2026/07/18_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-july-2026-on-abc-tv/106929562"
-    },
-    {
-      "special": "It's Just A Song About... Special",
-      "timeslot": "night",
-      "date": "2026-07-18",
-      "path": "2026/07/18_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-july-2026-on-abc-entertains/106929566"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2026-07-18",
-      "path": "2026/07/18_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-july-2026-on-abc-tv/106929564"
-    },
-    {
-      "special": "Best New Music Videos",
-      "timeslot": "night",
-      "date": "2026-07-19",
-      "path": "2026/07/19_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-july-2026-on-abc-entertains/106929570"
-    },
-    {
-      "special": "The VAULT: 2001 Dance and Electronica",
-      "timeslot": "night",
-      "date": "2026-07-19",
-      "path": "2026/07/19_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-july-2026-on-abc-tv/106929568"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2026-07-20",
-      "path": "2026/07/20_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-20-july-2026-on-abc-entertains/106937760"
-    },
-    {
-      "special": "Best New Music Videos",
-      "timeslot": "night",
-      "date": "2026-07-20",
-      "path": "2026/07/20_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-20-july-2026-on-abc-tv/106937758"
-    },
-    {
-      "special": "rage Aussies going solo Special",
-      "timeslot": "night",
-      "date": "2026-07-21",
-      "path": "2026/07/21_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-21-july-2026-on-abc-entertains/106937762"
-    },
-    {
-      "special": "The VAULT: 2001 Dance and Electronica",
-      "timeslot": "night",
-      "date": "2026-07-22",
-      "path": "2026/07/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-22-july-2026-on-abc-entertains/106937764"
-    },
-    {
-      "special": "Charts",
-      "timeslot": "night",
-      "date": "2026-07-23",
-      "path": "2026/07/23_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-23-july-2026-on-abc-entertains/106937766"
     }
   ]
 }
