@@ -731,6 +731,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "1999-02-05",
+      "path": "1999/02/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990205.htm"
+    },
+    {
+      "special": "Marilyn Manson guest programs rage",
+      "timeslot": null,
+      "date": "1999-02-06",
+      "path": "1999/02/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990206.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-02-12",
+      "path": "1999/02/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990212.htm"
+    },
+    {
+      "special": "Ben Lee guest programs rage",
+      "timeslot": null,
+      "date": "1999-02-13",
+      "path": "1999/02/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990213.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-02-19",
+      "path": "1999/02/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990219.htm"
+    },
+    {
+      "special": "Hole guest program rage",
+      "timeslot": null,
+      "date": "1999-02-20",
+      "path": "1999/02/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990220.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-02-26",
+      "path": "1999/02/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990226.htm"
+    },
+    {
+      "special": "Pauline Pantsdown & Vanessa Wagner guest program a MARDI GRAS Special",
+      "timeslot": null,
+      "date": "1999-02-27",
+      "path": "1999/02/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990227.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "1999-01-01",
       "path": "1999/01/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990101.htm"
@@ -804,62 +860,6 @@
       "date": "1999-01-30",
       "path": "1999/01/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990130.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-02-05",
-      "path": "1999/02/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990205.htm"
-    },
-    {
-      "special": "Marilyn Manson guest programs rage",
-      "timeslot": null,
-      "date": "1999-02-06",
-      "path": "1999/02/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990206.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-02-12",
-      "path": "1999/02/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990212.htm"
-    },
-    {
-      "special": "Ben Lee guest programs rage",
-      "timeslot": null,
-      "date": "1999-02-13",
-      "path": "1999/02/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990213.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-02-19",
-      "path": "1999/02/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990219.htm"
-    },
-    {
-      "special": "Hole guest program rage",
-      "timeslot": null,
-      "date": "1999-02-20",
-      "path": "1999/02/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990220.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-02-26",
-      "path": "1999/02/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990226.htm"
-    },
-    {
-      "special": "Pauline Pantsdown & Vanessa Wagner guest program a MARDI GRAS Special",
-      "timeslot": null,
-      "date": "1999-02-27",
-      "path": "1999/02/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990227.htm"
     },
     {
       "special": null,
@@ -5064,76 +5064,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2005-01-01",
-      "path": "2005/01/01.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050101.htm"
-    },
-    {
-      "special": "Episodes of Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2005-01-01",
-      "path": "2005/01/01_2.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050101.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-01-07",
-      "path": "2005/01/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050107.htm"
-    },
-    {
-      "special": "Episodes of Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2005-01-08",
-      "path": "2005/01/08.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050108.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-01-14",
-      "path": "2005/01/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050114.htm"
-    },
-    {
-      "special": "Episodes of Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2005-01-15",
-      "path": "2005/01/15.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050115.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-01-21",
-      "path": "2005/01/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050121.htm"
-    },
-    {
-      "special": "Big Day Out Special",
-      "timeslot": null,
-      "date": "2005-01-22",
-      "path": "2005/01/22.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050122.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-01-28",
-      "path": "2005/01/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050128.htm"
-    },
-    {
-      "special": "Episodes of Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2005-01-29",
-      "path": "2005/01/29.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050129.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2004-12-03",
       "path": "2004/12/03.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041203.htm"
@@ -5200,6 +5130,76 @@
       "date": "2004-12-31",
       "path": "2004/12/31_2.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20041231.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-01-01",
+      "path": "2005/01/01.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050101.htm"
+    },
+    {
+      "special": "Episodes of Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2005-01-01",
+      "path": "2005/01/01_2.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050101.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-01-07",
+      "path": "2005/01/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050107.htm"
+    },
+    {
+      "special": "Episodes of Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2005-01-08",
+      "path": "2005/01/08.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050108.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-01-14",
+      "path": "2005/01/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050114.htm"
+    },
+    {
+      "special": "Episodes of Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2005-01-15",
+      "path": "2005/01/15.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050115.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-01-21",
+      "path": "2005/01/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050121.htm"
+    },
+    {
+      "special": "Big Day Out Special",
+      "timeslot": null,
+      "date": "2005-01-22",
+      "path": "2005/01/22.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050122.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-01-28",
+      "path": "2005/01/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050128.htm"
+    },
+    {
+      "special": "Episodes of Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2005-01-29",
+      "path": "2005/01/29.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050129.htm"
     },
     {
       "special": null,
@@ -6534,62 +6534,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2007-01-05",
-      "path": "2007/01/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975179.htm"
-    },
-    {
-      "special": "Episodes of Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2007-01-06",
-      "path": "2007/01/06.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975175.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-01-12",
-      "path": "2007/01/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975173.htm"
-    },
-    {
-      "special": "Madonna Special & Countdown episode featuring Madonna",
-      "timeslot": null,
-      "date": "2007-01-13",
-      "path": "2007/01/13.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975172.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-01-19",
-      "path": "2007/01/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975170.htm"
-    },
-    {
-      "special": "Countdown & Rock Arena episodes",
-      "timeslot": null,
-      "date": "2007-01-20",
-      "path": "2007/01/20.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975169.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-01-26",
-      "path": "2007/01/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975168.htm"
-    },
-    {
-      "special": "Countdown & Recovery episodes",
-      "timeslot": null,
-      "date": "2007-01-27",
-      "path": "2007/01/27.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975167.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2006-12-01",
       "path": "2006/12/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061201.htm"
@@ -6663,6 +6607,62 @@
       "date": "2006-12-31",
       "path": "2006/12/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2006/20061231.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-01-05",
+      "path": "2007/01/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975179.htm"
+    },
+    {
+      "special": "Episodes of Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2007-01-06",
+      "path": "2007/01/06.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975175.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-01-12",
+      "path": "2007/01/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975173.htm"
+    },
+    {
+      "special": "Madonna Special & Countdown episode featuring Madonna",
+      "timeslot": null,
+      "date": "2007-01-13",
+      "path": "2007/01/13.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975172.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-01-19",
+      "path": "2007/01/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975170.htm"
+    },
+    {
+      "special": "Countdown & Rock Arena episodes",
+      "timeslot": null,
+      "date": "2007-01-20",
+      "path": "2007/01/20.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975169.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-01-26",
+      "path": "2007/01/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975168.htm"
+    },
+    {
+      "special": "Countdown & Recovery episodes",
+      "timeslot": null,
+      "date": "2007-01-27",
+      "path": "2007/01/27.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975167.htm"
     },
     {
       "special": null,
@@ -6849,6 +6849,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2007-05-04",
+      "path": "2007/05/04.json",
+      "url": "http://www.abc.net.au/rage/archive/s1993304.htm"
+    },
+    {
+      "special": "Peter Bjorn & John guest program",
+      "timeslot": null,
+      "date": "2007-05-05",
+      "path": "2007/05/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s1993303.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-05-11",
+      "path": "2007/05/11.json",
+      "url": "http://www.abc.net.au/rage/archive/s1992830.htm"
+    },
+    {
+      "special": "+44 guest program",
+      "timeslot": null,
+      "date": "2007-05-12",
+      "path": "2007/05/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s1992817.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-05-18",
+      "path": "2007/05/18.json",
+      "url": "http://www.abc.net.au/rage/archive/s1992813.htm"
+    },
+    {
+      "special": "Wolf & Cub guest program",
+      "timeslot": null,
+      "date": "2007-05-19",
+      "path": "2007/05/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s1992810.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-05-25",
+      "path": "2007/05/25.json",
+      "url": "http://www.abc.net.au/rage/archive/s1992808.htm"
+    },
+    {
+      "special": "Timo Maas guest programs",
+      "timeslot": null,
+      "date": "2007-05-26",
+      "path": "2007/05/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s1992803.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2007-06-01",
       "path": "2007/06/01.json",
       "url": "http://www.abc.net.au/rage/archive/s1992798.htm"
@@ -6915,62 +6971,6 @@
       "date": "2007-06-30",
       "path": "2007/06/30.json",
       "url": "http://www.abc.net.au/rage/archive/s1976168.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-05-04",
-      "path": "2007/05/04.json",
-      "url": "http://www.abc.net.au/rage/archive/s1993304.htm"
-    },
-    {
-      "special": "Peter Bjorn & John guest program",
-      "timeslot": null,
-      "date": "2007-05-05",
-      "path": "2007/05/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s1993303.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-05-11",
-      "path": "2007/05/11.json",
-      "url": "http://www.abc.net.au/rage/archive/s1992830.htm"
-    },
-    {
-      "special": "+44 guest program",
-      "timeslot": null,
-      "date": "2007-05-12",
-      "path": "2007/05/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s1992817.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-05-18",
-      "path": "2007/05/18.json",
-      "url": "http://www.abc.net.au/rage/archive/s1992813.htm"
-    },
-    {
-      "special": "Wolf & Cub guest program",
-      "timeslot": null,
-      "date": "2007-05-19",
-      "path": "2007/05/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s1992810.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-05-25",
-      "path": "2007/05/25.json",
-      "url": "http://www.abc.net.au/rage/archive/s1992808.htm"
-    },
-    {
-      "special": "Timo Maas guest programs",
-      "timeslot": null,
-      "date": "2007-05-26",
-      "path": "2007/05/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s1992803.htm"
     },
     {
       "special": null,
@@ -23339,1714 +23339,6 @@
       "url": "https://www.abc.net.au/rage/playlist/tuesday-night-31-december-2019-on-abc-1/11818180"
     },
     {
-      "special": "Best of the 2019 New Releases",
-      "timeslot": "night",
-      "date": "2020-01-03",
-      "path": "2020/01/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-january-2020-on-abc-1/11837932"
-    },
-    {
-      "special": "Retro Month Week One",
-      "timeslot": "morning",
-      "date": "2020-01-04",
-      "path": "2020/01/04_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-4-january-2020-on-abc1/11838046"
-    },
-    {
-      "special": "Retro Month 2020: Week One",
-      "timeslot": "night",
-      "date": "2020-01-04",
-      "path": "2020/01/04_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-january-2020-on-abc-1/11818210"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-01-10",
-      "path": "2020/01/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-january-2020-on-abc-1/11818146"
-    },
-    {
-      "special": "Retro Month Week Two",
-      "timeslot": "morning",
-      "date": "2020-01-11",
-      "path": "2020/01/11_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-11-january-2020-on-abc-1/11818162"
-    },
-    {
-      "special": "Retro Month Week Two",
-      "timeslot": "night",
-      "date": "2020-01-11",
-      "path": "2020/01/11_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-january-2020-on-abc-1/11818172"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-01-17",
-      "path": "2020/01/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-january-2020-on-abc-1/11818196"
-    },
-    {
-      "special": "Retro Month Week Three",
-      "timeslot": "morning",
-      "date": "2020-01-18",
-      "path": "2020/01/18_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-january-2020-on-abc-1/11818206"
-    },
-    {
-      "special": "Retro Month Week Three",
-      "timeslot": "night",
-      "date": "2020-01-18",
-      "path": "2020/01/18_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-january-2020-on-abc-1/11877486"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-01-18",
-      "path": "2020/01/18_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-18-january-2020-on-abc-1/13066698"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-01-19",
-      "path": "2020/01/19_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-january-2020-on-abc-1/11877516"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-01-24",
-      "path": "2020/01/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-24-january-2020-on-abc-1/11898028"
-    },
-    {
-      "special": "Charts, New Music Videos, Dyson Stringer Cloher on Rage, Rage Class of 1999",
-      "timeslot": "morning",
-      "date": "2020-01-25",
-      "path": "2020/01/25_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-25-january-2020-on-abc-1/11898544"
-    },
-    {
-      "special": "Rage Class of 1999",
-      "timeslot": "night",
-      "date": "2020-01-25",
-      "path": "2020/01/25_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-january-2020-on-abc-1/11898802"
-    },
-    {
-      "special": "Dyson Stringer Cloher on Rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2020-01-26",
-      "path": "2020/01/26_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-26-january-2020-on-abc-1/11898856"
-    },
-    {
-      "special": "triple j's Hottest 100 of 2020...on rage!",
-      "timeslot": "night",
-      "date": "2020-01-29",
-      "path": "2020/01/29_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-29-january-2020-on-abc-1/13103218"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-01-30",
-      "path": "2020/01/30_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-30-january-2020-on-abc-1/13103252"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-01-30",
-      "path": "2020/01/30_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-30-january-2020-on-abc-1/13103318"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-01-31",
-      "path": "2020/01/31_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-31-january-2020-on-abc-1/11919086"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-01-31",
-      "path": "2020/01/31_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-31-january-2020-on-abc-1/13103364"
-    },
-    {
-      "special": "Charts, New Music Videos, RedHook on Rage, triple j's Hottest 100 of 1989",
-      "timeslot": "morning",
-      "date": "2020-02-01",
-      "path": "2020/02/01_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-1-february-2020-on-abc-1/11919110"
-    },
-    {
-      "special": "triple j's Hottest 100 of 2019...on Rage!",
-      "timeslot": "night",
-      "date": "2020-02-01",
-      "path": "2020/02/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-1-february-2020-on-abc-1/11919138"
-    },
-    {
-      "special": "RedHook on Rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2020-02-02",
-      "path": "2020/02/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-2-february-2020-on-abc-1/11919160"
-    },
-    {
-      "special": "THE VAULT",
-      "timeslot": "night",
-      "date": "2020-02-03",
-      "path": "2020/02/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-3-february-2020-on-abc-1/11924396"
-    },
-    {
-      "special": "Andy Gill Tribute, New Music Show",
-      "timeslot": "night",
-      "date": "2020-02-07",
-      "path": "2020/02/07_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-7-february-2020-on-abc-1/11944230"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-02-08",
-      "path": "2020/02/08_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-8-february-2020-on-abc-1/11944266"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-02-08",
-      "path": "2020/02/08_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-february-2020-on-abc-1/11944294"
-    },
-    {
-      "special": "THE VAULT",
-      "timeslot": "night",
-      "date": "2020-02-10",
-      "path": "2020/02/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-10-february-2020-on-abc-1/11951100"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-02-14",
-      "path": "2020/02/14_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-14-february-2020-on-abc-1/11967798"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-02-15",
-      "path": "2020/02/15_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-15-february-2020-on-abc-1-(wa)/11967836"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-02-15",
-      "path": "2020/02/15_morning_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-15-february-2020-on-abc-1/11967814"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-02-15",
-      "path": "2020/02/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-15-february-2020-on-abc-1/11967844"
-    },
-    {
-      "special": "Ecca Vandal on Rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2020-02-16",
-      "path": "2020/02/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-16-february-2020-on-abc-1/11967876"
-    },
-    {
-      "special": "THE VAULT",
-      "timeslot": "night",
-      "date": "2020-02-17",
-      "path": "2020/02/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-17-february-2020-on-abc-1/11973242"
-    },
-    {
-      "special": "Andrew Weatherall Tribute, New Music Show",
-      "timeslot": "night",
-      "date": "2020-02-21",
-      "path": "2020/02/21_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-21-february-2020-on-abc-1/11988494"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-02-22",
-      "path": "2020/02/22_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-22-february-2020-on-abc-1/11988508"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-02-22",
-      "path": "2020/02/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-22-february-2020-on-abc-1/11988590"
-    },
-    {
-      "special": "Banoffee on Rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2020-02-23",
-      "path": "2020/02/23_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-23-february-2020-on-abc-1/11988612"
-    },
-    {
-      "special": "THE VAULT",
-      "timeslot": "night",
-      "date": "2020-02-24",
-      "path": "2020/02/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-24-february-2020-on-abc-1/11994608"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-02-28",
-      "path": "2020/02/28_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-28-february-2020-on-abc-1/12011836"
-    },
-    {
-      "special": "Charts, Northeast Party house on Rage, Rage Mardi Gras Special",
-      "timeslot": "morning",
-      "date": "2020-02-29",
-      "path": "2020/02/29_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-29-february-2020-on-abc-1/12011848"
-    },
-    {
-      "special": "Rage Mardi Gras Special",
-      "timeslot": "night",
-      "date": "2020-02-29",
-      "path": "2020/02/29_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-29-february-2020-on-abc-1/12011864"
-    },
-    {
-      "special": "Northeast Party House on Rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2020-03-01",
-      "path": "2020/03/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-1-march-2020-on-abc-1/12011884"
-    },
-    {
-      "special": "THE VAULT",
-      "timeslot": "night",
-      "date": "2020-03-02",
-      "path": "2020/03/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-2-march-2020-on-abc-1/12017752"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-03-06",
-      "path": "2020/03/06_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-6-march-2020-on-abc-1/12032860"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-03-07",
-      "path": "2020/03/07_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-7-march-2020-on-abc-1/12032876"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-03-07",
-      "path": "2020/03/07_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-7-march-2020-on-abc-1/12032916"
-    },
-    {
-      "special": "Shady Nasty on Rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2020-03-08",
-      "path": "2020/03/08_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-8-march-2020-on-abc-1/12032934"
-    },
-    {
-      "special": "THE VAULT",
-      "timeslot": "night",
-      "date": "2020-03-09",
-      "path": "2020/03/09_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-9-march-2020-on-abc-1/12040410"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-03-13",
-      "path": "2020/03/13_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-13-march-2020-on-abc-1/12053814"
-    },
-    {
-      "special": "Charts, New Music Videos, Sally and Erica on Rage, Best of the Decade on Rage",
-      "timeslot": "morning",
-      "date": "2020-03-14",
-      "path": "2020/03/14_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-14-march-2020-on-abc-1/12053860"
-    },
-    {
-      "special": "Best of the Decade on Rage",
-      "timeslot": "night",
-      "date": "2020-03-14",
-      "path": "2020/03/14_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-14-march-2020-on-abc-1/12053872"
-    },
-    {
-      "special": "Sally and Erica on Rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2020-03-15",
-      "path": "2020/03/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-15-march-2020-on-abc-1/12053922"
-    },
-    {
-      "special": "THE VAULT",
-      "timeslot": "night",
-      "date": "2020-03-16",
-      "path": "2020/03/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-16-march-2020-on-abc-1/12060402"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-03-20",
-      "path": "2020/03/20_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-20-march-2020-on-abc-1/12076268"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-03-21",
-      "path": "2020/03/21_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-21-march-2020-on-abc-1/12076306"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-03-22",
-      "path": "2020/03/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-22-march-2020-on-abc-1/12076322"
-    },
-    {
-      "special": "Kenny Rogers Tribute, New Music Videos",
-      "timeslot": "night",
-      "date": "2020-03-27",
-      "path": "2020/03/27_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-27-march-2020-on-abc-1/12096892"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-03-28",
-      "path": "2020/03/28_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-28-march-2020-on-abc-1/12097022"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-03-28",
-      "path": "2020/03/28_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-28-march-2020-on-abc1/12097052"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-03-29",
-      "path": "2020/03/29_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-29-march-2020-on-abc-1/12097152"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-04-03",
-      "path": "2020/04/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-april-2020-on-abc-1/12118826"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-04-04",
-      "path": "2020/04/04_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-4-april-2020-on-abc-1/12118904"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-04-04",
-      "path": "2020/04/04_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-april-2020-on-abc-1/12118928"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-04-05",
-      "path": "2020/04/05_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-5-april-2020-on-abc-1/12118972"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-04-06",
-      "path": "2020/04/06_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-6-april-2020-on-abc-1/12126348"
-    },
-    {
-      "special": "Bill Withers Tribute, New Music Show",
-      "timeslot": "night",
-      "date": "2020-04-10",
-      "path": "2020/04/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-april-2020-on-abc-1/12139018"
-    },
-    {
-      "special": "RAGERCISE Special",
-      "timeslot": "morning",
-      "date": "2020-04-11",
-      "path": "2020/04/11_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-11-april-2020-on-abc-1/12139024"
-    },
-    {
-      "special": "RAGERCISE Special",
-      "timeslot": "night",
-      "date": "2020-04-11",
-      "path": "2020/04/11_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-april-2020-on-abc-1/12139218"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-04-13",
-      "path": "2020/04/13_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-13-april-2020-on-abc-1/12139298"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-04-17",
-      "path": "2020/04/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-april-2020-on-abc-1/12158370"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-04-18",
-      "path": "2020/04/18_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-april-2020-on-abc-1/12158520"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-04-19",
-      "path": "2020/04/19_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-april-2020-on-abc-1/12158600"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-04-20",
-      "path": "2020/04/20_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-20-april-2020-on-abc-1/12165830"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-04-24",
-      "path": "2020/04/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-24-april-2020-on-abc-1/12181854"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-04-25",
-      "path": "2020/04/25_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-april-2020-on-abc-1/12181870"
-    },
-    {
-      "special": "Pist Idiots on rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2020-04-26",
-      "path": "2020/04/26_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-26-april-2020-on-abc-1/12181884"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-04-27",
-      "path": "2020/04/27_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-27-april-2020-on-abc-1/12189490"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-05-01",
-      "path": "2020/05/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-1-may-2020-on-abc-1/12206250"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-05-02",
-      "path": "2020/05/02_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2-may-2020-on-abc-1/12206276"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-05-02",
-      "path": "2020/05/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-2-may-2020-on-abc-1/12206370"
-    },
-    {
-      "special": "Sui Zhen on rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2020-05-03",
-      "path": "2020/05/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-3-may-2020-on-abc-1/12206390"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-05-04",
-      "path": "2020/05/04_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-4-may-2020-on-abc-1/12212440"
-    },
-    {
-      "special": "Florian Schneider Tribute, Dave Greenfield Tribute, New Music Show",
-      "timeslot": "night",
-      "date": "2020-05-08",
-      "path": "2020/05/08_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-8-may-2020-on-abc-1/12229888"
-    },
-    {
-      "special": "Epic Faith No More Special",
-      "timeslot": "morning",
-      "date": "2020-05-09",
-      "path": "2020/05/09_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9-may-2020-on-abc-1/12229918"
-    },
-    {
-      "special": "Epic Faith No More Special",
-      "timeslot": "night",
-      "date": "2020-05-09",
-      "path": "2020/05/09_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-9-may-2020-on-abc-1/12229934"
-    },
-    {
-      "special": "Florian Schneider Tribute, New Music Videos",
-      "timeslot": "night",
-      "date": "2020-05-10",
-      "path": "2020/05/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-10-may-2020-on-abc-1/12229944"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-05-11",
-      "path": "2020/05/11_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-11-may-2020-on-abc-1/12235090"
-    },
-    {
-      "special": "Little Richard Tribute, Richard Lane Tribute, New Music Show",
-      "timeslot": "night",
-      "date": "2020-05-15",
-      "path": "2020/05/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-15-may-2020-on-abc-1/12253832"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-05-16",
-      "path": "2020/05/16_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-16-may-2020-on-abc-1/12253860"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-05-16",
-      "path": "2020/05/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-16-may-2020-on-abc-1/12253908"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-05-18",
-      "path": "2020/05/18_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-18-may-2020-on-abc-1/12259468"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-05-22",
-      "path": "2020/05/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-22-may-2020-on-abc-1/12277982"
-    },
-    {
-      "special": "The Charts, TISM Special on rage",
-      "timeslot": "morning",
-      "date": "2020-05-23",
-      "path": "2020/05/23_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-23-may-2020-on-abc-1/12277990"
-    },
-    {
-      "special": "TISM Special on rage",
-      "timeslot": "night",
-      "date": "2020-05-23",
-      "path": "2020/05/23_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-23-may-2020-on-abc-1/12278000"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-05-25",
-      "path": "2020/05/25_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-25-may-2020-on-abc-1/12283102"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-05-29",
-      "path": "2020/05/29_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-29-may-2020-on-abc-1/12301398"
-    },
-    {
-      "special": "Charts, Reconciliation Week 2020: Rap & Hip Hop Special",
-      "timeslot": "morning",
-      "date": "2020-05-30",
-      "path": "2020/05/30_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-30-may-2020-on-abc-1/12301588"
-    },
-    {
-      "special": "Reconciliation Week 2020: Rap & Hip Hop Special",
-      "timeslot": "night",
-      "date": "2020-05-30",
-      "path": "2020/05/30_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-30-may-2020-on-abc-1/12301628"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-05-31",
-      "path": "2020/05/31_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-31-may-2020-on-abc-1/12301658"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-06-01",
-      "path": "2020/06/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-1-june-2020-on-abc-1/12308490"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-06-05",
-      "path": "2020/06/05_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-5-june-2020-on-abc-1/12326322"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-06-06",
-      "path": "2020/06/06_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-6-june-2020-on-abc-1/12326374"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-06-06",
-      "path": "2020/06/06_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-6-june-2020-on-abc-1/12326430"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-06-07",
-      "path": "2020/06/07_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-7-june-2020-on-abc-1/12326460"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-06-08",
-      "path": "2020/06/08_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-8-june-2020-on-abc-1/12326466"
-    },
-    {
-      "special": "Bonnie Pointer Tribute, New Music Videos",
-      "timeslot": "night",
-      "date": "2020-06-12",
-      "path": "2020/06/12_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-12-june-2020-on-abc-1/12349182"
-    },
-    {
-      "special": "Charts, The VAULT, New Music Videos, Rage Around The World Special",
-      "timeslot": "morning",
-      "date": "2020-06-13",
-      "path": "2020/06/13_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-13-june-2020-on-abc-1/12349190"
-    },
-    {
-      "special": "Rage Around The World Special",
-      "timeslot": "night",
-      "date": "2020-06-13",
-      "path": "2020/06/13_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-13-june-2020-on-abc-1/12349324"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-06-15",
-      "path": "2020/06/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-15-june-2020-on-abc-1/12356330"
-    },
-    {
-      "special": "Rupert Hine Tribute, Steve Priest Tribute, New Music Videos",
-      "timeslot": "night",
-      "date": "2020-06-19",
-      "path": "2020/06/19_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-19-june-2020-on-abc-1/12373932"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-06-20",
-      "path": "2020/06/20_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-20-june-2020-on-abc-1/12373942"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-06-20",
-      "path": "2020/06/20_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-20-june-2020-on-abc-1/12374048"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-06-22",
-      "path": "2020/06/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-22-june-2020-on-abc-1/12380516"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-06-26",
-      "path": "2020/06/26_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-26-june-2020-on-abc-1/12396348"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-06-27",
-      "path": "2020/06/27_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-27-june-2020-on-abc-1/12396416"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-06-27",
-      "path": "2020/06/27_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-27-june-2020-on-abc-1/12396498"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-06-29",
-      "path": "2020/06/29_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-29-june-2020-on-abc-1/12403896"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-07-03",
-      "path": "2020/07/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-july-2020-on-abc-1/12420758"
-    },
-    {
-      "special": "Charts, The VAULT, Masked Muso Special, Rage with Slipknot",
-      "timeslot": "morning",
-      "date": "2020-07-04",
-      "path": "2020/07/04_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-4-july-2020-on-abc-1/12420772"
-    },
-    {
-      "special": "Rage with Slipknot",
-      "timeslot": "night",
-      "date": "2020-07-04",
-      "path": "2020/07/04_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-july-2020-on-abc-1/12420774"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-07-05",
-      "path": "2020/07/05_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-5-july-2020-on-abc-1/12420780"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-07-10",
-      "path": "2020/07/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-july-2020-on-abc-1/12443164"
-    },
-    {
-      "special": "Charts, The VAULT, Rage Stays Connected Special",
-      "timeslot": "morning",
-      "date": "2020-07-11",
-      "path": "2020/07/11_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-11-july-2020-on-abc-1/12443212"
-    },
-    {
-      "special": "Rage Stays Connected Special",
-      "timeslot": "night",
-      "date": "2020-07-11",
-      "path": "2020/07/11_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-july-2020-on-abc-1/12443266"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-07-13",
-      "path": "2020/07/13_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-13-july-2020-on-abc-1/12450296"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-07-17",
-      "path": "2020/07/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-july-2020-on-abc-1/12466754"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-07-18",
-      "path": "2020/07/18_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-july-2020-on-abc-1/12466768"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-07-18",
-      "path": "2020/07/18_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-july-2020-on-abc-1/12466770"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-07-19",
-      "path": "2020/07/19_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-july-2020-on-abc-1/12466862"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-07-20",
-      "path": "2020/07/20_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-20-july-2020-on-abc-1/12473418"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-07-24",
-      "path": "2020/07/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-24-july-2020-on-abc-1/12489178"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-07-25",
-      "path": "2020/07/25_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-25-july-2020-on-abc-1/12489230"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-07-25",
-      "path": "2020/07/25_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-july-2020-on-abc-1/12489296"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-07-26",
-      "path": "2020/07/26_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-26-july-2020-on-abc-1/12489350"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-07-27",
-      "path": "2020/07/27_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-27-july-2020-on-abc-1/12497002"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-07-31",
-      "path": "2020/07/31_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-31-july-2020-on-abc-1/12512256"
-    },
-    {
-      "special": "Charts, The VAULT, Rage Garbage Special",
-      "timeslot": "morning",
-      "date": "2020-08-01",
-      "path": "2020/08/01_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-1-august-2020-on-abc-1/12512262"
-    },
-    {
-      "special": "Rage Garbage Special",
-      "timeslot": "night",
-      "date": "2020-08-01",
-      "path": "2020/08/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-1-august-2020-on-abc-1/12512270"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-08-02",
-      "path": "2020/08/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-2-august-2020-on-abc-1/12512306"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-08-03",
-      "path": "2020/08/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-3-august-2020-on-abc-1/12519256"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-08-07",
-      "path": "2020/08/07_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-7-august-2020-on-abc-1/12534804"
-    },
-    {
-      "special": "Charts, The VAULT, Psychedelic Rock Special",
-      "timeslot": "morning",
-      "date": "2020-08-08",
-      "path": "2020/08/08_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-8-august-2020-on-abc-1/12535226"
-    },
-    {
-      "special": "Rage Psychedelic Rock Special",
-      "timeslot": "night",
-      "date": "2020-08-08",
-      "path": "2020/08/08_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-august-2020-on-abc-1/12535344"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-08-09",
-      "path": "2020/08/09_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-9-august-2020-on-abc-1/12535426"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-08-10",
-      "path": "2020/08/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-10-august-2020-on-abc-1/12541986"
-    },
-    {
-      "special": "Don Martin Tribute, New Music Show",
-      "timeslot": "night",
-      "date": "2020-08-14",
-      "path": "2020/08/14_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-14-august-2020-on-abc-1/12560510"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-08-15",
-      "path": "2020/08/15_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-15-august-2020-on-abc-1/12560550"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-08-15",
-      "path": "2020/08/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-15-august-2020-on-abc-1/12560562"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-08-16",
-      "path": "2020/08/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-16-august-2020-on-abc-1/12560566"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-08-17",
-      "path": "2020/08/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-17-august-2020-on-abc-1/12565520"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-08-21",
-      "path": "2020/08/21_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-21-august-2020-on-abc-1/12583894"
-    },
-    {
-      "special": "Charts, The VAULT, Rage Special: To Melbourne, With Love",
-      "timeslot": "morning",
-      "date": "2020-08-22",
-      "path": "2020/08/22_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-22-august-2020-on-abc-1/12583900"
-    },
-    {
-      "special": "Rage Special: To Melbourne, With Love",
-      "timeslot": "night",
-      "date": "2020-08-22",
-      "path": "2020/08/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-22-august-2020-on-abc-1/12583940"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-08-23",
-      "path": "2020/08/23_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-23-august-2020-on-abc-1/12583954"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-08-24",
-      "path": "2020/08/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-24-august-2020-on-abc-1/12590396"
-    },
-    {
-      "special": "Charts, The VAULT, Foo Fighters Special",
-      "timeslot": "morning",
-      "date": "2020-08-29",
-      "path": "2020/08/29_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-29-august-2020-on-abc-1/12607164"
-    },
-    {
-      "special": "Foo Fighters Special",
-      "timeslot": "night",
-      "date": "2020-08-29",
-      "path": "2020/08/29_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-29-august-2020-on-abc-1/12607200"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-08-29",
-      "path": "2020/08/29_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-29-august-2020-on-abc-1/12607144"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-08-30",
-      "path": "2020/08/30_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-30-august-2020-on-abc-1/12607230"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-08-31",
-      "path": "2020/08/31_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-31-august-2020-on-abc-1/12614664"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-09-04",
-      "path": "2020/09/04_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-4-september-2020-on-abc-1/12630438"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-09-05",
-      "path": "2020/09/05_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-5-september-2020-on-abc-1/12630446"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-09-05",
-      "path": "2020/09/05_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-5-september-2020-on-abc-1/12630556"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-09-06",
-      "path": "2020/09/06_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-6-september-2020-on-abc-1/12630558"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-09-07",
-      "path": "2020/09/07_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-7-september-2020-on-abc-1/12637656"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-09-11",
-      "path": "2020/09/11_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-11-september-2020-on-abc-1/12654390"
-    },
-    {
-      "special": "Charts, The VAULT, Darkwave Special, Marilyn Manson Special",
-      "timeslot": "morning",
-      "date": "2020-09-12",
-      "path": "2020/09/12_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-12-september-2020-on-abc-1/12654432"
-    },
-    {
-      "special": "Marilyn Manson Special",
-      "timeslot": "night",
-      "date": "2020-09-12",
-      "path": "2020/09/12_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-12-september-2020-on-abc-1/12654440"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-09-14",
-      "path": "2020/09/14_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-14-september-2020-on-abc-1/12661152"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-09-18",
-      "path": "2020/09/18_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-18-september-2020-on-abc-1/12678284"
-    },
-    {
-      "special": "Charts, The VAULT, Rage Grunge Special",
-      "timeslot": "morning",
-      "date": "2020-09-19",
-      "path": "2020/09/19_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-19-september-2020-on-abc-1/12678318"
-    },
-    {
-      "special": "Rage Grunge Special",
-      "timeslot": "night",
-      "date": "2020-09-19",
-      "path": "2020/09/19_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-19-september-2020-on-abc-1/12678380"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-09-20",
-      "path": "2020/09/20_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-20-september-2020-on-abc-1/12678446"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-09-21",
-      "path": "2020/09/21_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-21-september-2020-on-abc-1/12684566"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-09-25",
-      "path": "2020/09/25_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-25-september-2020-on-abc-1/12703118"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-09-26",
-      "path": "2020/09/26_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-26-september-2020-on-abc-1/12703264"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-09-26",
-      "path": "2020/09/26_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-26-september-2020-on-abc-1/12703312"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-09-27",
-      "path": "2020/09/27_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-27-september-2020-on-abc-1/12703360"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-09-28",
-      "path": "2020/09/28_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-28-september-2020-on-abc-1/12709940"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-10-02",
-      "path": "2020/10/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-2-october-2020-on-abc-1/12726632"
-    },
-    {
-      "special": "Charts, The VAULT, NIDA x triple j unearthed videos, No Doubt Special",
-      "timeslot": "morning",
-      "date": "2020-10-03",
-      "path": "2020/10/03_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-3-october-2020-on-abc-1/12726662"
-    },
-    {
-      "special": "No Doubt Special on rage",
-      "timeslot": "night",
-      "date": "2020-10-03",
-      "path": "2020/10/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-3-october-2020-on-abc-1-(nt,-qld,-wa)/12726994"
-    },
-    {
-      "special": "No Doubt Special on rage",
-      "timeslot": "night",
-      "date": "2020-10-03",
-      "path": "2020/10/03_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-3-october-2020-on-abc-1-(act,-nsw,-sa,-tas,-vic)/12726950"
-    },
-    {
-      "special": "Charts",
-      "timeslot": "night",
-      "date": "2020-10-04",
-      "path": "2020/10/04_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-4-october-2020-on-abc-1/12727034"
-    },
-    {
-      "special": "The VAULT - Max Merritt Tribute, Helen Reddy Tribute",
-      "timeslot": "night",
-      "date": "2020-10-05",
-      "path": "2020/10/05_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-5-october-2020-on-abc-1/12727110"
-    },
-    {
-      "special": "Eddie Van Halen Tribute, New Music Show",
-      "timeslot": "night",
-      "date": "2020-10-09",
-      "path": "2020/10/09_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-9-october-2020-on-abc-1/12748774"
-    },
-    {
-      "special": "Charts, The VAULT, 80s & 90s Hip Hop Special",
-      "timeslot": "morning",
-      "date": "2020-10-10",
-      "path": "2020/10/10_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-10-october-2020-on-abc-1/12748790"
-    },
-    {
-      "special": "80s & 90s Hip Hop Special",
-      "timeslot": "night",
-      "date": "2020-10-10",
-      "path": "2020/10/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-10-october-2020-on-abc-1/12748866"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-10-11",
-      "path": "2020/10/11_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-11-october-2020-on-abc-1/12748910"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-10-12",
-      "path": "2020/10/12_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-12-october-2020-on-abc-1/12758384"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-10-16",
-      "path": "2020/10/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-16-october-2020-on-abc-1/12775512"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-10-17",
-      "path": "2020/10/17_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-17-october-2020-on-abc-1/12775644"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-10-17",
-      "path": "2020/10/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-october-2020-on-abc-1-(act)/12775726"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-10-17",
-      "path": "2020/10/17_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-october-2020-on-abc-1/12775682"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-10-23",
-      "path": "2020/10/23_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-23-october-2020-on-abc-1/12807816"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-10-24",
-      "path": "2020/10/24_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-24-october-2020-on-abc-1/12807864"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-10-24",
-      "path": "2020/10/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-24-october-2020-on-abc-1/12807920"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-10-30",
-      "path": "2020/10/30_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-30-october-2020-on-abc-1/12831532"
-    },
-    {
-      "special": "Charts, VAULT, New Music Videos, Rage Halloween Special with Alice Cooper",
-      "timeslot": "morning",
-      "date": "2020-10-31",
-      "path": "2020/10/31_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-31-october-2020-on-abc-1/12831666"
-    },
-    {
-      "special": "Rage Halloween Special with Alice Cooper",
-      "timeslot": "night",
-      "date": "2020-10-31",
-      "path": "2020/10/31_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-31-october-2020-on-abc-1-(qld)/12831724"
-    },
-    {
-      "special": "Rage Halloween Special with Alice Cooper",
-      "timeslot": "night",
-      "date": "2020-10-31",
-      "path": "2020/10/31_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-31-october-2020-on-abc-1/12831716"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-11-02",
-      "path": "2020/11/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-2-november-2020-on-abc-1/12839946"
-    },
-    {
-      "special": "Ronnie Peel Tribute, New Music Show",
-      "timeslot": "night",
-      "date": "2020-11-06",
-      "path": "2020/11/06_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-6-november-2020-on-abc-1/12857794"
-    },
-    {
-      "special": "Charts, VAULT, New Music Videos, Ausmusic Month Special, Kylie Minogue Special",
-      "timeslot": "morning",
-      "date": "2020-11-07",
-      "path": "2020/11/07_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-7-november-2020-on-abc-1/12857836"
-    },
-    {
-      "special": "Kylie Minogue Special",
-      "timeslot": "night",
-      "date": "2020-11-07",
-      "path": "2020/11/07_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-7-november-2020-on-abc-1/12857846"
-    },
-    {
-      "special": "Wayne \"Bones Hillman\" Stevens Tribute, New Music Show",
-      "timeslot": "night",
-      "date": "2020-11-13",
-      "path": "2020/11/13_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-13-november-2020-on-abc-1/12880584"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-11-14",
-      "path": "2020/11/14_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-14-november-2020-on-abc-1/12880718"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-11-14",
-      "path": "2020/11/14_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-14-november-2020-on-abc-1/12880720"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-11-15",
-      "path": "2020/11/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-15-november-2020-on-abc-1/12880724"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-11-16",
-      "path": "2020/11/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-16-november-2020-on-abc-1/12887954"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-11-20",
-      "path": "2020/11/20_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-20-november-2020-on-abc-1/12904728"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-11-21",
-      "path": "2020/11/21_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-21-november-2020-on-abc-1/12904732"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-11-21",
-      "path": "2020/11/21_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-21-november-2020-on-abc-1/12904736"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-11-22",
-      "path": "2020/11/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-23-november-2020-on-abc-1/12904912"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-11-23",
-      "path": "2020/11/23_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-23-november-2020-on-abc-1/12905054"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-11-27",
-      "path": "2020/11/27_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-27-november-2020-on-abc-1/12928778"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-11-28",
-      "path": "2020/11/28_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-28-november-2020-on-abc-1/12928792"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-11-28",
-      "path": "2020/11/28_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-28-november-2020-on-abc-1/12928812"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-11-29",
-      "path": "2020/11/29_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-29-november-2020-on-abc-1/12928852"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-11-30",
-      "path": "2020/11/30_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-30-november-2020-on-abc-1/12935988"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-12-04",
-      "path": "2020/12/04_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-4-december-2020-on-abc-1/12950568"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-12-05",
-      "path": "2020/12/05_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-5-december-2020-on-abc-1/12950604"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-12-05",
-      "path": "2020/12/05_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-5-december-2020-on-abc-1/12950620"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-12-06",
-      "path": "2020/12/06_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-6-december-2020-on-abc-1/12950650"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-12-07",
-      "path": "2020/12/07_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-7-december-2020-on-abc-1/12957922"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-12-11",
-      "path": "2020/12/11_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-11-december-2020-on-abc-1/12975696"
-    },
-    {
-      "special": "Charts, VAULT, New Music Videos, Julien Temple Special, Shane MacGowan & Julien Temple Special",
-      "timeslot": "morning",
-      "date": "2020-12-12",
-      "path": "2020/12/12_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-12-december-2020-on-abc-1/12975734"
-    },
-    {
-      "special": "Shane MacGowan + Julien Temple Special",
-      "timeslot": "night",
-      "date": "2020-12-12",
-      "path": "2020/12/12_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-12-december-2020-on-abc-1/12975786"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-12-14",
-      "path": "2020/12/14_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-14-december-2020-on-abc-1/12982400"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-12-18",
-      "path": "2020/12/18_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-18-december-2020-on-abc-1/12998674"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-12-19",
-      "path": "2020/12/19_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-19-december-2020-on-abc-1/12998724"
-    },
-    {
-      "special": "Rage FIFTY Countdown 2020",
-      "timeslot": "night",
-      "date": "2020-12-19",
-      "path": "2020/12/19_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-19-december-2020-on-abc-1/12998800"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-12-20",
-      "path": "2020/12/20_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-20-december-2020-on-abc-1/12998792"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-12-21",
-      "path": "2020/12/21_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-21-december-2020-on-abc-1/13004300"
-    },
-    {
-      "special": "Christmas Special",
-      "timeslot": "morning",
-      "date": "2020-12-24",
-      "path": "2020/12/24_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-morning-24-december-2020-on-abc-1/13004696"
-    },
-    {
-      "special": "Bad Santa Christmas Eve Special",
-      "timeslot": "night",
-      "date": "2020-12-24",
-      "path": "2020/12/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-24-december-2020-on-abc-1/13004702"
-    },
-    {
-      "special": "Christmas Special",
-      "timeslot": "morning",
-      "date": "2020-12-25",
-      "path": "2020/12/25_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-morning-25-december-2020-on-abc-1/13004704"
-    },
-    {
-      "special": "Christmas Special",
-      "timeslot": "night",
-      "date": "2020-12-25",
-      "path": "2020/12/25_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-25-december-2020-on-abc-1/13004708"
-    },
-    {
-      "special": "Best of the Charts 2020, VAULT, Best New Music Videos of 2020, Psychedelic Rock Special",
-      "timeslot": "morning",
-      "date": "2020-12-26",
-      "path": "2020/12/26_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-26-december-2020-on-abc-1/13004752"
-    },
-    {
-      "special": "Psychedelic Rock Special",
-      "timeslot": "night",
-      "date": "2020-12-26",
-      "path": "2020/12/26_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-26-december-2020-on-abc-1/13004764"
-    },
-    {
-      "special": "Best Music Videos of 2020",
-      "timeslot": "night",
-      "date": "2020-12-27",
-      "path": "2020/12/27_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-27-december-2020-on-abc-1/13004772"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-12-28",
-      "path": "2020/12/28_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-28-december-2020-on-abc-1/13004776"
-    },
-    {
-      "special": "New Year's Special",
-      "timeslot": "night",
-      "date": "2020-12-31",
-      "path": "2020/12/31_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-31-december-2020-on-abc-1/13005082"
-    },
-    {
       "special": null,
       "timeslot": "night",
       "date": "2021-01-01",
@@ -28587,6 +26879,1714 @@
       "date": "2022-12-31",
       "path": "2022/12/31_night.json",
       "url": "https://www.abc.net.au/rage/playlist/saturday-night-31-december-2022-on-abc-tv/101812228"
+    },
+    {
+      "special": "Best of the 2019 New Releases",
+      "timeslot": "night",
+      "date": "2020-01-03",
+      "path": "2020/01/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-january-2020-on-abc-1/11837932"
+    },
+    {
+      "special": "Retro Month Week One",
+      "timeslot": "morning",
+      "date": "2020-01-04",
+      "path": "2020/01/04_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-4-january-2020-on-abc1/11838046"
+    },
+    {
+      "special": "Retro Month 2020: Week One",
+      "timeslot": "night",
+      "date": "2020-01-04",
+      "path": "2020/01/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-january-2020-on-abc-1/11818210"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-01-10",
+      "path": "2020/01/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-january-2020-on-abc-1/11818146"
+    },
+    {
+      "special": "Retro Month Week Two",
+      "timeslot": "morning",
+      "date": "2020-01-11",
+      "path": "2020/01/11_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-11-january-2020-on-abc-1/11818162"
+    },
+    {
+      "special": "Retro Month Week Two",
+      "timeslot": "night",
+      "date": "2020-01-11",
+      "path": "2020/01/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-january-2020-on-abc-1/11818172"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-01-17",
+      "path": "2020/01/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-january-2020-on-abc-1/11818196"
+    },
+    {
+      "special": "Retro Month Week Three",
+      "timeslot": "morning",
+      "date": "2020-01-18",
+      "path": "2020/01/18_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-january-2020-on-abc-1/11818206"
+    },
+    {
+      "special": "Retro Month Week Three",
+      "timeslot": "night",
+      "date": "2020-01-18",
+      "path": "2020/01/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-january-2020-on-abc-1/11877486"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-01-18",
+      "path": "2020/01/18_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-18-january-2020-on-abc-1/13066698"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-01-19",
+      "path": "2020/01/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-january-2020-on-abc-1/11877516"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-01-24",
+      "path": "2020/01/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-24-january-2020-on-abc-1/11898028"
+    },
+    {
+      "special": "Charts, New Music Videos, Dyson Stringer Cloher on Rage, Rage Class of 1999",
+      "timeslot": "morning",
+      "date": "2020-01-25",
+      "path": "2020/01/25_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-25-january-2020-on-abc-1/11898544"
+    },
+    {
+      "special": "Rage Class of 1999",
+      "timeslot": "night",
+      "date": "2020-01-25",
+      "path": "2020/01/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-january-2020-on-abc-1/11898802"
+    },
+    {
+      "special": "Dyson Stringer Cloher on Rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2020-01-26",
+      "path": "2020/01/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-26-january-2020-on-abc-1/11898856"
+    },
+    {
+      "special": "triple j's Hottest 100 of 2020...on rage!",
+      "timeslot": "night",
+      "date": "2020-01-29",
+      "path": "2020/01/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-29-january-2020-on-abc-1/13103218"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-01-30",
+      "path": "2020/01/30_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-30-january-2020-on-abc-1/13103252"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-01-30",
+      "path": "2020/01/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-30-january-2020-on-abc-1/13103318"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-01-31",
+      "path": "2020/01/31_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-31-january-2020-on-abc-1/11919086"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-01-31",
+      "path": "2020/01/31_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-31-january-2020-on-abc-1/13103364"
+    },
+    {
+      "special": "Charts, New Music Videos, RedHook on Rage, triple j's Hottest 100 of 1989",
+      "timeslot": "morning",
+      "date": "2020-02-01",
+      "path": "2020/02/01_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-1-february-2020-on-abc-1/11919110"
+    },
+    {
+      "special": "triple j's Hottest 100 of 2019...on Rage!",
+      "timeslot": "night",
+      "date": "2020-02-01",
+      "path": "2020/02/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-1-february-2020-on-abc-1/11919138"
+    },
+    {
+      "special": "RedHook on Rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2020-02-02",
+      "path": "2020/02/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-2-february-2020-on-abc-1/11919160"
+    },
+    {
+      "special": "THE VAULT",
+      "timeslot": "night",
+      "date": "2020-02-03",
+      "path": "2020/02/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-3-february-2020-on-abc-1/11924396"
+    },
+    {
+      "special": "Andy Gill Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2020-02-07",
+      "path": "2020/02/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-7-february-2020-on-abc-1/11944230"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-02-08",
+      "path": "2020/02/08_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-8-february-2020-on-abc-1/11944266"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-02-08",
+      "path": "2020/02/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-february-2020-on-abc-1/11944294"
+    },
+    {
+      "special": "THE VAULT",
+      "timeslot": "night",
+      "date": "2020-02-10",
+      "path": "2020/02/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-10-february-2020-on-abc-1/11951100"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-02-14",
+      "path": "2020/02/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-14-february-2020-on-abc-1/11967798"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-02-15",
+      "path": "2020/02/15_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-15-february-2020-on-abc-1-(wa)/11967836"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-02-15",
+      "path": "2020/02/15_morning_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-15-february-2020-on-abc-1/11967814"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-02-15",
+      "path": "2020/02/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-15-february-2020-on-abc-1/11967844"
+    },
+    {
+      "special": "Ecca Vandal on Rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2020-02-16",
+      "path": "2020/02/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-16-february-2020-on-abc-1/11967876"
+    },
+    {
+      "special": "THE VAULT",
+      "timeslot": "night",
+      "date": "2020-02-17",
+      "path": "2020/02/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-17-february-2020-on-abc-1/11973242"
+    },
+    {
+      "special": "Andrew Weatherall Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2020-02-21",
+      "path": "2020/02/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-21-february-2020-on-abc-1/11988494"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-02-22",
+      "path": "2020/02/22_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-22-february-2020-on-abc-1/11988508"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-02-22",
+      "path": "2020/02/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-22-february-2020-on-abc-1/11988590"
+    },
+    {
+      "special": "Banoffee on Rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2020-02-23",
+      "path": "2020/02/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-23-february-2020-on-abc-1/11988612"
+    },
+    {
+      "special": "THE VAULT",
+      "timeslot": "night",
+      "date": "2020-02-24",
+      "path": "2020/02/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-24-february-2020-on-abc-1/11994608"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-02-28",
+      "path": "2020/02/28_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-28-february-2020-on-abc-1/12011836"
+    },
+    {
+      "special": "Charts, Northeast Party house on Rage, Rage Mardi Gras Special",
+      "timeslot": "morning",
+      "date": "2020-02-29",
+      "path": "2020/02/29_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-29-february-2020-on-abc-1/12011848"
+    },
+    {
+      "special": "Rage Mardi Gras Special",
+      "timeslot": "night",
+      "date": "2020-02-29",
+      "path": "2020/02/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-29-february-2020-on-abc-1/12011864"
+    },
+    {
+      "special": "Northeast Party House on Rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2020-03-01",
+      "path": "2020/03/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-1-march-2020-on-abc-1/12011884"
+    },
+    {
+      "special": "THE VAULT",
+      "timeslot": "night",
+      "date": "2020-03-02",
+      "path": "2020/03/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-2-march-2020-on-abc-1/12017752"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-03-06",
+      "path": "2020/03/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-6-march-2020-on-abc-1/12032860"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-03-07",
+      "path": "2020/03/07_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-7-march-2020-on-abc-1/12032876"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-03-07",
+      "path": "2020/03/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-7-march-2020-on-abc-1/12032916"
+    },
+    {
+      "special": "Shady Nasty on Rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2020-03-08",
+      "path": "2020/03/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-8-march-2020-on-abc-1/12032934"
+    },
+    {
+      "special": "THE VAULT",
+      "timeslot": "night",
+      "date": "2020-03-09",
+      "path": "2020/03/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-9-march-2020-on-abc-1/12040410"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-03-13",
+      "path": "2020/03/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-13-march-2020-on-abc-1/12053814"
+    },
+    {
+      "special": "Charts, New Music Videos, Sally and Erica on Rage, Best of the Decade on Rage",
+      "timeslot": "morning",
+      "date": "2020-03-14",
+      "path": "2020/03/14_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-14-march-2020-on-abc-1/12053860"
+    },
+    {
+      "special": "Best of the Decade on Rage",
+      "timeslot": "night",
+      "date": "2020-03-14",
+      "path": "2020/03/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-14-march-2020-on-abc-1/12053872"
+    },
+    {
+      "special": "Sally and Erica on Rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2020-03-15",
+      "path": "2020/03/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-15-march-2020-on-abc-1/12053922"
+    },
+    {
+      "special": "THE VAULT",
+      "timeslot": "night",
+      "date": "2020-03-16",
+      "path": "2020/03/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-16-march-2020-on-abc-1/12060402"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-03-20",
+      "path": "2020/03/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-20-march-2020-on-abc-1/12076268"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-03-21",
+      "path": "2020/03/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-21-march-2020-on-abc-1/12076306"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-03-22",
+      "path": "2020/03/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-22-march-2020-on-abc-1/12076322"
+    },
+    {
+      "special": "Kenny Rogers Tribute, New Music Videos",
+      "timeslot": "night",
+      "date": "2020-03-27",
+      "path": "2020/03/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-27-march-2020-on-abc-1/12096892"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-03-28",
+      "path": "2020/03/28_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-28-march-2020-on-abc-1/12097022"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-03-28",
+      "path": "2020/03/28_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-28-march-2020-on-abc1/12097052"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-03-29",
+      "path": "2020/03/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-29-march-2020-on-abc-1/12097152"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-04-03",
+      "path": "2020/04/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-april-2020-on-abc-1/12118826"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-04-04",
+      "path": "2020/04/04_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-4-april-2020-on-abc-1/12118904"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-04-04",
+      "path": "2020/04/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-april-2020-on-abc-1/12118928"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-04-05",
+      "path": "2020/04/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-5-april-2020-on-abc-1/12118972"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-04-06",
+      "path": "2020/04/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-6-april-2020-on-abc-1/12126348"
+    },
+    {
+      "special": "Bill Withers Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2020-04-10",
+      "path": "2020/04/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-april-2020-on-abc-1/12139018"
+    },
+    {
+      "special": "RAGERCISE Special",
+      "timeslot": "morning",
+      "date": "2020-04-11",
+      "path": "2020/04/11_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-11-april-2020-on-abc-1/12139024"
+    },
+    {
+      "special": "RAGERCISE Special",
+      "timeslot": "night",
+      "date": "2020-04-11",
+      "path": "2020/04/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-april-2020-on-abc-1/12139218"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-04-13",
+      "path": "2020/04/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-13-april-2020-on-abc-1/12139298"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-04-17",
+      "path": "2020/04/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-april-2020-on-abc-1/12158370"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-04-18",
+      "path": "2020/04/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-april-2020-on-abc-1/12158520"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-04-19",
+      "path": "2020/04/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-april-2020-on-abc-1/12158600"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-04-20",
+      "path": "2020/04/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-20-april-2020-on-abc-1/12165830"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-04-24",
+      "path": "2020/04/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-24-april-2020-on-abc-1/12181854"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-04-25",
+      "path": "2020/04/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-april-2020-on-abc-1/12181870"
+    },
+    {
+      "special": "Pist Idiots on rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2020-04-26",
+      "path": "2020/04/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-26-april-2020-on-abc-1/12181884"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-04-27",
+      "path": "2020/04/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-27-april-2020-on-abc-1/12189490"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-05-01",
+      "path": "2020/05/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-1-may-2020-on-abc-1/12206250"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-05-02",
+      "path": "2020/05/02_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2-may-2020-on-abc-1/12206276"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-05-02",
+      "path": "2020/05/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-2-may-2020-on-abc-1/12206370"
+    },
+    {
+      "special": "Sui Zhen on rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2020-05-03",
+      "path": "2020/05/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-3-may-2020-on-abc-1/12206390"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-05-04",
+      "path": "2020/05/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-4-may-2020-on-abc-1/12212440"
+    },
+    {
+      "special": "Florian Schneider Tribute, Dave Greenfield Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2020-05-08",
+      "path": "2020/05/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-8-may-2020-on-abc-1/12229888"
+    },
+    {
+      "special": "Epic Faith No More Special",
+      "timeslot": "morning",
+      "date": "2020-05-09",
+      "path": "2020/05/09_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9-may-2020-on-abc-1/12229918"
+    },
+    {
+      "special": "Epic Faith No More Special",
+      "timeslot": "night",
+      "date": "2020-05-09",
+      "path": "2020/05/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-9-may-2020-on-abc-1/12229934"
+    },
+    {
+      "special": "Florian Schneider Tribute, New Music Videos",
+      "timeslot": "night",
+      "date": "2020-05-10",
+      "path": "2020/05/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-10-may-2020-on-abc-1/12229944"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-05-11",
+      "path": "2020/05/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-11-may-2020-on-abc-1/12235090"
+    },
+    {
+      "special": "Little Richard Tribute, Richard Lane Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2020-05-15",
+      "path": "2020/05/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-15-may-2020-on-abc-1/12253832"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-05-16",
+      "path": "2020/05/16_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-16-may-2020-on-abc-1/12253860"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-05-16",
+      "path": "2020/05/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-16-may-2020-on-abc-1/12253908"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-05-18",
+      "path": "2020/05/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-18-may-2020-on-abc-1/12259468"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-05-22",
+      "path": "2020/05/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-22-may-2020-on-abc-1/12277982"
+    },
+    {
+      "special": "The Charts, TISM Special on rage",
+      "timeslot": "morning",
+      "date": "2020-05-23",
+      "path": "2020/05/23_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-23-may-2020-on-abc-1/12277990"
+    },
+    {
+      "special": "TISM Special on rage",
+      "timeslot": "night",
+      "date": "2020-05-23",
+      "path": "2020/05/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-23-may-2020-on-abc-1/12278000"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-05-25",
+      "path": "2020/05/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-25-may-2020-on-abc-1/12283102"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-05-29",
+      "path": "2020/05/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-29-may-2020-on-abc-1/12301398"
+    },
+    {
+      "special": "Charts, Reconciliation Week 2020: Rap & Hip Hop Special",
+      "timeslot": "morning",
+      "date": "2020-05-30",
+      "path": "2020/05/30_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-30-may-2020-on-abc-1/12301588"
+    },
+    {
+      "special": "Reconciliation Week 2020: Rap & Hip Hop Special",
+      "timeslot": "night",
+      "date": "2020-05-30",
+      "path": "2020/05/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-30-may-2020-on-abc-1/12301628"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-05-31",
+      "path": "2020/05/31_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-31-may-2020-on-abc-1/12301658"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-06-01",
+      "path": "2020/06/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-1-june-2020-on-abc-1/12308490"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-06-05",
+      "path": "2020/06/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-5-june-2020-on-abc-1/12326322"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-06-06",
+      "path": "2020/06/06_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-6-june-2020-on-abc-1/12326374"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-06-06",
+      "path": "2020/06/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-6-june-2020-on-abc-1/12326430"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-06-07",
+      "path": "2020/06/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-7-june-2020-on-abc-1/12326460"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-06-08",
+      "path": "2020/06/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-8-june-2020-on-abc-1/12326466"
+    },
+    {
+      "special": "Bonnie Pointer Tribute, New Music Videos",
+      "timeslot": "night",
+      "date": "2020-06-12",
+      "path": "2020/06/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-12-june-2020-on-abc-1/12349182"
+    },
+    {
+      "special": "Charts, The VAULT, New Music Videos, Rage Around The World Special",
+      "timeslot": "morning",
+      "date": "2020-06-13",
+      "path": "2020/06/13_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-13-june-2020-on-abc-1/12349190"
+    },
+    {
+      "special": "Rage Around The World Special",
+      "timeslot": "night",
+      "date": "2020-06-13",
+      "path": "2020/06/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-13-june-2020-on-abc-1/12349324"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-06-15",
+      "path": "2020/06/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-15-june-2020-on-abc-1/12356330"
+    },
+    {
+      "special": "Rupert Hine Tribute, Steve Priest Tribute, New Music Videos",
+      "timeslot": "night",
+      "date": "2020-06-19",
+      "path": "2020/06/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-19-june-2020-on-abc-1/12373932"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-06-20",
+      "path": "2020/06/20_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-20-june-2020-on-abc-1/12373942"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-06-20",
+      "path": "2020/06/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-20-june-2020-on-abc-1/12374048"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-06-22",
+      "path": "2020/06/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-22-june-2020-on-abc-1/12380516"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-06-26",
+      "path": "2020/06/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-26-june-2020-on-abc-1/12396348"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-06-27",
+      "path": "2020/06/27_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-27-june-2020-on-abc-1/12396416"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-06-27",
+      "path": "2020/06/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-27-june-2020-on-abc-1/12396498"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-06-29",
+      "path": "2020/06/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-29-june-2020-on-abc-1/12403896"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-07-03",
+      "path": "2020/07/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-july-2020-on-abc-1/12420758"
+    },
+    {
+      "special": "Charts, The VAULT, Masked Muso Special, Rage with Slipknot",
+      "timeslot": "morning",
+      "date": "2020-07-04",
+      "path": "2020/07/04_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-4-july-2020-on-abc-1/12420772"
+    },
+    {
+      "special": "Rage with Slipknot",
+      "timeslot": "night",
+      "date": "2020-07-04",
+      "path": "2020/07/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-july-2020-on-abc-1/12420774"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-07-05",
+      "path": "2020/07/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-5-july-2020-on-abc-1/12420780"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-07-10",
+      "path": "2020/07/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-july-2020-on-abc-1/12443164"
+    },
+    {
+      "special": "Charts, The VAULT, Rage Stays Connected Special",
+      "timeslot": "morning",
+      "date": "2020-07-11",
+      "path": "2020/07/11_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-11-july-2020-on-abc-1/12443212"
+    },
+    {
+      "special": "Rage Stays Connected Special",
+      "timeslot": "night",
+      "date": "2020-07-11",
+      "path": "2020/07/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-july-2020-on-abc-1/12443266"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-07-13",
+      "path": "2020/07/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-13-july-2020-on-abc-1/12450296"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-07-17",
+      "path": "2020/07/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-july-2020-on-abc-1/12466754"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-07-18",
+      "path": "2020/07/18_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-july-2020-on-abc-1/12466768"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-07-18",
+      "path": "2020/07/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-july-2020-on-abc-1/12466770"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-07-19",
+      "path": "2020/07/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-july-2020-on-abc-1/12466862"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-07-20",
+      "path": "2020/07/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-20-july-2020-on-abc-1/12473418"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-07-24",
+      "path": "2020/07/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-24-july-2020-on-abc-1/12489178"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-07-25",
+      "path": "2020/07/25_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-25-july-2020-on-abc-1/12489230"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-07-25",
+      "path": "2020/07/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-july-2020-on-abc-1/12489296"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-07-26",
+      "path": "2020/07/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-26-july-2020-on-abc-1/12489350"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-07-27",
+      "path": "2020/07/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-27-july-2020-on-abc-1/12497002"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-07-31",
+      "path": "2020/07/31_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-31-july-2020-on-abc-1/12512256"
+    },
+    {
+      "special": "Charts, The VAULT, Rage Garbage Special",
+      "timeslot": "morning",
+      "date": "2020-08-01",
+      "path": "2020/08/01_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-1-august-2020-on-abc-1/12512262"
+    },
+    {
+      "special": "Rage Garbage Special",
+      "timeslot": "night",
+      "date": "2020-08-01",
+      "path": "2020/08/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-1-august-2020-on-abc-1/12512270"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-08-02",
+      "path": "2020/08/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-2-august-2020-on-abc-1/12512306"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-08-03",
+      "path": "2020/08/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-3-august-2020-on-abc-1/12519256"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-08-07",
+      "path": "2020/08/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-7-august-2020-on-abc-1/12534804"
+    },
+    {
+      "special": "Charts, The VAULT, Psychedelic Rock Special",
+      "timeslot": "morning",
+      "date": "2020-08-08",
+      "path": "2020/08/08_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-8-august-2020-on-abc-1/12535226"
+    },
+    {
+      "special": "Rage Psychedelic Rock Special",
+      "timeslot": "night",
+      "date": "2020-08-08",
+      "path": "2020/08/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-august-2020-on-abc-1/12535344"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-08-09",
+      "path": "2020/08/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-9-august-2020-on-abc-1/12535426"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-08-10",
+      "path": "2020/08/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-10-august-2020-on-abc-1/12541986"
+    },
+    {
+      "special": "Don Martin Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2020-08-14",
+      "path": "2020/08/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-14-august-2020-on-abc-1/12560510"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-08-15",
+      "path": "2020/08/15_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-15-august-2020-on-abc-1/12560550"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-08-15",
+      "path": "2020/08/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-15-august-2020-on-abc-1/12560562"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-08-16",
+      "path": "2020/08/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-16-august-2020-on-abc-1/12560566"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-08-17",
+      "path": "2020/08/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-17-august-2020-on-abc-1/12565520"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-08-21",
+      "path": "2020/08/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-21-august-2020-on-abc-1/12583894"
+    },
+    {
+      "special": "Charts, The VAULT, Rage Special: To Melbourne, With Love",
+      "timeslot": "morning",
+      "date": "2020-08-22",
+      "path": "2020/08/22_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-22-august-2020-on-abc-1/12583900"
+    },
+    {
+      "special": "Rage Special: To Melbourne, With Love",
+      "timeslot": "night",
+      "date": "2020-08-22",
+      "path": "2020/08/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-22-august-2020-on-abc-1/12583940"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-08-23",
+      "path": "2020/08/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-23-august-2020-on-abc-1/12583954"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-08-24",
+      "path": "2020/08/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-24-august-2020-on-abc-1/12590396"
+    },
+    {
+      "special": "Charts, The VAULT, Foo Fighters Special",
+      "timeslot": "morning",
+      "date": "2020-08-29",
+      "path": "2020/08/29_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-29-august-2020-on-abc-1/12607164"
+    },
+    {
+      "special": "Foo Fighters Special",
+      "timeslot": "night",
+      "date": "2020-08-29",
+      "path": "2020/08/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-29-august-2020-on-abc-1/12607200"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-08-29",
+      "path": "2020/08/29_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-29-august-2020-on-abc-1/12607144"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-08-30",
+      "path": "2020/08/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-30-august-2020-on-abc-1/12607230"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-08-31",
+      "path": "2020/08/31_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-31-august-2020-on-abc-1/12614664"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-09-04",
+      "path": "2020/09/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-4-september-2020-on-abc-1/12630438"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-09-05",
+      "path": "2020/09/05_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-5-september-2020-on-abc-1/12630446"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-09-05",
+      "path": "2020/09/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-5-september-2020-on-abc-1/12630556"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-09-06",
+      "path": "2020/09/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-6-september-2020-on-abc-1/12630558"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-09-07",
+      "path": "2020/09/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-7-september-2020-on-abc-1/12637656"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-09-11",
+      "path": "2020/09/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-11-september-2020-on-abc-1/12654390"
+    },
+    {
+      "special": "Charts, The VAULT, Darkwave Special, Marilyn Manson Special",
+      "timeslot": "morning",
+      "date": "2020-09-12",
+      "path": "2020/09/12_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-12-september-2020-on-abc-1/12654432"
+    },
+    {
+      "special": "Marilyn Manson Special",
+      "timeslot": "night",
+      "date": "2020-09-12",
+      "path": "2020/09/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-12-september-2020-on-abc-1/12654440"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-09-14",
+      "path": "2020/09/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-14-september-2020-on-abc-1/12661152"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-09-18",
+      "path": "2020/09/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-18-september-2020-on-abc-1/12678284"
+    },
+    {
+      "special": "Charts, The VAULT, Rage Grunge Special",
+      "timeslot": "morning",
+      "date": "2020-09-19",
+      "path": "2020/09/19_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-19-september-2020-on-abc-1/12678318"
+    },
+    {
+      "special": "Rage Grunge Special",
+      "timeslot": "night",
+      "date": "2020-09-19",
+      "path": "2020/09/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-19-september-2020-on-abc-1/12678380"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-09-20",
+      "path": "2020/09/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-20-september-2020-on-abc-1/12678446"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-09-21",
+      "path": "2020/09/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-21-september-2020-on-abc-1/12684566"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-09-25",
+      "path": "2020/09/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-25-september-2020-on-abc-1/12703118"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-09-26",
+      "path": "2020/09/26_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-26-september-2020-on-abc-1/12703264"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-09-26",
+      "path": "2020/09/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-26-september-2020-on-abc-1/12703312"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-09-27",
+      "path": "2020/09/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-27-september-2020-on-abc-1/12703360"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-09-28",
+      "path": "2020/09/28_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-28-september-2020-on-abc-1/12709940"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-10-02",
+      "path": "2020/10/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-2-october-2020-on-abc-1/12726632"
+    },
+    {
+      "special": "Charts, The VAULT, NIDA x triple j unearthed videos, No Doubt Special",
+      "timeslot": "morning",
+      "date": "2020-10-03",
+      "path": "2020/10/03_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-3-october-2020-on-abc-1/12726662"
+    },
+    {
+      "special": "No Doubt Special on rage",
+      "timeslot": "night",
+      "date": "2020-10-03",
+      "path": "2020/10/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-3-october-2020-on-abc-1-(nt,-qld,-wa)/12726994"
+    },
+    {
+      "special": "No Doubt Special on rage",
+      "timeslot": "night",
+      "date": "2020-10-03",
+      "path": "2020/10/03_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-3-october-2020-on-abc-1-(act,-nsw,-sa,-tas,-vic)/12726950"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2020-10-04",
+      "path": "2020/10/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-4-october-2020-on-abc-1/12727034"
+    },
+    {
+      "special": "The VAULT - Max Merritt Tribute, Helen Reddy Tribute",
+      "timeslot": "night",
+      "date": "2020-10-05",
+      "path": "2020/10/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-5-october-2020-on-abc-1/12727110"
+    },
+    {
+      "special": "Eddie Van Halen Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2020-10-09",
+      "path": "2020/10/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-9-october-2020-on-abc-1/12748774"
+    },
+    {
+      "special": "Charts, The VAULT, 80s & 90s Hip Hop Special",
+      "timeslot": "morning",
+      "date": "2020-10-10",
+      "path": "2020/10/10_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-10-october-2020-on-abc-1/12748790"
+    },
+    {
+      "special": "80s & 90s Hip Hop Special",
+      "timeslot": "night",
+      "date": "2020-10-10",
+      "path": "2020/10/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-10-october-2020-on-abc-1/12748866"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-10-11",
+      "path": "2020/10/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-11-october-2020-on-abc-1/12748910"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-10-12",
+      "path": "2020/10/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-12-october-2020-on-abc-1/12758384"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-10-16",
+      "path": "2020/10/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-16-october-2020-on-abc-1/12775512"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-10-17",
+      "path": "2020/10/17_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-17-october-2020-on-abc-1/12775644"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-10-17",
+      "path": "2020/10/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-october-2020-on-abc-1-(act)/12775726"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-10-17",
+      "path": "2020/10/17_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-october-2020-on-abc-1/12775682"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-10-23",
+      "path": "2020/10/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-23-october-2020-on-abc-1/12807816"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-10-24",
+      "path": "2020/10/24_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-24-october-2020-on-abc-1/12807864"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-10-24",
+      "path": "2020/10/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-24-october-2020-on-abc-1/12807920"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-10-30",
+      "path": "2020/10/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-30-october-2020-on-abc-1/12831532"
+    },
+    {
+      "special": "Charts, VAULT, New Music Videos, Rage Halloween Special with Alice Cooper",
+      "timeslot": "morning",
+      "date": "2020-10-31",
+      "path": "2020/10/31_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-31-october-2020-on-abc-1/12831666"
+    },
+    {
+      "special": "Rage Halloween Special with Alice Cooper",
+      "timeslot": "night",
+      "date": "2020-10-31",
+      "path": "2020/10/31_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-31-october-2020-on-abc-1-(qld)/12831724"
+    },
+    {
+      "special": "Rage Halloween Special with Alice Cooper",
+      "timeslot": "night",
+      "date": "2020-10-31",
+      "path": "2020/10/31_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-31-october-2020-on-abc-1/12831716"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-11-02",
+      "path": "2020/11/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-2-november-2020-on-abc-1/12839946"
+    },
+    {
+      "special": "Ronnie Peel Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2020-11-06",
+      "path": "2020/11/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-6-november-2020-on-abc-1/12857794"
+    },
+    {
+      "special": "Charts, VAULT, New Music Videos, Ausmusic Month Special, Kylie Minogue Special",
+      "timeslot": "morning",
+      "date": "2020-11-07",
+      "path": "2020/11/07_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-7-november-2020-on-abc-1/12857836"
+    },
+    {
+      "special": "Kylie Minogue Special",
+      "timeslot": "night",
+      "date": "2020-11-07",
+      "path": "2020/11/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-7-november-2020-on-abc-1/12857846"
+    },
+    {
+      "special": "Wayne \"Bones Hillman\" Stevens Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2020-11-13",
+      "path": "2020/11/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-13-november-2020-on-abc-1/12880584"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-11-14",
+      "path": "2020/11/14_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-14-november-2020-on-abc-1/12880718"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-11-14",
+      "path": "2020/11/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-14-november-2020-on-abc-1/12880720"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-11-15",
+      "path": "2020/11/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-15-november-2020-on-abc-1/12880724"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-11-16",
+      "path": "2020/11/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-16-november-2020-on-abc-1/12887954"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-11-20",
+      "path": "2020/11/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-20-november-2020-on-abc-1/12904728"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-11-21",
+      "path": "2020/11/21_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-21-november-2020-on-abc-1/12904732"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-11-21",
+      "path": "2020/11/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-21-november-2020-on-abc-1/12904736"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-11-22",
+      "path": "2020/11/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-23-november-2020-on-abc-1/12904912"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-11-23",
+      "path": "2020/11/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-23-november-2020-on-abc-1/12905054"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-11-27",
+      "path": "2020/11/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-27-november-2020-on-abc-1/12928778"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-11-28",
+      "path": "2020/11/28_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-28-november-2020-on-abc-1/12928792"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-11-28",
+      "path": "2020/11/28_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-28-november-2020-on-abc-1/12928812"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-11-29",
+      "path": "2020/11/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-29-november-2020-on-abc-1/12928852"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-11-30",
+      "path": "2020/11/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-30-november-2020-on-abc-1/12935988"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-12-04",
+      "path": "2020/12/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-4-december-2020-on-abc-1/12950568"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-12-05",
+      "path": "2020/12/05_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-5-december-2020-on-abc-1/12950604"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-12-05",
+      "path": "2020/12/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-5-december-2020-on-abc-1/12950620"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-12-06",
+      "path": "2020/12/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-6-december-2020-on-abc-1/12950650"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-12-07",
+      "path": "2020/12/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-7-december-2020-on-abc-1/12957922"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-12-11",
+      "path": "2020/12/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-11-december-2020-on-abc-1/12975696"
+    },
+    {
+      "special": "Charts, VAULT, New Music Videos, Julien Temple Special, Shane MacGowan & Julien Temple Special",
+      "timeslot": "morning",
+      "date": "2020-12-12",
+      "path": "2020/12/12_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-12-december-2020-on-abc-1/12975734"
+    },
+    {
+      "special": "Shane MacGowan + Julien Temple Special",
+      "timeslot": "night",
+      "date": "2020-12-12",
+      "path": "2020/12/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-12-december-2020-on-abc-1/12975786"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-12-14",
+      "path": "2020/12/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-14-december-2020-on-abc-1/12982400"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-12-18",
+      "path": "2020/12/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-18-december-2020-on-abc-1/12998674"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-12-19",
+      "path": "2020/12/19_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-19-december-2020-on-abc-1/12998724"
+    },
+    {
+      "special": "Rage FIFTY Countdown 2020",
+      "timeslot": "night",
+      "date": "2020-12-19",
+      "path": "2020/12/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-19-december-2020-on-abc-1/12998800"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-12-20",
+      "path": "2020/12/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-20-december-2020-on-abc-1/12998792"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-12-21",
+      "path": "2020/12/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-21-december-2020-on-abc-1/13004300"
+    },
+    {
+      "special": "Christmas Special",
+      "timeslot": "morning",
+      "date": "2020-12-24",
+      "path": "2020/12/24_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-morning-24-december-2020-on-abc-1/13004696"
+    },
+    {
+      "special": "Bad Santa Christmas Eve Special",
+      "timeslot": "night",
+      "date": "2020-12-24",
+      "path": "2020/12/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-24-december-2020-on-abc-1/13004702"
+    },
+    {
+      "special": "Christmas Special",
+      "timeslot": "morning",
+      "date": "2020-12-25",
+      "path": "2020/12/25_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-morning-25-december-2020-on-abc-1/13004704"
+    },
+    {
+      "special": "Christmas Special",
+      "timeslot": "night",
+      "date": "2020-12-25",
+      "path": "2020/12/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-25-december-2020-on-abc-1/13004708"
+    },
+    {
+      "special": "Best of the Charts 2020, VAULT, Best New Music Videos of 2020, Psychedelic Rock Special",
+      "timeslot": "morning",
+      "date": "2020-12-26",
+      "path": "2020/12/26_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-26-december-2020-on-abc-1/13004752"
+    },
+    {
+      "special": "Psychedelic Rock Special",
+      "timeslot": "night",
+      "date": "2020-12-26",
+      "path": "2020/12/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-26-december-2020-on-abc-1/13004764"
+    },
+    {
+      "special": "Best Music Videos of 2020",
+      "timeslot": "night",
+      "date": "2020-12-27",
+      "path": "2020/12/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-27-december-2020-on-abc-1/13004772"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-12-28",
+      "path": "2020/12/28_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-28-december-2020-on-abc-1/13004776"
+    },
+    {
+      "special": "New Year's Special",
+      "timeslot": "night",
+      "date": "2020-12-31",
+      "path": "2020/12/31_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-31-december-2020-on-abc-1/13005082"
     },
     {
       "special": "Best New Music Videos",
@@ -39950,272 +39950,6 @@
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-31-may-2026-on-abc-tv/106736198"
     },
     {
-      "special": "The VAULT: 80s Covers",
-      "timeslot": "night",
-      "date": "2026-07-01",
-      "path": "2026/07/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-1-july-2026-on-abc-entertains/106857364"
-    },
-    {
-      "special": "Charts",
-      "timeslot": "night",
-      "date": "2026-07-02",
-      "path": "2026/07/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-2-july-2026-on-abc-entertains/106857368"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2026-07-03",
-      "path": "2026/07/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-july-2026-on-abc-entertains/106878172"
-    },
-    {
-      "special": "Victor Willis Tribute & New Music Show",
-      "timeslot": "night",
-      "date": "2026-07-03",
-      "path": "2026/07/03_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-july-2026-on-abc-tv/106878170"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2026-07-04",
-      "path": "2026/07/04_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-4-july-2026-on-abc-tv/106878174"
-    },
-    {
-      "special": "Folktronica Special",
-      "timeslot": "night",
-      "date": "2026-07-04",
-      "path": "2026/07/04_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-july-2026-on-abc-entertains/106878178"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2026-07-04",
-      "path": "2026/07/04_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-july-2026-on-abc-tv/106878176"
-    },
-    {
-      "special": "Best New Music Videos",
-      "timeslot": "night",
-      "date": "2026-07-05",
-      "path": "2026/07/05_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-5-july-2026-on-abc-entertains/106878182"
-    },
-    {
-      "special": "The VAULT: 1996 Hip Hop & R&B",
-      "timeslot": "night",
-      "date": "2026-07-05",
-      "path": "2026/07/05_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-5-july-2026-on-abc-tv/106878180"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2026-07-06",
-      "path": "2026/07/06_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-6-july-2026-on-abc-entertains/106885938"
-    },
-    {
-      "special": "Best New Music Videos",
-      "timeslot": "night",
-      "date": "2026-07-06",
-      "path": "2026/07/06_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-6-july-2026-on-abc-tv/106885936"
-    },
-    {
-      "special": "rage Tour De France Special",
-      "timeslot": "night",
-      "date": "2026-07-07",
-      "path": "2026/07/07_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-7-july-2026-on-abc-entertains/106885940"
-    },
-    {
-      "special": "The VAULT: 1996 Hip Hop & R&B",
-      "timeslot": "night",
-      "date": "2026-07-08",
-      "path": "2026/07/08_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-8-july-2026-on-abc-entertains/106885942"
-    },
-    {
-      "special": "Charts",
-      "timeslot": "night",
-      "date": "2026-07-09",
-      "path": "2026/07/09_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-9-july-2026-on-abc-entertains/106885944"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2026-07-10",
-      "path": "2026/07/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-july-2026-on-abc-entertains/106902770"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2026-07-10",
-      "path": "2026/07/10_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-july-2026-on-abc-tv/106902768"
-    },
-    {
-      "special": "Charts, The VAULT: Sound City Studios, Best New Music Videos, NAIDOC Special",
-      "timeslot": "morning",
-      "date": "2026-07-11",
-      "path": "2026/07/11_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-11-july-2026-on-abc-tv/106902772"
-    },
-    {
-      "special": "LMAO Special",
-      "timeslot": "night",
-      "date": "2026-07-11",
-      "path": "2026/07/11_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-july-2026-on-abc-entertains/106902776"
-    },
-    {
-      "special": "NAIDOC Special",
-      "timeslot": "night",
-      "date": "2026-07-11",
-      "path": "2026/07/11_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-july-2026-on-abc-tv/106902774"
-    },
-    {
-      "special": "Best New Music Videos",
-      "timeslot": "night",
-      "date": "2026-07-12",
-      "path": "2026/07/12_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-12-july-2026-on-abc-entertains/106902780"
-    },
-    {
-      "special": "The VAULT: Sound City Studios",
-      "timeslot": "night",
-      "date": "2026-07-12",
-      "path": "2026/07/12_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-12-july-2026-on-abc-tv/106902778"
-    },
-    {
-      "special": "rage NAIDOC Special",
-      "timeslot": "night",
-      "date": "2026-07-13",
-      "path": "2026/07/13_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-13-july-2026-on-abc-entertains/106909716"
-    },
-    {
-      "special": "Best New Music Videos",
-      "timeslot": "night",
-      "date": "2026-07-13",
-      "path": "2026/07/13_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-13-july-2026-on-abc-tv/106909714"
-    },
-    {
-      "special": "rage Dolewave Special",
-      "timeslot": "night",
-      "date": "2026-07-14",
-      "path": "2026/07/14_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-14-july-2026-on-abc-entertains/106909718"
-    },
-    {
-      "special": "The VAULT: Sound City Studios",
-      "timeslot": "night",
-      "date": "2026-07-15",
-      "path": "2026/07/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-15-july-2026-on-abc-entertains/106909720"
-    },
-    {
-      "special": "Charts",
-      "timeslot": "night",
-      "date": "2026-07-16",
-      "path": "2026/07/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-16-july-2026-on-abc-entertains/106909722"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2026-07-17",
-      "path": "2026/07/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-july-2026-on-abc-entertains/106929560"
-    },
-    {
-      "special": "Bonnie Tyler Tribute, New Music Show",
-      "timeslot": "night",
-      "date": "2026-07-17",
-      "path": "2026/07/17_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-july-2026-on-abc-tv/106929558"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2026-07-18",
-      "path": "2026/07/18_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-july-2026-on-abc-tv/106929562"
-    },
-    {
-      "special": "It's Just A Song About... Special",
-      "timeslot": "night",
-      "date": "2026-07-18",
-      "path": "2026/07/18_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-july-2026-on-abc-entertains/106929566"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2026-07-18",
-      "path": "2026/07/18_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-july-2026-on-abc-tv/106929564"
-    },
-    {
-      "special": "Best New Music Videos",
-      "timeslot": "night",
-      "date": "2026-07-19",
-      "path": "2026/07/19_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-july-2026-on-abc-entertains/106929570"
-    },
-    {
-      "special": "The VAULT: 2001 Dance and Electronica",
-      "timeslot": "night",
-      "date": "2026-07-19",
-      "path": "2026/07/19_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-july-2026-on-abc-tv/106929568"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2026-07-20",
-      "path": "2026/07/20_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-20-july-2026-on-abc-entertains/106937760"
-    },
-    {
-      "special": "Best New Music Videos",
-      "timeslot": "night",
-      "date": "2026-07-20",
-      "path": "2026/07/20_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-20-july-2026-on-abc-tv/106937758"
-    },
-    {
-      "special": "rage Aussies going solo Special",
-      "timeslot": "night",
-      "date": "2026-07-21",
-      "path": "2026/07/21_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-21-july-2026-on-abc-entertains/106937762"
-    },
-    {
-      "special": "The VAULT: 2001 Dance and Electronica",
-      "timeslot": "night",
-      "date": "2026-07-22",
-      "path": "2026/07/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-22-july-2026-on-abc-entertains/106937764"
-    },
-    {
-      "special": "Charts",
-      "timeslot": "night",
-      "date": "2026-07-23",
-      "path": "2026/07/23_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-23-july-2026-on-abc-entertains/106937766"
-    },
-    {
       "special": null,
       "timeslot": "night",
       "date": "2026-06-01",
@@ -40606,6 +40340,321 @@
       "date": "2026-06-30",
       "path": "2026/06/30_night.json",
       "url": "https://www.abc.net.au/rage/playlist/tuesday-night-30-june-2026-on-abc-entertains/106857362"
+    },
+    {
+      "special": "The VAULT: 80s Covers",
+      "timeslot": "night",
+      "date": "2026-07-01",
+      "path": "2026/07/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-1-july-2026-on-abc-entertains/106857364"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-07-02",
+      "path": "2026/07/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-2-july-2026-on-abc-entertains/106857368"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-03",
+      "path": "2026/07/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-july-2026-on-abc-entertains/106878172"
+    },
+    {
+      "special": "Victor Willis Tribute & New Music Show",
+      "timeslot": "night",
+      "date": "2026-07-03",
+      "path": "2026/07/03_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-3-july-2026-on-abc-tv/106878170"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2026-07-04",
+      "path": "2026/07/04_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-4-july-2026-on-abc-tv/106878174"
+    },
+    {
+      "special": "Folktronica Special",
+      "timeslot": "night",
+      "date": "2026-07-04",
+      "path": "2026/07/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-july-2026-on-abc-entertains/106878178"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-04",
+      "path": "2026/07/04_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-july-2026-on-abc-tv/106878176"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-07-05",
+      "path": "2026/07/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-5-july-2026-on-abc-entertains/106878182"
+    },
+    {
+      "special": "The VAULT: 1996 Hip Hop & R&B",
+      "timeslot": "night",
+      "date": "2026-07-05",
+      "path": "2026/07/05_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-5-july-2026-on-abc-tv/106878180"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-06",
+      "path": "2026/07/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-6-july-2026-on-abc-entertains/106885938"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-07-06",
+      "path": "2026/07/06_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-6-july-2026-on-abc-tv/106885936"
+    },
+    {
+      "special": "rage Tour De France Special",
+      "timeslot": "night",
+      "date": "2026-07-07",
+      "path": "2026/07/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-7-july-2026-on-abc-entertains/106885940"
+    },
+    {
+      "special": "The VAULT: 1996 Hip Hop & R&B",
+      "timeslot": "night",
+      "date": "2026-07-08",
+      "path": "2026/07/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-8-july-2026-on-abc-entertains/106885942"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-07-09",
+      "path": "2026/07/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-9-july-2026-on-abc-entertains/106885944"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-10",
+      "path": "2026/07/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-july-2026-on-abc-entertains/106902770"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-07-10",
+      "path": "2026/07/10_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-10-july-2026-on-abc-tv/106902768"
+    },
+    {
+      "special": "Charts, The VAULT: Sound City Studios, Best New Music Videos, NAIDOC Special",
+      "timeslot": "morning",
+      "date": "2026-07-11",
+      "path": "2026/07/11_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-11-july-2026-on-abc-tv/106902772"
+    },
+    {
+      "special": "LMAO Special",
+      "timeslot": "night",
+      "date": "2026-07-11",
+      "path": "2026/07/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-july-2026-on-abc-entertains/106902776"
+    },
+    {
+      "special": "NAIDOC Special",
+      "timeslot": "night",
+      "date": "2026-07-11",
+      "path": "2026/07/11_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-11-july-2026-on-abc-tv/106902774"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-07-12",
+      "path": "2026/07/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-12-july-2026-on-abc-entertains/106902780"
+    },
+    {
+      "special": "The VAULT: Sound City Studios",
+      "timeslot": "night",
+      "date": "2026-07-12",
+      "path": "2026/07/12_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-12-july-2026-on-abc-tv/106902778"
+    },
+    {
+      "special": "rage NAIDOC Special",
+      "timeslot": "night",
+      "date": "2026-07-13",
+      "path": "2026/07/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-13-july-2026-on-abc-entertains/106909716"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-07-13",
+      "path": "2026/07/13_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-13-july-2026-on-abc-tv/106909714"
+    },
+    {
+      "special": "rage Dolewave Special",
+      "timeslot": "night",
+      "date": "2026-07-14",
+      "path": "2026/07/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-14-july-2026-on-abc-entertains/106909718"
+    },
+    {
+      "special": "The VAULT: Sound City Studios",
+      "timeslot": "night",
+      "date": "2026-07-15",
+      "path": "2026/07/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-15-july-2026-on-abc-entertains/106909720"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-07-16",
+      "path": "2026/07/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-16-july-2026-on-abc-entertains/106909722"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-17",
+      "path": "2026/07/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-july-2026-on-abc-entertains/106929560"
+    },
+    {
+      "special": "Bonnie Tyler Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2026-07-17",
+      "path": "2026/07/17_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-july-2026-on-abc-tv/106929558"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2026-07-18",
+      "path": "2026/07/18_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-july-2026-on-abc-tv/106929562"
+    },
+    {
+      "special": "It's Just A Song About... Special",
+      "timeslot": "night",
+      "date": "2026-07-18",
+      "path": "2026/07/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-july-2026-on-abc-entertains/106929566"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-18",
+      "path": "2026/07/18_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-july-2026-on-abc-tv/106929564"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-07-19",
+      "path": "2026/07/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-july-2026-on-abc-entertains/106929570"
+    },
+    {
+      "special": "The VAULT: 2001 Dance and Electronica",
+      "timeslot": "night",
+      "date": "2026-07-19",
+      "path": "2026/07/19_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-july-2026-on-abc-tv/106929568"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-20",
+      "path": "2026/07/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-20-july-2026-on-abc-entertains/106937760"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-07-20",
+      "path": "2026/07/20_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-20-july-2026-on-abc-tv/106937758"
+    },
+    {
+      "special": "rage Aussies going solo Special",
+      "timeslot": "night",
+      "date": "2026-07-21",
+      "path": "2026/07/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-21-july-2026-on-abc-entertains/106937762"
+    },
+    {
+      "special": "The VAULT: 2001 Dance and Electronica",
+      "timeslot": "night",
+      "date": "2026-07-22",
+      "path": "2026/07/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-22-july-2026-on-abc-entertains/106937764"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-07-23",
+      "path": "2026/07/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-23-july-2026-on-abc-entertains/106937766"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-24",
+      "path": "2026/07/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-24-july-2026-on-abc-entertains/106956114"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-07-24",
+      "path": "2026/07/24_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-24-july-2026-on-abc-tv/106956104"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2026-07-25",
+      "path": "2026/07/25_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-25-july-2026-on-abc-tv/106956106"
+    },
+    {
+      "special": "Aged Like Milk special",
+      "timeslot": "night",
+      "date": "2026-07-25",
+      "path": "2026/07/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-july-2026-on-abc-entertains/106956118"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-25",
+      "path": "2026/07/25_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-july-2026-on-abc-tv/106956108"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-07-26",
+      "path": "2026/07/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-26-july-2026-on-abc-entertains/106956196"
+    },
+    {
+      "special": "The VAULT Director Jim Yukich",
+      "timeslot": "night",
+      "date": "2026-07-26",
+      "path": "2026/07/26_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-26-july-2026-on-abc-tv/106956110"
     }
   ]
 }
