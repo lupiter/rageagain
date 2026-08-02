@@ -4635,62 +4635,6 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040430.htm"
     },
     {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-06-04",
-      "path": "2004/06/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040604.htm"
-    },
-    {
-      "special": "Grandaddy guest program",
-      "timeslot": null,
-      "date": "2004-06-05",
-      "path": "2004/06/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040605.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-06-11",
-      "path": "2004/06/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040611.htm"
-    },
-    {
-      "special": "1200 Techniques guest program",
-      "timeslot": null,
-      "date": "2004-06-12",
-      "path": "2004/06/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040612.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-06-18",
-      "path": "2004/06/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040618.htm"
-    },
-    {
-      "special": "Multi-coloured rage Special (songs with colours in their titles)",
-      "timeslot": null,
-      "date": "2004-06-19",
-      "path": "2004/06/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040619.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-06-25",
-      "path": "2004/06/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040625.htm"
-    },
-    {
-      "special": "Andre 3000 from Outkast guest programs",
-      "timeslot": null,
-      "date": "2004-06-26",
-      "path": "2004/06/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040626.htm"
-    },
-    {
       "special": "Elbow guest program",
       "timeslot": null,
       "date": "2004-05-01",
@@ -4752,6 +4696,62 @@
       "date": "2004-05-29",
       "path": "2004/05/29.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040529.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-06-04",
+      "path": "2004/06/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040604.htm"
+    },
+    {
+      "special": "Grandaddy guest program",
+      "timeslot": null,
+      "date": "2004-06-05",
+      "path": "2004/06/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040605.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-06-11",
+      "path": "2004/06/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040611.htm"
+    },
+    {
+      "special": "1200 Techniques guest program",
+      "timeslot": null,
+      "date": "2004-06-12",
+      "path": "2004/06/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040612.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-06-18",
+      "path": "2004/06/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040618.htm"
+    },
+    {
+      "special": "Multi-coloured rage Special (songs with colours in their titles)",
+      "timeslot": null,
+      "date": "2004-06-19",
+      "path": "2004/06/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040619.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-06-25",
+      "path": "2004/06/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040625.htm"
+    },
+    {
+      "special": "Andre 3000 from Outkast guest programs",
+      "timeslot": null,
+      "date": "2004-06-26",
+      "path": "2004/06/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040626.htm"
     },
     {
       "special": null,
@@ -5134,76 +5134,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2005-01-01",
-      "path": "2005/01/01.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050101.htm"
-    },
-    {
-      "special": "Episodes of Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2005-01-01",
-      "path": "2005/01/01_2.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050101.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-01-07",
-      "path": "2005/01/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050107.htm"
-    },
-    {
-      "special": "Episodes of Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2005-01-08",
-      "path": "2005/01/08.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050108.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-01-14",
-      "path": "2005/01/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050114.htm"
-    },
-    {
-      "special": "Episodes of Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2005-01-15",
-      "path": "2005/01/15.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050115.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-01-21",
-      "path": "2005/01/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050121.htm"
-    },
-    {
-      "special": "Big Day Out Special",
-      "timeslot": null,
-      "date": "2005-01-22",
-      "path": "2005/01/22.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050122.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-01-28",
-      "path": "2005/01/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050128.htm"
-    },
-    {
-      "special": "Episodes of Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2005-01-29",
-      "path": "2005/01/29.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050129.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2005-02-04",
       "path": "2005/02/04.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050204.htm"
@@ -5312,6 +5242,76 @@
       "date": "2005-03-26",
       "path": "2005/03/26.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050326.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-01-01",
+      "path": "2005/01/01.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050101.htm"
+    },
+    {
+      "special": "Episodes of Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2005-01-01",
+      "path": "2005/01/01_2.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050101.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-01-07",
+      "path": "2005/01/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050107.htm"
+    },
+    {
+      "special": "Episodes of Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2005-01-08",
+      "path": "2005/01/08.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050108.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-01-14",
+      "path": "2005/01/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050114.htm"
+    },
+    {
+      "special": "Episodes of Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2005-01-15",
+      "path": "2005/01/15.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050115.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-01-21",
+      "path": "2005/01/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050121.htm"
+    },
+    {
+      "special": "Big Day Out Special",
+      "timeslot": null,
+      "date": "2005-01-22",
+      "path": "2005/01/22.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050122.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-01-28",
+      "path": "2005/01/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050128.htm"
+    },
+    {
+      "special": "Episodes of Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2005-01-29",
+      "path": "2005/01/29.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050129.htm"
     },
     {
       "special": null,
@@ -5442,62 +5442,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2005-06-03",
-      "path": "2005/06/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050603.htm"
-    },
-    {
-      "special": "Scribe guest programs",
-      "timeslot": null,
-      "date": "2005-06-04",
-      "path": "2005/06/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050604.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-06-10",
-      "path": "2005/06/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050610.htm"
-    },
-    {
-      "special": "The Used guest program plus Foo Fighters interview & clips",
-      "timeslot": null,
-      "date": "2005-06-11",
-      "path": "2005/06/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050611.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-06-17",
-      "path": "2005/06/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050617.htm"
-    },
-    {
-      "special": "Handsome Boy Modeling School guest program",
-      "timeslot": null,
-      "date": "2005-06-18",
-      "path": "2005/06/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050618.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-06-24",
-      "path": "2005/06/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050624.htm"
-    },
-    {
-      "special": "Tori Amos guest programs",
-      "timeslot": null,
-      "date": "2005-06-25",
-      "path": "2005/06/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050625.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2005-07-01",
       "path": "2005/07/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050701.htm"
@@ -5568,6 +5512,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2005-06-03",
+      "path": "2005/06/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050603.htm"
+    },
+    {
+      "special": "Scribe guest programs",
+      "timeslot": null,
+      "date": "2005-06-04",
+      "path": "2005/06/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050604.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-06-10",
+      "path": "2005/06/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050610.htm"
+    },
+    {
+      "special": "The Used guest program plus Foo Fighters interview & clips",
+      "timeslot": null,
+      "date": "2005-06-11",
+      "path": "2005/06/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050611.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-06-17",
+      "path": "2005/06/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050617.htm"
+    },
+    {
+      "special": "Handsome Boy Modeling School guest program",
+      "timeslot": null,
+      "date": "2005-06-18",
+      "path": "2005/06/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050618.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-06-24",
+      "path": "2005/06/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050624.htm"
+    },
+    {
+      "special": "Tori Amos guest programs",
+      "timeslot": null,
+      "date": "2005-06-25",
+      "path": "2005/06/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050625.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2005-08-05",
       "path": "2005/08/05.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050805.htm"
@@ -5620,69 +5620,6 @@
       "date": "2005-08-27",
       "path": "2005/08/27.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050827.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-09-02",
-      "path": "2005/09/02.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050902.htm"
-    },
-    {
-      "special": "Bloc Party guest program",
-      "timeslot": null,
-      "date": "2005-09-03",
-      "path": "2005/09/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050903.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-09-09",
-      "path": "2005/09/09.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050909.htm"
-    },
-    {
-      "special": "Magic Dirt guest program",
-      "timeslot": null,
-      "date": "2005-09-10",
-      "path": "2005/09/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050910.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-09-16",
-      "path": "2005/09/16.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050916.htm"
-    },
-    {
-      "special": "Don Letts guest programs",
-      "timeslot": null,
-      "date": "2005-09-17",
-      "path": "2005/09/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050917.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-09-23",
-      "path": "2005/09/23.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050923.htm"
-    },
-    {
-      "special": "Interpol guest program",
-      "timeslot": null,
-      "date": "2005-09-24",
-      "path": "2005/09/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050924.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-09-30",
-      "path": "2005/09/30.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050930.htm"
     },
     {
       "special": "Queens Of The Stone Age guest program",
@@ -5746,6 +5683,69 @@
       "date": "2005-10-29",
       "path": "2005/10/29.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051029.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-09-02",
+      "path": "2005/09/02.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050902.htm"
+    },
+    {
+      "special": "Bloc Party guest program",
+      "timeslot": null,
+      "date": "2005-09-03",
+      "path": "2005/09/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050903.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-09-09",
+      "path": "2005/09/09.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050909.htm"
+    },
+    {
+      "special": "Magic Dirt guest program",
+      "timeslot": null,
+      "date": "2005-09-10",
+      "path": "2005/09/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050910.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-09-16",
+      "path": "2005/09/16.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050916.htm"
+    },
+    {
+      "special": "Don Letts guest programs",
+      "timeslot": null,
+      "date": "2005-09-17",
+      "path": "2005/09/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050917.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-09-23",
+      "path": "2005/09/23.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050923.htm"
+    },
+    {
+      "special": "Interpol guest program",
+      "timeslot": null,
+      "date": "2005-09-24",
+      "path": "2005/09/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050924.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-09-30",
+      "path": "2005/09/30.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050930.htm"
     },
     {
       "special": null,
@@ -40690,6 +40690,55 @@
       "date": "2026-07-30",
       "path": "2026/07/30_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-30-july-2026-on-abc-entertains/106963336"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-07-31",
+      "path": "2026/07/31_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-31-july-2026-on-abc-entertains/106982998"
+    },
+    {
+      "special": "Bill Oddie Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2026-07-31",
+      "path": "2026/07/31_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-31-july-2026-on-abc-tv/106982984"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2026-08-01",
+      "path": "2026/08/01_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-1-august-2026-on-abc-tv/106982996"
+    },
+    {
+      "special": "One Take Wonders Special",
+      "timeslot": "night",
+      "date": "2026-08-01",
+      "path": "2026/08/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-1-august-2026-on-abc-entertains/106983002"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-08-01",
+      "path": "2026/08/01_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-1-august-2026-on-abc-tv/106983000"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-08-02",
+      "path": "2026/08/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-2-august-2026-on-abc-entertains/106983006"
+    },
+    {
+      "special": "The VAULT: Mute Records",
+      "timeslot": "night",
+      "date": "2026-08-02",
+      "path": "2026/08/02_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-2-august-2026-on-abc-tv/106983004"
     }
   ]
 }
