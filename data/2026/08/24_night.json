@@ -1,0 +1,51 @@
+{
+  "title": "Monday night 24 August 2026 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2026-08-24",
+  "url": "https://www.abc.net.au/rage/playlist/monday-night-24-august-2026-on-abc-entertains/107065518",
+  "tracks": [
+    {
+      "artist": "SEX PISTOLS",
+      "song": "Anarchy In The U.K.",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "STEPPENWOLF",
+      "song": "Born To Be Wild",
+      "label": "S.Y.A.P",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "The Passenger (missing label)",
+      "label": "missing label",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "WET LEG",
+      "song": "Chaise Longue",
+      "label": "Domino",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE SMASHING PUMPKINS",
+      "song": "Empires",
+      "label": "Martha's Music",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Harvest Moon",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Blue Monday",
+      "label": null,
+      "timeslot": "00:00:00"
+    }
+  ]
+}

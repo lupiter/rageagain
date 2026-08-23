@@ -1,0 +1,669 @@
+{
+  "title": "Saturday night 22 August 2026 on ABC TV",
+  "special": null,
+  "timeslot": "night",
+  "date": "2026-08-22",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-22-august-2026-on-abc-tv/107065530",
+  "tracks": [
+    {
+      "artist": "JOY DIVISION - LIVE",
+      "song": "Transmission",
+      "label": "Fest/Mush",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Rock The Casbah",
+      "label": "Shock",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BILLY IDOL",
+      "song": "Rebel Yell",
+      "label": "Fest/Mush",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "CHEAP TRICK",
+      "song": "I Want You To Want Me",
+      "label": "Epic",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE BUZZCOCKS",
+      "song": "Ever Fallen In Love",
+      "label": "BMG",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Call Me",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE BEE GEES",
+      "song": "Stayin' Alive",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "Love Is The Drug (missing label)",
+      "label": "missing label",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SIOUXSIE & THE BANSHEES",
+      "song": "Peek A Boo",
+      "label": "Polydor",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "IAN DURY & THE BLOCKHEADS",
+      "song": "Reasons To Be Cheerful",
+      "label": "Festival",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "STEVE HARLEY AND COCKNEY REBEL",
+      "song": "Make Me Smile (Come Up And See Me)",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "The Lovecats",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Personal Jesus",
+      "label": "Mushroom",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "The Perfect Kiss",
+      "label": "Festival",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "EURYTHMICS",
+      "song": "Sweet Dreams",
+      "label": "MCA)",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE CULT",
+      "song": "She Sells Sanctuary",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Jean Genie",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Let's Dance",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Space Oddity",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "Security",
+      "label": "B2B Records / Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Helicopter",
+      "label": "Fest/Mush",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SEX PISTOLS",
+      "song": "Anarchy In The U.K.",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Paranoid",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BLACK REBEL MOTORCYCLE CLUB",
+      "song": "Whatever Happened To My Rock 'N' Roll",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STEPPENWOLF",
+      "song": "Born To Be Wild",
+      "label": "S.Y.A.P",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DEEP PURPLE",
+      "song": "Highway Star",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRIMAL SCREAM",
+      "song": "Loaded",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BEACH BOYS",
+      "song": "I Get Around",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "The Passenger (missing label)",
+      "label": "missing label",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE STRANGLERS",
+      "song": "Golden Brown",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE DOORS",
+      "song": "Light My Fire",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GORILLAZ ft. PETER HOOK & GEORGIA",
+      "song": "Aries",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "INTERPOL",
+      "song": "Evil",
+      "label": "Remote Control",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Loser",
+      "label": "MCA)",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Crystal",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "UNDERWORLD",
+      "song": "Born Slippy",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Hey Boy, Hey Girl",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "808 STATE",
+      "song": "Pacific State",
+      "label": "WEA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WET LEG",
+      "song": "Chaise Longue",
+      "label": "Domino",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE CORAL",
+      "song": "Dreaming Of You",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EDITORS",
+      "song": "Munich",
+      "label": "SpeaknSpell",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE SMASHING PUMPKINS",
+      "song": "Empires",
+      "label": "Martha's Music",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DOVES",
+      "song": "There Goes The Fear",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE DANDY WARHOLS",
+      "song": "Godless",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MARK LANEGAN BAND",
+      "song": "The Gravedigger's Song",
+      "label": "Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "Starburster",
+      "label": "XL",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEFTONES",
+      "song": "Be Quiet And Drive",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Harvest Moon",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ECHO & THE BUNNYMEN",
+      "song": "The Killing Moon",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE PIXIES",
+      "song": "Monkey Gone To Heaven",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JOY DIVISION - LIVE",
+      "song": "She's Lost Control",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JOY DIVISION - LIVE",
+      "song": "Shadow Play",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Love Will Tear Us Apart",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Atmosphere",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Temptation",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Blue Monday",
+      "label": "Factory",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Confusion",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Shellshock",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "State Of The Nation",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Bizarre Love Triangle",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "True Faith",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "1963",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Touched By The Hand Of God",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Fine Time",
+      "label": "Fest/Mush",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Round and Round",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Run",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "World In Motion",
+      "label": "Festival",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Regret",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Ruined In A Day",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "World (Price Of Love)",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Spooky",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "60 MPH",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Here To Stay",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Krafty",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Waiting For The Sirens' Call",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Jetstream",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MONACO",
+      "song": "What Do You Want From Me?",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MONACO",
+      "song": "Sweet Lips",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MONACO",
+      "song": "Shine",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CARLY RAE JEPSEN",
+      "song": "Don't Leave Me On The Dancefloor",
+      "label": "School Boy/Interscope",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GRUMPY",
+      "song": "OBL",
+      "label": "Bayonet Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DOPAMINE",
+      "song": "Crash",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RUBY RODGERS",
+      "song": "Suicide Doves",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LUCY SUGERMAN",
+      "song": "Friends To Lovers",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AUDREY HOBERT",
+      "song": "Silver Jubilee",
+      "label": "RCA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NO SUITS",
+      "song": "Happy Man",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NOTHING BUT THIEVES",
+      "song": "Baby Kool (Evelyn)",
+      "label": "RCA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GIRL ULTRA ft. BUSCABULLA",
+      "song": "Mentirasmentiras",
+      "label": "Big Dada",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ROYPIM",
+      "song": "Window (IDC)",
+      "label": "NewEchoes",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SOUL WUN",
+      "song": "When The Rain Begins To Fall",
+      "label": "Gallery Recordings",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PAN TERRA",
+      "song": "Quit My Job",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TOM NETHERSOLE",
+      "song": "The Village",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "VANISHING TWIN",
+      "song": "Sugar Stone",
+      "label": "Fire Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GIRL TONES",
+      "song": "Pretty Face",
+      "label": "Big Loud Rock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BARRY CAN'T SWIM",
+      "song": "Dance Dance Dance!",
+      "label": "Earths Only Paradise / Atlantic Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ASHE",
+      "song": "Stop The Wedding!",
+      "label": "Atlantic",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BAKER BOY",
+      "song": "Yolnu Fever",
+      "label": "Island Records Australia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PHOEBE BRIDGERS",
+      "song": "I Can't Wait",
+      "label": "Dead Oceans",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HUDSON FREEMAN",
+      "song": "I-40",
+      "label": "Mom and Pop",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "Marianne",
+      "label": "XL Recordings",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ORVILLE PECK",
+      "song": "Already Gone",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JUNGLE",
+      "song": "Sunshine",
+      "label": "Caiola Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TARANEH",
+      "song": "Only One",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WINTER MCQUINN & ACACIA PIP",
+      "song": "Exactly The Same",
+      "label": "Third Eye Stimuli Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LOVE SPELLS",
+      "song": "Don't Touch",
+      "label": "RCA",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "C.E.O.",
+      "label": "Reprise / Warner Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DENZEL CURRY & KENNETH BLUME",
+      "song": "Difference",
+      "label": "Loma Vista",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PEKING DUK",
+      "song": "Paradise",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MY GUARDIAN ANGEL",
+      "song": "Phoenix Garden",
+      "label": "Blossom Rot Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BALU BRIGADA",
+      "song": "BedHead",
+      "label": "Atlantic",
+      "timeslot": "06:30:00"
+    }
+  ]
+}
