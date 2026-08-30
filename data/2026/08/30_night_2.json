@@ -1,0 +1,255 @@
+{
+  "title": "Sunday night 30 August 2026 on ABC TV",
+  "special": "The VAULT: Rockin' in '81",
+  "timeslot": "night",
+  "date": "2026-08-30",
+  "url": "https://www.abc.net.au/rage/playlist/sunday-night-30-august-2026-on-abc-tv/107090846",
+  "tracks": [
+    {
+      "artist": "THE WHO",
+      "song": "You Better You Bet",
+      "label": "Polydor",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "SANTANA",
+      "song": "Winning",
+      "label": "CBS",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DIRE STRAITS",
+      "song": "Skateaway",
+      "label": "Warner Bros Records",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Start Me Up",
+      "label": "Virgin",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE PRETENDERS",
+      "song": "Message Of Love",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "Funeral Pyre",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Primary",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SIOUXSIE & THE BANSHEES",
+      "song": "Spellbound",
+      "label": "Independent",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "The Call Up",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "TOM PETTY & THE HEARTBREAKERS",
+      "song": "The Waiting",
+      "label": null,
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE CARS",
+      "song": "Shake It Up",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "J GEILS BAND",
+      "song": "Centerfold",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LOVERBOY",
+      "song": "Working For The Weekend",
+      "label": "CBS",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "RUSH",
+      "song": "Tom Sawyer",
+      "label": null,
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "STYX",
+      "song": "Too Much Time On My Hands",
+      "label": "A_and_M Records",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "GENESIS",
+      "song": "Abacab",
+      "label": "Vertigo",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "GRAHAM BONNET",
+      "song": "Night Games",
+      "label": "Mercury",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "RAINBOW",
+      "song": "Can't Happen Here",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "AUSTRALIAN CRAWL",
+      "song": "Errol",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MEN AT WORK",
+      "song": "Who Can It Be Now",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DIVINYLS",
+      "song": "Boys In Town",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "The Loved One",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE SUNNYBOYS",
+      "song": "Happy Man",
+      "label": "Festival",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "FLOWERS",
+      "song": "Walls",
+      "label": "Festival",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "You Got Nothing I Want",
+      "label": "WEA",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL - LIVE IN CONCERT",
+      "song": "Don't Wanna Be The One",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SPLIT ENZ",
+      "song": "One Step Ahead",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE SWINGERS",
+      "song": "Counting The Beat",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BLUE OYSTER CULT",
+      "song": "Burnin' For You",
+      "label": "CBS",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GREG KIHN BAND",
+      "song": "The Break Up Song",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PHIL SEYMOUR",
+      "song": "Precious To Me",
+      "label": "CBS",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "QUARTERFLASH",
+      "song": "Harden My Heart",
+      "label": "Geffen",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PAT BENATAR",
+      "song": "Fire And Ice",
+      "label": "Chrysalis",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FOREIGNER",
+      "song": "Urgent",
+      "label": "Atlantic",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BILLY SQUIER",
+      "song": "The Stroke",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JOAN JETT & THE BLACKHEARTS",
+      "song": "Bad Reputation",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GIRLSCHOOL",
+      "song": "Hit And Run",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MOTORHEAD/GIRLSCHOOL",
+      "song": "Please Don't Touch",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KROKUS",
+      "song": "Rock City",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TRIUMPH",
+      "song": "Allied Forces",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PETER FRAMPTON",
+      "song": "Breaking All The Rules",
+      "label": "A and M Records",
+      "timeslot": "01:30:00"
+    }
+  ]
+}
