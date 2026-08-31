@@ -6723,76 +6723,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2007-03-02",
-      "path": "2007/03/02.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975152.htm"
-    },
-    {
-      "special": "Trivium guest program ",
-      "timeslot": null,
-      "date": "2007-03-03",
-      "path": "2007/03/03.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975151.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-03-09",
-      "path": "2007/03/09.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975150.htm"
-    },
-    {
-      "special": "Josh Pyke guest programs",
-      "timeslot": null,
-      "date": "2007-03-10",
-      "path": "2007/03/10.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975148.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-03-16",
-      "path": "2007/03/16.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975145.htm"
-    },
-    {
-      "special": "Billy Thorpe Special & Australian Music Special ",
-      "timeslot": null,
-      "date": "2007-03-17",
-      "path": "2007/03/17.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975144.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-03-23",
-      "path": "2007/03/23.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975143.htm"
-    },
-    {
-      "special": "Peaches guest programs ",
-      "timeslot": null,
-      "date": "2007-03-24",
-      "path": "2007/03/24.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975136.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-03-30",
-      "path": "2007/03/30.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975135.htm"
-    },
-    {
-      "special": "Beastie Boys guest program ",
-      "timeslot": null,
-      "date": "2007-03-31",
-      "path": "2007/03/31.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975132.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2007-04-06",
       "path": "2007/04/06.json",
       "url": "http://www.abc.net.au/rage/archive/s1975129.htm"
@@ -6901,6 +6831,76 @@
       "date": "2007-05-26",
       "path": "2007/05/26.json",
       "url": "http://www.abc.net.au/rage/archive/s1992803.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-03-02",
+      "path": "2007/03/02.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975152.htm"
+    },
+    {
+      "special": "Trivium guest program ",
+      "timeslot": null,
+      "date": "2007-03-03",
+      "path": "2007/03/03.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975151.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-03-09",
+      "path": "2007/03/09.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975150.htm"
+    },
+    {
+      "special": "Josh Pyke guest programs",
+      "timeslot": null,
+      "date": "2007-03-10",
+      "path": "2007/03/10.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975148.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-03-16",
+      "path": "2007/03/16.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975145.htm"
+    },
+    {
+      "special": "Billy Thorpe Special & Australian Music Special ",
+      "timeslot": null,
+      "date": "2007-03-17",
+      "path": "2007/03/17.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975144.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-03-23",
+      "path": "2007/03/23.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975143.htm"
+    },
+    {
+      "special": "Peaches guest programs ",
+      "timeslot": null,
+      "date": "2007-03-24",
+      "path": "2007/03/24.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975136.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-03-30",
+      "path": "2007/03/30.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975135.htm"
+    },
+    {
+      "special": "Beastie Boys guest program ",
+      "timeslot": null,
+      "date": "2007-03-31",
+      "path": "2007/03/31.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975132.htm"
     },
     {
       "special": null,
@@ -8921,90 +8921,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2010-02-05",
-      "path": "2010/02/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2811440.htm"
-    },
-    {
-      "special": "Grizzly Bear Guest Program",
-      "timeslot": "morning",
-      "date": "2010-02-06",
-      "path": "2010/02/06_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2811435.htm"
-    },
-    {
-      "special": "Grizzly Bear Guest Program",
-      "timeslot": "night",
-      "date": "2010-02-06",
-      "path": "2010/02/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2811445.htm"
-    },
-    {
-      "special": "rage counts down triple j's Hottest 100 for 2010!",
-      "timeslot": "night",
-      "date": "2010-02-12",
-      "path": "2010/02/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2818120.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2010-02-13",
-      "path": "2010/02/13_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2818113.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-02-13",
-      "path": "2010/02/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2818126.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-02-19",
-      "path": "2010/02/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2824955.htm"
-    },
-    {
-      "special": "Florence And The Machine",
-      "timeslot": "morning",
-      "date": "2010-02-20",
-      "path": "2010/02/20_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2824952.htm"
-    },
-    {
-      "special": "Florence And The Machine",
-      "timeslot": "night",
-      "date": "2010-02-20",
-      "path": "2010/02/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2824958.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-02-26",
-      "path": "2010/02/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2831470.htm"
-    },
-    {
-      "special": "Patrick Wolf",
-      "timeslot": "morning",
-      "date": "2010-02-27",
-      "path": "2010/02/27_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2831464.htm"
-    },
-    {
-      "special": "Patrick Wolf",
-      "timeslot": "night",
-      "date": "2010-02-27",
-      "path": "2010/02/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2831472.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2010-01-01",
       "path": "2010/01/01_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2783358.htm"
@@ -9106,6 +9022,90 @@
       "date": "2010-01-30",
       "path": "2010/01/30_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2805237.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-02-05",
+      "path": "2010/02/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2811440.htm"
+    },
+    {
+      "special": "Grizzly Bear Guest Program",
+      "timeslot": "morning",
+      "date": "2010-02-06",
+      "path": "2010/02/06_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2811435.htm"
+    },
+    {
+      "special": "Grizzly Bear Guest Program",
+      "timeslot": "night",
+      "date": "2010-02-06",
+      "path": "2010/02/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2811445.htm"
+    },
+    {
+      "special": "rage counts down triple j's Hottest 100 for 2010!",
+      "timeslot": "night",
+      "date": "2010-02-12",
+      "path": "2010/02/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2818120.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2010-02-13",
+      "path": "2010/02/13_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2818113.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-02-13",
+      "path": "2010/02/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2818126.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-02-19",
+      "path": "2010/02/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2824955.htm"
+    },
+    {
+      "special": "Florence And The Machine",
+      "timeslot": "morning",
+      "date": "2010-02-20",
+      "path": "2010/02/20_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2824952.htm"
+    },
+    {
+      "special": "Florence And The Machine",
+      "timeslot": "night",
+      "date": "2010-02-20",
+      "path": "2010/02/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2824958.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-02-26",
+      "path": "2010/02/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2831470.htm"
+    },
+    {
+      "special": "Patrick Wolf",
+      "timeslot": "morning",
+      "date": "2010-02-27",
+      "path": "2010/02/27_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2831464.htm"
+    },
+    {
+      "special": "Patrick Wolf",
+      "timeslot": "night",
+      "date": "2010-02-27",
+      "path": "2010/02/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2831472.htm"
     },
     {
       "special": null,
