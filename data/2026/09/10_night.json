@@ -1,0 +1,45 @@
+{
+  "title": "Thursday night 10 September 2026 on ABC Entertains",
+  "special": "Charts",
+  "timeslot": "night",
+  "date": "2026-09-10",
+  "url": "https://www.abc.net.au/rage/playlist/thursday-night-10-september-2026-on-abc-entertains/107117426",
+  "tracks": [
+    {
+      "artist": "TAME IMPALA",
+      "song": "Loser",
+      "label": "Columbia",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "OLIVIA RODRIGO",
+      "song": "stupid song",
+      "label": "Independent/Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "ALEX WARREN",
+      "song": "Ordinary",
+      "label": "Atlantic",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SAM FENDER ft. OLIVIA DEAN",
+      "song": "Rein Me In",
+      "label": "Polydor",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "OLIVIA DEAN",
+      "song": "Man I Need",
+      "label": "Capitol",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "ELLA LANGLEY",
+      "song": "Choosin' Texas",
+      "label": null,
+      "timeslot": "00:00:00"
+    }
+  ]
+}

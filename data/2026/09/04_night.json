@@ -1,0 +1,75 @@
+{
+  "title": "Friday night 4 September 2026 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2026-09-04",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-4-september-2026-on-abc-entertains/107117270",
+  "tracks": [
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Step On",
+      "label": "Festival",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SEX PISTOLS",
+      "song": "Pretty Vacant",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SID VICIOUS",
+      "song": "My Way",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Love Will Tear Us Apart",
+      "label": "Festival",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Confusion",
+      "label": "Festival",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "STONE ROSES vs GROOVERIDER",
+      "song": "Fools Gold",
+      "label": "Jive/Zomba",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "TRICKY",
+      "song": "Black Steel",
+      "label": "Mercury",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE POGUES featuring KIRSTY MACCOLL",
+      "song": "Fairytale Of New York",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Lazyitis",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Kinky Afro",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Twenty Four Hour Party People",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    }
+  ]
+}
