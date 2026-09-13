@@ -1,0 +1,39 @@
+{
+  "title": "Monday night 14 September 2026 on ABC TV",
+  "special": "Best New Music Videos",
+  "timeslot": "night",
+  "date": "2026-09-14",
+  "url": "https://www.abc.net.au/rage/playlist/monday-night-14-september-2026-on-abc-tv/107144610",
+  "tracks": [
+    {
+      "artist": "SWIMMING PAUL",
+      "song": "Downtown",
+      "label": "Headroom Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE KOREATOWN ODDITY",
+      "song": "Ragu & Prego",
+      "label": "Stones Throw Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DIIV",
+      "song": "Kid",
+      "label": "Fantasy",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PARTY DOZEN",
+      "song": "Euro Stomper",
+      "label": "GRUPO",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KIKO MIZUHARA",
+      "song": "Feelin' Wee",
+      "label": "Stones Throw Records",
+      "timeslot": "02:30:00"
+    }
+  ]
+}

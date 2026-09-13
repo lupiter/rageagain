@@ -1,0 +1,51 @@
+{
+  "title": "Monday night 14 September 2026 on ABC Entertains",
+  "special": null,
+  "timeslot": "night",
+  "date": "2026-09-14",
+  "url": "https://www.abc.net.au/rage/playlist/monday-night-14-september-2026-on-abc-entertains/107144628",
+  "tracks": [
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "U Should Not Be Doing That",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Supersonic",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Praise You",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "My People",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "EMINEM",
+      "song": "Without Me",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THREE 6 MAFIA",
+      "song": "Stay Fly",
+      "label": "SBME",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "C.O.F.F.I.N",
+      "song": "Headland",
+      "label": null,
+      "timeslot": "00:30:00"
+    }
+  ]
+}
