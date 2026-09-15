@@ -14,7 +14,7 @@
   "author": "Patrick Galbraith",
   "license": "AGPL-3.0-only",
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20241218.0",
+    "@cloudflare/workers-types": "^5.20260911.0",
     "@types/chai": "^5.0.1",
     "@types/mocha": "^10.0.10",
     "@types/service-worker-mock": "^2.0.4",
