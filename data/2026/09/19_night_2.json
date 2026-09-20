@@ -1,0 +1,705 @@
+{
+  "title": "Saturday night 19 September 2026 on ABC TV",
+  "special": null,
+  "timeslot": "night",
+  "date": "2026-09-19",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-19-september-2026-on-abc-tv/107170738",
+  "tracks": [
+    {
+      "artist": "LARISSA LAMBERT",
+      "song": "Blood On The Strings",
+      "label": "New Levels",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "FOUNTAINS OF WAYNE",
+      "song": "Stacy's Mom",
+      "label": "Virgin",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "THE OFFSPRING",
+      "song": "Pretty Fly (For A White Guy)",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "AVRIL LAVIGNE featuring LIL' MAMA",
+      "song": "Girlfriend (Remix)",
+      "label": "SBME",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "GWEN STEFANI",
+      "song": "The Sweet Escape",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "GWEN STEFANI",
+      "song": "Hollaback Girl",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "PUSSYCAT DOLLS featuring BUSTA RHYMES",
+      "song": "Don't Cha",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "PINK",
+      "song": "Don't Let Me Get Me",
+      "label": "BMG",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SHAGGY",
+      "song": "It Wasn't Me",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "NELLY featuring KELLY ROWLAND",
+      "song": "Dilemma",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "TLC",
+      "song": "No Scrubs",
+      "label": "BMG",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "FRANKEE",
+      "song": "F.U.R.B. (F**k You Right Back)",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "FERGIE featuring LUDACRIS",
+      "song": "Glamorous",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "JIBBS",
+      "song": "Chain Hang Low",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "FATMAN SCOOP featuring THE CROOKLYN CLAN",
+      "song": "Be Faithful",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BAHA MEN",
+      "song": "Who Let The Dogs Out (Barking Mad mix)",
+      "label": "Fest/Mush",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Bootylicious",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BLACK EYED PEAS",
+      "song": "My Humps",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "JA RULE ft. ASHANTI",
+      "song": "Mesmerize",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BILLIE EILISH",
+      "song": "All The Good Girls Go To Hell",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BILLIE EILISH",
+      "song": "When The Party's Over",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SUGABABES",
+      "song": "Overload",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "I Miss You",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PANIC! AT THE DISCO",
+      "song": "I Write Sins Not Tragedies",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE CARDIGANS",
+      "song": "Lovefool",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DIDO",
+      "song": "White Flag",
+      "label": "BMG",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "NATALIE IMBRUGLIA",
+      "song": "Torn",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JENNIFER PAIGE",
+      "song": "Crush",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AALIYAH",
+      "song": "Rock The Boat",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ASHANTI",
+      "song": "Rock Wit You (Aww Baby)",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BRANDY & MONICA",
+      "song": "The Boy Is Mine",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "Honey",
+      "label": "Rage",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "Obsessed",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "Shake It Off",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "Needed Me",
+      "label": "Roc Nation",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "If It's Lovin' That You Want",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Cater 2 U",
+      "label": "SBME",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BABY BASH featuring FRANKIE J",
+      "song": "Suga Suga",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PINK",
+      "song": "Family Portrait",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CHRISTINA AGUILERA",
+      "song": "Genie In A Bottle",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NELLY FURTADO",
+      "song": "I'm Like A Bird",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "Sometimes",
+      "label": "Jive/Zomba",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SIXPENCE NONE THE RICHER",
+      "song": "Kiss Me",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ADDISON RAE",
+      "song": "High Fashion",
+      "label": "Columbia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KE$HA",
+      "song": "Your Love Is My Drug",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "USHER",
+      "song": "Burn",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SZA",
+      "song": "Good Days",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AMANDA PEREZ",
+      "song": "Angel",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALICIA KEYS",
+      "song": "Fallin'",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEBORAH COX",
+      "song": "Who Do U Love",
+      "label": "Arista",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JO JO",
+      "song": "Too Little Too Late",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALL SAINTS",
+      "song": "Never Ever",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LARISSA LAMBERT & JAY SEAN",
+      "song": "Ride It",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LARISSA LAMBERT",
+      "song": "9 to 5",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "OPEN TILL L8 & LARISSA LAMBERT",
+      "song": "Come Over",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LARISSA LAMBERT",
+      "song": "Good Time",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CRAIG DAVID",
+      "song": "7 Days",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MYA",
+      "song": "Case Of The Ex",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Bills, Bills, Bills",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CHRISTINA AGUILERA",
+      "song": "Come On Over Baby (All I Want Is You)",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BARDOT",
+      "song": "Poison",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "Oops! I Did It Again",
+      "label": "Jive/Zomba",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KELIS",
+      "song": "Trick Me",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TONI BRAXTON",
+      "song": "He Wasn't Man Enough For Me",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "Heartbreaker",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "EVE featuring GWEN STEFANI",
+      "song": "Let Me Blow Ya Mind",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLACKSTREET ft. DR DRE & QUEEN PEN",
+      "song": "No Diggity",
+      "label": "MCA)",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MARY J BLIGE",
+      "song": "Family Affair",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "USHER",
+      "song": "U Remind Me",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "AMY WINEHOUSE",
+      "song": "Back To Black",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SUGABABES",
+      "song": "Freak Like Me",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TLC",
+      "song": "Creep",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Love At First Sight",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JAGGED EDGE",
+      "song": "Where The Party At",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JESSICA MAUBOY",
+      "song": "Burn",
+      "label": "SBME",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SHAKAYA",
+      "song": "Stop Calling Me",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MADISON AVENUE",
+      "song": "Don't Call Me Baby",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ERIC PRYDZ",
+      "song": "Call On Me",
+      "label": "MOS/EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MICHAEL GRAY",
+      "song": "The Weekend",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LIBERTY X",
+      "song": "Just A Little",
+      "label": "Jive/Zomba",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SUPERMEN LOVERS",
+      "song": "Starlight",
+      "label": "BMG",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PURETONE",
+      "song": "Addicted To Bass (Apollo 440 remix)",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "REPUBLICA",
+      "song": "Ready To Go",
+      "label": "BMG",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE VERONICAS",
+      "song": "Untouched",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SHAKESPEAR'S SISTER",
+      "song": "Stay",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LOGIC1000 ft. CHRISTINE AND THE QUEENS",
+      "song": "The Only One",
+      "label": "Therapy / Because Music",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MATAHARA",
+      "song": "Caroline",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HELLCAT SPEEDRACER",
+      "song": "Back To Life",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DIIV",
+      "song": "Kid",
+      "label": "Fantasy",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BINA.",
+      "song": "The Art Of Anger",
+      "label": "Platoon",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KIKO MIZUHARA",
+      "song": "Feelin' Wee",
+      "label": "Stones Throw Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PARTY DOZEN",
+      "song": "Euro Stomper",
+      "label": "GRUPO",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DEEPFAITH",
+      "song": "Holy Holy Lord",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PEARL & THE OYSTERS",
+      "song": "A Pocket Symphony",
+      "label": "Stones Throw Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JAMES MARRIOTT",
+      "song": "Burn Down The Disco",
+      "label": "AWAL",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LOS BITCHOS ft. AMBROSE KENNY-SMITH",
+      "song": "Holding Cell",
+      "label": "City Slang",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BLIMP",
+      "song": "Stream Entry",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE CLONES",
+      "song": "Monty",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE LINDA LINDAS",
+      "song": "Everybody Told Me",
+      "label": "Reprise / Warner Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "UWASE",
+      "song": "9to5",
+      "label": "Play It Again Sam",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RADIO FREE ALICE",
+      "song": "Crying With You",
+      "label": "Atlantic",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PUBLIC FIGURES",
+      "song": "Push My Buttons",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TWISTED TEENS",
+      "song": "When We First Met",
+      "label": "Sub Pop",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KINGS OF LEON",
+      "song": "My Whole World",
+      "label": "Love Tap Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SEX WEEK",
+      "song": "Life Is A Circle",
+      "label": "Grand Jury Music",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "1TBSP ft. KID ON AIR",
+      "song": "Wish You Luck",
+      "label": "dottidot",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WARHAUS",
+      "song": "Simple Pleasures",
+      "label": "Play It Again Sam",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EXPO 2000",
+      "song": "Do Me, Do Me!",
+      "label": "Headz Headquarterz",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MATILDA MANN",
+      "song": "Chain Reaction",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RAYE ft. AMMA, ABSOLUTELY",
+      "song": "Joy",
+      "label": "Human Re Sources",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DOVE CAMERON",
+      "song": "When In Rome",
+      "label": "Columbia",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LIMINAL",
+      "song": "Glue Gun",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BROKENCHORD",
+      "song": "MKUltra Scarecrow",
+      "label": "South Of North",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KIKI ROCKWELL",
+      "song": "A Dying Knight's Lament",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "POSITIVE SPIN",
+      "song": "Footy (Saved My Life)",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "RAVEENA",
+      "song": "Blissed Out",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

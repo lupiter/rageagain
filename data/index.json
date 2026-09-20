@@ -428,6 +428,69 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980731.htm"
     },
     {
+      "special": "Repeat of Stone Gossard from Brad/Pearl Jam & Regan Hagar from Brad guest programming ",
+      "timeslot": null,
+      "date": "1998-08-01",
+      "path": "1998/08/01.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980801.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-08-07",
+      "path": "1998/08/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980807.htm"
+    },
+    {
+      "special": "Natasha Schaade (Triple J's Hottest 100 Of All Time winner) guest programs rage",
+      "timeslot": null,
+      "date": "1998-08-08",
+      "path": "1998/08/08.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980808.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-08-14",
+      "path": "1998/08/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980814.htm"
+    },
+    {
+      "special": "Smashing Pumpkins secret gig followed by Smashing Pumpkins videos",
+      "timeslot": null,
+      "date": "1998-08-15",
+      "path": "1998/08/15.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980815.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-08-21",
+      "path": "1998/08/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980821.htm"
+    },
+    {
+      "special": "Dicky Barrett & Joe G from The Mighty Mighty Bosstones guest program rage",
+      "timeslot": null,
+      "date": "1998-08-22",
+      "path": "1998/08/22.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980822.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-08-28",
+      "path": "1998/08/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980828.htm"
+    },
+    {
+      "special": "U.K Bands & Artists special",
+      "timeslot": null,
+      "date": "1998-08-29",
+      "path": "1998/08/29.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980829.htm"
+    },
+    {
       "special": null,
       "timeslot": null,
       "date": "1998-09-04",
@@ -608,69 +671,6 @@
       "date": "1998-11-28",
       "path": "1998/11/28.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981128.htm"
-    },
-    {
-      "special": "Repeat of Stone Gossard from Brad/Pearl Jam & Regan Hagar from Brad guest programming ",
-      "timeslot": null,
-      "date": "1998-08-01",
-      "path": "1998/08/01.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980801.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-08-07",
-      "path": "1998/08/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980807.htm"
-    },
-    {
-      "special": "Natasha Schaade (Triple J's Hottest 100 Of All Time winner) guest programs rage",
-      "timeslot": null,
-      "date": "1998-08-08",
-      "path": "1998/08/08.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980808.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-08-14",
-      "path": "1998/08/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980814.htm"
-    },
-    {
-      "special": "Smashing Pumpkins secret gig followed by Smashing Pumpkins videos",
-      "timeslot": null,
-      "date": "1998-08-15",
-      "path": "1998/08/15.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980815.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-08-21",
-      "path": "1998/08/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980821.htm"
-    },
-    {
-      "special": "Dicky Barrett & Joe G from The Mighty Mighty Bosstones guest program rage",
-      "timeslot": null,
-      "date": "1998-08-22",
-      "path": "1998/08/22.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980822.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-08-28",
-      "path": "1998/08/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980828.htm"
-    },
-    {
-      "special": "U.K Bands & Artists special",
-      "timeslot": null,
-      "date": "1998-08-29",
-      "path": "1998/08/29.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980829.htm"
     },
     {
       "special": null,
@@ -41278,6 +41278,90 @@
       "date": "2026-09-17",
       "path": "2026/09/17_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-17-september-2026-on-abc-entertains/107144658"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-09-18",
+      "path": "2026/09/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-18-september-2026-on-abc-entertains/107170734"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-09-18",
+      "path": "2026/09/18_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-18-september-2026-on-abc-tv/107170708"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2026-09-19",
+      "path": "2026/09/19_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-19-september-2026-on-abc-tv/107170730"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-09-19",
+      "path": "2026/09/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-19-september-2026-on-abc-entertains/107170740"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-09-19",
+      "path": "2026/09/19_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-19-september-2026-on-abc-tv/107170738"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-09-20",
+      "path": "2026/09/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-20-september-2026-on-abc-entertains/107170754"
+    },
+    {
+      "special": "The VAULT: Alternative Nation Festival",
+      "timeslot": "night",
+      "date": "2026-09-20",
+      "path": "2026/09/20_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-20-september-2026-on-abc-tv/107170748"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-09-21",
+      "path": "2026/09/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-21-september-2026-on-abc-entertains/107170764"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-09-21",
+      "path": "2026/09/21_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-21-september-2026-on-abc-tv/107170756"
+    },
+    {
+      "special": "Aussie R&B Special",
+      "timeslot": "night",
+      "date": "2026-09-22",
+      "path": "2026/09/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-22-september-2026-on-abc-entertains/107170770"
+    },
+    {
+      "special": "The VAULT: Alternative Nation Festival",
+      "timeslot": "night",
+      "date": "2026-09-23",
+      "path": "2026/09/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-23-september-2026-on-abc-entertains/107170774"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-09-24",
+      "path": "2026/09/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-24-september-2026-on-abc-entertains/107170780"
     }
   ]
 }
