@@ -491,62 +491,6 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980829.htm"
     },
     {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-04",
-      "path": "1998/09/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980904.htm"
-    },
-    {
-      "special": "Female Bands, Artists & Lead Singers special",
-      "timeslot": null,
-      "date": "1998-09-05",
-      "path": "1998/09/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980905.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-11",
-      "path": "1998/09/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980911.htm"
-    },
-    {
-      "special": "Snout guest program rage followed by a Powderfinger special ",
-      "timeslot": null,
-      "date": "1998-09-12",
-      "path": "1998/09/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980912.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-18",
-      "path": "1998/09/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980918.htm"
-    },
-    {
-      "special": "Janet English & Quan Yeomans from Happyland guest program rage",
-      "timeslot": null,
-      "date": "1998-09-19",
-      "path": "1998/09/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980919.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-25",
-      "path": "1998/09/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980925.htm"
-    },
-    {
-      "special": "Jeff Buckley special followed by Livid Festival special",
-      "timeslot": null,
-      "date": "1998-09-26",
-      "path": "1998/09/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980926.htm"
-    },
-    {
       "special": "Paul McDermott & Mikey Robins guest program rage",
       "timeslot": null,
       "date": "1998-10-03",
@@ -615,6 +559,62 @@
       "date": "1998-10-31",
       "path": "1998/10/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981031.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-04",
+      "path": "1998/09/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980904.htm"
+    },
+    {
+      "special": "Female Bands, Artists & Lead Singers special",
+      "timeslot": null,
+      "date": "1998-09-05",
+      "path": "1998/09/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980905.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-11",
+      "path": "1998/09/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980911.htm"
+    },
+    {
+      "special": "Snout guest program rage followed by a Powderfinger special ",
+      "timeslot": null,
+      "date": "1998-09-12",
+      "path": "1998/09/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980912.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-18",
+      "path": "1998/09/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980918.htm"
+    },
+    {
+      "special": "Janet English & Quan Yeomans from Happyland guest program rage",
+      "timeslot": null,
+      "date": "1998-09-19",
+      "path": "1998/09/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980919.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-25",
+      "path": "1998/09/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980925.htm"
+    },
+    {
+      "special": "Jeff Buckley special followed by Livid Festival special",
+      "timeslot": null,
+      "date": "1998-09-26",
+      "path": "1998/09/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980926.htm"
     },
     {
       "special": null,
@@ -4462,62 +4462,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2004-03-05",
-      "path": "2004/03/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040305.htm"
-    },
-    {
-      "special": "Roisin from Moloko guest programs\nfollowed by a mini Mardi Gras special",
-      "timeslot": null,
-      "date": "2004-03-06",
-      "path": "2004/03/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040306.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-03-12",
-      "path": "2004/03/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040312.htm"
-    },
-    {
-      "special": "Jet guest program followed by a Guns 'N' Roses Special",
-      "timeslot": null,
-      "date": "2004-03-13",
-      "path": "2004/03/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040313.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-03-19",
-      "path": "2004/03/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040319.htm"
-    },
-    {
-      "special": "Wayne Coyne from The Flaming Lips guest programs",
-      "timeslot": null,
-      "date": "2004-03-20",
-      "path": "2004/03/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040320.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2004-03-26",
-      "path": "2004/03/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040326.htm"
-    },
-    {
-      "special": "Gang Starr guest program",
-      "timeslot": null,
-      "date": "2004-03-27",
-      "path": "2004/03/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040327.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2004-02-06",
       "path": "2004/02/06.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040206.htm"
@@ -4570,6 +4514,62 @@
       "date": "2004-02-28",
       "path": "2004/02/28.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040228.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-03-05",
+      "path": "2004/03/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040305.htm"
+    },
+    {
+      "special": "Roisin from Moloko guest programs\nfollowed by a mini Mardi Gras special",
+      "timeslot": null,
+      "date": "2004-03-06",
+      "path": "2004/03/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040306.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-03-12",
+      "path": "2004/03/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040312.htm"
+    },
+    {
+      "special": "Jet guest program followed by a Guns 'N' Roses Special",
+      "timeslot": null,
+      "date": "2004-03-13",
+      "path": "2004/03/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040313.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-03-19",
+      "path": "2004/03/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040319.htm"
+    },
+    {
+      "special": "Wayne Coyne from The Flaming Lips guest programs",
+      "timeslot": null,
+      "date": "2004-03-20",
+      "path": "2004/03/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040320.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2004-03-26",
+      "path": "2004/03/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040326.htm"
+    },
+    {
+      "special": "Gang Starr guest program",
+      "timeslot": null,
+      "date": "2004-03-27",
+      "path": "2004/03/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040327.htm"
     },
     {
       "special": null,
