@@ -491,6 +491,62 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980829.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-04",
+      "path": "1998/09/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980904.htm"
+    },
+    {
+      "special": "Female Bands, Artists & Lead Singers special",
+      "timeslot": null,
+      "date": "1998-09-05",
+      "path": "1998/09/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980905.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-11",
+      "path": "1998/09/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980911.htm"
+    },
+    {
+      "special": "Snout guest program rage followed by a Powderfinger special ",
+      "timeslot": null,
+      "date": "1998-09-12",
+      "path": "1998/09/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980912.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-18",
+      "path": "1998/09/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980918.htm"
+    },
+    {
+      "special": "Janet English & Quan Yeomans from Happyland guest program rage",
+      "timeslot": null,
+      "date": "1998-09-19",
+      "path": "1998/09/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980919.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-25",
+      "path": "1998/09/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980925.htm"
+    },
+    {
+      "special": "Jeff Buckley special followed by Livid Festival special",
+      "timeslot": null,
+      "date": "1998-09-26",
+      "path": "1998/09/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980926.htm"
+    },
+    {
       "special": "Paul McDermott & Mikey Robins guest program rage",
       "timeslot": null,
       "date": "1998-10-03",
@@ -559,62 +615,6 @@
       "date": "1998-10-31",
       "path": "1998/10/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981031.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-04",
-      "path": "1998/09/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980904.htm"
-    },
-    {
-      "special": "Female Bands, Artists & Lead Singers special",
-      "timeslot": null,
-      "date": "1998-09-05",
-      "path": "1998/09/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980905.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-11",
-      "path": "1998/09/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980911.htm"
-    },
-    {
-      "special": "Snout guest program rage followed by a Powderfinger special ",
-      "timeslot": null,
-      "date": "1998-09-12",
-      "path": "1998/09/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980912.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-18",
-      "path": "1998/09/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980918.htm"
-    },
-    {
-      "special": "Janet English & Quan Yeomans from Happyland guest program rage",
-      "timeslot": null,
-      "date": "1998-09-19",
-      "path": "1998/09/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980919.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-25",
-      "path": "1998/09/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980925.htm"
-    },
-    {
-      "special": "Jeff Buckley special followed by Livid Festival special",
-      "timeslot": null,
-      "date": "1998-09-26",
-      "path": "1998/09/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980926.htm"
     },
     {
       "special": null,
@@ -8753,90 +8753,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2009-11-06",
-      "path": "2009/11/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2735142.htm"
-    },
-    {
-      "special": "Ross Wilson guest programs rage",
-      "timeslot": "morning",
-      "date": "2009-11-07",
-      "path": "2009/11/07_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2735148.htm"
-    },
-    {
-      "special": "Ross Wilson guest programs rage",
-      "timeslot": "night",
-      "date": "2009-11-07",
-      "path": "2009/11/07_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2735150.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2009-11-13",
-      "path": "2009/11/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2742094.htm"
-    },
-    {
-      "special": "Mental As Anything guest program",
-      "timeslot": "morning",
-      "date": "2009-11-14",
-      "path": "2009/11/14_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2742098.htm"
-    },
-    {
-      "special": "Mental As Anything guest program",
-      "timeslot": "night",
-      "date": "2009-11-14",
-      "path": "2009/11/14_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2742104.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2009-11-20",
-      "path": "2009/11/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2748634.htm"
-    },
-    {
-      "special": "Spiderbait guest program rage",
-      "timeslot": "morning",
-      "date": "2009-11-21",
-      "path": "2009/11/21_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2748641.htm"
-    },
-    {
-      "special": "Spiderbait guest program rage",
-      "timeslot": "night",
-      "date": "2009-11-21",
-      "path": "2009/11/21_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2748645.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2009-11-27",
-      "path": "2009/11/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2755350.htm"
-    },
-    {
-      "special": "Hilltop Hoods guest program rage",
-      "timeslot": "morning",
-      "date": "2009-11-28",
-      "path": "2009/11/28_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2755355.htm"
-    },
-    {
-      "special": "Hilltop Hoods guest program rage",
-      "timeslot": "night",
-      "date": "2009-11-28",
-      "path": "2009/11/28_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2755358.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2009-12-04",
       "path": "2009/12/04_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2762046.htm"
@@ -8917,6 +8833,90 @@
       "date": "2009-12-26",
       "path": "2009/12/26_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2779515.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2009-11-06",
+      "path": "2009/11/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2735142.htm"
+    },
+    {
+      "special": "Ross Wilson guest programs rage",
+      "timeslot": "morning",
+      "date": "2009-11-07",
+      "path": "2009/11/07_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2735148.htm"
+    },
+    {
+      "special": "Ross Wilson guest programs rage",
+      "timeslot": "night",
+      "date": "2009-11-07",
+      "path": "2009/11/07_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2735150.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2009-11-13",
+      "path": "2009/11/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2742094.htm"
+    },
+    {
+      "special": "Mental As Anything guest program",
+      "timeslot": "morning",
+      "date": "2009-11-14",
+      "path": "2009/11/14_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2742098.htm"
+    },
+    {
+      "special": "Mental As Anything guest program",
+      "timeslot": "night",
+      "date": "2009-11-14",
+      "path": "2009/11/14_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2742104.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2009-11-20",
+      "path": "2009/11/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2748634.htm"
+    },
+    {
+      "special": "Spiderbait guest program rage",
+      "timeslot": "morning",
+      "date": "2009-11-21",
+      "path": "2009/11/21_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2748641.htm"
+    },
+    {
+      "special": "Spiderbait guest program rage",
+      "timeslot": "night",
+      "date": "2009-11-21",
+      "path": "2009/11/21_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2748645.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2009-11-27",
+      "path": "2009/11/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2755350.htm"
+    },
+    {
+      "special": "Hilltop Hoods guest program rage",
+      "timeslot": "morning",
+      "date": "2009-11-28",
+      "path": "2009/11/28_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2755355.htm"
+    },
+    {
+      "special": "Hilltop Hoods guest program rage",
+      "timeslot": "night",
+      "date": "2009-11-28",
+      "path": "2009/11/28_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2755358.htm"
     },
     {
       "special": null,
@@ -41530,6 +41530,90 @@
       "date": "2026-10-08",
       "path": "2026/10/08_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-8-october-2026-on-abc-entertains/107223032"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-10-09",
+      "path": "2026/10/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-9-october-2026-on-abc-entertains/107248584"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-10-09",
+      "path": "2026/10/09_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-9-october-2026-on-abc-tv/107248572"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2026-10-10",
+      "path": "2026/10/10_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-10-october-2026-on-abc-tv/107248588"
+    },
+    {
+      "special": "Feline Frequencies Special",
+      "timeslot": "night",
+      "date": "2026-10-10",
+      "path": "2026/10/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-10-october-2026-on-abc-entertains/107248610"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-10-10",
+      "path": "2026/10/10_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-10-october-2026-on-abc-tv/107248594"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-10-11",
+      "path": "2026/10/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-11-october-2026-on-abc-entertains/107248620"
+    },
+    {
+      "special": "The VAULT: Food & Drink",
+      "timeslot": "night",
+      "date": "2026-10-11",
+      "path": "2026/10/11_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-11-october-2026-on-abc-tv/107248612"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-10-12",
+      "path": "2026/10/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-12-october-2026-on-abc-entertains/107248666"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-10-12",
+      "path": "2026/10/12_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-12-october-2026-on-abc-tv/107248660"
+    },
+    {
+      "special": "Field of Vision II Special",
+      "timeslot": "night",
+      "date": "2026-10-13",
+      "path": "2026/10/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-13-october-2026-on-abc-entertains/107248674"
+    },
+    {
+      "special": "The VAULT: Food & Drink",
+      "timeslot": "night",
+      "date": "2026-10-14",
+      "path": "2026/10/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-14-october-2026-on-abc-entertains/107248680"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-10-15",
+      "path": "2026/10/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-15-october-2026-on-abc-entertains/107248684"
     }
   ]
 }
