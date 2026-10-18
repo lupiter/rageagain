@@ -41614,6 +41614,90 @@
       "date": "2026-10-15",
       "path": "2026/10/15_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-15-october-2026-on-abc-entertains/107248684"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-10-16",
+      "path": "2026/10/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-16-october-2026-on-abc-entertains/107276890"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-10-16",
+      "path": "2026/10/16_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-16-october-2026-on-abc-tv/107276886"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2026-10-17",
+      "path": "2026/10/17_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-17-october-2026-on-abc-tv/107276906"
+    },
+    {
+      "special": "12 degrees of sepe-rage-tion Special",
+      "timeslot": "night",
+      "date": "2026-10-17",
+      "path": "2026/10/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-october-2026-on-abc-entertains/107276924"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-10-17",
+      "path": "2026/10/17_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-october-2026-on-abc-tv/107276920"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-10-18",
+      "path": "2026/10/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-18-october-2026-on-abc-entertains/107276946"
+    },
+    {
+      "special": "The VAULT: Punk, Rock, Metal '99",
+      "timeslot": "night",
+      "date": "2026-10-18",
+      "path": "2026/10/18_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-18-october-2026-on-abc-tv/107276934"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-10-19",
+      "path": "2026/10/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-19-october-2026-on-abc-tv/107276966"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-10-19",
+      "path": "2026/10/19_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-19-october-2026-on-abc-entertains/107276956"
+    },
+    {
+      "special": "Anatomy Special",
+      "timeslot": "night",
+      "date": "2026-10-20",
+      "path": "2026/10/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-20-october-2026-on-abc-entertains/107276972"
+    },
+    {
+      "special": "The VAULT: Punk, Rock, Metal '99",
+      "timeslot": "night",
+      "date": "2026-10-21",
+      "path": "2026/10/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-21-october-2026-on-abc-entertains/107276976"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-10-22",
+      "path": "2026/10/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-22-october-2026-on-abc-entertains/107276978"
     }
   ]
 }
