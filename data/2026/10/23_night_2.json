@@ -1,0 +1,555 @@
+{
+  "title": "Friday night 23 October 2026 on ABC TV",
+  "special": "New Music Show",
+  "timeslot": "night",
+  "date": "2026-10-23",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-23-october-2026-on-abc-tv/107301836",
+  "tracks": [
+    {
+      "artist": "OLIVIA RODRIGO ft. CHAPPELL ROAN",
+      "song": "Expectations",
+      "label": "Interscope Records",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "ZARA LARSSON",
+      "song": "Blue Moon",
+      "label": "Epic",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "TATE MCRAE",
+      "song": "Housewife",
+      "label": "RCA",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "NORMAL BIAS",
+      "song": "Soft Power",
+      "label": "DKA Records",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LIMINAL",
+      "song": "Hyper Normal",
+      "label": "Impressed Recordings",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "HOVEY BENJAMIN",
+      "song": "Data Center",
+      "label": "MegaCom GloboCorp",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "CLIT SPLIT",
+      "song": "Bank Robber",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "300SKULLSANDCOUNTING & JENNY SPARKS",
+      "song": "The Ballad Of St. Nick's Park",
+      "label": "XL Recordings",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "Japan",
+      "label": "XL Recordings",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "APRIL ELWYN",
+      "song": "Tired",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "CURRENT JOYS",
+      "song": "Blood On The Stereo",
+      "label": "They Are Evil",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THEREINCARNATIONOFAMBER ft. CASH HENDRIX",
+      "song": "Fight!.mp3",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "GEORGA RAATH",
+      "song": "Told U Already",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DUMMY",
+      "song": "N Of 1",
+      "label": "Polyvinyl Record Co.",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "JAMES BLUNT",
+      "song": "Circles",
+      "label": "Atlantic",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ASHE",
+      "song": "Lasso The Moon",
+      "label": "Atlantic",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AUDREY HOBERT",
+      "song": "Phoebe",
+      "label": "RCA",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RATSALAD",
+      "song": "We Definitely Do Not Sell Vapes",
+      "label": "PEE Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PARTY DOZEN",
+      "song": "Full Powers",
+      "label": "City Slang",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LULU",
+      "song": "Little Death!",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LORD FASCINATOR & SPIRAL DRIVE",
+      "song": "Raum",
+      "label": "Midnight Rainbow",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AVALANCHES, THE ft. LOADED HONEY",
+      "song": "I Give Everything I Have 2 U",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "Random Violence",
+      "label": "Domino",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ZAFTY",
+      "song": "Glasses",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ONE STEP CLOSER",
+      "song": "Was It Ever Enough?",
+      "label": "Run For Cover / Civilians",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BROOKELEN",
+      "song": "Hide",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DPAT",
+      "song": "Coda",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TROYE SIVAN",
+      "song": "FF",
+      "label": "EMI/Capitol Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GIRL IN RED",
+      "song": "Blue",
+      "label": "Columbia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TWISTED TEENS",
+      "song": "Stalks",
+      "label": "Sub Pop",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GREG FREEMAN",
+      "song": "Loser's Prize",
+      "label": "Transgressive",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THIS IS LORELEI",
+      "song": "The Kid With The Crown",
+      "label": "Matador Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE GNOMES",
+      "song": "Batteries",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KID SISTR",
+      "song": "Accelerator",
+      "label": "Giant Music",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "P.O.D. ft. CORY BRANDAN",
+      "song": "Outbreak",
+      "label": "Mascot Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MAQUINA PELIGROSA",
+      "song": "Intro Venus",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FAT DOG",
+      "song": "Heart Of Darkness",
+      "label": "Domino",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MARC LAIDLAW",
+      "song": "Attack The Sun!",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DIIV",
+      "song": "Trillions",
+      "label": "Fantasy",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Where The Goth Girls At?",
+      "label": "Matador Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEATH FROM ABOVE 1979",
+      "song": "Private Lives",
+      "label": "Last Gang Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLEECH 9:3",
+      "song": "Tourniquet",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "QUADECA",
+      "song": "Life 1 (Where Did The Time Go)",
+      "label": "X8 Music",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BRAKENCE",
+      "song": "Ready Or Not",
+      "label": "Columbia",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SLIDE",
+      "song": "Smoke",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SAMPA THE GREAT ft. SIMON SAYS",
+      "song": "Shutdown The Streets of Lusaka, Zambia",
+      "label": "Loma Vista",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LIL NAS X",
+      "song": "World's Greatest!",
+      "label": "Columbia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BICEP",
+      "song": "Lemonder",
+      "label": "Ninja Tune",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BICEP & CLARK ft. SASKIA",
+      "song": "Viper",
+      "label": "Ninja Tune",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BICEP ft. SOARR",
+      "song": "Air",
+      "label": "Ninja Tune",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IXARAS",
+      "song": "Internet Luv",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JANE REMOVER",
+      "song": "Beauty Sleep",
+      "label": "deadAir",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "2CHARM",
+      "song": "Making Out",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE GROGANS",
+      "song": "Country Mile",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SAP",
+      "song": "Shiver",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GURRIERS",
+      "song": "Waiting For Fisher",
+      "label": "Play It Again Sam",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BOY HARSHER",
+      "song": "Faulty",
+      "label": "Atlantic",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ZOE FOX AND THE ROCKET CLOCKS",
+      "song": "Coming From The Sun",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TELE NOVELLA",
+      "song": "All Wylde Things",
+      "label": "Kill Rock Stars",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "STACEY",
+      "song": "Upside Down Merry Go Around",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CURRENT JOYS",
+      "song": "Chaos",
+      "label": "They Are Evil",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NATHAN WONG",
+      "song": "Over It",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RINRIN",
+      "song": "Fever Dream",
+      "label": "Fearless",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LIZ STRINGER",
+      "song": "Sister",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SOFI PAEZ",
+      "song": "Water",
+      "label": "OPIA Community",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JESSE JO STARK",
+      "song": "Colorado",
+      "label": "Deadly Doll / BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FORREST NOLAN",
+      "song": "Make It To The End",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FREAK SLUG",
+      "song": "Serpent",
+      "label": "Future Classic",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EGOISM",
+      "song": "It Takes Two",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ANDY",
+      "song": "Can't Wait",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TROYE SIVAN",
+      "song": "Party",
+      "label": "EMI/Capitol Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LAIBACH X SENIDAH",
+      "song": "Love Machine",
+      "label": "Mute",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NICK WARD",
+      "song": "Jenny",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BEABADOOBEE",
+      "song": "Write Me A Letter",
+      "label": "Dirty Hit/Interscope Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DELIVERY",
+      "song": "Measuring Cup",
+      "label": "Heavenly Recordings",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KELI HOLIDAY",
+      "song": "Love Was A Stranger",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ZACH STEPHENSON",
+      "song": "Broke My Jaw",
+      "label": "Radius",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SELVE",
+      "song": "Weekends",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MICHAEL KIWANUKA",
+      "song": "Summer Clothes",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MARY ANN ALEXANDER",
+      "song": "Call Me?",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "QUADECA",
+      "song": "The Hero Never Dies",
+      "label": "X8 Music",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CURRENT JOYS",
+      "song": "Knight Of Swords",
+      "label": "They Are Evil",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FUET!",
+      "song": "It's All A Show / Roll With It",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "UNSCORED",
+      "song": "Decapitate The Snake!",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ANNA MEREDITH",
+      "song": "Dusky",
+      "label": "Mercury KX",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CALVA LOUISE",
+      "song": "La Promesa",
+      "label": "Mascot Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "STRIPES, SCARF",
+      "song": "The Gas Station Smells Different At Night",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MY GUARDIAN ANGEL",
+      "song": "Backseat",
+      "label": "Blossom Rot Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CONTACT SPORTS",
+      "song": "Insane",
+      "label": "Queens Road Music / Atlantic",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NESSA BARRETT",
+      "song": "Bad Girls Never Die",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TINASHE",
+      "song": "Pillow Fight",
+      "label": "Nice Life / Atlantic",
+      "timeslot": "05:30:00"
+    }
+  ]
+}
