@@ -3426,6 +3426,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2002-09-06",
+      "path": "2002/09/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020906.htm"
+    },
+    {
+      "special": "Machine Gun Fellatio guest program",
+      "timeslot": null,
+      "date": "2002-09-07",
+      "path": "2002/09/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020907.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-09-13",
+      "path": "2002/09/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020913.htm"
+    },
+    {
+      "special": "Gomez guest program",
+      "timeslot": null,
+      "date": "2002-09-14",
+      "path": "2002/09/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020914.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-09-20",
+      "path": "2002/09/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020920.htm"
+    },
+    {
+      "special": "Punk Special",
+      "timeslot": null,
+      "date": "2002-09-21",
+      "path": "2002/09/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020921.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-09-27",
+      "path": "2002/09/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020927.htm"
+    },
+    {
+      "special": "Kasey Chambers guest programs",
+      "timeslot": null,
+      "date": "2002-09-28",
+      "path": "2002/09/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020928.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2002-10-04",
       "path": "2002/10/04.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021004.htm"
@@ -3548,62 +3604,6 @@
       "date": "2002-11-30",
       "path": "2002/11/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2002/20021130.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-09-06",
-      "path": "2002/09/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020906.htm"
-    },
-    {
-      "special": "Machine Gun Fellatio guest program",
-      "timeslot": null,
-      "date": "2002-09-07",
-      "path": "2002/09/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020907.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-09-13",
-      "path": "2002/09/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020913.htm"
-    },
-    {
-      "special": "Gomez guest program",
-      "timeslot": null,
-      "date": "2002-09-14",
-      "path": "2002/09/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020914.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-09-20",
-      "path": "2002/09/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020920.htm"
-    },
-    {
-      "special": "Punk Special",
-      "timeslot": null,
-      "date": "2002-09-21",
-      "path": "2002/09/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020921.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-09-27",
-      "path": "2002/09/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020927.htm"
-    },
-    {
-      "special": "Kasey Chambers guest programs",
-      "timeslot": null,
-      "date": "2002-09-28",
-      "path": "2002/09/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020928.htm"
     },
     {
       "special": null,
@@ -7092,62 +7092,6 @@
       "url": "http://www.abc.net.au/rage/archive/s2020543.htm"
     },
     {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-10-05",
-      "path": "2007/10/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s2051893.htm"
-    },
-    {
-      "special": "Maximo Park",
-      "timeslot": null,
-      "date": "2007-10-06",
-      "path": "2007/10/06.json",
-      "url": "http://www.abc.net.au/rage/archive/s2051895.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-10-12",
-      "path": "2007/10/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s2057724.htm"
-    },
-    {
-      "special": "Tilly and the Wall",
-      "timeslot": null,
-      "date": "2007-10-13",
-      "path": "2007/10/13.json",
-      "url": "http://www.abc.net.au/rage/archive/s2057738.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-10-19",
-      "path": "2007/10/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s2064193.htm"
-    },
-    {
-      "special": "The Horrors",
-      "timeslot": null,
-      "date": "2007-10-20",
-      "path": "2007/10/20.json",
-      "url": "http://www.abc.net.au/rage/archive/s2064210.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2007-10-26",
-      "path": "2007/10/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s2071316.htm"
-    },
-    {
-      "special": "Architecture In Helsinki",
-      "timeslot": null,
-      "date": "2007-10-27",
-      "path": "2007/10/27.json",
-      "url": "http://www.abc.net.au/rage/archive/s2071190.htm"
-    },
-    {
       "special": "Cold War Kids",
       "timeslot": null,
       "date": "2007-09-01",
@@ -7209,6 +7153,62 @@
       "date": "2007-09-29",
       "path": "2007/09/29.json",
       "url": "http://www.abc.net.au/rage/archive/s2046105.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-10-05",
+      "path": "2007/10/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s2051893.htm"
+    },
+    {
+      "special": "Maximo Park",
+      "timeslot": null,
+      "date": "2007-10-06",
+      "path": "2007/10/06.json",
+      "url": "http://www.abc.net.au/rage/archive/s2051895.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-10-12",
+      "path": "2007/10/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s2057724.htm"
+    },
+    {
+      "special": "Tilly and the Wall",
+      "timeslot": null,
+      "date": "2007-10-13",
+      "path": "2007/10/13.json",
+      "url": "http://www.abc.net.au/rage/archive/s2057738.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-10-19",
+      "path": "2007/10/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s2064193.htm"
+    },
+    {
+      "special": "The Horrors",
+      "timeslot": null,
+      "date": "2007-10-20",
+      "path": "2007/10/20.json",
+      "url": "http://www.abc.net.au/rage/archive/s2064210.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2007-10-26",
+      "path": "2007/10/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s2071316.htm"
+    },
+    {
+      "special": "Architecture In Helsinki",
+      "timeslot": null,
+      "date": "2007-10-27",
+      "path": "2007/10/27.json",
+      "url": "http://www.abc.net.au/rage/archive/s2071190.htm"
     },
     {
       "special": null,
@@ -41782,6 +41782,90 @@
       "date": "2026-10-29",
       "path": "2026/10/29_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-29-october-2026-on-abc-entertains/107301940"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-10-30",
+      "path": "2026/10/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-30-october-2026-on-abc-entertains/107329838"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2026-10-30",
+      "path": "2026/10/30_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-30-october-2026-on-abc-tv/107329830"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2026-10-31",
+      "path": "2026/10/31_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-31-october-2026-on-abc-tv/107329840"
+    },
+    {
+      "special": "Halloween Special",
+      "timeslot": "night",
+      "date": "2026-10-31",
+      "path": "2026/10/31_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-31-october-2026-on-abc-entertains/107329848"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-10-31",
+      "path": "2026/10/31_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-31-october-2026-on-abc-tv/107329844"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-11-01",
+      "path": "2026/11/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-1-november-2026-on-abc-entertains/107329856"
+    },
+    {
+      "special": "The VAULT: Stranger Things",
+      "timeslot": "night",
+      "date": "2026-11-01",
+      "path": "2026/11/01_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-1-november-2026-on-abc-tv/107329850"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-11-02",
+      "path": "2026/11/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-2-november-2026-on-abc-entertains/107329870"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-11-02",
+      "path": "2026/11/02_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-2-november-2026-on-abc-tv/107329860"
+    },
+    {
+      "special": "AusMusic Month Special",
+      "timeslot": "night",
+      "date": "2026-11-03",
+      "path": "2026/11/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-3-november-2026-on-abc-entertains/107329874"
+    },
+    {
+      "special": "The VAULT: Stranger Things",
+      "timeslot": "night",
+      "date": "2026-11-04",
+      "path": "2026/11/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-4-november-2026-on-abc-entertains/107329878"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-11-05",
+      "path": "2026/11/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-5-november-2026-on-abc-entertains/107329884"
     }
   ]
 }
