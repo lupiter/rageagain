@@ -42034,6 +42034,90 @@
       "date": "2026-11-19",
       "path": "2026/11/19_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-19-november-2026-on-abc-entertains/107383850"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-11-20",
+      "path": "2026/11/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-20-november-2026-on-abc-entertains/107402420"
+    },
+    {
+      "special": "Ray Tintori Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2026-11-20",
+      "path": "2026/11/20_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-20-november-2026-on-abc-tv/107402400"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2026-11-21",
+      "path": "2026/11/21_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-21-november-2026-on-abc-tv/107402422"
+    },
+    {
+      "special": "Foo Fighters Support Special",
+      "timeslot": "night",
+      "date": "2026-11-21",
+      "path": "2026/11/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-21-november-2026-on-abc-entertains/107402404"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-11-21",
+      "path": "2026/11/21_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-21-november-2026-on-abc-tv/107402424"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-11-22",
+      "path": "2026/11/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-22-november-2026-on-abc-entertains/107402408"
+    },
+    {
+      "special": "The VAULT: Indie '06",
+      "timeslot": "night",
+      "date": "2026-11-22",
+      "path": "2026/11/22_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-22-november-2026-on-abc-tv/107402406"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2026-11-23",
+      "path": "2026/11/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-23-november-2026-on-abc-entertains/107402412"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2026-11-23",
+      "path": "2026/11/23_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-23-november-2026-on-abc-tv/107402410"
+    },
+    {
+      "special": "Ausmusic Month Special",
+      "timeslot": "night",
+      "date": "2026-11-24",
+      "path": "2026/11/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-24-november-2026-on-abc-entertains/107402414"
+    },
+    {
+      "special": "The VAULT: Indie '06",
+      "timeslot": "night",
+      "date": "2026-11-25",
+      "path": "2026/11/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-25-november-2026-on-abc-entertains/107402416"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2026-11-26",
+      "path": "2026/11/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-26-november-2026-on-abc-entertains/107402418"
     }
   ]
 }

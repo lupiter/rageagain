@@ -1,0 +1,99 @@
+{
+  "title": "Saturday night 21 November 2026 on ABC Entertains",
+  "special": "Foo Fighters Support Special",
+  "timeslot": "night",
+  "date": "2026-11-21",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-21-november-2026-on-abc-entertains/107402404",
+  "tracks": [
+    {
+      "artist": "FRENZEE",
+      "song": "KEEP COMIN' MY WAY",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "C.O.F.F.I.N",
+      "song": "Give Me A Bite",
+      "label": "Damaged Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LAST QUOKKA",
+      "song": "Save Our Pubs",
+      "label": "Valve",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BELAIR LIP BOMBS",
+      "song": "Say My Name",
+      "label": "Cousin Will Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FULL FLOWER MOON BAND",
+      "song": "Street Love",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BUOYS",
+      "song": "Welcome To My Brain",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DOWNGIRL",
+      "song": "Boys",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MINI SKIRT",
+      "song": "Animals",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KURRALTA PARK",
+      "song": "Host",
+      "label": "Daybed Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE SOUTHERN RIVER BAND",
+      "song": "The Streets Don't Lie",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SPOOKY EYES",
+      "song": "Psychotic Reaction",
+      "label": "Fuzz Club Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LAST QUOKKA",
+      "song": "Gina/Rupert",
+      "label": "Stock Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MINI SKIRT",
+      "song": "(Untitled)",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DOWNGIRL",
+      "song": "Manic",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE BELAIR LIP BOMBS",
+      "song": "Hey You",
+      "label": "Third Man Records",
+      "timeslot": "01:30:00"
+    }
+  ]
+}
